@@ -84,7 +84,7 @@ author:
   bio              : "Master, Tsinghua University"
   location         : "Shenzhen, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com.sg/citations?user=mSW7kU8AAAAJ&hl=zh-CN"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -100,7 +100,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/yiming-li-300926104"
   orcid            : 
   pinterest        :
   soundcloud       :
