@@ -16,6 +16,11 @@ I am a master candidate in Tsinghua-Berkeley Shenzhen Institute at Tsinghua Univ
 
 Education
 ======
+* Tsinghua University, Aug. 2018 - Present
+Master Student in Data Science and Information Technology, Tsinghua-Berkeley Shenzhen Institute
+* Ningbo University, Aug. 2014 - May. 2018
+B.S. in Mathematics and Applied Mathematics, Yangming College (The honorary college of Ningbo University)
+
 
 Experience
 ======
