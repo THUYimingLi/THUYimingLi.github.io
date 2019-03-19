@@ -31,7 +31,7 @@ Education
 Experience
 ======
 
-* Quantitative Analyst Intern at Wukong Investment Management Company, June. - Sept. 2018
+* Quant. Analyst Intern at Wukong Investment Management Company, June. - Sept. 2018
   * Supervisor: Dr. Xinji Liu, Deputy Manager of Quantitative Investment Department
 
 * Data Mining Engineer Intern at Yuyue Network Technology Company, Mar. - June. 2017
