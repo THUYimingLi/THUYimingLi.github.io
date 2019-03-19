@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yiming Li (George Lee)"
+title: " "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
