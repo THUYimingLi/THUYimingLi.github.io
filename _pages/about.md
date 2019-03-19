@@ -12,7 +12,7 @@ redirect_from:
 
 About Me
 ======
-I am a master candidate in Tsinghua-Berkeley Shenzhen Institute at Tsinghua University. My research interests are broadly in machine learning, such as the interpretability and robustness of algorithms, meta learning and the machine learning methods in high-frequency trading.
+I am a master candidate in Tsinghua-Berkeley Shenzhen Institute at Tsinghua University. My research interests are broadly in machine learning, such as the interpretability and robustness of algorithms, meta learning and the application of machine learning methods in high-frequency trading.
 
 Education
 ======
