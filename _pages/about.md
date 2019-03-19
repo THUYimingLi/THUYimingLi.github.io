@@ -16,14 +16,17 @@ I am a master candidate in Tsinghua-Berkeley Shenzhen Institute at Tsinghua Univ
 
 Education
 ======
-* Tsinghua University, Aug. 2018 - Present
+* Tsinghua University, August. 2018 - Present
 
 &emsp;&emsp;Master Student in Data Science, Tsinghua-Berkeley Shenzhen Institute
 
-* Ningbo University, Aug. 2014 - May. 2018
+* Ningbo University, August. 2014 - May. 2018
 
 &emsp;&emsp;B.S. in Mathematics and Applied Mathematics, Honorary College
 
+* University of Wisconsin, January. 2017 − May. 2017
+
+&emsp;&emsp;Exchange Student
 
 Experience
 ======
