@@ -25,7 +25,7 @@ comments:
   disqus:
     shortname            :
   discourse:
-    server               : # https://liyiming.tech , e.g.: meta.discourse.org
+    server               : https://liyiming.tech
   facebook:
     appid                :
     num_posts            : # 5 (default)
@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "md5"
+    email                : "liyimingningbo@163.com"
   generatedFields:
     date:
       type               : "date"
