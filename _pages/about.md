@@ -18,11 +18,11 @@ Education
 ======
 * Tsinghua University, Aug. 2018 - Present
 
-Master Student in Data Science and Information Technology, Tsinghua-Berkeley Shenzhen Institute
+&emsp;&emsp;Master Student in Data Science, Tsinghua-Berkeley Shenzhen Institute
 
 * Ningbo University, Aug. 2014 - May. 2018
 
-B.S. in Mathematics and Applied Mathematics, Yangming College (The honorary college of Ningbo University)
+&emsp;&emsp;B.S. in Mathematics and Applied Mathematics, Honorary College
 
 
 Experience
