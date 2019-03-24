@@ -18,7 +18,7 @@ Education
 ======
 * Tsinghua University, Aug. 2018 - Present
   * Master Student in Data Science, Tsinghua-Berkeley Shenzhen Institute
-  * Supervisor: Prof. *Shu-tao Xia* and Prof. *Yong Jiang*
+  * Supervisor: Prof. Shu-tao Xia and Prof. Yong Jiang
 
 * Ningbo University, Aug. 2014 - May. 2018
 
@@ -32,6 +32,6 @@ Experience
 ======
 
 * Quant. Analyst Intern at Wukong Investment Management Company, June. - Sept. 2018
-  * Supervisor: Dr. *Xinji Liu*, Deputy Manager of Quantitative Investment Department
+  * Supervisor: Dr. Xinji Liu, Deputy Manager of Quantitative Investment Department
 
 * Data Mining Engineer Intern at Yuyue Network Technology Company, Mar. - June. 2017
