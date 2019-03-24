@@ -6,7 +6,8 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 date: 2019-03-14
 paperurl: 'https://arxiv.org/abs/1903.05965'
 ---
+
 Jiawang Bai<sup>*</sup>, **Yiming Li**<sup>*</sup>, Jiawei Li, Yong Jiang, Shutao Xia
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://arxiv.org/abs/1903.05965)
 
