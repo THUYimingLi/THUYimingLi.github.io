@@ -46,7 +46,9 @@ I am a Ph.D. candidate in Tsinghua-Berkeley Shenzhen Institute at Tsinghua Unive
 * Peidong Liu\*, **Yiming Li**\*, Yong Jiang, Shutao Xia. Visual Privacy Protection via Mapping Distortion. 2019. [[arXiv]](https://arxiv.org/abs/1911.01769)
 
 ## Other Topics
-* Jiawei Li, Yiming Li, Jiacheng Yang, Taian Guo, Shutao Xia. UA-DRN: Unbiased Aggregation of Deep Neural Networks for Regression Ensemble. *ICONIP*. 2019. [[Link]](http://ajiips.com.au/papers/V15.2/v15n2_90-97.pdf)
+* Jiawei Li, **Yiming Li**, Jiacheng Yang, Taian Guo, Shutao Xia. UA-DRN: Unbiased Aggregation of Deep Neural Networks for Regression Ensemble. *ICONIP*. 2019. [[Link]](http://ajiips.com.au/papers/V15.2/v15n2_90-97.pdf)
+
+* **Yiming Li**, Yinghua Gao, Yong Jiang. Comments on “A Novel Consistent Random Forest Framework: Bernoulli Random Forests”. 2019.
 
 * **Yiming Li**\*, Jiawang Bai\*, Jiawei Li, Yong Jiang, Shutao Xia. Rectified Decision Trees: Exploring the Landscape of Interpretable and Effective Machine Learning. 2019.
 
