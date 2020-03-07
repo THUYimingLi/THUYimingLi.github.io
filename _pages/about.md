@@ -24,6 +24,23 @@ Education
 * Exchange Student, University of Wisconsin, Jan. 2017 − May. 2017
 
 
+Research
+======
+\* indicates equal contribution 
+
+## Adversarial Learning 
+* Jiawang Bai\*, Bin Chen\*, **Yiming Li**\*, Dongxian Wu, Weiwei Guo, Shutao Xia, Enhui Yang. Targeted Attack for Deep Hashing based Retrieval. 2020. 
+
+* **Yiming Li**, Baoyuan Wu, Yan Feng, Yanbo Fan, Yong Jiang, Zhifeng Li, Shutao Xia. Toward Adversarial Robustness via Semi-supervised Robust Training. 2019. [[Code]](https://github.com/THUYimingLi/Semi-supervised_Robust_Training)
+
+* Jia Xu\*, **Yiming Li**\*, Yong Jiang, Shu-Tao Xia. Adversarial Defense via Local Flatness Regularization. 2019. [[arXiv]](https://arxiv.org/abs/1910.12165)
+
+## Backdoor Learning
+* **Yiming Li**\*, Tongqing Zhai\*, Baoyuan Wu, Yong Jiang, Zhifeng Li, Shutao Xia. Rethinking the Trigger of Backdoor Attack. 2020.
+
+
+
+
 Work Experience
 ======
 
@@ -33,5 +50,3 @@ Work Experience
 * Intern at OPPO, May 2019 - Jun 2019
   * Mentor: Dr. Haidong Huang
 
-* Quant. Analyst Intern at Wukong Investment Management Company, June 2018 - Sept 2018
-  * Supervisor: Dr. Xinji Liu, Deputy Manager of Quantitative Investment Department
