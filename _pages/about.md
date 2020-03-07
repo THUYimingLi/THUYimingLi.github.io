@@ -24,20 +24,20 @@ I am a Ph.D. candidate in Tsinghua-Berkeley Shenzhen Institute at Tsinghua Unive
 
 # Research
 \* indicates equal contribution 
-## Adversarial Learning 
+## Adversarial Learning and Robust Machine Learning
 * Jiawang Bai\*, Bin Chen\*, **Yiming Li**\*, Dongxian Wu, Weiwei Guo, Shutao Xia, Enhui Yang. Targeted Attack for Deep Hashing based Retrieval. 2020. 
 
 * **Yiming Li**, Baoyuan Wu, Yan Feng, Yanbo Fan, Yong Jiang, Zhifeng Li, Shutao Xia. Toward Adversarial Robustness via Semi-supervised Robust Training. 2019. [[arXiv]](xxx)[[Code]](https://github.com/THUYimingLi/Semi-supervised_Robust_Training)
 
 * Jia Xu\*, **Yiming Li**\*, Yong Jiang, Shutao Xia. Adversarial Defense via Local Flatness Regularization. 2019. [[arXiv]](https://arxiv.org/abs/1910.12165)
 
-## Backdoor Learning
-* **Yiming Li**\*, Tongqing Zhai\*, Baoyuan Wu, Yong Jiang, Zhifeng Li, Shutao Xia. Rethinking the Trigger of Backdoor Attack. 2020.
-
-## Robust Machine Learning
 * Yang Zhang\*, Qingtao Tang\*, **Yiming Li**\*, Weipeng Huang, Shutao Xia. *t*-*k*-means: A *k*-means Variant with Robustness and Stability. 2019. [[arXiv]](https://arxiv.org/abs/1907.07442)
 
 * **Yiming Li**, Jiawei Li, Tao Dai, Li Niu, Yong Jiang, Shutao Xia. Self-Paced Deep Forest. 2018. 
+
+
+## Backdoor Learning
+* **Yiming Li**\*, Tongqing Zhai\*, Baoyuan Wu, Yong Jiang, Zhifeng Li, Shutao Xia. Rethinking the Trigger of Backdoor Attack. 2020.
 
 
 ## Data Privacy
