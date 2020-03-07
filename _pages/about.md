@@ -24,8 +24,7 @@ Education
 * Exchange Student, University of Wisconsin, Jan. 2017 − May. 2017
 
 
-Research
-======
+# Research
 \* indicates equal contribution 
 
 ## Adversarial Learning 
@@ -41,8 +40,7 @@ Research
 
 
 
-Work Experience
-======
+# Work Experience
 
 * Intern at Tencent AI Lab, Jul 2019 - Present
   * Mentor: Dr. [Baoyuan Wu](https://sites.google.com/site/baoyuanwu2015/), Principle Research Scientist
