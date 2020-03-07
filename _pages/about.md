@@ -12,26 +12,26 @@ redirect_from:
 
 About Me
 ======
-I am a Master student in Tsinghua-Berkeley Shenzhen Institute at Tsinghua University, China. My research interests are broadly in machine learning, such as the interpretability and robustness of algorithms, meta learning and the application of machine learning methods in high-frequency trading.
+I am a Ph.D. candidate in Tsinghua-Berkeley Shenzhen Institute at Tsinghua University, China. My research interests are broadly in the security of machine learning, including adversarial learning, backdoor learning, and data privacy.
 
 Education
 ======
-* Tsinghua University, Aug. 2018 - Present
-  * Master Student in Data Science, Tsinghua-Berkeley Shenzhen Institute
-  * Supervisor: Prof. Shu-tao Xia and Prof. Yong Jiang
+* Ph.D. in Computer Science, Tsinghua University, Aug. 2018 - Present
+  * Supervisor: Prof. [Shutao Xia](https://www.sigs.tsinghua.edu.cn/zg3/105039.jhtml) and Prof. [Yong Jiang](https://www.sigs.tsinghua.edu.cn/zg3/518.jhtml)
 
-* Ningbo University, Aug. 2014 - May. 2018
+* B.S. in Mathematics and Applied Mathematics, Ningbo University, Aug. 2014 - May. 2018
 
-  * B.S. in Mathematics and Applied Mathematics, Honorary College
+* Exchange Student, University of Wisconsin, Jan. 2017 − May. 2017
 
-* University of Wisconsin, Jan. 2017 − May. 2017
 
-  * Exchange Student
-
-Experience
+Work Experience
 ======
 
-* Quant. Analyst Intern at Wukong Investment Management Company, June. - Sept. 2018
-  * Supervisor: Dr. Xinji Liu, Deputy Manager of Quantitative Investment Department
+* Intern at Tencent AI Lab, Jul 2019 - Present
+  * Mentor: Dr. [Baoyuan Wu](https://sites.google.com/site/baoyuanwu2015/), Principle Research Scientist
 
-* Data Mining Engineer Intern at Yuyue Network Technology Company, Mar. - June. 2017
+* Intern at OPPO, May 2019 - Jun 2019
+  * Mentor: Dr. Haidong Huang
+
+* Quant. Analyst Intern at Wukong Investment Management Company, June 2018 - Sept 2018
+  * Supervisor: Dr. Xinji Liu, Deputy Manager of Quantitative Investment Department
