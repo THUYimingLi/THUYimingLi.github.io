@@ -10,12 +10,10 @@ redirect_from:
 
 
 
-About Me
-======
+# About Me
 I am a Ph.D. candidate in Tsinghua-Berkeley Shenzhen Institute at Tsinghua University, China. My research interests are broadly in the security of machine learning, including adversarial learning, backdoor learning, and data privacy.
 
-Education
-======
+# Education
 * Ph.D. in Computer Science, Tsinghua University, Aug. 2018 - Present
   * Supervisor: Prof. [Shutao Xia](https://www.sigs.tsinghua.edu.cn/zg3/105039.jhtml) and Prof. [Yong Jiang](https://www.sigs.tsinghua.edu.cn/zg3/518.jhtml)
 
@@ -26,22 +24,35 @@ Education
 
 # Research
 \* indicates equal contribution 
-
 ## Adversarial Learning 
 * Jiawang Bai\*, Bin Chen\*, **Yiming Li**\*, Dongxian Wu, Weiwei Guo, Shutao Xia, Enhui Yang. Targeted Attack for Deep Hashing based Retrieval. 2020. 
 
 * **Yiming Li**, Baoyuan Wu, Yan Feng, Yanbo Fan, Yong Jiang, Zhifeng Li, Shutao Xia. Toward Adversarial Robustness via Semi-supervised Robust Training. 2019. [[Code]](https://github.com/THUYimingLi/Semi-supervised_Robust_Training)
 
-* Jia Xu\*, **Yiming Li**\*, Yong Jiang, Shu-Tao Xia. Adversarial Defense via Local Flatness Regularization. 2019. [[arXiv]](https://arxiv.org/abs/1910.12165)
+* Jia Xu\*, **Yiming Li**\*, Yong Jiang, Shutao Xia. Adversarial Defense via Local Flatness Regularization. 2019. [[arXiv]](https://arxiv.org/abs/1910.12165)
 
 ## Backdoor Learning
 * **Yiming Li**\*, Tongqing Zhai\*, Baoyuan Wu, Yong Jiang, Zhifeng Li, Shutao Xia. Rethinking the Trigger of Backdoor Attack. 2020.
 
+## Robust Machine Learning
+* Yang Zhang\*, Qingtao Tang\*, **Yiming Li**\*, Weipeng Huang, Shutao Xia. *t*-*k*-means: A *k*-means Variant with Robustness and Stability. 2019. [[arXiv]](https://arxiv.org/abs/1907.07442)
+
+* **Yiming Li**, Jiawei Li, Tao Dai, Li Niu, Yong Jiang, Shutao Xia. Self-Paced Deep Forest. 2018. 
 
 
+## Data Privacy
+* **Yiming Li**\*, Jiawang Bai\*, Jiawei Li, Chun Li, Yong Jiang, Xue Yang, Shutao Xia. Multinomial Random Forest: Toward Consistency and Privacy-Preservation. 2020. [[arXiv]](https://arxiv.org/abs/1903.04003)
+
+* Peidong Liu\*, **Yiming Li**\*, Yong Jiang, Shutao Xia. Visual Privacy Protection via Mapping Distortion. 2019. [[arXiv]](https://arxiv.org/abs/1911.01769)
+
+## Other Topics
+* Jiawei Li, Yiming Li, Jiacheng Yang, Taian Guo, Shutao Xia. UA-DRN: Unbiased Aggregation of Deep Neural Networks for Regression Ensemble. *ICONIP*. 2019. [[Link]](http://ajiips.com.au/papers/V15.2/v15n2_90-97.pdf)
+
+* **Yiming Li**\*, Jiawang Bai\*, Jiawei Li, Yong Jiang, Shutao Xia. Rectified Decision Trees: Exploring the Landscape of Interpretable and Effective Machine Learning. 2019.
+
+* **Yiming Li**, Lifeng Xi. Manhattan property of geodesic paths on self-affine carpets. *Archiv der Mathematik*. 2018. [[Link]](https://link.springer.com/article/10.1007/s00013-018-1199-4)
 
 # Work Experience
-
 * Intern at Tencent AI Lab, Jul 2019 - Present
   * Mentor: Dr. [Baoyuan Wu](https://sites.google.com/site/baoyuanwu2015/), Principle Research Scientist
 
