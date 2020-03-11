@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yiming Li/Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Yiming Li"
 description              : &description "Personal Website"
