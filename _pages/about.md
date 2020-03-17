@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: " "
+title: "Yiming Li"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,8 +9,6 @@ redirect_from:
 ---
 
 
-
-## About Me
 I am a Ph.D. candidate in Tsinghua-Berkeley Shenzhen Institute at Tsinghua University, China. My research interests are broadly in the security of machine learning, including adversarial learning, backdoor learning, and data privacy.
 
 ## Education
