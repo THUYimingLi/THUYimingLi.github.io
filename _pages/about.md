@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a second year Ph.D. candidate at Tsinghua University, China. My research interests are broadly in the security of machine learning, including adversarial learning, backdoor learning, and data privacy.
+I am a second year Ph.D. candidate at Tsinghua University, China. My research interests are broadly in the security of machine learning, including adversarial learning, robust machine learning, backdoor learning, and data privacy.
 
 ## Education
 * Ph.D. in Computer Science, Tsinghua University, Aug. 2018 - Present
