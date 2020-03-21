@@ -31,7 +31,7 @@ I am a second year Ph.D. candidate at Tsinghua University, China. My research in
 
 * Yang Zhang\*, Qingtao Tang\*, **Yiming Li**\*, Weipeng Huang, Shutao Xia. *t*-*k*-means: A *k*-means Variant with Robustness and Stability. 2019. [[arXiv]](https://arxiv.org/abs/1907.07442)
 
-* **Yiming Li**, Jiawei Li, Tao Dai, Li Niu, Yong Jiang, Shutao Xia. Self-Paced Deep Forest. 2018. 
+* **Yiming Li**, Yong Jiang, Shutao Xia. Self-Paced Deep Forest. 2018. (Undergraduate Thesis)
 
 
 ### Backdoor Learning
