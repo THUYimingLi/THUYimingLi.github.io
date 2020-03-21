@@ -59,5 +59,5 @@ I am a second year Ph.D. candidate at Tsinghua University, China. My research in
   * Mentor: Dr. [Baoyuan Wu](https://sites.google.com/site/baoyuanwu2015/), Principle Research Scientist
 
 * Intern at OPPO, May 2019 - Jun 2019
-  * Mentor: Dr. Haidong Huang
+  * Mentor: Dr. Haidong Huang, Senior Algorithm Engineer
 
