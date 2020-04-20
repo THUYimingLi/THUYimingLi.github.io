@@ -23,7 +23,7 @@ I am a second year Ph.D. candidate at Tsinghua University, China. My research in
 ## Research
 \* indicates equal contribution 
 ### Adversarial Learning and Robust Machine Learning
-* Jiawang Bai\*, Bin Chen\*, **Yiming Li**\*, Dongxian Wu, Weiwei Guo, Shutao Xia, Enhui Yang. Targeted Attack for Deep Hashing based Retrieval. 2020. 
+* Jiawang Bai\*, Bin Chen\*, **Yiming Li**\*, Dongxian Wu, Weiwei Guo, Shutao Xia, Enhui Yang. Targeted Attack for Deep Hashing based Retrieval. 2020. [[arXiv]](https://arxiv.org/abs/2004.07955)
 
 * **Yiming Li**, Baoyuan Wu, Yan Feng, Yanbo Fan, Yong Jiang, Zhifeng Li, Shutao Xia. Toward Adversarial Robustness via Semi-supervised Robust Training. 2019. [[arXiv]](https://arxiv.org/abs/2003.06974)[[Code]](https://github.com/THUYimingLi/Semi-supervised_Robust_Training)
 
