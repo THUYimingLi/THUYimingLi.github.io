@@ -55,9 +55,11 @@ I am a second year Ph.D. candidate at Tsinghua University, China. My research in
 * **Yiming Li**, Lifeng Xi. Manhattan property of geodesic paths on self-affine carpets. *Archiv der Mathematik*. 2018. [[Link]](https://link.springer.com/article/10.1007/s00013-018-1199-4)
 
 ## Work Experience
-* Intern at Tencent AI Lab, Jul 2019 - Present
+* Research Intern, Tencent AI Lab, Jul 2019 - Present
   * Mentor: Dr. [Baoyuan Wu](https://sites.google.com/site/baoyuanwu2015/), Principle Research Scientist
 
-* Intern at OPPO, May 2019 - Jun 2019
+* Intern, Department of Vision Technology, OPPO, May 2019 - Jun 2019
   * Mentor: Dr. Haidong Huang, Senior Algorithm Engineer
 
+* Intern, Department of Quantitative Investment, Wukong Investment Management Company, July 2018 - Sept 2018
+  * Mentor: Dr. Xinji Liu, Deputy Manager of Quantitative Investment Department
