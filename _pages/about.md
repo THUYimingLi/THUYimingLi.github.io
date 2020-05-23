@@ -14,7 +14,7 @@ I received the B.S. degree in Mathematics and Applied Mathematics from Ningbo Un
 * Ph.D. in Computer Science, Tsinghua University, Aug. 2018 - Present
   * Supervisor: Prof. [Shutao Xia](https://www.sigs.tsinghua.edu.cn/zg3/105039.jhtml) and Prof. [Yong Jiang](https://www.sigs.tsinghua.edu.cn/zg3/518.jhtml)
 
-* B.S. in Mathematics and Applied Mathematics, Ningbo University, Aug. 2014 - May. 2018
+* B.S. in Mathematics and Applied Mathematics, Yangming Innovation Class, Ningbo University, Aug. 2014 - May. 2018
 
 * Exchange Student, University of Wisconsin, Jan. 2017 − May. 2017
 
