@@ -62,3 +62,7 @@ I received the B.S. degree in Mathematics and Applied Mathematics from Ningbo Un
 
 * Intern, Department of Quantitative Investment, Wukong Investment Management Company, July 2018 - Sept 2018
   * Mentor: Dr. Xinji Liu, Deputy Manager of Quantitative Investment Department
+
+## Services
+* Reviewer, International Conference on Neural Information Processing (ICONIP), 2019
+* Executive Chairman Committee Member, TBSI Workshop on Data Science, 2019
