@@ -65,4 +65,5 @@ I received the B.S. degree in Mathematics and Applied Mathematics from Ningbo Un
 
 ## Services
 * Reviewer, International Conference on Neural Information Processing (ICONIP), 2019
+* Program Committee, International Conference on Neural Information Processing (ICONIP), 2020
 * Executive Chairman Committee Member, TBSI Workshop on Data Science, 2019
