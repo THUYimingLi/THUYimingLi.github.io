@@ -64,6 +64,6 @@ I received the B.S. degree in Mathematics and Applied Mathematics from Ningbo Un
   * Mentor: Dr. Xinji Liu, Deputy Manager of Quantitative Investment Department
 
 ## Services
-* Reviewer, International Conference on Neural Information Processing (ICONIP), 2019
-* Program Committee, International Conference on Neural Information Processing (ICONIP), 2020
-* Executive Chairman Committee Member, TBSI Workshop on Data Science, 2019
+* **Reviewer**, International Conference on Neural Information Processing (ICONIP), 2019
+* **Program Committee**, International Conference on Neural Information Processing (ICONIP), 2020
+* **Executive Chairman Committee Member**, TBSI Workshop on Data Science, 2019
