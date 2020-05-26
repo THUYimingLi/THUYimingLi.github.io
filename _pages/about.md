@@ -70,6 +70,7 @@ I received the B.S. degree in Mathematics and Applied Mathematics from Ningbo Un
 
 ## Honors
 * Best Student Research Award of TBSI workshop on data science
+* Rhino-bird Elite Training Program of Tencent AI Lab
 * First Prize of Chinese Mathematics Competition, First Prize of Zhejiang Mathematics Competition
 * First Prize of China Undergraduate Mathematical Contest in Modeling
 * National Scholarship
