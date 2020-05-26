@@ -63,16 +63,18 @@ I received the B.S. degree in Mathematics and Applied Mathematics from Ningbo Un
 * Intern, Department of Quantitative Investment, Wukong Investment Management Company, July 2018 - Sept 2018
   * Mentor: Dr. Xinji Liu, Deputy Manager of Quantitative Investment Department
 
-## Services
-* **Reviewer**, International Conference on Neural Information Processing (ICONIP), 2019
-* **Program Committee**, International Conference on Neural Information Processing (ICONIP), 2020
-* **Executive Chairman Committee Member**, TBSI Workshop on Data Science, 2019
-
 ## Honors
-* Best Student Research Award of TBSI workshop on data science
+* Best Student Research Award of TBSI Workshop on Data Science
 * Rhino-bird Elite Training Program of Tencent AI Lab
 * First Prize of Chinese Mathematics Competition, First Prize of Zhejiang Mathematics Competition
 * First Prize of China Undergraduate Mathematical Contest in Modeling
 * National Scholarship
 * TBSI Second-class Scholarship
 * Outstanding Graduate of Zhejiang Province (Undergraduate)
+
+## Services
+* **Reviewer**, International Conference on Neural Information Processing (ICONIP), 2019
+* **Program Committee**, International Conference on Neural Information Processing (ICONIP), 2020
+* **Executive Chairman Committee Member**, TBSI Workshop on Data Science, 2019
+
+
