@@ -78,8 +78,8 @@ I am currently a second year Ph.D. candidate at Tsinghua University, China. I re
 * Outstanding Graduate of Zhejiang Province (Undergraduate)
 
 ## Services
-* **Reviewer**, International Conference on Neural Information Processing (ICONIP), 2019
 * **Program Committee**, International Conference on Neural Information Processing (ICONIP), 2020
+* **Reviewer**, International Conference on Neural Information Processing (ICONIP), 2019
 * **Executive Chairman Committee Member**, TBSI Workshop on Data Science, 2019
 
 
