@@ -79,6 +79,7 @@ I am currently a second year Ph.D. candidate at Tsinghua University, China. I re
 
 ## Services
 * **Reviewer**, IEEE Transactions on Industrial Informatics (TII)
+* **Reviewer**, Thirty-fourth Conference on Neural Information Processing Systems (NeurIPS 2020)
 * **Program Committee** (2020), **Reviewer** (2019) of International Conference on Neural Information Processing (ICONIP)
 * **Executive Chairman Committee Member** (2019), TBSI Workshop on Data Science
 
