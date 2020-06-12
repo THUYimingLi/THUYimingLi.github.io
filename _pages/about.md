@@ -50,7 +50,7 @@ I am currently a second year Ph.D. candidate at Tsinghua University, China. I re
 
 * Yinghua Gao\*, Naiqi Li\*, Ning Ding, **Yiming Li**, Tao Dai, Shutao Xia. Generalized Local Aggregation for Large Scale Gaussian Process Regression. *IJCNN*, 2020. 
 
-* Jiawei Li, **Yiming Li**, Jiacheng Yang, Taian Guo, Shutao Xia. UA-DRN: Unbiased Aggregation of Deep Neural Networks for Regression Ensemble. *ICONIP*. 2019. [[Link]](http://ajiips.com.au/papers/V15.2/v15n2_90-97.pdf)
+* Jiawei Li, **Yiming Li**, Jiacheng Yang, Taian Guo, Shutao Xia. UA-DRN: Unbiased Aggregation of Deep Neural Networks for Regression Ensemble. *ICONIP*, 2019. [[Link]](http://ajiips.com.au/papers/V15.2/v15n2_90-97.pdf)
 
 * **Yiming Li**, Yinghua Gao, Yong Jiang. Comments on “A Novel Consistent Random Forest Framework: Bernoulli Random Forests”. 2019.
 
