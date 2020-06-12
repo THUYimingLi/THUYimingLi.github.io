@@ -69,6 +69,7 @@ I am currently a second year Ph.D. candidate at Tsinghua University, China. I re
   * Mentor: Dr. Xinji Liu, Deputy Manager of Quantitative Investment Department
 
 ## Honors
+* Tsinghua 'Future Scholar' Scholarship
 * Best Student Research Award of TBSI Workshop on Data Science
 * Rhino-bird Elite Training Program of Tencent AI Lab
 * First Prize of Chinese Mathematics Competition, First Prize of Zhejiang Mathematics Competition
