@@ -46,7 +46,7 @@ I am currently a second year Ph.D. candidate at Tsinghua University, China. I re
 ### Other Topics
 * Jiawei Li, Xingchun Xiang, **Yiming Li**, Huaixuan Zhang, Shutao Xia. TNT: An interpretable Tree-Network-Tree Learning Framework using Knowledge Distillation. 2020. 
 
-* Jiawei Li, Zhilong Zheng, **Yiming Li**, Rubao Ma, Shutao Xia. Deep Learning for Edge Intelligence Video Surveillance System. 2020.
+* Jiawei Li, Zhilong Zheng, **Yiming Li**, Rubao Ma, Shutao Xia. Deep Learning for Edge Intelligence Video Surveillance System. *INDIN*, 2020.
 
 * Yinghua Gao\*, Naiqi Li\*, Ning Ding, **Yiming Li**, Tao Dai, Shutao Xia. Generalized Local Aggregation for Large Scale Gaussian Process Regression. *IJCNN*. 2020. 
 
