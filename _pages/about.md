@@ -27,7 +27,7 @@ I am currently a second year Ph.D. candidate at Tsinghua University, China. I re
 
 * **Yiming Li**, Baoyuan Wu, Yan Feng, Yanbo Fan, Yong Jiang, Zhifeng Li, Shutao Xia. Toward Adversarial Robustness via Semi-supervised Robust Training. 2019. [[arXiv]](https://arxiv.org/abs/2003.06974)[[Code]](https://github.com/THUYimingLi/Semi-supervised_Robust_Training)
 
-* Jia Xu\*, **Yiming Li**\*, Yong Jiang, Shutao Xia. Adversarial Defense via Local Flatness Regularization. *ICIP*. 2020. [[arXiv]](https://arxiv.org/abs/1910.12165)
+* Jia Xu\*, **Yiming Li**\*, Yong Jiang, Shutao Xia. Adversarial Defense via Local Flatness Regularization. *ICIP*, 2020. [[arXiv]](https://arxiv.org/abs/1910.12165)
 
 * Yang Zhang\*, Qingtao Tang\*, **Yiming Li**\*, Weipeng Huang, Shutao Xia. *t*-*k*-means: A *k*-means Variant with Robustness and Stability. 2019. [[arXiv]](https://arxiv.org/abs/1907.07442)
 
@@ -48,7 +48,7 @@ I am currently a second year Ph.D. candidate at Tsinghua University, China. I re
 
 * Jiawei Li, Zhilong Zheng, **Yiming Li**, Rubao Ma, Shutao Xia. Deep Learning for Edge Intelligence Video Surveillance System. *INDIN*, 2020.
 
-* Yinghua Gao\*, Naiqi Li\*, Ning Ding, **Yiming Li**, Tao Dai, Shutao Xia. Generalized Local Aggregation for Large Scale Gaussian Process Regression. *IJCNN*. 2020. 
+* Yinghua Gao\*, Naiqi Li\*, Ning Ding, **Yiming Li**, Tao Dai, Shutao Xia. Generalized Local Aggregation for Large Scale Gaussian Process Regression. *IJCNN*, 2020. 
 
 * Jiawei Li, **Yiming Li**, Jiacheng Yang, Taian Guo, Shutao Xia. UA-DRN: Unbiased Aggregation of Deep Neural Networks for Regression Ensemble. *ICONIP*. 2019. [[Link]](http://ajiips.com.au/papers/V15.2/v15n2_90-97.pdf)
 
@@ -56,7 +56,7 @@ I am currently a second year Ph.D. candidate at Tsinghua University, China. I re
 
 * Jiawang Bai\*, **Yiming Li**\*, Jiawei Li, Yong Jiang, Shutao Xia. Rectified Decision Trees: Exploring the Landscape of Interpretable and Effective Machine Learning. 2019.
 
-* **Yiming Li**, Lifeng Xi. Manhattan property of geodesic paths on self-affine carpets. *Archiv der Mathematik*. 2018. [[Link]](https://link.springer.com/article/10.1007/s00013-018-1199-4)
+* **Yiming Li**, Lifeng Xi. Manhattan property of geodesic paths on self-affine carpets. *Archiv der Mathematik*, 2018. [[Link]](https://link.springer.com/article/10.1007/s00013-018-1199-4)
 
 ## Work Experience
 * Research Intern, Tencent AI Lab, Jul 2019 - Present
