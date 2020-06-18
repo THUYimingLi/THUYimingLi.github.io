@@ -45,6 +45,7 @@ I am currently a second year Ph.D. candidate at Tsinghua University, China. I re
 * Peidong Liu\*, **Yiming Li**\*, Yong Jiang, Shutao Xia. Visual Privacy Protection via Mapping Distortion. 2019. [[arXiv]](https://arxiv.org/abs/1911.01769)
 
 ### Other Topics
+* Jiawei Li, Tao Dai, Maocai Xia, **Yiming Li**, Shutao Xia. Human Fall Recognition and Detection using Multitask Deep Learning. 2020. 
 * Jiawei Li, Xingchun Xiang, **Yiming Li**, Huaixuan Zhang, Shutao Xia. TNT: An interpretable Tree-Network-Tree Learning Framework using Knowledge Distillation. 2020. 
 
 * Jiawei Li, Zhilong Zheng, **Yiming Li**, Rubao Ma, Shutao Xia. Deep Learning for Edge Intelligence Video Surveillance System. *INDIN*, 2020.
