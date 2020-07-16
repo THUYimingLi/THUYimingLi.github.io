@@ -56,7 +56,7 @@ I am currently a second year Ph.D. candidate at Tsinghua University, China. I re
 
 * **Yiming Li**, Yinghua Gao, Yong Jiang. Comments on “A Novel Consistent Random Forest Framework: Bernoulli Random Forests”. 2019.
 
-* Jiawang Bai\*, **Yiming Li**\*, Jiawei Li, Yong Jiang, Shutao Xia. Rectified Decision Trees: Exploring the Landscape of Interpretable and Effective Machine Learning. 2019.
+* **Yiming Li**\*, Jiawang Bai\*, Jiawei Li, Yong Jiang, Shutao Xia. Rectified Decision Trees: Exploring the Landscape of Interpretable and Effective Machine Learning. 2019.
 
 * **Yiming Li**, Lifeng Xi. Manhattan property of geodesic paths on self-affine carpets. *Archiv der Mathematik*, 2018. [[Link]](https://link.springer.com/article/10.1007/s00013-018-1199-4)
 
