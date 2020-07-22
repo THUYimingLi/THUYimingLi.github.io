@@ -28,7 +28,7 @@ I am currently a second year Ph.D. candidate at Tsinghua University, China. I re
 
 * **Yiming Li**, Baoyuan Wu, Yan Feng, Yanbo Fan, Yong Jiang, Zhifeng Li, Shutao Xia. Toward Adversarial Robustness via Semi-supervised Robust Training. 2019. [[arXiv]](https://arxiv.org/abs/2003.06974)[[Code]](https://github.com/THUYimingLi/Semi-supervised_Robust_Training)
 
-* Jia Xu\*, **Yiming Li**\*, Yong Jiang, Shutao Xia. Adversarial Defense via Local Flatness Regularization. *ICIP*, 2020. [[arXiv]](https://arxiv.org/abs/1910.12165)[[slides]](https://share.weiyun.com/6uJPj6VG)
+* Jia Xu\*, **Yiming Li**\*, Yong Jiang, Shutao Xia. Adversarial Defense via Local Flatness Regularization. *ICIP*, 2020. [[arXiv]](https://arxiv.org/abs/1910.12165)[[Slides]](https://share.weiyun.com/6uJPj6VG)
 
 * Yang Zhang\*, Qingtao Tang\*, **Yiming Li**\*, Weipeng Huang, Shutao Xia. *t*-*k*-means: A *k*-means Variant with Robustness and Stability. 2019. [[arXiv]](https://arxiv.org/abs/1907.07442)
 
