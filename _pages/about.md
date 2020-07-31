@@ -65,6 +65,7 @@ I am currently a second year Ph.D. candidate at Tsinghua University, China. I re
 ## Work Experience
 * Research Intern, Tencent AI Lab, Jul 2019 - Present
   * Mentor: Dr. [Baoyuan Wu](https://sites.google.com/site/baoyuanwu2015/), Principle Research Scientist
+  * Rhino-bird Elite Training Program of Tencent AI Lab, 2020
 
 * Intern, Department of Vision Technology, OPPO, May 2019 - Jun 2019
   * Mentor: Dr. Haidong Huang, Senior Algorithm Engineer
@@ -72,15 +73,15 @@ I am currently a second year Ph.D. candidate at Tsinghua University, China. I re
 * Intern, Department of Quantitative Investment, Wukong Investment Management Company, July 2018 - Sept 2018
   * Mentor: Dr. Xinji Liu, Deputy Manager of Quantitative Investment Department
 
-## Honors
-* Tsinghua 'Future Scholar' Scholarship
-* Best Student Research Award of TBSI Workshop on Data Science
-* Rhino-bird Elite Training Program of Tencent AI Lab
-* First Prize of Chinese Mathematics Competition, First Prize of Zhejiang Mathematics Competition
-* First Prize of China Undergraduate Mathematical Contest in Modeling
-* National Scholarship
-* TBSI Second-class Scholarship
-* Outstanding Graduate of Zhejiang Province (Undergraduate)
+## Awards and Honors
+* Best Student Research Award of TBSI Workshop on Data Science, 2019
+* First Prize of Chinese Mathematics Competition (TOP 3%), 2016
+* First Prize of China Undergraduate Mathematical Contest in Modeling (TOP 3%), 2015
+* Tsinghua 'Future Scholar' Ph.D. Scholarship (TOP 5%), 2020
+* TBSI Second Class Scholarship (TOP 5%), 2019
+* Undergraduate National Scholarship (TOP 3%), 2017
+* Outstanding Graduate of Zhejiang Province (TOP 1%), 2018
+
 
 ## Services
 * **Reviewer**, IEEE Transactions on Industrial Informatics (TII)
