@@ -60,7 +60,7 @@ I am currently a second year Ph.D. candidate at Tsinghua University, China. I re
 
 * **Yiming Li**\*, Jiawang Bai\*, Jiawei Li, Yong Jiang, Shutao Xia. Rectified Decision Trees: Exploring the Landscape of Interpretable and Effective Machine Learning. 2019.
 
-* **Yiming Li**, Lifeng Xi. Manhattan property of geodesic paths on self-affine carpets. *Archiv der Mathematik*, 2018. [[Link]](https://link.springer.com/article/10.1007/s00013-018-1199-4)
+* **Yiming Li**, Lifeng Xi. Manhattan Property of Geodesic Paths on Self-affine Carpets. *Archiv der Mathematik*, 2018. [[Link]](https://link.springer.com/article/10.1007/s00013-018-1199-4)
 
 ## Work Experience
 * Research Intern, Tencent AI Lab, Jul 2019 - Present
