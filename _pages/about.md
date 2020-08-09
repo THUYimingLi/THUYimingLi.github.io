@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## Biography
-I am currently a second year Ph.D. candidate at Tsinghua University, China. I received my B.S. degree in Mathematics and Applied Mathematics from Ningbo University, China, in 2018. My research interests are broadly in the security of machine learning, including adversarial learning, robust machine learning, backdoor learning, and data privacy.
+I am currently a third year Ph.D. student at Tsinghua University, China. I received my B.S. degree in Mathematics and Applied Mathematics from Ningbo University, China, in 2018. My research interests are mainly in the security of machine learning, including adversarial learning, robust machine learning, backdoor learning, and data privacy.
 
 ## Education
 * Ph.D. in Computer Science, Tsinghua University, Aug. 2018 - Present
