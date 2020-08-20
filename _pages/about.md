@@ -32,7 +32,7 @@ I am currently a third year Ph.D. student at Tsinghua University, China. I recei
 
 * Yang Zhang\*, Qingtao Tang\*, **Yiming Li**\*, Weipeng Huang, Shutao Xia. *t*-*k*-means: A *k*-means Variant with Robustness and Stability. 2019. [[arXiv]](https://arxiv.org/abs/1907.07442)
 
-* **Yiming Li**, Yong Jiang, Shutao Xia. Self-Paced Deep Forest. 2018. (Undergraduate Thesis)
+* **Yiming Li**, Yong Jiang, Shutao Xia. Self-Paced Deep Forest. 2018. (Part of the Undergraduate Thesis)
 
 
 ### Backdoor Learning
@@ -47,20 +47,16 @@ I am currently a third year Ph.D. student at Tsinghua University, China. I recei
 * **Yiming Li**\*, Peidong Liu\*, Yong Jiang, Shutao Xia. Visual Privacy Protection via Mapping Distortion. 2019. 
 
 ### Other Topics
-* Jiawei Li, **Yiming Li**, Tao Dai, Maocai Xia, Shutao Xia. Human Fall Recognition and Detection using Multitask Deep Learning. 2020. 
-* Jiawei Li, Xingchun Xiang, **Yiming Li**, Huaixuan Zhang, Shutao Xia. TNT: An interpretable Tree-Network-Tree Learning Framework using Knowledge Distillation. 2020. 
-
-* Jiawei Li, Zhilong Zheng, **Yiming Li**, Rubao Ma, Shutao Xia. Deep Learning for Edge Intelligence Video Surveillance System. *INDIN*, 2020.
-
-* Yinghua Gao\*, Naiqi Li\*, Ning Ding, **Yiming Li**, Tao Dai, Shutao Xia. Generalized Local Aggregation for Large Scale Gaussian Process Regression. *IJCNN*, 2020. 
+* **Yiming Li**, Lifeng Xi. Manhattan Property of Geodesic Paths on Self-affine Carpets. *Archiv der Mathematik*, 2018. [[Link]](https://link.springer.com/article/10.1007/s00013-018-1199-4)
 
 * Jiawei Li, **Yiming Li**, Jiacheng Yang, Taian Guo, Shutao Xia. UA-DRN: Unbiased Aggregation of Deep Neural Networks for Regression Ensemble. *ICONIP*, 2019. [[Link]](http://ajiips.com.au/papers/V15.2/v15n2_90-97.pdf)
 
-* **Yiming Li**, Yinghua Gao, Yong Jiang. Comments on “A Novel Consistent Random Forest Framework: Bernoulli Random Forests”. 2019.
+* **Yiming Li**\*, Jiawang Bai\*, Jiawei Li, Yong Jiang, Shutao Xia. Rectified Decision Trees: Exploring the Landscape of Interpretable and Effective Machine Learning. in submission to *TII*, 2020.
 
-* **Yiming Li**\*, Jiawang Bai\*, Jiawei Li, Yong Jiang, Shutao Xia. Rectified Decision Trees: Exploring the Landscape of Interpretable and Effective Machine Learning. 2019.
+* **Yiming Li**, Yinghua Gao, Yong Jiang. Comments on “A Novel Consistent Random Forest Framework: Bernoulli Random Forests”. in submission to *TNNLS*, 2019.
 
-* **Yiming Li**, Lifeng Xi. Manhattan Property of Geodesic Paths on Self-affine Carpets. *Archiv der Mathematik*, 2018. [[Link]](https://link.springer.com/article/10.1007/s00013-018-1199-4)
+* Jiawei Li, **Yiming Li**, Tao Dai, Maocai Xia, Shutao Xia. Human Fall Recognition and Detection using Multitask Deep Learning. in submission to *Neurocomputing*, 2019. 
+
 
 ## Work Experience
 * Research Intern, Tencent AI Lab, Jul 2019 - Present
