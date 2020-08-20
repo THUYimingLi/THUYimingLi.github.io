@@ -44,7 +44,7 @@ I am currently a third year Ph.D. student at Tsinghua University, China. I recei
 ### Data Privacy
 * **Yiming Li**\*, Jiawang Bai\*, Jiawei Li, Chun Li, Yong Jiang, Xue Yang, Shutao Xia. Multinomial Random Forest: Toward Consistency and Privacy-Preservation. 2020. [[arXiv]](https://arxiv.org/abs/1903.04003)
 
-* **Yiming Li**\*, Peidong Liu\*, Yong Jiang, Shutao Xia. Visual Privacy Protection via Mapping Distortion. 2019. 
+* Peidong Liu\*, **Yiming Li**\*, Yong Jiang, Shutao Xia. Visual Privacy Protection via Mapping Distortion. 2019. [[arXiv]](https://arxiv.org/pdf/1911.01769.pdf)
 
 ### Other Topics
 * **Yiming Li**, Lifeng Xi. Manhattan Property of Geodesic Paths on Self-affine Carpets. *Archiv der Mathematik*, 2018. [[Link]](https://link.springer.com/article/10.1007/s00013-018-1199-4)
