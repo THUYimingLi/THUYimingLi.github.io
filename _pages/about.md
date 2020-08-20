@@ -51,11 +51,11 @@ I am currently a third year Ph.D. student at Tsinghua University, China. I recei
 
 * Jiawei Li, **Yiming Li**, Jiacheng Yang, Taian Guo, Shutao Xia. UA-DRN: Unbiased Aggregation of Deep Neural Networks for Regression Ensemble. *ICONIP*, 2019. [[Link]](http://ajiips.com.au/papers/V15.2/v15n2_90-97.pdf)
 
-* **Yiming Li**\*, Jiawang Bai\*, Jiawei Li, Yong Jiang, Shutao Xia. Rectified Decision Trees: Exploring the Landscape of Interpretable and Effective Machine Learning. in submission to *TII*, 2020.
+* **Yiming Li**\*, Jiawang Bai\*, Jiawei Li, Yong Jiang, Shutao Xia. Rectified Decision Trees: Exploring the Landscape of Interpretable and Effective Machine Learning. submitted to IEEE Transactions on Industrial Informatics (TII), 2020.
 
-* **Yiming Li**, Yinghua Gao, Yong Jiang. Comments on “A Novel Consistent Random Forest Framework: Bernoulli Random Forests”. in submission to *TNNLS*, 2019.
+* **Yiming Li**, Yinghua Gao, Yong Jiang. Comments on “A Novel Consistent Random Forest Framework: Bernoulli Random Forests”. submitted to IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2019.
 
-* Jiawei Li, **Yiming Li**, Tao Dai, Maocai Xia, Shutao Xia. Human Fall Recognition and Detection using Multitask Deep Learning. in submission to *Neurocomputing*, 2019. 
+* Jiawei Li, **Yiming Li**, Tao Dai, Maocai Xia, Shutao Xia. Human Fall Recognition and Detection using Multitask Deep Learning. submitted to Neurocomputing, 2019. 
 
 
 ## Work Experience
