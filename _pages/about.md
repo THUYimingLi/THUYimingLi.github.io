@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yiming Li"
+title: "Welcome to my homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -44,7 +44,7 @@ I am currently a third year Ph.D. student at Tsinghua University, China. I recei
 ### Data Privacy
 * **Yiming Li**\*, Jiawang Bai\*, Jiawei Li, Chun Li, Yong Jiang, Xue Yang, Shutao Xia. Multinomial Random Forest: Toward Consistency and Privacy-Preservation. 2020. [[arXiv]](https://arxiv.org/abs/1903.04003)
 
-* Peidong Liu\*, **Yiming Li**\*, Yong Jiang, Shutao Xia. Visual Privacy Protection via Mapping Distortion. 2019. [[arXiv]](https://arxiv.org/abs/1911.01769)
+* **Yiming Li**\*, Peidong Liu\*, Yong Jiang, Shutao Xia. Visual Privacy Protection via Mapping Distortion. 2019. 
 
 ### Other Topics
 * Jiawei Li, **Yiming Li**, Tao Dai, Maocai Xia, Shutao Xia. Human Fall Recognition and Detection using Multitask Deep Learning. 2020. 
