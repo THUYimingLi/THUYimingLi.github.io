@@ -18,7 +18,7 @@ I am currently a second year Ph.D. student at Tsinghua University, China. I rece
 * Exchange Student, University of Wisconsin, Jan. 2017 − May. 2017
 
 * B.S. in Mathematics and Applied Mathematics, Yangming Innovation Class, Ningbo University, Aug. 2014 - May. 2018
-  * Supervisor: Prof. [Lifeng Xi](https://www.researchgate.net/profile/Lifeng_Xi2)
+  * Supervisor: Prof. [Lifeng Xi](http://math.nbu.edu.cn/info/1046/1098.htm)
 
 
 
