@@ -19,6 +19,7 @@ I am currently a second year Ph.D. student at Tsinghua University, China. I rece
 
 * B.S. in Mathematics and Applied Mathematics, Yangming Innovation Class, Ningbo University, Aug. 2014 - May. 2018
   * Supervisor: Prof. [Lifeng Xi](http://math.nbu.edu.cn/info/1046/1098.htm)
+  * Thesis Topic: *Study and Application of Ensemble Learning in Deep Learning* (Outstanding Thesis in Ningbo Univ.)
 
 
 
