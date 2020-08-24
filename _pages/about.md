@@ -51,7 +51,7 @@ I am currently a second year Ph.D. student at Tsinghua University, China. I rece
 
 * Jiawei Li, **Yiming Li**, Jiacheng Yang, Taian Guo, Shu-Tao Xia. UA-DRN: Unbiased Aggregation of Deep Neural Networks for Regression Ensemble. *ICONIP*, 2019. [[Link]](http://ajiips.com.au/papers/V15.2/v15n2_90-97.pdf)
 
-* **Yiming Li**\*, Jiawang Bai\*, Jiawei Li, Yong Jiang, Shu-Tao Xia. Rectified Decision Trees: Exploring the Landscape of Interpretable and Effective Machine Learning. submitted to IEEE Transactions on Industrial Informatics (TII), 2020.
+* **Yiming Li**\*, Jiawang Bai\*, Jiawei Li, Yong Jiang, Shu-Tao Xia. Rectified Decision Trees: Exploring the Landscape of Interpretable and Effective Machine Learning. submitted to IEEE Transactions on Industrial Informatics (TII), 2020.[[arXiv]](https://arxiv.org/pdf/2008.09413.pdf)
 
 * **Yiming Li**, Yinghua Gao, Yong Jiang. Comments on “A Novel Consistent Random Forest Framework: Bernoulli Random Forests”. submitted to IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2019.
 
