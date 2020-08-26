@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## Biography
-I am currently a second year Ph.D. student at Tsinghua University, China. I received my B.S. degree in Mathematics and Applied Mathematics from Ningbo University, China, in 2018. My research interests are mainly in the security of machine learning, including adversarial learning, robust machine learning, backdoor learning, and data privacy.
+I am currently a third year Ph.D. student at Tsinghua University, China. I received my B.S. degree in Mathematics and Applied Mathematics from Ningbo University, China, in 2018. My research interests are mainly in the security of machine learning, including adversarial learning, robust machine learning, backdoor learning, and data privacy.
 
 ## Education
 * Ph.D. in Computer Science, Tsinghua University, Aug. 2018 - Present
@@ -83,6 +83,7 @@ I am currently a second year Ph.D. student at Tsinghua University, China. I rece
 
 ## Services
 * **Reviewer**, IEEE Transactions on Industrial Informatics (TII)
+* **Program Committee**, 30th International Joint Conference on Artificial Intelligence (IJCAI 2021)
 * **Reviewer**, Thirty-fourth Conference on Neural Information Processing Systems (NeurIPS 2020)
 * **Program Committee** (2020), **Reviewer** (2019) of International Conference on Neural Information Processing (ICONIP)
 * **Executive Chairman Committee Member** (2019), TBSI Workshop on Data Science
