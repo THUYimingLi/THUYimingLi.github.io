@@ -89,9 +89,9 @@ I am currently a third year Ph.D. student at Tsinghua University, China. I recei
 
 ## Services
 * **Reviewer**, IEEE Transactions on Industrial Informatics (TII)
-* **Program Committee**, 30th International Joint Conference on Artificial Intelligence (IJCAI 2021)
+* **Program Committee Member**, 30th International Joint Conference on Artificial Intelligence (IJCAI 2021)
 * **Reviewer**, Thirty-fourth Conference on Neural Information Processing Systems (NeurIPS 2020)
-* **Program Committee** (2020), **Reviewer** (2019) of International Conference on Neural Information Processing (ICONIP)
+* **Program Committee Member** (2020), **Reviewer** (2019) of International Conference on Neural Information Processing (ICONIP)
 * **Executive Chairman Committee Member** (2019), TBSI Workshop on Data Science
 
 
