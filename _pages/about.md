@@ -22,6 +22,12 @@ I am currently a third year Ph.D. student at Tsinghua University, China. I recei
   * Thesis Topic: Study and Application of Ensemble Learning in Deep Learning (Outstanding Thesis in Ningbo Univ.)
 
 
+## News
+* 08/2020: I will serve as Program Committee Member (PC) of IJCAI 2021.
+* 07/2020: One paper is accepted by ECCV 2020 and its code is also released in Github. 
+* 06/2020: I will serve as Program Committee Member (PC) of NeurIPS 2020.
+
+
 
 ## Research
 \* indicates equal contribution 
