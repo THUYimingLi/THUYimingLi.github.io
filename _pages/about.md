@@ -23,7 +23,7 @@ I am currently a third year Ph.D. student at Tsinghua University, China. I recei
 
 
 ## News
-* 08/2020: I will serve as Program Committee Member (PC) of IJCAI 2021.
+* 08/2020: I will serve as Program Committee Member (PC) of IJCAI 2021 and AAAI 2021.
 * 07/2020: One paper is accepted by ECCV 2020 and its code is also released in Github. 
 * 06/2020: I will serve as Program Committee Member (PC) of NeurIPS 2020.
 
@@ -89,9 +89,7 @@ I am currently a third year Ph.D. student at Tsinghua University, China. I recei
 
 ## Services
 * **Reviewer**, IEEE Transactions on Industrial Informatics (TII)
-* **Program Committee Member**, 30th International Joint Conference on Artificial Intelligence (IJCAI 2021)
-* **Reviewer**, Thirty-fourth Conference on Neural Information Processing Systems (NeurIPS 2020)
-* **Program Committee Member** (2020), **Reviewer** (2019) of International Conference on Neural Information Processing (ICONIP)
+* **Program Committee Member**, ICONIP 2019, ICONIP 2020, NeurIPS 2020, IJCAI 2021, AAAI 2021
 * **Executive Chairman Committee Member** (2019), TBSI Workshop on Data Science
 
 
