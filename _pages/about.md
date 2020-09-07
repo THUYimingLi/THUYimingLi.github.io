@@ -86,6 +86,8 @@ I am currently a ~~second~~ third year Ph.D. student at Tsinghua University, Chi
 * Undergraduate National Scholarship (TOP 3%), 2017
 * Outstanding Graduate of Zhejiang Province (TOP 1%), 2018
 
+## Patents
+* **李一鸣**, 吴保元, 张勇, 樊艳波, 李志锋, 刘威, 冯岩, 江勇, 夏树涛. 一种图像识别模型的训练方法、图像识别的方法及装置. (申请号:2020101821805)
 
 ## Services
 * **Reviewer**, IEEE Transactions on Industrial Informatics (TII)
