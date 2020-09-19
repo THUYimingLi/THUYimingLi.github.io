@@ -44,7 +44,7 @@ I am currently a ~~second~~ third year Ph.D. student at Tsinghua University, Chi
 
 
 ### Backdoor Learning
-* **Yiming Li**, Baoyuan Wu, Yong Jiang, Zhifeng Li, Shu-Tao Xia. Backdoor Learning: A Survey. 2020. [[arXiv]](https://arxiv.org/abs/2007.08745)[[Github Resources]](https://github.com/THUYimingLi/backdoor-learning-resources)
+* **Yiming Li**, Baoyuan Wu, Yong Jiang, Zhifeng Li, Shu-Tao Xia. Backdoor Learning: A Survey. submitted to Nature Machine Intelligence, 2020. [[arXiv]](https://arxiv.org/abs/2007.08745)[[Github Resources]](https://github.com/THUYimingLi/backdoor-learning-resources)
 
 * **Yiming Li**\*, Tongqing Zhai\*, Baoyuan Wu, Yong Jiang, Zhifeng Li, Shu-Tao Xia. Rethinking the Trigger of Backdoor Attack. 2020. [[arXiv]](https://arxiv.org/abs/2004.04692)
 
