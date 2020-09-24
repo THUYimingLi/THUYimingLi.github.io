@@ -78,6 +78,7 @@ Knowledge Distillation. submitted to Entropy, 2020.
 
 * Intern, Department of Vision Technology, OPPO, May 2019 - Jun 2019
   * Mentor: Dr. Haidong Huang, Senior Algorithm Engineer
+  * Supported by TBSI Capstone Project
 
 * Intern, Department of Quantitative Investment, Wukong Investment Management Company, July 2018 - Sept 2018
   * Mentor: Dr. Xinji Liu, Deputy Manager of Quantitative Investment Department
