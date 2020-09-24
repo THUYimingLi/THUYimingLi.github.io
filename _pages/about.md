@@ -38,7 +38,7 @@ I am currently a ~~second~~ third year Ph.D. student at Tsinghua University, Chi
 
 * Jia Xu\*, **Yiming Li**\*, Yong Jiang, Shu-Tao Xia. Adversarial Defense via Local Flatness Regularization. *ICIP*, 2020. [[arXiv]](https://arxiv.org/abs/1910.12165)[[Slides]](https://share.weiyun.com/6uJPj6VG)
 
-**Yiming Li**\*, * Yang Zhang\*, Qingtao Tang, Weipeng Huang, Yong Jiang, Shu-Tao Xia. *t*-*k*-means: A Robust and Stable *k*-means Variant. 2019. [[arXiv]](https://arxiv.org/abs/1907.07442)
+* **Yiming Li**\*, * Yang Zhang\*, Qingtao Tang, Weipeng Huang, Yong Jiang, Shu-Tao Xia. *t*-*k*-means: A Robust and Stable *k*-means Variant. 2019. [[arXiv]](https://arxiv.org/abs/1907.07442)
 
 * **Yiming Li**, Yong Jiang, Shu-Tao Xia. Self-Paced Deep Forest. 2018. (Part of the Undergraduate Thesis)
 
@@ -74,7 +74,7 @@ Knowledge Distillation. submitted to Entropy, 2020.
 ## Work Experience
 * Research Intern, Tencent AI Lab, Jul 2019 - Present
   * Mentor: Dr. [Baoyuan Wu](https://sites.google.com/site/baoyuanwu2015/), Principle Research Scientist
-  * Selected by *Tencent Rhino-bird Elite Training Program*, Tencent AI Lab, 2020
+  * Selected by Tencent Rhino-bird Elite Training Program, Tencent AI Lab, 2020
 
 * Intern, Department of Vision Technology, OPPO, May 2019 - Jun 2019
   * Mentor: Dr. Haidong Huang, Senior Algorithm Engineer
