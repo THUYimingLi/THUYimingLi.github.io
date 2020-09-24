@@ -38,7 +38,7 @@ I am currently a ~~second~~ third year Ph.D. student at Tsinghua University, Chi
 
 * Jia Xu\*, **Yiming Li**\*, Yong Jiang, Shu-Tao Xia. Adversarial Defense via Local Flatness Regularization. *ICIP*, 2020. [[arXiv]](https://arxiv.org/abs/1910.12165)[[Slides]](https://share.weiyun.com/6uJPj6VG)
 
-* Yang Zhang\*, Qingtao Tang\*, **Yiming Li**\*, Weipeng Huang, Shu-Tao Xia. *t*-*k*-means: A *k*-means Variant with Robustness and Stability. 2019. [[arXiv]](https://arxiv.org/abs/1907.07442)
+**Yiming Li**\*, * Yang Zhang\*, Qingtao Tang, Weipeng Huang, Yong Jiang, Shu-Tao Xia. *t*-*k*-means: A Robust and Stable *k*-means Variant. 2019. [[arXiv]](https://arxiv.org/abs/1907.07442)
 
 * **Yiming Li**, Yong Jiang, Shu-Tao Xia. Self-Paced Deep Forest. 2018. (Part of the Undergraduate Thesis)
 
@@ -63,13 +63,18 @@ I am currently a ~~second~~ third year Ph.D. student at Tsinghua University, Chi
 
 * **Yiming Li**, Yinghua Gao, Yong Jiang. Comments on “A Novel Consistent Random Forest Framework: Bernoulli Random Forests”. submitted to IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2019.
 
+* Jiawei Li, **Yiming Li**, Xingchun Xiang, Shu-Tao Xia, Siyi Dong, Yun Cai. TNT: An Interpretable Tree-Network-Tree Learning Framework using 
+Knowledge Distillation. submitted to Entropy, 2020.
+
 * Jiawei Li, **Yiming Li**, Tao Dai, Maocai Xia, Shu-Tao Xia. Human Fall Recognition and Detection using Multitask Deep Learning. submitted to Neurocomputing, 2019. 
+
+
 
 
 ## Work Experience
 * Research Intern, Tencent AI Lab, Jul 2019 - Present
   * Mentor: Dr. [Baoyuan Wu](https://sites.google.com/site/baoyuanwu2015/), Principle Research Scientist
-  * Rhino-bird Elite Training Program of Tencent AI Lab, 2020
+  * Selected by *Tencent Rhino-bird Elite Training Program*, Tencent AI Lab, 2020
 
 * Intern, Department of Vision Technology, OPPO, May 2019 - Jun 2019
   * Mentor: Dr. Haidong Huang, Senior Algorithm Engineer
@@ -92,6 +97,6 @@ I am currently a ~~second~~ third year Ph.D. student at Tsinghua University, Chi
 ## Services
 * **Reviewer**, IEEE Transactions on Industrial Informatics (TII), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 * **Program Committee Member**, ICONIP 2019, ICONIP 2020, NeurIPS 2020, IJCAI 2021, AAAI 2021
-* **Executive Chairman Committee Member** (2019), TBSI Workshop on Data Science
+* **Executive Chairman Committee Member**, TBSI Workshop on Data Science (2019)
 
 
