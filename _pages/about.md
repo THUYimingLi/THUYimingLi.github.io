@@ -75,6 +75,7 @@ Knowledge Distillation. submitted to Entropy, 2020.
 * Research Intern, Tencent AI Lab, Jul 2019 - Present
   * Mentor: Dr. [Baoyuan Wu](https://sites.google.com/site/baoyuanwu2015/), Principle Research Scientist
   * Selected by Tencent Rhino-bird Elite Training Program, Tencent AI Lab, 2020
+  * Partly involved in the technical report *The ATT&CK Matrix of AI Security* (in Chinese) [[Link]](https://share.weiyun.com/8InYhaYZ) [[News]](https://www.jiqizhixin.com/articles/2020-09-25-9). Mainly responsible for backdoor-related sections and report editing.
 
 * Intern, Department of Vision Technology, OPPO, May 2019 - Jun 2019
   * Mentor: Dr. Haidong Huang, Senior Algorithm Engineer
