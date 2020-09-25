@@ -23,7 +23,7 @@ I am currently a ~~second~~ third year Ph.D. student at Tsinghua University, Chi
 
 
 ## News
-* 09/2020: The technical report *The ATT&CK Matrix of AI Security* (in Chinese) is released [[Link]](https://share.weiyun.com/8InYhaYZ) [[News]](https://www.jiqizhixin.com/articles/2020-09-25-9).
+* 09/2020: The technical report *The ATT&CK Matrix of AI Security* is released (in Chinese). [[Link]](https://share.weiyun.com/8InYhaYZ) [[News]](https://www.jiqizhixin.com/articles/2020-09-25-9)
 * 08/2020: I will serve as Program Committee Member (PC) of AAAI 2021 and IJCAI 2021.
 * 07/2020: One paper is accepted by ECCV 2020 and its code is also released in Github. 
 
