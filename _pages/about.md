@@ -66,9 +66,9 @@ I am currently a ~~second~~ third year Ph.D. student at Tsinghua University, Chi
 * Jiawei Li, **Yiming Li**, Xingchun Xiang, Shu-Tao Xia, Siyi Dong, Yun Cai. TNT: An Interpretable Tree-Network-Tree Learning Framework using 
 Knowledge Distillation. submitted to Entropy, 2020.
 
-* Jiawang Bai, Baoyuan Wu, Yong Zhang, **Yiming Li**, Zhifeng Li, Shu-Tao Xia. Targeted Attack against Deep Neural Networks via Flipping Limited Weight Bits. submitted to ICLR, 2020.
-
 * Jiawei Li, **Yiming Li**, Tao Dai, Maocai Xia, Shu-Tao Xia. Human Fall Recognition and Detection using Multitask Deep Learning. submitted to Neurocomputing, 2019. 
+
+* Jiawang Bai, Baoyuan Wu, Yong Zhang, **Yiming Li**, Zhifeng Li, Shu-Tao Xia. Targeted Attack against Deep Neural Networks via Flipping Limited Weight Bits. submitted to ICLR, 2020.
 
 
 
