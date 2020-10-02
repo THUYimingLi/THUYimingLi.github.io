@@ -94,7 +94,7 @@ Knowledge Distillation. submitted to Entropy, 2020.
 * Outstanding Graduate of Zhejiang Province (TOP 1%), 2018
 
 ## Patents
-* **李一鸣**, 吴保元, 张勇, 樊艳波, 李志锋, 刘威, 冯岩, 江勇, 夏树涛. 一种图像识别模型的训练方法、图像识别的方法及装置. (申请号:2020101821805)
+* **李一鸣**, 吴保元, 张勇, 樊艳波, 李志锋, 刘威, 冯岩, 江勇, 夏树涛. 一种图像识别模型的训练方法、图像识别的方法及装置. (申请号:CN2020101821805, HKS202989-CN)
 
 ## Services
 * **Reviewer**, IEEE Transactions on Industrial Informatics (TII), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
