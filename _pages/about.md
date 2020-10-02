@@ -50,7 +50,7 @@ I am currently a ~~second~~ third year Ph.D. student at Tsinghua University, Chi
 
 
 ### Data Privacy
-* **Yiming Li**\*, Jiawang Bai\*, Jiawei Li, Chun Li, Yong Jiang, Xue Yang, Shu-Tao Xia. Multinomial Random Forest: Toward Consistency and Privacy-Preservation. 2020. [[arXiv]](https://arxiv.org/abs/1903.04003)
+* **Yiming Li**\*, Jiawang Bai\*, Jiawei Li, Chun Li, Yong Jiang, Xue Yang, Shu-Tao Xia. Multinomial Random Forest: Toward Consistency and Privacy-Preservation. submitted to AAAI, 2020. [[arXiv]](https://arxiv.org/abs/1903.04003)
 
 * **Yiming Li**\*, Peidong Liu\*, Yong Jiang, Shu-Tao Xia. Visual Privacy Protection via Mapping Distortion. submitted to ICASSP, 2020.
 
