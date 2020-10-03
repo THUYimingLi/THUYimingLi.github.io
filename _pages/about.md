@@ -23,7 +23,7 @@ I am currently a ~~second~~ third year Ph.D. student at Tsinghua University, Chi
 
 
 ## News
-* 09/2020: Our technical report, The ATT&CK Matrix of AI Security, is released (in Chinese). [[Link]](https://share.weiyun.com/8InYhaYZ) [[News]](https://www.jiqizhixin.com/articles/2020-09-25-9)
+* 09/2020: Our technical report, The ATT&CK Matrix of AI Security, is released (in Chinese). [[Link]](https://ai.tencent.com/ailab/media/AI%E5%AE%89%E5%85%A8%E7%9A%84%E5%A8%81%E8%83%81%E9%A3%8E%E9%99%A9%E7%9F%A9%E9%98%B5.pdf) [[News]](https://www.jiqizhixin.com/articles/2020-09-25-9)
 * 08/2020: I will serve as Program Committee Member (PC) of AAAI 2021 and IJCAI 2021.
 * 07/2020: One paper is accepted by ECCV 2020 and its code is also released in Github. 
 
@@ -77,7 +77,7 @@ Knowledge Distillation. submitted to Entropy, 2020.
 * Research Intern, Tencent AI Lab, Jul 2019 - Present
   * Mentor: Dr. [Baoyuan Wu](https://sites.google.com/site/baoyuanwu2015/), Principle Research Scientist
   * Selected by Tencent Rhino-bird Elite Training Program, Tencent AI Lab, 2020
-  * Partly involved in the Tencent technical report, The ATT&CK Matrix of AI Security (in Chinese) [[Link]](https://share.weiyun.com/8InYhaYZ) [[News]](https://www.jiqizhixin.com/articles/2020-09-25-9). Mainly responsible for backdoor-related sections and report editing.
+  * Partly involved in the Tencent technical report, The ATT&CK Matrix of AI Security (in Chinese) [[Link]](https://ai.tencent.com/ailab/media/AI%E5%AE%89%E5%85%A8%E7%9A%84%E5%A8%81%E8%83%81%E9%A3%8E%E9%99%A9%E7%9F%A9%E9%98%B5.pdf) [[News]](https://www.jiqizhixin.com/articles/2020-09-25-9). Mainly responsible for backdoor-related sections and report editing.
 
 * Intern, Department of Vision Technology, OPPO, May 2019 - Jun 2019
   * Mentor: Dr. Haidong Huang, Senior Algorithm Engineer
