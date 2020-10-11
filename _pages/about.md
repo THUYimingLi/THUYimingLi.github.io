@@ -13,7 +13,7 @@ I am currently a ~~second~~ third year Ph.D. student at Tsinghua University, Chi
 
 ## Education
 * Ph.D. in Computer Science, Tsinghua University, Aug. 2018 - Present
-  * Supervisor: Prof. [Shu-Tao Xia](https://www.sigs.tsinghua.edu.cn/zg3/105039.jhtml) and Prof. [Yong Jiang](https://www.sigs.tsinghua.edu.cn/zg3/518.jhtml)
+  * Supervisor: Prof. [Shu-Tao Xia](https://www.sigs.tsinghua.edu.cn/xst/main.htm) and Prof. [Yong Jiang](https://www.sigs.tsinghua.edu.cn/jy/main.htm)
 
 * Exchange Student, University of Wisconsin, Jan. 2017 − May. 2017
 
