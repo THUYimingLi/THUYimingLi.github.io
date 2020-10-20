@@ -59,14 +59,14 @@ I am currently a ~~second~~ third year Ph.D. student at Tsinghua University, Chi
 ### Other Topics
 * **Yiming Li**, Lifeng Xi. Manhattan Property of Geodesic Paths on Self-affine Carpets. *Archiv der Mathematik*, 2018. [[Link]](https://link.springer.com/article/10.1007/s00013-018-1199-4)
 
+* Jiawei Li, **Yiming Li**, Xingchun Xiang, Shu-Tao Xia, Siyi Dong, Yun Cai. TNT: An Interpretable Tree-Network-Tree Learning Framework using 
+Knowledge Distillation. *Entropy*, 2020. (to appear)
+
 * Jiawei Li, **Yiming Li**, Jiacheng Yang, Taian Guo, Shu-Tao Xia. UA-DRN: Unbiased Aggregation of Deep Neural Networks for Regression Ensemble. *ICONIP*, 2019. [[Link]](http://ajiips.com.au/papers/V15.2/v15n2_90-97.pdf)
 
 * **Yiming Li**\*, Jiawang Bai\*, Jiawei Li, Xue Yang, Yong Jiang, Shu-Tao Xia. Rectified Decision Trees: Exploring the Landscape of Interpretable and Effective Machine Learning. submitted to IEEE Transactions on Industrial Informatics (TII), 2020. [[arXiv]](https://arxiv.org/pdf/2008.09413.pdf)
 
 * **Yiming Li**, Yinghua Gao, Yong Jiang. Comments on “A Novel Consistent Random Forest Framework: Bernoulli Random Forests”. submitted to IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2019.
-
-* Jiawei Li, **Yiming Li**, Xingchun Xiang, Shu-Tao Xia, Siyi Dong, Yun Cai. TNT: An Interpretable Tree-Network-Tree Learning Framework using 
-Knowledge Distillation. submitted to Entropy, 2020.
 
 * Jiawei Li, **Yiming Li**, Tao Dai, Maocai Xia, Shu-Tao Xia. Human Fall Recognition and Detection using Multitask Deep Learning. submitted to Neurocomputing, 2019. 
 
