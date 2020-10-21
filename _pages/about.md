@@ -107,7 +107,7 @@ Knowledge Distillation. *Entropy*, 2020. (to appear)
 
 
 ## Services
-* **Reviewer**, IEEE Transactions on Industrial Informatics (TII), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+* **Reviewer**, IEEE Transactions on Industrial Informatics (TII), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), Neurocomputing
 * **Program Committee Member**, ICONIP 2019, ICONIP 2020, NeurIPS 2020, IJCAI 2021, AAAI 2021, AISTATS 2021
 * **Executive Chairman Committee Member**, TBSI Workshop on Data Science (2019)
 
