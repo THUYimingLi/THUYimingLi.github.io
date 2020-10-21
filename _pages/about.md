@@ -23,7 +23,7 @@ I am currently a ~~second~~ third year Ph.D. student at Tsinghua University, Chi
 
 
 ## News
-* 10/2020: Finished my internship at Tencent AI Lab, working on "Secure ML". 465 days, a memorable journey.
+* 10/2020: I finished my internship at Tencent AI Lab, working on "Secure ML". 465 days, a memorable journey.
 * 10/2020: I will serve as the Program Committee Member (PC Member) of AISTATS 2021.
 * 09/2020: Our technical report, The ATT&CK Matrix of AI Security, is released (in Chinese). [[Link]](https://ai.tencent.com/ailab/media/AI%E5%AE%89%E5%85%A8%E7%9A%84%E5%A8%81%E8%83%81%E9%A3%8E%E9%99%A9%E7%9F%A9%E9%98%B5.pdf) [[News]](https://www.jiqizhixin.com/articles/2020-09-25-9). It is the first technical report comprehensively covering different kinds of security threats in the full cycle of an AI system. It could be an important reference for AI researchers, AI engineers, and AI users.
 * 08/2020: I will serve as the Program Committee Member (PC Member) of AAAI 2021 and IJCAI 2021.
@@ -92,13 +92,13 @@ Knowledge Distillation. *Entropy*, 2020. (to appear)
   * Mentor: Dr. Xinji Liu, Deputy Manager of Quantitative Investment Department
 
 ## Awards and Honors
-* Best Student Research Award of TBSI Workshop on Data Science, 2019
-* First Prize of Chinese Mathematics Competition (TOP 3%), 2016
-* First Prize of China Undergraduate Mathematical Contest in Modeling (TOP 3%), 2015
-* Tsinghua 'Future Scholar' Ph.D. Scholarship (TOP 5%), 2020
-* TBSI Second Class Scholarship (TOP 5%), 2019
-* Undergraduate National Scholarship (TOP 3%), 2017
-* Outstanding Graduate of Zhejiang Province (TOP 1%), 2018
+* Best Student Research Award of TBSI Workshop on Data Science, 2019.
+* First Prize of Chinese Mathematics Competition (TOP 3%), 2016.
+* First Prize of China Undergraduate Mathematical Contest in Modeling (TOP 3%), 2015.
+* Tsinghua 'Future Scholar' Ph.D. Scholarship (TOP 5%), 2020.
+* TBSI Second Class Scholarship (TOP 5%), 2019 and 2020.
+* Undergraduate National Scholarship (TOP 3%), 2017.
+* Outstanding Graduate of Zhejiang Province (TOP 1%), 2018.
 
 ## Patents
 * **李一鸣**, 吴保元, 张勇, 樊艳波, 李志锋, 刘威, 冯岩, 江勇, 夏树涛. 一种图像识别模型的训练方法、图像识别的方法及装置. (发明专利, 申请号: CN2020101821805, HKS202989-CN)
