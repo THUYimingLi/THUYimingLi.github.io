@@ -23,11 +23,11 @@ I am currently a ~~second~~ third year Ph.D. student at Tsinghua University, Chi
 
 
 ## News
+* 10/2020: Finished my internship at Tencent AI Lab, working on "Secure ML". 465 days, a memorable journey.
 * 10/2020: I will serve as the Program Committee Member (PC Member) of AISTATS 2021.
 * 09/2020: Our technical report, The ATT&CK Matrix of AI Security, is released (in Chinese). [[Link]](https://ai.tencent.com/ailab/media/AI%E5%AE%89%E5%85%A8%E7%9A%84%E5%A8%81%E8%83%81%E9%A3%8E%E9%99%A9%E7%9F%A9%E9%98%B5.pdf) [[News]](https://www.jiqizhixin.com/articles/2020-09-25-9). It is the first technical report comprehensively covering different kinds of security threats in the full cycle of an AI system. It could be an important reference for AI researchers, AI engineers, and AI users.
 * 08/2020: I will serve as the Program Committee Member (PC Member) of AAAI 2021 and IJCAI 2021.
 * 07/2020: One paper is accepted by ECCV 2020 and its code is also released in Github. 
-* 06/2020: I will serve as the Program Committee Member (PC Member) of NeurIPS 2020.
 
 
 ## Research
@@ -45,13 +45,16 @@ I am currently a ~~second~~ third year Ph.D. student at Tsinghua University, Chi
 
 
 ### Backdoor Learning
-* **Yiming Li**, Ziqi Zhang, Jiawang Bai, Baoyuan Wu, Yong Jiang, Shu-Tao Xia. Open-sourced Dataset Protection via Backdoor Watermarking. submitted to NeurIPS Workshop, 2020. [[arXiv]](https://arxiv.org/abs/2010.05821)
-* **Yiming Li**, Baoyuan Wu, Yong Jiang, Zhifeng Li, Shu-Tao Xia. Backdoor Learning: A Survey. submitted to Nature Machine Intelligence, 2020. [[arXiv]](https://arxiv.org/abs/2007.08745)[[Github Resources]](https://github.com/THUYimingLi/backdoor-learning-resources)
+
+
+* **Yiming Li**, Baoyuan Wu, Yong Jiang, Zhifeng Li, Shu-Tao Xia. Backdoor Learning: A Survey. submitted to IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2020. [[arXiv]](https://arxiv.org/abs/2007.08745)[[Github Resources]](https://github.com/THUYimingLi/backdoor-learning-resources)
 
 * **Yiming Li**\*, Tongqing Zhai\*, Baoyuan Wu, Yong Jiang, Zhifeng Li, Shu-Tao Xia. Rethinking the Trigger of Backdoor Attack. submitted to ICLR, 2020. [[arXiv]](https://arxiv.org/abs/2004.04692)
 
 
 ### Data Privacy
+* **Yiming Li**, Ziqi Zhang, Jiawang Bai, Baoyuan Wu, Yong Jiang, Shu-Tao Xia. Open-sourced Dataset Protection via Backdoor Watermarking. submitted to NeurIPS Workshop, 2020. [[arXiv]](https://arxiv.org/abs/2010.05821)
+
 * **Yiming Li**\*, Jiawang Bai\*, Jiawei Li, Chun Li, Yong Jiang, Xue Yang, Shu-Tao Xia. Multinomial Random Forest: Toward Consistency and Privacy-Preservation. submitted to AAAI, 2020. [[arXiv]](https://arxiv.org/abs/1903.04003)
 
 * **Yiming Li**\*, Peidong Liu\*, Yong Jiang, Shu-Tao Xia. Visual Privacy Protection via Mapping Distortion. submitted to ICASSP, 2020.
@@ -76,7 +79,7 @@ Knowledge Distillation. *Entropy*, 2020. (to appear)
 
 
 ## Work Experience
-* Research Intern, Tencent AI Lab, Jul 2019 - Present
+* Research Intern, Tencent AI Lab, Jul 2019 - Oct 2020
   * Mentor: Dr. [Baoyuan Wu](https://sites.google.com/site/baoyuanwu2015/), Principle Research Scientist
   * Selected by the Tencent Rhino-bird Elite Training Program, Tencent AI Lab, 2020
   * Partly involved in the Tencent technical report, The ATT&CK Matrix of AI Security (in Chinese) [[Link]](https://ai.tencent.com/ailab/media/AI%E5%AE%89%E5%85%A8%E7%9A%84%E5%A8%81%E8%83%81%E9%A3%8E%E9%99%A9%E7%9F%A9%E9%98%B5.pdf) [[News]](https://www.jiqizhixin.com/articles/2020-09-25-9). Mainly responsible for backdoor-related sections and report editing.
@@ -98,7 +101,10 @@ Knowledge Distillation. *Entropy*, 2020. (to appear)
 * Outstanding Graduate of Zhejiang Province (TOP 1%), 2018
 
 ## Patents
-* **李一鸣**, 吴保元, 张勇, 樊艳波, 李志锋, 刘威, 冯岩, 江勇, 夏树涛. 一种图像识别模型的训练方法、图像识别的方法及装置. (申请号: CN2020101821805, HKS202989-CN)
+* **李一鸣**, 吴保元, 张勇, 樊艳波, 李志锋, 刘威, 冯岩, 江勇, 夏树涛. 一种图像识别模型的训练方法、图像识别的方法及装置. (发明专利, 申请号: CN2020101821805, HKS202989-CN)
+
+* **李一鸣**, 吴保元, 江勇, 李志锋, 夏树涛, 刘威. 图像分类模型后门攻击的防御方法、装置、设备及介质. (发明专利, 申请号: CN2020111221249)
+
 
 ## Services
 * **Reviewer**, IEEE Transactions on Industrial Informatics (TII), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
