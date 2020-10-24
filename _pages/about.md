@@ -63,7 +63,7 @@ I am currently a ~~second~~ third year Ph.D. student at Tsinghua University, Chi
 * **Yiming Li**, Lifeng Xi. Manhattan Property of Geodesic Paths on Self-affine Carpets. *Archiv der Mathematik*, 2018. [[Link]](https://link.springer.com/article/10.1007/s00013-018-1199-4)
 
 * Jiawei Li, **Yiming Li**, Xingchun Xiang, Shu-Tao Xia, Siyi Dong, Yun Cai. TNT: An Interpretable Tree-Network-Tree Learning Framework using 
-Knowledge Distillation. *Entropy*, 2020. (to appear)
+Knowledge Distillation. *Entropy*, 2020. [[Link]](https://www.mdpi.com/1099-4300/22/11/1203)
 
 * Jiawei Li, **Yiming Li**, Jiacheng Yang, Taian Guo, Shu-Tao Xia. UA-DRN: Unbiased Aggregation of Deep Neural Networks for Regression Ensemble. *ICONIP*, 2019. [[Link]](http://ajiips.com.au/papers/V15.2/v15n2_90-97.pdf)
 
