@@ -39,7 +39,7 @@ I am currently a ~~second~~ third year Ph.D. student at Tsinghua University, Chi
 
 * **Yiming Li**\*, Yang Zhang\*, Qingtao Tang, Weipeng Huang, Yong Jiang, Shu-Tao Xia. *t*-*k*-means: A Robust and Stable *k*-means Variant. submitted to ICASSP, 2021. [[arXiv]](https://arxiv.org/abs/1907.07442)
 
-* **Yiming Li**, Yong Jiang, Shu-Tao Xia. Self-Paced Deep Forest. 2018. (Part of the Undergraduate Thesis)
+* **Yiming Li**, Yong Jiang, Shu-Tao Xia. Self-Paced Deep Forest. 2018. (Part of my Undergraduate Thesis)
 
 
 ### Backdoor Learning
