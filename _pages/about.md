@@ -52,7 +52,7 @@ I am currently a ~~second~~ third year Ph.D. student at Tsinghua University, Chi
 
 
 ### Data Privacy
-* **Yiming Li**, Ziqi Zhang, Jiawang Bai, Baoyuan Wu, Yong Jiang, Shu-Tao Xia. Open-sourced Dataset Protection via Backdoor Watermarking. *NeurIPS Workshop*, 2020. [[arXiv]](https://arxiv.org/abs/2010.05821)
+* **Yiming Li**, Ziqi Zhang, Jiawang Bai, Baoyuan Wu, Yong Jiang, Shu-Tao Xia. Open-sourced Dataset Protection via Backdoor Watermarking. *NeurIPS Workshop on Dataset Curation and Security*, 2020. [[arXiv]](https://arxiv.org/abs/2010.05821)
 
 * **Yiming Li**\*, Jiawang Bai\*, Jiawei Li, Chun Li, Yong Jiang, Xue Yang, Shu-Tao Xia. Multinomial Random Forest: Toward Consistency and Privacy-Preservation. submitted to AAAI, 2020. [[arXiv]](https://arxiv.org/abs/1903.04003)
 
