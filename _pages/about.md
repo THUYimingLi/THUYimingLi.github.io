@@ -92,7 +92,7 @@ Knowledge Distillation. *Entropy*, 2020. [[Link]](https://www.mdpi.com/1099-4300
   * Mentor: Dr. Xinji Liu, Deputy Manager of Quantitative Investment Department
 
 ## Awards and Honors
-* Best Student Research Award of TBSI Workshop on Data Science, 2019.
+* Best Student Research Award of TBSI Workshop on Data Science (TOP 1), 2019.
 * First Prize of Chinese Mathematics Competition (TOP 3%), 2016.
 * First Prize of China Undergraduate Mathematical Contest in Modeling (TOP 3%), 2015.
 * Tsinghua 'Future Scholar' Ph.D. Scholarship (TOP 5%), 2020.
