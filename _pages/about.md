@@ -24,7 +24,7 @@ I am currently a ~~second~~ third year Ph.D. student at Tsinghua University, Chi
 
 ## News
 * 11/2020: One paper is accepted by NeurIPS Workshop 2020. Its code will be released on Github soon.
-* 10/2020: I finished my internship at Tencent AI Lab, working on "Secure ML". 465 days, a memorable journey.
+* 10/2020: I finished my internship at Tencent AI Lab, working on "AI Security". 465 days, a memorable journey.
 * 09/2020: Our technical report, The ATT&CK Matrix of AI Security, is released (in Chinese). [[Link]](https://ai.tencent.com/ailab/media/AI%E5%AE%89%E5%85%A8%E7%9A%84%E5%A8%81%E8%83%81%E9%A3%8E%E9%99%A9%E7%9F%A9%E9%98%B5.pdf) [[News]](https://www.jiqizhixin.com/articles/2020-09-25-9). It is the first technical report comprehensively covering different kinds of security threats in the full cycle of an AI system. It could be an important reference for AI researchers, AI engineers, and AI users.
 * 08/2020: I will serve as the PC Member of AAAI 2021, AISTATS 2021, and IJCAI 2021.
 * 07/2020: One paper is accepted by ECCV 2020 and its code is also released in Github. 
@@ -82,15 +82,16 @@ Knowledge Distillation. *Entropy*, 2020. [[Link]](https://www.mdpi.com/1099-4300
 
 ## Work Experience
 * Research Intern, Tencent AI Lab, Jul 2019 - Oct 2020
+  * Supported by the Tencent Rhino-bird Elite Training Program, working on AI Security
   * Mentor: Dr. [Baoyuan Wu](https://sites.google.com/site/baoyuanwu2015/), Principle Research Scientist
-  * Selected by the Tencent Rhino-bird Elite Training Program, Tencent AI Lab, 2020
   * Partly involved in the Tencent technical report, The ATT&CK Matrix of AI Security (in Chinese) [[Link]](https://ai.tencent.com/ailab/media/AI%E5%AE%89%E5%85%A8%E7%9A%84%E5%A8%81%E8%83%81%E9%A3%8E%E9%99%A9%E7%9F%A9%E9%98%B5.pdf) [[News]](https://www.jiqizhixin.com/articles/2020-09-25-9). Mainly responsible for backdoor-related sections and report editing.
 
 * Intern, Department of Vision Technology, OPPO, May 2019 - Jun 2019
+  * Supported by the TBSI Capstone Project, working on human instance segmentation
   * Mentor: Dr. Haidong Huang, Senior Algorithm Engineer
-  * Supported by the TBSI Capstone Project
 
 * Intern, Department of Quantitative Investment, Wukong Investment Management Company, July 2018 - Sept 2018
+  * Working on ML-based algorithms development in high-frequency trading
   * Mentor: Dr. Xinji Liu, Deputy Manager of Quantitative Investment Department
 
 ## Awards and Honors
