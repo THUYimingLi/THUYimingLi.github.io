@@ -23,7 +23,7 @@ I am currently a ~~second~~ third year Ph.D. student at Tsinghua University, Chi
 
 
 ## News
-* 11/2020: One paper is accepted by NeurIPS Workshop 2020. Its code will be released on Github soon.
+* 11/2020: One paper is accepted by NeurIPS Workshop 2020. Its code is released on Github.
 * 10/2020: I finished my internship at Tencent AI Lab, working on "AI Security". 465 days, a memorable journey.
 * 09/2020: Our technical report, The ATT&CK Matrix of AI Security, is released (in Chinese). [[Link]](https://ai.tencent.com/ailab/media/AI%E5%AE%89%E5%85%A8%E7%9A%84%E5%A8%81%E8%83%81%E9%A3%8E%E9%99%A9%E7%9F%A9%E9%98%B5.pdf) [[News]](https://www.jiqizhixin.com/articles/2020-09-25-9). It is the first technical report comprehensively covering different kinds of security threats in the full cycle of an AI system. It could be an important reference for AI researchers, AI engineers, and AI users.
 * 08/2020: I will serve as the PC Member of AAAI 2021, AISTATS 2021, and IJCAI 2021.
@@ -55,7 +55,7 @@ I am currently a ~~second~~ third year Ph.D. student at Tsinghua University, Chi
 
 
 ### Data Privacy
-* **Yiming Li**, Ziqi Zhang, Jiawang Bai, Baoyuan Wu, Yong Jiang, Shu-Tao Xia. Open-sourced Dataset Protection via Backdoor Watermarking. *NeurIPS Workshop on Dataset Curation and Security*, 2020. [[arXiv]](https://arxiv.org/abs/2010.05821)
+* **Yiming Li**, Ziqi Zhang, Jiawang Bai, Baoyuan Wu, Yong Jiang, Shu-Tao Xia. Open-sourced Dataset Protection via Backdoor Watermarking. *NeurIPS Workshop on Dataset Curation and Security*, 2020. [[arXiv]](https://arxiv.org/abs/2010.05821)[[Code]](https://github.com/THUYimingLi/Open-sourced_Dataset_Protection)
 
 * **Yiming Li**\*, Jiawang Bai\*, Jiawei Li, Chun Li, Yong Jiang, Xue Yang, Shu-Tao Xia. Multinomial Random Forest: Toward Consistency and Privacy-Preservation. submitted to AAAI, 2020. [[arXiv]](https://arxiv.org/abs/1903.04003)
 
