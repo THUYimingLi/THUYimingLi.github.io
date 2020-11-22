@@ -26,7 +26,7 @@ I am currently a ~~second~~ third year Ph.D. student at Tsinghua University, Chi
 * 11/2020: One paper is accepted by NeurIPS Workshop 2020. Its code is released on Github.
 * 10/2020: I finished my internship at Tencent AI Lab, working on "AI Security". 465 days, a memorable journey.
 * 09/2020: Our technical report, The ATT&CK Matrix of AI Security, is released (in Chinese). [[Link]](https://ai.tencent.com/ailab/media/AI%E5%AE%89%E5%85%A8%E7%9A%84%E5%A8%81%E8%83%81%E9%A3%8E%E9%99%A9%E7%9F%A9%E9%98%B5.pdf) [[News]](https://www.jiqizhixin.com/articles/2020-09-25-9). It is the first technical report comprehensively covering different kinds of security threats in the full cycle of an AI system. It could be an important reference for AI researchers, AI engineers, and AI users.
-* 08/2020: I will serve as the PC Member of AAAI 2021, AISTATS 2021, and IJCAI 2021.
+* 08/2020: I will serve as the PC Member of AAAI 2021, AISTATS 2021, CVPR 2021, and IJCAI 2021.
 * 07/2020: One paper is accepted by ECCV 2020 and its code is also released in Github. 
 
 
@@ -116,7 +116,7 @@ Knowledge Distillation. *Entropy*, 2020. [[Link]](https://www.mdpi.com/1099-4300
 
 ## Services
 * **Reviewer**, IEEE Transactions on Industrial Informatics (TII), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), Neurocomputing
-* **Program Committee Member**, ICONIP 2019, ICONIP 2020, NeurIPS 2020, IJCAI 2021, AAAI 2021, AISTATS 2021
+* **Program Committee Member**, ICONIP 2019, ICONIP 2020, NeurIPS 2020, AAAI 2021, AISTATS 2021, CVPR 2021, IJCAI 2021
 * **Executive Chairman Committee Member**, TBSI Workshop on Data Science (2019)
 
 
