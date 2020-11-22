@@ -41,18 +41,17 @@ I am currently a ~~second~~ third year Ph.D. student at Tsinghua University, Chi
 
 * **Yiming Li**\*, Yang Zhang\*, Qingtao Tang, Weipeng Huang, Yong Jiang, Shu-Tao Xia. *t*-*k*-means: A Robust and Stable *k*-means Variant. submitted to ICASSP, 2021. [[arXiv]](https://arxiv.org/abs/1907.07442)
 
-* Chuanbiao Song, Yanbo Fan, Baoyuan Wu, **Yiming Li**, Zhifeng Li, Kun He. REG-AT: Region-based Adversarial Training for Better Adversarially Robust Generalization. submitted to CVPR, 2021.
-
 * **Yiming Li**, Yong Jiang, Shu-Tao Xia. Self-Paced Deep Forest. 2018. (Part of my Undergraduate Thesis)
 
+* Chuanbiao Song, Yanbo Fan, Baoyuan Wu, **Yiming Li**, Zhifeng Li, Kun He. REG-AT: Region-based Adversarial Training for Better Adversarially Robust Generalization. submitted to CVPR, 2021.
 
 ### The Security of Training Process
 
 * **Yiming Li**, Baoyuan Wu, Yong Jiang, Zhifeng Li, Shu-Tao Xia. Backdoor Learning: A Survey. submitted to IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2020. [[arXiv]](https://arxiv.org/abs/2007.08745)[[Github Resources]](https://github.com/THUYimingLi/backdoor-learning-resources)
 
-* Yuezun Li\*, **Yiming Li**\*, Baoyuan Wu, Longkang Li, Ran He, Siwei Lyu. Backdoor Attack with Sample-Specific Triggers. submitted to CVPR, 2021.
-
 * **Yiming Li**\*, Tongqing Zhai\*, Baoyuan Wu, Yong Jiang, Zhifeng Li, Shu-Tao Xia. Rethinking the Trigger of Backdoor Attack. arXiv, 2020. [[arXiv]](https://arxiv.org/abs/2004.04692)
+
+* Yuezun Li\*, **Yiming Li**\*, Baoyuan Wu, Longkang Li, Ran He, Siwei Lyu. Backdoor Attack with Sample-Specific Triggers. submitted to CVPR, 2021.
 
 * Tongqing Zhai\*, **Yiming Li**\*, Ziqi Zhang, Baoyuan Wu, Yong Jiang, Shu-Tao Xia. Backdoor Attack against Speaker Verification. submitted to ICASSP, 2021.[[arXiv]](https://arxiv.org/pdf/2010.11607.pdf)
 
