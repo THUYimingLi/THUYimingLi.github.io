@@ -81,10 +81,13 @@ Knowledge Distillation. *Entropy*, 2020. [[Link]](https://www.mdpi.com/1099-4300
 * Jiawei Li, **Yiming Li**, Tao Dai, Maocai Xia, Shu-Tao Xia. Human Fall Recognition and Detection using Multitask Deep Learning. submitted to Neurocomputing, 2019. 
 
 
+## Technical Reports and Invited Talks
+* Tencent AI Lab (Baoyuan Wu, Yanbo Fan, Yong Zhang, **Yiming Li**, Zhifeng Li, Wei Liu), Tencent Zhuque Lab (viking, jifengzhu, allenszch, ucasjh, dylan, xunsu). The ATT&CK Matrix of AI Security (in Chinese), 2020/09/18. [[Link]](https://ai.tencent.com/ailab/media/AI%E5%AE%89%E5%85%A8%E7%9A%84%E5%A8%81%E8%83%81%E9%A3%8E%E9%99%A9%E7%9F%A9%E9%98%B5.pdf) [[News]](https://www.jiqizhixin.com/articles/2020-09-25-9).
+
+* An Introduction of Backdoor Learning. CUHK-SZ, 2020/12/05.
 
 
-
-## Work Experience
+## Work Experiences
 * Research Intern, Tencent AI Lab, Jul 2019 - Oct 2020
   * Supported by the Tencent Rhino-bird Elite Training Program, working on AI Security
   * Mentor: Dr. [Baoyuan Wu](https://sites.google.com/site/baoyuanwu2015/), Principle Research Scientist
