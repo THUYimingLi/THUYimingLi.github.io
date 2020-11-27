@@ -84,7 +84,7 @@ Knowledge Distillation. *Entropy*, 2020. [[Link]](https://www.mdpi.com/1099-4300
 ## Technical Reports and Invited Talks
 * Tencent AI Lab (Baoyuan Wu, Yanbo Fan, Yong Zhang, **Yiming Li**, Zhifeng Li, Wei Liu), Tencent Zhuque Lab (viking, jifengzhu, allenszch, ucasjh, dylan, xunsu). The ATT&CK Matrix of AI Security (in Chinese), 2020/09/18. [[Link]](https://ai.tencent.com/ailab/media/AI%E5%AE%89%E5%85%A8%E7%9A%84%E5%A8%81%E8%83%81%E9%A3%8E%E9%99%A9%E7%9F%A9%E9%98%B5.pdf) [[News]](https://www.jiqizhixin.com/articles/2020-09-25-9).
 
-* An Introduction of Backdoor Learning. CUHK-SZ, 2020/12/05.
+* *An Introduction of Backdoor Learning* at CUHK-SZ, 2020/12/05.
 
 
 ## Work Experiences
