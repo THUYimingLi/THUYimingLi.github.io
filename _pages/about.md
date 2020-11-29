@@ -25,7 +25,7 @@ I am currently a ~~second~~ third year Ph.D. student at Tsinghua University, Chi
 ## News
 * 11/2020: One paper is accepted by NeurIPS Workshop 2020. Its code is released on Github.
 * 10/2020: I finished my internship at Tencent AI Lab, working on "AI Security". 465 days, a memorable journey.
-* 09/2020: Our technical report, The ATT&CK Matrix of AI Security, is released (in Chinese). [[Link]](https://ai.tencent.com/ailab/media/AI%E5%AE%89%E5%85%A8%E7%9A%84%E5%A8%81%E8%83%81%E9%A3%8E%E9%99%A9%E7%9F%A9%E9%98%B5.pdf) [[News]](https://www.jiqizhixin.com/articles/2020-09-25-9). It is the first technical report comprehensively covering different kinds of security threats in the full cycle of an AI system. It could be an important reference for AI researchers, AI engineers, and AI users.
+* 09/2020: Our technical report, The ATT&CK Matrix of AI Security, is released (in Chinese). [[Download]](https://ai.tencent.com/ailab/media/AI%E5%AE%89%E5%85%A8%E7%9A%84%E5%A8%81%E8%83%81%E9%A3%8E%E9%99%A9%E7%9F%A9%E9%98%B5.pdf) [[News]](https://www.jiqizhixin.com/articles/2020-09-25-9). It is the first technical report comprehensively covering different kinds of security threats in the full cycle of an AI system. It could be an important reference for AI researchers, AI engineers, and AI users.
 * 08/2020: I will serve as the PC Member of AAAI 2021, AISTATS 2021, CVPR 2021, and IJCAI 2021.
 * 07/2020: One paper is accepted by ECCV 2020 and its code is also released in Github. 
 
@@ -82,7 +82,7 @@ Knowledge Distillation. *Entropy*, 2020. [[Link]](https://www.mdpi.com/1099-4300
 
 
 ## Technical Reports and Invited Talks
-* Tencent AI Lab (Baoyuan Wu, Yanbo Fan, Yong Zhang, **Yiming Li**, Zhifeng Li, Wei Liu), Tencent Zhuque Lab (viking, jifengzhu, allenszch, ucasjh, dylan, xunsu). The ATT&CK Matrix of AI Security (in Chinese), 2020/09/18. [[Link]](https://ai.tencent.com/ailab/media/AI%E5%AE%89%E5%85%A8%E7%9A%84%E5%A8%81%E8%83%81%E9%A3%8E%E9%99%A9%E7%9F%A9%E9%98%B5.pdf) [[News]](https://www.jiqizhixin.com/articles/2020-09-25-9).
+* Tencent AI Lab (Baoyuan Wu, Yanbo Fan, Yong Zhang, **Yiming Li**, Zhifeng Li, Wei Liu), Tencent Zhuque Lab (viking, jifengzhu, allenszch, ucasjh, dylan, xunsu). The ATT&CK Matrix of AI Security (in Chinese), 2020/09/18. [[Download]](https://ai.tencent.com/ailab/media/AI%E5%AE%89%E5%85%A8%E7%9A%84%E5%A8%81%E8%83%81%E9%A3%8E%E9%99%A9%E7%9F%A9%E9%98%B5.pdf) [[Media1]](https://ai.tencent.com/ailab/zh/news/detial/?id=68) [[Media2]](https://www.jiqizhixin.com/articles/2020-09-25-9) [[Meida3]](http://tech.sina.com.cn/csj/2020-09-25/doc-iivhuipp6375448.shtml) [[Meida4]](https://tech.qq.com/a/20200925/020797.htm) [[Media5]](http://mp.163.com/article/FNCHRG1V0511DSSR.html) [[Media6]](https://www.sohu.com/a/421167914_120765903)...
 
 * A Brief Introduction of Backdoor Learning, The Chinese University of Hong Kong, Shenzhen (CUHK-SZ), 2020/12/05. [[Slides]](https://www.dropbox.com/s/4nb8nywqfvhj6m6/BackdoorLearningIntro_YimingLi.pptx?dl=0)
 
