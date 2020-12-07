@@ -51,9 +51,9 @@ I am currently a ~~second~~ third year Ph.D. student at Tsinghua University, Chi
 
 * **Yiming Li**\*, Tongqing Zhai\*, Baoyuan Wu, Yong Jiang, Zhifeng Li, Shu-Tao Xia. Rethinking the Trigger of Backdoor Attack. ***Under Review***, 2020. [[arXiv]](https://arxiv.org/abs/2004.04692)
 
-* Yuezun Li\*, **Yiming Li**\*, Baoyuan Wu, Longkang Li, Ran He, Siwei Lyu. Backdoor Attack with Sample-Specific Triggers. ***Under Review***, 2020.
-
 * Tongqing Zhai\*, **Yiming Li**\*, Ziqi Zhang, Baoyuan Wu, Yong Jiang, Shu-Tao Xia. Backdoor Attack against Speaker Verification. ***Under Review***, 2020.[[arXiv]](https://arxiv.org/pdf/2010.11607.pdf)
+
+* Yuezun Li, **Yiming Li**, Baoyuan Wu, Longkang Li, Ran He, Siwei Lyu. Backdoor Attack with Sample-Specific Triggers. ***Under Review***, 2020.
 
 * Jiawang Bai, Baoyuan Wu, Yong Zhang, **Yiming Li**, Zhifeng Li, Shu-Tao Xia. Targeted Attack against Deep Neural Networks via Flipping Limited Weight Bits. ***Under Review***, 2020.
 
@@ -85,7 +85,7 @@ Knowledge Distillation. ***Entropy***, 2020. [[Link]](https://www.mdpi.com/1099-
 
 * A Brief Introduction of Backdoor Learning, The Chinese University of Hong Kong, Shenzhen (CUHK-SZ), 2020/12/05. [[Slides]](https://www.dropbox.com/s/4nb8nywqfvhj6m6/BackdoorLearningIntro_YimingLi.pptx?dl=0)
 
-* How to Improve Model Robustness via Adopting Unlabeled Data, CCF Young Computer Scientists&Engineers Forum, Shenzhen (CCF-YOCSEF-SZ), 2020/08/22. [[Slides]](https://www.dropbox.com/s/y48jq69ofa19j3k/slides_YOCSEF.pdf?dl=0)
+* How to Improve Model Robustness via Adopting Unlabeled Data, CCF Young Computer Scientists & Engineers Forum, Shenzhen (CCF-YOCSEF-SZ), 2020/08/22. [[Slides]](https://www.dropbox.com/s/y48jq69ofa19j3k/slides_YOCSEF.pdf?dl=0)
 
 
 ## Work Experiences
