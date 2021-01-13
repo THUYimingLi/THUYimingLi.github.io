@@ -11,6 +11,13 @@ redirect_from:
 ## Biography
 I am currently a ~~second~~ third year Ph.D. student at Tsinghua University, China. I received my B.S. degree in Mathematics and Applied Mathematics from Ningbo University, China, in 2018. **My research mainly focus on the security of machine learning**, including the *inference security* (mainly on adversarial learning and robust machine learning), *training security* (mainly on backdoor learning), and *data security* (mainly on data privacy).
 
+
+[Github Repo about Backdoor Learning Resources](https://github.com/THUYimingLi/backdoor-learning-resources)
+
+
+[The ATT&CK Matrix of AI Security (in Chinese)](https://ai.tencent.com/ailab/media/AI%E5%AE%89%E5%85%A8%E7%9A%84%E5%A8%81%E8%83%81%E9%A3%8E%E9%99%A9%E7%9F%A9%E9%98%B5.pdf)
+
+
 ## Education
 * Ph.D. in Computer Science, Tsinghua University, Aug. 2018 - Present
   * Supervisor: Prof. [Shu-Tao Xia](https://www.sigs.tsinghua.edu.cn/xst/main.htm) and Prof. [Yong Jiang](https://www.sigs.tsinghua.edu.cn/jy/main.htm)
@@ -28,7 +35,6 @@ I am currently a ~~second~~ third year Ph.D. student at Tsinghua University, Chi
 * 10/2020: I finished my internship at Tencent AI Lab, working on "AI Security". 465 days, a memorable journey.
 * 09/2020: Our technical report, The ATT&CK Matrix of AI Security, is released (in Chinese). [[Download]](https://ai.tencent.com/ailab/media/AI%E5%AE%89%E5%85%A8%E7%9A%84%E5%A8%81%E8%83%81%E9%A3%8E%E9%99%A9%E7%9F%A9%E9%98%B5.pdf) [[News]](https://www.jiqizhixin.com/articles/2020-09-25-9). It is the first technical report comprehensively covering different kinds of security threats in the full cycle of an AI system. It could be an important reference for AI researchers, AI engineers, and AI users.
 * 08/2020: I will serve as the PC Member of AAAI 2021, AISTATS 2021, CVPR 2021, and IJCAI 2021.
-* 07/2020: One paper is accepted by ECCV 2020 and its code is also released in Github. 
 
 
 ## Research
