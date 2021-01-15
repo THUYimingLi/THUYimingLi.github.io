@@ -91,7 +91,7 @@ Knowledge Distillation. ***Entropy***, 2020. [[Link]](https://www.mdpi.com/1099-
 ## Technical Reports and Invited Talks
 * Tencent AI Lab (Baoyuan Wu, Yanbo Fan, Yong Zhang, **Yiming Li**, Zhifeng Li, Wei Liu), Tencent Zhuque Lab (viking, jifengzhu, allenszch, ucasjh, dylan, xunsu). The ATT&CK Matrix of AI Security (in Chinese), 2020/09/18. [[Download]](https://ai.tencent.com/ailab/media/AI%E5%AE%89%E5%85%A8%E7%9A%84%E5%A8%81%E8%83%81%E9%A3%8E%E9%99%A9%E7%9F%A9%E9%98%B5.pdf) [[Media1]](https://ai.tencent.com/ailab/zh/news/detial/?id=68) [[Media2]](https://www.jiqizhixin.com/articles/2020-09-25-9) [[Media3]](http://tech.sina.com.cn/csj/2020-09-25/doc-iivhuipp6375448.shtml) [[Media4]](https://tech.qq.com/a/20200925/020797.htm) [[Media5]](http://mp.163.com/article/FNCHRG1V0511DSSR.html) [[Media6]](https://www.sohu.com/a/421167914_120765903)...
 
-* Backdoor Attack: A New Security Threat towards the Training of DNNs, AI Drive (online), 2021/01/20. [[Slides]](https://www.dropbox.com/s/hs7g3c0cr1nobqo/BackdoorAttackIntro_YimingLi.pptx?dl=0)
+* Backdoor Attack: A New Security Threat towards the Training of DNNs, AI Drive (online), 2021/01/20. [[Slides]](https://www.dropbox.com/s/rp7p437s3mvsamj/BackdoorAttackIntro_YimingLi.pptx?dl=0)
 
 * A Brief Introduction of Backdoor Learning, The Chinese University of Hong Kong, Shenzhen (CUHK-SZ), 2020/12/05. [[Slides]](https://www.dropbox.com/s/4nb8nywqfvhj6m6/BackdoorLearningIntro_YimingLi.pptx?dl=0)
 
