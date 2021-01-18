@@ -53,7 +53,7 @@ I am currently a ~~second~~ third year Ph.D. student at Tsinghua University, Chi
 * Chuanbiao Song, Yanbo Fan, Baoyuan Wu, **Yiming Li**, Zhifeng Li, Kun He. REG-AT: Region-based Adversarial Training for Better Adversarially Robust Generalization. ***Under Review***, 2020.
 
 ### The Security of Training Process
-* Jiawang Bai, Baoyuan Wu, Yong Zhang, **Yiming Li**, Zhifeng Li, Shu-Tao Xia. Targeted Attack against Deep Neural Networks via Flipping Limited Weight Bits. ***ICLR***, 2021.
+* Jiawang Bai, Baoyuan Wu, Yong Zhang, **Yiming Li**, Zhifeng Li, Shu-Tao Xia. Targeted Attack against Deep Neural Networks via Flipping Limited Weight Bits. ***ICLR***, 2021. [[Link]](https://openreview.net/forum?id=iKQAk8a2kM0)
 
 * **Yiming Li**, Baoyuan Wu, Yong Jiang, Zhifeng Li, Shu-Tao Xia. Backdoor Learning: A Survey. ***Under Review***, 2020. [[arXiv]](https://arxiv.org/abs/2007.08745)[[Github Resources]](https://github.com/THUYimingLi/backdoor-learning-resources)
 
