@@ -30,11 +30,11 @@ I am currently a ~~second~~ third year Ph.D. student at Tsinghua University, Chi
 
 
 ## News
+* 01/2021: Three papers are accepted by ICASSP 2021. Their codes will be released soon.
 * 01/2021: One paper is accepted by ICLR 2021. Its code is released on Github.
 * 11/2020: One paper is accepted by NeurIPS Workshop 2020. Its code is released on Github.
 * 10/2020: I finished my internship at Tencent AI Lab, working on "AI Security". 465 days, a memorable journey.
 * 09/2020: Our technical report, The ATT&CK Matrix of AI Security, is released (in Chinese). [[Download]](https://ai.tencent.com/ailab/media/AI%E5%AE%89%E5%85%A8%E7%9A%84%E5%A8%81%E8%83%81%E9%A3%8E%E9%99%A9%E7%9F%A9%E9%98%B5.pdf) [[News]](https://www.jiqizhixin.com/articles/2020-09-25-9). It is the first technical report comprehensively covering different kinds of security threats in the full cycle of an AI system. It could be an important reference for AI researchers, AI engineers, and AI users.
-* 08/2020: I will serve as the PC Member of AAAI 2021, AISTATS 2021, CVPR 2021, and IJCAI 2021.
 
 
 ## Research
@@ -42,36 +42,36 @@ I am currently a ~~second~~ third year Ph.D. student at Tsinghua University, Chi
 ### The Security of Inference Process
 * Jiawang Bai\*, Bin Chen\*, **Yiming Li**\*, Dongxian Wu, Weiwei Guo, Shu-Tao Xia, Enhui Yang. Targeted Attack for Deep Hashing based Retrieval. ***ECCV*** (<font color='red'>oral, TOP 2%</font>), 2020. [[arXiv]](https://arxiv.org/abs/2004.07955)[[Code]](https://github.com/jiawangbai/DHTA-master)
 
+* **Yiming Li**\*, Yang Zhang\*, Qingtao Tang, Weipeng Huang, Yong Jiang, Shu-Tao Xia. *t*-*k*-means: A Robust and Stable *k*-means Variant. ***ICASSP***, 2021. [[arXiv]](https://arxiv.org/abs/1907.07442)
+
 * Jia Xu\*, **Yiming Li**\*, Yong Jiang, Shu-Tao Xia. Adversarial Defense via Local Flatness Regularization. ***ICIP*** (<font color='red'>oral</font>), 2020. [[arXiv]](https://arxiv.org/abs/1910.12165)[[Slides]](https://share.weiyun.com/6uJPj6VG)
 
-* **Yiming Li**, Baoyuan Wu, Yan Feng, Yanbo Fan, Yong Jiang, Zhifeng Li, Shu-Tao Xia. Semi-supervised Robust Training with Generalized Perturbed Neighborhood. ***Under Review***, 2019. [[Preprint]](https://www.researchgate.net/publication/339971613_Toward_Adversarial_Robustness_via_Semi-supervised_Robust_Training)[[Code]](https://github.com/THUYimingLi/Semi-supervised_Robust_Training)
-
-* **Yiming Li**\*, Yang Zhang\*, Qingtao Tang, Weipeng Huang, Yong Jiang, Shu-Tao Xia. *t*-*k*-means: A Robust and Stable *k*-means Variant. ***Under Review***, 2020. [[arXiv]](https://arxiv.org/abs/1907.07442)
+* **Yiming Li**, Baoyuan Wu, Yan Feng, Yanbo Fan, Yong Jiang, Zhifeng Li, Shu-Tao Xia. Semi-supervised Robust Training with Generalized Perturbed Neighborhood. ***Under Review***, 2020. [[Preprint]](https://www.researchgate.net/publication/339971613_Toward_Adversarial_Robustness_via_Semi-supervised_Robust_Training)[[Code]](https://github.com/THUYimingLi/Semi-supervised_Robust_Training)
 
 * **Yiming Li**, Yong Jiang, Shu-Tao Xia. Self-Paced Deep Forest. 2018. (Part of my Undergraduate Thesis)
 
 * Chuanbiao Song, Yanbo Fan, Baoyuan Wu, **Yiming Li**, Zhifeng Li, Kun He. REG-AT: Region-based Adversarial Training for Better Adversarially Robust Generalization. ***Under Review***, 2020.
 
 ### The Security of Training Process
+* Tongqing Zhai\*, **Yiming Li**\*, Ziqi Zhang, Baoyuan Wu, Yong Jiang, Shu-Tao Xia. Backdoor Attack against Speaker Verification. ***ICASSP***, 2021.[[arXiv]](https://arxiv.org/pdf/2010.11607.pdf)
+
 * Jiawang Bai, Baoyuan Wu, Yong Zhang, **Yiming Li**, Zhifeng Li, Shu-Tao Xia. Targeted Attack against Deep Neural Networks via Flipping Limited Weight Bits. ***ICLR***, 2021. [[Link]](https://openreview.net/forum?id=iKQAk8a2kM0)[[Code]](https://github.com/jiawangbai/TA-LBF-master)
 
 * **Yiming Li**, Baoyuan Wu, Yong Jiang, Zhifeng Li, Shu-Tao Xia. Backdoor Learning: A Survey. ***Under Review***, 2020. [[arXiv]](https://arxiv.org/abs/2007.08745)[[Github Resources]](https://github.com/THUYimingLi/backdoor-learning-resources)
 
 * **Yiming Li**\*, Tongqing Zhai\*, Baoyuan Wu, Yong Jiang, Zhifeng Li, Shu-Tao Xia. Rethinking the Trigger of Backdoor Attack. ***Under Review***, 2020. [[arXiv]](https://arxiv.org/abs/2004.04692)
 
-* Tongqing Zhai\*, **Yiming Li**\*, Ziqi Zhang, Baoyuan Wu, Yong Jiang, Shu-Tao Xia. Backdoor Attack against Speaker Verification. ***Under Review***, 2020.[[arXiv]](https://arxiv.org/pdf/2010.11607.pdf)
-
 * Yuezun Li, **Yiming Li**, Baoyuan Wu, Longkang Li, Ran He, Siwei Lyu. Backdoor Attack with Sample-Specific Triggers. ***Under Review***, 2020. [[arXiv]](https://arxiv.org/pdf/2012.03816.pdf)
 
 
 
-
 ### Data Privacy
+* **Yiming Li**\*, Peidong Liu\*, Yong Jiang, Shu-Tao Xia. Visual Privacy Protection via Mapping Distortion. ***ICASSP***, 2021.
+
 * **Yiming Li**, Ziqi Zhang, Jiawang Bai, Baoyuan Wu, Yong Jiang, Shu-Tao Xia. Open-sourced Dataset Protection via Backdoor Watermarking. ***NeurIPS Workshop on Dataset Curation and Security***, 2020. [[arXiv]](https://arxiv.org/abs/2010.05821)[[Poster]](https://www.dropbox.com/s/dtkers5txx0mats/WatermarkingDataset_NIPSW2020_poster.pdf?dl=0)[[Code]](https://github.com/THUYimingLi/Open-sourced_Dataset_Protection)
 
 * **Yiming Li**\*, Jiawang Bai\*, Jiawei Li, Chun Li, Yong Jiang, Xue Yang, Shu-Tao Xia. Multinomial Random Forest: Toward Consistency and Privacy-Preservation. ***Under Review***, 2020. [[arXiv]](https://arxiv.org/abs/1903.04003)
 
-* **Yiming Li**\*, Peidong Liu\*, Yong Jiang, Shu-Tao Xia. Visual Privacy Protection via Mapping Distortion. ***Under Review***, 2020.
 
 ### Other Topics
 * **Yiming Li**, Lifeng Xi. Manhattan Property of Geodesic Paths on Self-affine Carpets. ***Archiv der Mathematik***, 2018. [[Link]](https://link.springer.com/article/10.1007/s00013-018-1199-4)
