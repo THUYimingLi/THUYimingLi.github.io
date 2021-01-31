@@ -42,7 +42,7 @@ I am currently a ~~second~~ third year Ph.D. student at Tsinghua University, Chi
 ### The Security of Inference Process
 * Jiawang Bai\*, Bin Chen\*, **Yiming Li**\*, Dongxian Wu, Weiwei Guo, Shu-Tao Xia, Enhui Yang. Targeted Attack for Deep Hashing based Retrieval. ***ECCV*** (<font color='red'>oral, TOP 2%</font>), 2020. [[arXiv]](https://arxiv.org/abs/2004.07955)[[Code]](https://github.com/jiawangbai/DHTA-master)
 
-* **Yiming Li**\*, Yang Zhang\*, Qingtao Tang, Weipeng Huang, Yong Jiang, Shu-Tao Xia. *t*-*k*-means: A Robust and Stable *k*-means Variant. ***ICASSP***, 2021. [[arXiv]](https://arxiv.org/abs/1907.07442)
+* **Yiming Li**\*, Yang Zhang\*, Qingtao Tang, Weipeng Huang, Yong Jiang, Shu-Tao Xia. *t*-*k*-means: A Robust and Stable *k*-means Variant. ***ICASSP***, 2021. [[arXiv]](https://arxiv.org/abs/1907.07442)[[Code]](https://github.com/THUYimingLi/t-k-means)
 
 * Jia Xu\*, **Yiming Li**\*, Yong Jiang, Shu-Tao Xia. Adversarial Defense via Local Flatness Regularization. ***ICIP*** (<font color='red'>oral</font>), 2020. [[arXiv]](https://arxiv.org/abs/1910.12165)[[Slides]](https://share.weiyun.com/6uJPj6VG)
 
@@ -53,7 +53,7 @@ I am currently a ~~second~~ third year Ph.D. student at Tsinghua University, Chi
 * Chuanbiao Song, Yanbo Fan, Baoyuan Wu, **Yiming Li**, Zhifeng Li, Kun He. REG-AT: Region-based Adversarial Training for Better Adversarially Robust Generalization. ***Under Review***, 2020.
 
 ### The Security of Training Process
-* Tongqing Zhai\*, **Yiming Li**\*, Ziqi Zhang, Baoyuan Wu, Yong Jiang, Shu-Tao Xia. Backdoor Attack against Speaker Verification. ***ICASSP***, 2021.[[arXiv]](https://arxiv.org/pdf/2010.11607.pdf)
+* Tongqing Zhai\*, **Yiming Li**\*, Ziqi Zhang, Baoyuan Wu, Yong Jiang, Shu-Tao Xia. Backdoor Attack against Speaker Verification. ***ICASSP***, 2021.[[arXiv]](https://arxiv.org/pdf/2010.11607.pdf)[[Code]](https://github.com/THUYimingLi/Backdoor_Attack_Against_Speaker_Verification)
 
 * Jiawang Bai, Baoyuan Wu, Yong Zhang, **Yiming Li**, Zhifeng Li, Shu-Tao Xia. Targeted Attack against Deep Neural Networks via Flipping Limited Weight Bits. ***ICLR***, 2021. [[Link]](https://openreview.net/forum?id=iKQAk8a2kM0)[[Code]](https://github.com/jiawangbai/TA-LBF-master)
 
@@ -66,7 +66,7 @@ I am currently a ~~second~~ third year Ph.D. student at Tsinghua University, Chi
 
 
 ### Data Privacy
-* **Yiming Li**\*, Peidong Liu\*, Yong Jiang, Shu-Tao Xia. Visual Privacy Protection via Mapping Distortion. ***ICASSP***, 2021.
+* **Yiming Li**\*, Peidong Liu\*, Yong Jiang, Shu-Tao Xia. Visual Privacy Protection via Mapping Distortion. ***ICASSP***, 2021. [[arXiv]](https://arxiv.org/abs/1911.01769)[[Code]](https://github.com/PerdonLiu/Visual-Privacy-Protection-via-Mapping-Distortion)
 
 * **Yiming Li**, Ziqi Zhang, Jiawang Bai, Baoyuan Wu, Yong Jiang, Shu-Tao Xia. Open-sourced Dataset Protection via Backdoor Watermarking. ***NeurIPS Workshop on Dataset Curation and Security***, 2020. [[arXiv]](https://arxiv.org/abs/2010.05821)[[Poster]](https://www.dropbox.com/s/dtkers5txx0mats/WatermarkingDataset_NIPSW2020_poster.pdf?dl=0)[[Code]](https://github.com/THUYimingLi/Open-sourced_Dataset_Protection)
 
