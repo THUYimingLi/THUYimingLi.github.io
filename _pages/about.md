@@ -30,7 +30,7 @@ I am currently a ~~second~~ third year Ph.D. student at Tsinghua University, Chi
 
 
 ## News
-* 01/2021: Three papers are accepted by ICASSP 2021. Their codes will be released soon.
+* 01/2021: Three papers are accepted by ICASSP 2021. Their codes are released on Github.
 * 01/2021: One paper is accepted by ICLR 2021. Its code is released on Github.
 * 11/2020: One paper is accepted by NeurIPS Workshop 2020. Its code is released on Github.
 * 10/2020: I finished my internship at Tencent AI Lab, working on "AI Security". 465 days, a memorable journey.
