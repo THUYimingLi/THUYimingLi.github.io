@@ -30,6 +30,7 @@ I am currently a ~~second~~ third year Ph.D. student at Tsinghua University, Chi
 
 
 ## News
+* 02/2021: I will serve as the PC Memeber of ICML 2021.
 * 01/2021: Three papers are accepted by ICASSP 2021. Their codes are released on Github.
 * 01/2021: One paper is accepted by ICLR 2021. Its code is released on Github.
 * 11/2020: One paper is accepted by NeurIPS Workshop 2020. Its code is released on Github.
@@ -130,7 +131,7 @@ Knowledge Distillation. ***Entropy***, 2020. [[Link]](https://www.mdpi.com/1099-
 
 ## Services
 * **Reviewer**, IEEE Transactions on Industrial Informatics (TII), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), Neurocomputing
-* **Program Committee Member**, ICONIP 2019, ICONIP 2020, NeurIPS 2020, AAAI 2021, AISTATS 2021, CVPR 2021, IJCAI 2021
+* **Program Committee Member**, ICONIP 2019, ICONIP 2020, NeurIPS 2020, AAAI 2021, AISTATS 2021, CVPR 2021, IJCAI 2021, ICML 2021
 * **Executive Chairman Committee Member**, TBSI Workshop on Data Science (2019)
 
 
