@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## Biography
-I am currently a ~~second~~ third year Ph.D. student at Tsinghua University, China. I received my B.S. degree in Mathematics and Applied Mathematics from Ningbo University, China, in 2018. **My research mainly focus on the security of machine learning**, including **(1)** inference security (mainly on adversarial learning and robust machine learning), **(2)** training security (mainly on backdoor learning), and **(3)** data security (mainly on data privacy).
+I am currently a ~~second~~ third year Ph.D. student at Tsinghua University, China. I received my B.S. degree in Mathematics and Applied Mathematics from Ningbo University, China, in 2018. **My research mainly focus on the AI security**, including the **inference security** (mainly on adversarial learning and robust machine learning), **training security** (mainly on backdoor learning), and **data security** (mainly on data privacy).
 
 
 [Github Repo about Backdoor Learning Resources](https://github.com/THUYimingLi/backdoor-learning-resources)
