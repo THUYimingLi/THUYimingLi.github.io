@@ -113,6 +113,9 @@ Knowledge Distillation. ***Entropy***, 2020. [[Link]](https://www.mdpi.com/1099-
   * Working on ML-based algorithms development in high-frequency trading
   * Mentor: Dr. Xinji Liu, Deputy Manager of Quantitative Investment Department
 
+## Teaching
+* Spring, 20201. **Optimization Theory and Machine Learning** in SIGS (32 hours), given by Prof. [Somayeh Sojoudi](https://people.eecs.berkeley.edu/~sojoudi/).
+
 ## Awards and Honors
 * Best Student Research Award of TBSI Workshop on Data Science (TOP 1), 2019.
 * Tencent Rhino-bird Elite Training Program (TOP 10%), 2020.
