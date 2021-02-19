@@ -114,7 +114,7 @@ Knowledge Distillation. ***Entropy***, 2020. [[Link]](https://www.mdpi.com/1099-
   * Mentor: Dr. Xinji Liu, Deputy Manager of Quantitative Investment Department
 
 ## Teaching
-* Spring, 2021. **Optimization Theory and Machine Learning** in SIGS (32 hours), given by Prof. [Somayeh Sojoudi](https://people.eecs.berkeley.edu/~sojoudi/).
+* Spring, 2021. TA in **Optimization Theory and Machine Learning**, instructed by Prof. [Somayeh Sojoudi](https://people.eecs.berkeley.edu/~sojoudi/).
 
 ## Awards and Honors
 * Best Student Research Award of TBSI Workshop on Data Science (TOP 1), 2019.
