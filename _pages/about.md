@@ -15,7 +15,7 @@ I am currently a ~~second~~ third year Ph.D. student at Tsinghua University, Chi
 [Github Repo about Backdoor Learning Resources](https://github.com/THUYimingLi/backdoor-learning-resources)
 
 
-[The ATT&CK Matrix of AI Security (in Chinese)](https://ai.tencent.com/ailab/media/AI%E5%AE%89%E5%85%A8%E7%9A%84%E5%A8%81%E8%83%81%E9%A3%8E%E9%99%A9%E7%9F%A9%E9%98%B5.pdf)
+[The ATT&CK Matrix of AI Security (in Chinese)](https://ai.tencent.com/ailab/media/AI%E5%AE%89%E5%85%A8%E7%9A%84%E5%A8%81%E8%83%81%E9%A3%8E%E9%99%A9%E7%9F%A9%E9%98%B5.pdf) (It is the first technical report comprehensively covering different kinds of security threats in the full cycle of an AI system.)
 
 
 ## Education
@@ -56,7 +56,7 @@ I am currently a ~~second~~ third year Ph.D. student at Tsinghua University, Chi
 ### The Security of Training Process
 * Tongqing Zhai\*, **Yiming Li**\*, Ziqi Zhang, Baoyuan Wu, Yong Jiang, Shu-Tao Xia. Backdoor Attack against Speaker Verification. ***ICASSP***, 2021.[[arXiv]](https://arxiv.org/pdf/2010.11607.pdf)[[Code]](https://github.com/zhaitongqing233/Backdoor-attack-against-speaker-verification)
 
-* Jiawang Bai, Baoyuan Wu, Yong Zhang, **Yiming Li**, Zhifeng Li, Shu-Tao Xia. Targeted Attack against Deep Neural Networks via Flipping Limited Weight Bits. ***ICLR***, 2021. [[Link]](https://openreview.net/forum?id=iKQAk8a2kM0)[[Code]](https://github.com/jiawangbai/TA-LBF-master)
+* Jiawang Bai, Baoyuan Wu, Yong Zhang, **Yiming Li**, Zhifeng Li, Shu-Tao Xia. Targeted Attack against Deep Neural Networks via Flipping Limited Weight Bits. ***ICLR***, 2021. [[arXiv]](https://arxiv.org/pdf/2102.10496.pdf)[[Code]](https://github.com/jiawangbai/TA-LBF-master)
 
 * **Yiming Li**, Baoyuan Wu, Yong Jiang, Zhifeng Li, Shu-Tao Xia. Backdoor Learning: A Survey. ***Under Review***, 2020. [[arXiv]](https://arxiv.org/abs/2007.08745)[[Github Resources]](https://github.com/THUYimingLi/backdoor-learning-resources)
 
