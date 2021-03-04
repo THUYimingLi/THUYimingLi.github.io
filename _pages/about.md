@@ -58,7 +58,7 @@ I am currently a ~~second~~ third year Ph.D. student at Tsinghua University, Chi
 
 * Jiawang Bai, Baoyuan Wu, Yong Zhang, **Yiming Li**, Zhifeng Li, Shu-Tao Xia. Targeted Attack against Deep Neural Networks via Flipping Limited Weight Bits. ***ICLR***, 2021. [[arXiv]](https://arxiv.org/pdf/2102.10496.pdf)[[Code]](https://github.com/jiawangbai/TA-LBF-master)
 
-* **Yiming Li**\*, Yanjie Li, Yalei Lv, Baoyuan Wu, Yong Jiang, Shu-Tao Xia. Hidden Backdoor Attack against Semantic Segmentation Models. ***Under Review***, 2021.
+* **Yiming Li**\*, Yanjie Li\*, Yalei Lv, Baoyuan Wu, Yong Jiang, Shu-Tao Xia. Hidden Backdoor Attack against Semantic Segmentation Models. ***Under Review***, 2021.
 
 * **Yiming Li**, Tongqing Zhai, Baoyuan Wu, Yong Jiang, Zhifeng Li, Shu-Tao Xia. Rethinking the Trigger of Backdoor Attack. ***Under Review***, 2020. [[arXiv]](https://arxiv.org/abs/2004.04692)
 
