@@ -24,7 +24,7 @@ I am currently a ~~second~~ third year Ph.D. student at Tsinghua University, Chi
 
 * Exchange Student, University of Wisconsin, Jan. 2017 − May. 2017
 
-* B.S. in Mathematics and Applied Mathematics, Yangming Innovation Class, Ningbo University, Aug. 2014 - May. 2018
+* B.S. in Mathematics and Applied Mathematics (Yangming Innovation Class), Ningbo University, Aug. 2014 - May. 2018
   * Supervisor: Prof. [Lifeng Xi](http://math.nbu.edu.cn/info/1046/1098.htm)
   * Thesis Topic: Study and Application of Ensemble Learning in Deep Learning (Outstanding Undergraduate Thesis in Ningbo University)
 
@@ -58,9 +58,11 @@ I am currently a ~~second~~ third year Ph.D. student at Tsinghua University, Chi
 
 * Jiawang Bai, Baoyuan Wu, Yong Zhang, **Yiming Li**, Zhifeng Li, Shu-Tao Xia. Targeted Attack against Deep Neural Networks via Flipping Limited Weight Bits. ***ICLR***, 2021. [[arXiv]](https://arxiv.org/pdf/2102.10496.pdf)[[Code]](https://github.com/jiawangbai/TA-LBF-master)
 
-* **Yiming Li**, Baoyuan Wu, Yong Jiang, Zhifeng Li, Shu-Tao Xia. Backdoor Learning: A Survey. ***Under Review***, 2020. [[arXiv]](https://arxiv.org/abs/2007.08745)[[Github Resources]](https://github.com/THUYimingLi/backdoor-learning-resources)
+* **Yiming Li**\*, Yanjie Li, Yalei Lv, Baoyuan Wu, Yong Jiang, Shu-Tao Xia. Hidden Backdoor Attack against Semantic Segmentation Models. ***Under Review***, 2021.
 
 * **Yiming Li**, Tongqing Zhai, Baoyuan Wu, Yong Jiang, Zhifeng Li, Shu-Tao Xia. Rethinking the Trigger of Backdoor Attack. ***Under Review***, 2020. [[arXiv]](https://arxiv.org/abs/2004.04692)
+
+* **Yiming Li**, Baoyuan Wu, Yong Jiang, Zhifeng Li, Shu-Tao Xia. Backdoor Learning: A Survey. ***Under Review***, 2020. [[arXiv]](https://arxiv.org/abs/2007.08745)[[Github Resources]](https://github.com/THUYimingLi/backdoor-learning-resources)
 
 * Yuezun Li, **Yiming Li**, Baoyuan Wu, Longkang Li, Ran He, Siwei Lyu. Backdoor Attack with Sample-Specific Triggers. ***Under Review***, 2020. [[arXiv]](https://arxiv.org/pdf/2012.03816.pdf)
 
