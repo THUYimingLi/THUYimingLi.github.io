@@ -67,7 +67,6 @@ I am currently a ~~second~~ third year Ph.D. student at Tsinghua University, Chi
 * Yuezun Li, **Yiming Li**, Baoyuan Wu, Longkang Li, Ran He, Siwei Lyu. Backdoor Attack with Sample-Specific Triggers. ***Under Review***, 2020. [[arXiv]](https://arxiv.org/pdf/2012.03816.pdf)
 
 
-
 ### Data Privacy
 * **Yiming Li**\*, Peidong Liu\*, Yong Jiang, Shu-Tao Xia. Visual Privacy Protection via Mapping Distortion. ***ICASSP*** (<font color='red'>oral-online</font>), 2021. [[arXiv]](https://arxiv.org/abs/1911.01769)[[Code]](https://github.com/PerdonLiu/Visual-Privacy-Protection-via-Mapping-Distortion)
 
