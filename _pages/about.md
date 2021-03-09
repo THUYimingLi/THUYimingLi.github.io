@@ -26,7 +26,7 @@ I am currently a ~~second~~ third year Ph.D. student at Tsinghua University, Chi
 
 * B.S. in Mathematics and Applied Mathematics (Yangming Innovation Class), Ningbo University, Aug. 2014 - May. 2018
   * Supervisor: Prof. [Lifeng Xi](http://math.nbu.edu.cn/info/1046/1098.htm)
-  * Thesis Topic: [Study and Application of Ensemble Learning in Deep Learning (in Chinese)](https://share.weiyun.com/AwDCKYt6) (Outstanding Undergraduate Thesis in Ningbo University)
+  * Thesis Topic: [Study and Application of Ensemble Learning in Deep Learning (in Chinese)](https://share.weiyun.com/jB7mlKgV) (Outstanding Undergraduate Thesis in Ningbo University)
 
 
 ## News
@@ -124,6 +124,7 @@ Knowledge Distillation. ***Entropy***, 2020. [[Link]](https://www.mdpi.com/1099-
 * First Prize of China Undergraduate Mathematical Contest in Modeling (TOP 1%), 2015.
 * Tsinghua 'Future Scholar' Ph.D. Scholarship (TOP 5%), 2020.
 * TBSI Second Class Scholarship (TOP 5%), 2019 and 2020.
+* Outstanding Undergraduate Thesis Award (TOP 5%), 2018.
 * Undergraduate National Scholarship (TOP 3%), 2017.
 * Outstanding Graduate of Zhejiang Province (TOP 1%), 2018.
 
