@@ -124,7 +124,7 @@ Knowledge Distillation. ***Entropy***, 2020. [[Link]](https://www.mdpi.com/1099-
 * First Prize of China Undergraduate Mathematical Contest in Modeling (TOP 1%), 2015.
 * Tsinghua 'Future Scholar' Ph.D. Scholarship (TOP 5%), 2020.
 * TBSI Second Class Scholarship (TOP 5%), 2019 and 2020.
-* Outstanding Undergraduate Thesis Award (TOP 5%), 2018.
+* Outstanding Undergraduate Thesis Award in Ningbo University (TOP 5%), 2018.
 * Undergraduate National Scholarship (TOP 3%), 2017.
 * Outstanding Graduate of Zhejiang Province (TOP 1%), 2018.
 
