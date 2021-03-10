@@ -47,7 +47,7 @@ I am currently a ~~second~~ third year Ph.D. student at Tsinghua University, Chi
 
 * Jia Xu\*, **Yiming Li**\*, Yong Jiang, Shu-Tao Xia. Adversarial Defense via Local Flatness Regularization. ***ICIP*** (<font color='red'>oral-online</font>), 2020. [[arXiv]](https://arxiv.org/abs/1910.12165)[[Slides]](https://share.weiyun.com/6uJPj6VG)
 
-* **Yiming Li**, Baoyuan Wu, Yan Feng, Yanbo Fan, Yong Jiang, Zhifeng Li, Shu-Tao Xia. Semi-supervised Robust Training with Generalized Perturbed Neighborhood. ***Under Review***, 2020. [[Preprint]](https://www.researchgate.net/publication/339971613_Toward_Adversarial_Robustness_via_Semi-supervised_Robust_Training)[[Code]](https://github.com/THUYimingLi/Semi-supervised_Robust_Training)
+* **Yiming Li**, Baoyuan Wu, Yan Feng, Yanbo Fan, Yong Jiang, Zhifeng Li, Shu-Tao Xia. Semi-supervised Robust Training with Generalized Perturbed Neighborhood. ***Under Review***, 2020. (<font color='red'>Best Student Research Award of TBSI-WODS</font>) [[Preprint]](https://www.researchgate.net/publication/339971613_Toward_Adversarial_Robustness_via_Semi-supervised_Robust_Training)[[Code]](https://github.com/THUYimingLi/Semi-supervised_Robust_Training)
 
 * **Yiming Li**, Yong Jiang, Shu-Tao Xia. Self-Paced Deep Forest. 2018. (Part of my Undergraduate Thesis)
 
