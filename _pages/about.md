@@ -138,6 +138,6 @@ Knowledge Distillation. ***Entropy***, 2020. [[Link]](https://www.mdpi.com/1099-
 ## Services
 * **Reviewer**, IEEE Transactions on Industrial Informatics (TII), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), Neurocomputing
 * **Program Committee Member**, ICONIP 2019/2020, NeurIPS 2020, AAAI 2021, AISTATS 2021, CVPR 2021, IJCAI 2021, ICML 2021
-* **Executive Chairman Committee Member**, TBSI Workshop on Data Science (2019)
+* **Executive Chairman Committee Member**, TBSI Workshop on Data Science (TBSI-WODS), 2019
 
 
