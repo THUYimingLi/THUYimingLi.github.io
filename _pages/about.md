@@ -104,7 +104,7 @@ Knowledge Distillation. ***Entropy***, 2020. [[Link]](https://www.mdpi.com/1099-
 
 ## Work Experiences
 * Research Intern, Tencent AI Lab, Jul 2019 - Oct 2020
-  * Supported by the Tencent Rhino-bird Elite Training Program, working on AI Security
+  * Supported by the **Tencent Rhino-bird Elite Training Program**, working on AI Security
   * Mentor: Dr. [Baoyuan Wu](https://sites.google.com/site/baoyuanwu2015/), Principle Research Scientist
   * Partly involved in the Tencent technical report, The ATT&CK Matrix of AI Security (in Chinese) [[Link]](https://ai.tencent.com/ailab/media/AI%E5%AE%89%E5%85%A8%E7%9A%84%E5%A8%81%E8%83%81%E9%A3%8E%E9%99%A9%E7%9F%A9%E9%98%B5.pdf) [[News]](https://www.jiqizhixin.com/articles/2020-09-25-9). Mainly responsible for backdoor-related sections and report editing.
 
@@ -120,14 +120,14 @@ Knowledge Distillation. ***Entropy***, 2020. [[Link]](https://www.mdpi.com/1099-
 * Spring, 2021. TA in **Optimization Theory and Machine Learning**, instructed by Prof. [Somayeh Sojoudi](https://people.eecs.berkeley.edu/~sojoudi/).
 
 ## Awards and Honors
-* Best Student Research Award of TBSI Workshop on Data Science (TOP-1), 2019.
-* Outstanding Undergraduate Thesis Award in Ningbo University (TOP 5%), 2018.
-* Tencent Rhino-bird Elite Training Program (TOP 10%), 2020.
-* First Prize of Chinese Mathematics Competition (TOP 3%), 2016.
-* First Prize of China Undergraduate Mathematical Contest in Modeling (TOP 1%), 2015.
-* Tsinghua 'Future Scholar' Ph.D. Scholarship (TOP 5%), 2020.
-* Undergraduate National Scholarship (TOP 3%), 2017.
-* Outstanding Graduate of Zhejiang Province (TOP 1%), 2018.
+* Best Student Research Award of TBSI Workshop on Data Science (<font color='red'>TOP-1</font>), 2019.
+* Outstanding Undergraduate Thesis Award in Ningbo University (<font color='red'>TOP 5%</font>), 2018.
+* Tencent Rhino-bird Elite Training Program (<font color='red'>TOP 10%</font>), 2020.
+* First Prize of Chinese Mathematics Competition (<font color='red'>TOP 3%</font>), 2016.
+* First Prize of China Undergraduate Mathematical Contest in Modeling (<font color='red'>TOP 1%</font>), 2015.
+* Tsinghua 'Future Scholar' Ph.D. Scholarship (<font color='red'>TOP 5%</font>), 2020.
+* Undergraduate National Scholarship (<font color='red'>TOP 1%</font>), 2017.
+* Outstanding Graduate of Zhejiang Province (<font color='red'>TOP 1%</font>), 2018.
 
 ## Patents
 * **李一鸣**, 吴保元, 张勇, 樊艳波, 李志锋, 刘威, 冯岩, 江勇, 夏树涛. 一种图像识别模型的训练方法、图像识别的方法及装置. (发明专利, 申请号: CN2020101821805, HKS202989-CN)
