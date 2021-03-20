@@ -18,6 +18,15 @@ I am currently a ~~second~~ third year Ph.D. student at Tsinghua University, Chi
 [The ATT&CK Matrix of AI Security (in Chinese)](https://ai.tencent.com/ailab/media/AI%E5%AE%89%E5%85%A8%E7%9A%84%E5%A8%81%E8%83%81%E9%A3%8E%E9%99%A9%E7%9F%A9%E9%98%B5.pdf) (It is the first technical report comprehensively covering different kinds of security threats in the full cycle of an AI system.)
 
 
+## News
+* 02/2021: I will serve as the PC Memeber of ICML 2021.
+* 01/2021: Three papers are accepted by ICASSP 2021. Their codes are released on Github.
+* 01/2021: One paper is accepted by ICLR 2021. Its code is released on Github.
+* 11/2020: One paper is accepted by NeurIPS Workshop 2020. Its code is released on Github.
+* 10/2020: I finish my internship at Tencent AI Lab, working on "AI Security". 465 days, a memorable journey.
+* 09/2020: Our technical report, The ATT&CK Matrix of AI Security, is released (in Chinese). [[Download]](https://ai.tencent.com/ailab/media/AI%E5%AE%89%E5%85%A8%E7%9A%84%E5%A8%81%E8%83%81%E9%A3%8E%E9%99%A9%E7%9F%A9%E9%98%B5.pdf) [[News]](https://www.jiqizhixin.com/articles/2020-09-25-9). It is the first technical report comprehensively covering different kinds of security threats in the full cycle of an AI system. It could be an important reference for AI researchers, AI engineers, and AI users.
+
+
 ## Education
 * Ph.D. in Computer Science, Tsinghua University, Aug. 2018 - Present
   * Supervisor: Prof. [Shu-Tao Xia](https://www.sigs.tsinghua.edu.cn/xst/main.htm) and Prof. [Yong Jiang](https://www.sigs.tsinghua.edu.cn/jy/main.htm)
@@ -27,16 +36,6 @@ I am currently a ~~second~~ third year Ph.D. student at Tsinghua University, Chi
 * B.S. in Mathematics and Applied Mathematics (Yangming Innovation Class), Ningbo University, Aug. 2014 - May. 2018
   * Supervisor: Prof. [Lifeng Xi](http://math.nbu.edu.cn/info/1046/1098.htm)
   * Thesis Topic: [Study and Application of Ensemble Learning in Deep Learning (in Chinese)](https://share.weiyun.com/jB7mlKgV) (Outstanding Undergraduate Thesis in Ningbo University)
-
-
-## News
-* 02/2021: I will serve as the PC Memeber of ICML 2021.
-* 01/2021: Three papers are accepted by ICASSP 2021. Their codes are released on Github.
-* 01/2021: One paper is accepted by ICLR 2021. Its code is released on Github.
-* 11/2020: One paper is accepted by NeurIPS Workshop 2020. Its code is released on Github.
-* 10/2020: I finish my internship at Tencent AI Lab, working on "AI Security". 465 days, a memorable journey.
-* 09/2020: Our technical report, The ATT&CK Matrix of AI Security, is released (in Chinese). [[Download]](https://ai.tencent.com/ailab/media/AI%E5%AE%89%E5%85%A8%E7%9A%84%E5%A8%81%E8%83%81%E9%A3%8E%E9%99%A9%E7%9F%A9%E9%98%B5.pdf) [[News]](https://www.jiqizhixin.com/articles/2020-09-25-9). It is the first technical report comprehensively covering different kinds of security threats in the full cycle of an AI system. It could be an important reference for AI researchers, AI engineers, and AI users.
-
 
 ## Research
 \* indicates equal contribution 
