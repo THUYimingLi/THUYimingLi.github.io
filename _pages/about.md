@@ -10,9 +10,9 @@ redirect_from:
 
 ## Biography
 I am currently a ~~second~~ third year Ph.D. student at Tsinghua University, China. I received my B.S. degree in Mathematics and Applied Mathematics from Ningbo University, China, in 2018. **My research mainly focus on the AI security**, including 
-    * Model Security of the Inference Process, mainly on the Adversarial Learning and Robust Machine lLearning
-    * Model Security of the Training Process, mainly on the Backdoor Learning
-    * Data Security, mainly on the Data Privacy
+  * Model Security of the Inference Process, mainly on the Adversarial Learning and Robust Machine lLearning
+  * Model Security of the Training Process, mainly on the Backdoor Learning
+  * Data Security, mainly on the Data Privacy
 
 
 
