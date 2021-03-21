@@ -12,7 +12,7 @@ redirect_from:
 I am currently a ~~second~~ third year Ph.D. student at Tsinghua University, China. I received my B.S. degree in Mathematics and Applied Mathematics from Ningbo University, China, in 2018. **My research mainly focus on the AI security**, including 
   * Model Security of the Inference Process (mainly on the Adversarial Learning and Robust Machine Learning)
   * Model Security of the Training Process (mainly on the Backdoor Learning)
-  * Data Security (mainly on the Data Privacy)
+  * Data Privacy
 
 
 
@@ -72,7 +72,7 @@ I am currently a ~~second~~ third year Ph.D. student at Tsinghua University, Chi
 * Yuezun Li, **Yiming Li**, Baoyuan Wu, Longkang Li, Ran He, Siwei Lyu. Backdoor Attack with Sample-Specific Triggers. ***Under Review***, 2020. [[arXiv]](https://arxiv.org/pdf/2012.03816.pdf)
 
 
-### Data Security
+### Data Privacy
 * **Yiming Li**\*, Peidong Liu\*, Yong Jiang, Shu-Tao Xia. Visual Privacy Protection via Mapping Distortion. ***ICASSP***, 2021. [[arXiv]](https://arxiv.org/abs/1911.01769)[[Code]](https://github.com/PerdonLiu/Visual-Privacy-Protection-via-Mapping-Distortion)
 
 * **Yiming Li**, Ziqi Zhang, Jiawang Bai, Baoyuan Wu, Yong Jiang, Shu-Tao Xia. Open-sourced Dataset Protection via Backdoor Watermarking. ***NeurIPS Workshop on Dataset Curation and Security***, 2020. [[arXiv]](https://arxiv.org/abs/2010.05821)[[Poster]](https://www.dropbox.com/s/dtkers5txx0mats/WatermarkingDataset_NIPSW2020_poster.pdf?dl=0)[[Code]](https://github.com/THUYimingLi/Open-sourced_Dataset_Protection)
