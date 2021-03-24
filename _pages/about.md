@@ -108,7 +108,7 @@ Knowledge Distillation. ***Entropy***, 2020. [[Link]](https://www.mdpi.com/1099-
 ## Work Experiences
 * Visiting Ph.D. Student (online), The Chinese University of Hong Kong, Shenzhen (CUHK-SZ), Dec 2020 - Apr 2021
   * Working on Backdoor Learning
-  * Host: Dr. [Baoyuan Wu](https://sites.google.com/site/baoyuanwu2015/), Associate Professor
+  * Supervisor: Dr. [Baoyuan Wu](https://sites.google.com/site/baoyuanwu2015/), Associate Professor
 
 * Research Intern, Tencent AI Lab, Jul 2019 - Oct 2020
   * Supported by the **Tencent Rhino-bird Elite Training Program**, working on AI Security
