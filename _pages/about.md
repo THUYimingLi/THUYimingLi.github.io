@@ -36,7 +36,8 @@ I am currently a ~~second~~ third year Ph.D. student from the Tsinghua-Berkeley 
   * Supervisor: Prof. [Shu-Tao Xia](https://www.sigs.tsinghua.edu.cn/xst/main.htm) and Prof. [Yong Jiang](https://www.sigs.tsinghua.edu.cn/jy/main.htm)
 
 * Exchange Student, University of Wisconsin, Jan. 2017 − May. 2017
-
+  * Major in Mathematics and Computer Science
+  
 * B.S. in Mathematics and Applied Mathematics (Yangming Innovation Class), Ningbo University, Aug. 2014 - May. 2018
   * Supervisor: Prof. [Lifeng Xi](http://math.nbu.edu.cn/info/1046/1098.htm)
   * Thesis Topic: [Study and Application of Ensemble Learning in Deep Learning (in Chinese)](https://share.weiyun.com/jB7mlKgV) (Outstanding Undergraduate Thesis in Ningbo University)
