@@ -133,7 +133,7 @@ Knowledge Distillation. ***Entropy***, 2020. [[Link]](https://www.mdpi.com/1099-
 * Tencent Rhino-bird Elite Training Program (<font color='red'>TOP 10%</font>), 2020.
 * First Prize of Chinese Mathematics Competition (<font color='red'>TOP 3%</font>), 2016.
 * First Prize of China Undergraduate Mathematical Contest in Modeling (<font color='red'>TOP 1%</font>), 2015.
-* Tsinghua 'Future Scholar' Ph.D. Scholarship (<font color='red'>TOP 5%</font>), 2020.
+* Tsinghua 'Future Scholar' Ph.D. Scholarship (<font color='red'>TOP-2</font>) in TBSI, 2020.
 * Undergraduate National Scholarship (<font color='red'>TOP 1%</font>), 2017.
 * Outstanding Graduate of Zhejiang Province (<font color='red'>TOP 1%</font>), 2018.
 
