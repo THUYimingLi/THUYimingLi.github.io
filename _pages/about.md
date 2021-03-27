@@ -24,11 +24,11 @@ I am currently a ~~second~~ third year Ph.D. student at Tsinghua University, Chi
 
 
 ## News
+* 03/2021: One paper is accepted by ICLR Workshop 2021. Its code will be released on Github when we publish its extension.
 * 02/2021: I will serve as the PC Memeber of ICML 2021.
 * 01/2021: Three papers are accepted by ICASSP 2021. Their codes are released on Github.
 * 01/2021: One paper is accepted by ICLR 2021. Its code is released on Github.
 * 11/2020: One paper is accepted by NeurIPS Workshop 2020. Its code is released on Github.
-* 10/2020: I finish my internship at Tencent AI Lab, working on "AI Security". 465 days, a memorable journey.
 
 
 ## Education
@@ -59,11 +59,12 @@ I am currently a ~~second~~ third year Ph.D. student at Tsinghua University, Chi
 ### Model Security of the Training Process
 * Tongqing Zhai\*, **Yiming Li**\*, Ziqi Zhang, Baoyuan Wu, Yong Jiang, Shu-Tao Xia. Backdoor Attack against Speaker Verification. ***ICASSP***, 2021.[[arXiv]](https://arxiv.org/pdf/2010.11607.pdf)[[Code]](https://github.com/zhaitongqing233/Backdoor-attack-against-speaker-verification)
 
+* **Yiming Li**\*, Yanjie Li\*, Yalei Lv, Baoyuan Wu, Yong Jiang, Shu-Tao Xia. Hidden Backdoor Attack against Semantic Segmentation Models. ***ICLR Workshop on Security and Safety in Machine Learning Systems***, 2021. [[arXiv]](https://arxiv.org/pdf/2103.04038.pdf)
+
 * Jiawang Bai, Baoyuan Wu, Yong Zhang, **Yiming Li**, Zhifeng Li, Shu-Tao Xia. Targeted Attack against Deep Neural Networks via Flipping Limited Weight Bits. ***ICLR***, 2021. [[arXiv]](https://arxiv.org/pdf/2102.10496.pdf)[[Code]](https://github.com/jiawangbai/TA-LBF-master)
 
 * Kunzhe Huang\*, **Yiming Li**\*, Baoyuan Wu, Zhan Qin, Kui Ren. Backdoor Defense via Disentangling the Training Process. ***Under Review***, 2021.
 
-* **Yiming Li**\*, Yanjie Li\*, Yalei Lv, Baoyuan Wu, Yong Jiang, Shu-Tao Xia. Hidden Backdoor Attack against Semantic Segmentation Models. ***Under Review***, 2021. [[arXiv]](https://arxiv.org/pdf/2103.04038.pdf)
 
 * **Yiming Li**, Tongqing Zhai, Baoyuan Wu, Yong Jiang, Zhifeng Li, Shu-Tao Xia. Rethinking the Trigger of Backdoor Attack. ***Under Review***, 2020. [[arXiv]](https://arxiv.org/abs/2004.04692)
 
