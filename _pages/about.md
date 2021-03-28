@@ -24,7 +24,7 @@ I am currently a ~~second~~ third year Ph.D. student from the Tsinghua-Berkeley 
 
 
 ## News
-* 03/2021: One paper is accepted by ICLR Workshop 2021. Its code will be released on Github when we publish its extension.
+* 03/2021: Two papers are accepted by ICLR Workshop 2021. Their codes will be released on Github when we publish its extension.
 * 02/2021: I will serve as the PC Memeber of ICML 2021.
 * 01/2021: Three papers are accepted by ICASSP 2021. Their codes are released on Github.
 * 01/2021: One paper is accepted by ICLR 2021. Its code is released on Github.
@@ -60,7 +60,7 @@ I am currently a ~~second~~ third year Ph.D. student from the Tsinghua-Berkeley 
 ### Model Security of the Training Process
 * Tongqing Zhai\*, **Yiming Li**\*, Ziqi Zhang, Baoyuan Wu, Yong Jiang, Shu-Tao Xia. Backdoor Attack against Speaker Verification. ***ICASSP***, 2021.[[arXiv]](https://arxiv.org/pdf/2010.11607.pdf)[[Code]](https://github.com/zhaitongqing233/Backdoor-attack-against-speaker-verification)
 
-* **Yiming Li**\*, Yanjie Li\*, Yalei Lv, Baoyuan Wu, Yong Jiang, Shu-Tao Xia. Hidden Backdoor Attack against Semantic Segmentation Models. ***ICLR Workshop on Security and Safety in Machine Learning Systems***, 2021. [[arXiv]](https://arxiv.org/pdf/2103.04038.pdf)
+* **Yiming Li**\*, Yanjie Li\*, Yalei Lv, Yong Jiang, Shu-Tao Xia. Hidden Backdoor Attack against Semantic Segmentation Models. ***ICLR Workshop on Security and Safety in Machine Learning Systems***, 2021. [[arXiv]](https://arxiv.org/pdf/2103.04038.pdf)
 
 * Jiawang Bai, Baoyuan Wu, Yong Zhang, **Yiming Li**, Zhifeng Li, Shu-Tao Xia. Targeted Attack against Deep Neural Networks via Flipping Limited Weight Bits. ***ICLR***, 2021. [[arXiv]](https://arxiv.org/pdf/2102.10496.pdf)[[Code]](https://github.com/jiawangbai/TA-LBF-master)
 
