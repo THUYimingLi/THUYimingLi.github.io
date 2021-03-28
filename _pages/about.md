@@ -60,14 +60,13 @@ I am currently a ~~second~~ third year Ph.D. student from the Tsinghua-Berkeley 
 ### Model Security of the Training Process
 * Tongqing Zhai\*, **Yiming Li**\*, Ziqi Zhang, Baoyuan Wu, Yong Jiang, Shu-Tao Xia. Backdoor Attack against Speaker Verification. ***ICASSP***, 2021.[[arXiv]](https://arxiv.org/pdf/2010.11607.pdf)[[Code]](https://github.com/zhaitongqing233/Backdoor-attack-against-speaker-verification)
 
+* **Yiming Li**, Tongqing Zhai, Yong Jiang, Zhifeng Li, Shu-Tao Xia. Backdoor Attack in the Physical World. ***ICLR Workshop on Robust and Reliable Machine Learning in the Real World***, 2020. [[extension]](https://arxiv.org/abs/2004.04692)
+
 * **Yiming Li**\*, Yanjie Li\*, Yalei Lv, Yong Jiang, Shu-Tao Xia. Hidden Backdoor Attack against Semantic Segmentation Models. ***ICLR Workshop on Security and Safety in Machine Learning Systems***, 2021. [[arXiv]](https://arxiv.org/pdf/2103.04038.pdf)
 
 * Jiawang Bai, Baoyuan Wu, Yong Zhang, **Yiming Li**, Zhifeng Li, Shu-Tao Xia. Targeted Attack against Deep Neural Networks via Flipping Limited Weight Bits. ***ICLR***, 2021. [[arXiv]](https://arxiv.org/pdf/2102.10496.pdf)[[Code]](https://github.com/jiawangbai/TA-LBF-master)
 
 * Kunzhe Huang\*, **Yiming Li**\*, Baoyuan Wu, Zhan Qin, Kui Ren. Backdoor Defense via Disentangling the Training Process. ***Under Review***, 2021.
-
-
-* **Yiming Li**, Tongqing Zhai, Baoyuan Wu, Yong Jiang, Zhifeng Li, Shu-Tao Xia. Rethinking the Trigger of Backdoor Attack. ***Under Review***, 2020. [[arXiv]](https://arxiv.org/abs/2004.04692)
 
 * **Yiming Li**, Baoyuan Wu, Yong Jiang, Zhifeng Li, Shu-Tao Xia. Backdoor Learning: A Survey. ***Under Review***, 2020. [[arXiv]](https://arxiv.org/abs/2007.08745)[[Github Resources]](https://github.com/THUYimingLi/backdoor-learning-resources)
 
