@@ -24,7 +24,7 @@ I am currently a ~~second~~ third year Ph.D. student from the Tsinghua-Berkeley 
 
 
 ## News
-* 03/2021: Two papers are accepted by ICLR Workshop 2021. Their codes will be released on Github when we publish its extension.
+* 03/2021: Two papers are accepted by ICLR Workshop 2021. Their codes will be released on Github when we publish their extensions.
 * 02/2021: I will serve as the PC Memeber of ICML 2021.
 * 01/2021: Three papers are accepted by ICASSP 2021. Their codes are released on Github.
 * 01/2021: One paper is accepted by ICLR 2021. Its code is released on Github.
