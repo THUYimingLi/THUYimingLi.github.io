@@ -40,7 +40,7 @@ I am currently a ~~second~~ third year Ph.D. student from the Tsinghua-Berkeley 
   
 * B.S. in Mathematics and Applied Mathematics (Yangming Innovation Class), Ningbo University, Aug. 2014 - May. 2018
   * Supervisor: Prof. [Lifeng Xi](http://math.nbu.edu.cn/info/1046/1098.htm)
-  * Thesis Topic: [Study and Application of Ensemble Learning in Deep Learning (in Chinese)](https://share.weiyun.com/jB7mlKgV) (Outstanding Undergraduate Thesis in Ningbo University)
+  * Thesis Topic: [Study and Application of Ensemble Learning in Deep Learning (in Chinese)](https://share.weiyun.com/jB7mlKgV) (<font color='red'>Outstanding Undergraduate Thesis in Ningbo University</font>)
 
 ## Research
 \* indicates equal contribution 
@@ -52,8 +52,6 @@ I am currently a ~~second~~ third year Ph.D. student from the Tsinghua-Berkeley 
 * Jia Xu\*, **Yiming Li**\*, Yong Jiang, Shu-Tao Xia. Adversarial Defense via Local Flatness Regularization. ***ICIP*** (<font color='red'>oral</font>), 2020. [[arXiv]](https://arxiv.org/abs/1910.12165)[[Slides]](https://share.weiyun.com/6uJPj6VG)
 
 * **Yiming Li**, Baoyuan Wu, Yan Feng, Yanbo Fan, Yong Jiang, Zhifeng Li, Shu-Tao Xia. Semi-supervised Robust Training with Generalized Perturbed Neighborhood. ***Under Review***, 2020. (<font color='red'>Best Student Research Award of TBSI-WODS 2019, TOP-1</font>) [[Preprint]](https://www.researchgate.net/publication/339971613_Toward_Adversarial_Robustness_via_Semi-supervised_Robust_Training)[[Code]](https://github.com/THUYimingLi/Semi-supervised_Robust_Training)
-
-* **Yiming Li**, Yong Jiang, Shu-Tao Xia. Self-Paced Deep Forest. 2018. (Part of my Undergraduate Thesis)
 
 * Chuanbiao Song, Yanbo Fan, Baoyuan Wu, **Yiming Li**, Zhifeng Li, Kun He. REG-AT: Region-based Adversarial Training for Better Adversarially Robust Generalization. ***Under Review***, 2020.
 
