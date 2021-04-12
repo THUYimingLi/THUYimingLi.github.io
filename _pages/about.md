@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## Biography
-I am currently a ~~second~~ third year Ph.D. student from the Tsinghua-Berkeley Shenzhen Institute (TBSI) at Tsinghua University, China. Before that, I received my B.S. degree in Mathematics and Applied Mathematics from Ningbo University, China, in 2018. **My research mainly focus on the AI security**, including 
+I am currently a ~~second~~ third year Ph.D. student from the Tsinghua Shenzhen International Graduate School (SIGS) at Tsinghua University, China. Before that, I received my B.S. degree in Mathematics and Applied Mathematics from Ningbo University, China, in 2018. **My research mainly focus on the AI security**, including 
   * Model Security of the Inference Process (mainly on the Adversarial Learning and Robust Machine Learning)
   * Model Security of the Training Process (mainly on the Backdoor Learning)
   * Data Privacy
@@ -148,6 +148,6 @@ Knowledge Distillation. ***Entropy***, 2020. [[Link]](https://www.mdpi.com/1099-
 * **Program Committee Member**, ICONIP 2019/2020, NeurIPS 2020, AAAI 2021, AISTATS 2021, CVPR 2021, IJCAI 2021, ICML 2021
 * **Executive Chairman Committee Member**, TBSI Workshop on Data Science (TBSI-WODS), 2019
 * **Lecturer and Consultant** (paper writing and submission track), academic servicing center of Tsinghua University, 2021
-* **Secretary of Masters Thesis Committee**, Tsinghua-Berkeley Shenzhen Institute, 2021. 
+* **Secretary of Masters Thesis Committee**, Tsinghua Shenzhen International Graduate School, 2021. 
 
 
