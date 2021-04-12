@@ -97,6 +97,8 @@ Knowledge Distillation. ***Entropy***, 2020. [[Link]](https://www.mdpi.com/1099-
 ## Technical Reports and Invited Talks
 * Tencent AI Lab (Baoyuan Wu, Yanbo Fan, Yong Zhang, **Yiming Li**, Zhifeng Li, Wei Liu), Tencent Zhuque Lab (viking, jifengzhu, allenszch, ucasjh, dylan, xunsu). The ATT&CK Matrix of AI Security (in Chinese), 2020/09/18. [[Download]](https://ai.tencent.com/ailab/media/AI%E5%AE%89%E5%85%A8%E7%9A%84%E5%A8%81%E8%83%81%E9%A3%8E%E9%99%A9%E7%9F%A9%E9%98%B5.pdf) [[Media1]](https://ai.tencent.com/ailab/zh/news/detial/?id=68) [[Media2]](https://www.jiqizhixin.com/articles/2020-09-25-9) [[Media3]](http://tech.sina.com.cn/csj/2020-09-25/doc-iivhuipp6375448.shtml) [[Media4]](https://tech.qq.com/a/20200925/020797.htm) [[Media5]](http://mp.163.com/article/FNCHRG1V0511DSSR.html) [[Media6]](https://www.sohu.com/a/421167914_120765903)...
 
+* A Brief Introduction of Backdoor Learning, Southwest Jiaotong University, 2021/04/12. [[Slides]](https://www.dropbox.com/s/so882gvchvzdnqp/BackdoorIntro_YimingLi.pptx?dl=0)
+
 * Backdoor Attack: A New Security Threat towards the Training of DNNs, AI Drive (online), 2021/01/20. [[Slides]](https://www.dropbox.com/s/rp7p437s3mvsamj/BackdoorAttackIntro_YimingLi.pptx?dl=0)[[Video]](https://www.bilibili.com/video/BV1ep4y1W7KV)
 
 * A Brief Introduction of Backdoor Learning, The Chinese University of Hong Kong, Shenzhen (CUHK-SZ), 2020/12/05. [[Slides]](https://www.dropbox.com/s/4nb8nywqfvhj6m6/BackdoorLearningIntro_YimingLi.pptx?dl=0)
@@ -146,5 +148,6 @@ Knowledge Distillation. ***Entropy***, 2020. [[Link]](https://www.mdpi.com/1099-
 * **Program Committee Member**, ICONIP 2019/2020, NeurIPS 2020, AAAI 2021, AISTATS 2021, CVPR 2021, IJCAI 2021, ICML 2021
 * **Executive Chairman Committee Member**, TBSI Workshop on Data Science (TBSI-WODS), 2019
 * **Lecturer and Consultant** (paper writing and submission track), academic servicing center of Tsinghua University, 2021
+* **Secretary of Masters Thesis Committee**, Tsinghua-Berkeley Shenzhen Institute, 2021. 
 
 
