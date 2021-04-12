@@ -147,7 +147,7 @@ Knowledge Distillation. ***Entropy***, 2020. [[Link]](https://www.mdpi.com/1099-
 * **Reviewer**, IEEE Transactions on Industrial Informatics (TII), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), Neurocomputing
 * **Program Committee Member**, ICONIP 2019/2020, NeurIPS 2020, AAAI 2021, AISTATS 2021, CVPR 2021, IJCAI 2021, ICML 2021
 * **Executive Chairman Committee Member**, TBSI Workshop on Data Science (TBSI-WODS), 2019
-* **Lecturer and Consultant** (paper writing and submission track), academic servicing center of Tsinghua University, 2021
+* **Lecturer and Consultant** (paper writing and submission track), Academic Servicing Center of Tsinghua University, 2021
 * **Secretary of Masters Thesis Committee**, Tsinghua Shenzhen International Graduate School, 2021. 
 
 
