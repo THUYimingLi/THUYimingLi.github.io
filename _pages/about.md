@@ -72,7 +72,7 @@ I am currently a ~~second~~ third year Ph.D. student from the Tsinghua Shenzhen 
 
 
 ### Data Privacy
-* **Yiming Li**\*, Peidong Liu\*, Yong Jiang, Shu-Tao Xia. Visual Privacy Protection via Mapping Distortion. ***ICASSP***, 2021. [[arXiv]](https://arxiv.org/abs/1911.01769)[[Code]](https://github.com/PerdonLiu/Visual-Privacy-Protection-via-Mapping-Distortion)
+* **Yiming Li**\*, Peidong Liu\*, Yong Jiang, Shu-Tao Xia. Visual Privacy Protection via Mapping Distortion. ***ICASSP***, 2021. [[arXiv]](https://arxiv.org/abs/1911.01769)[[Code]](https://github.com/PerdonLiu/Visual-Privacy-Protection-via-Mapping-Distortion)[[Slides]](https://www.dropbox.com/s/8cbnmt335s3p1ix/MDP_slides.pptx?dl=0)[[Video]](https://www.dropbox.com/s/ww7mhdn09sqk2nh/MDP_video.mp4?dl=0)
 
 * **Yiming Li**, Ziqi Zhang, Jiawang Bai, Baoyuan Wu, Yong Jiang, Shu-Tao Xia. Open-sourced Dataset Protection via Backdoor Watermarking. ***NeurIPS Workshop on Dataset Curation and Security***, 2020. [[arXiv]](https://arxiv.org/abs/2010.05821)[[Code]](https://github.com/THUYimingLi/Open-sourced_Dataset_Protection)[[Poster]](https://www.dropbox.com/s/dtkers5txx0mats/WatermarkingDataset_NIPSW2020_poster.pdf?dl=0)
 
