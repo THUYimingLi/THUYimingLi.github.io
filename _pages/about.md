@@ -24,8 +24,8 @@ I am currently a ~~second~~ third year Ph.D. student from the Tsinghua Shenzhen 
 
 
 ## News
+* 04/2021: Posters, slides, and videos of our ICASSP 2021 papers are uploaded. Looking forward to seeing you all online in June.
 * 03/2021: Two papers are accepted by ICLR Workshop 2021. Their codes will be released on Github when we publish their extensions.
-* 02/2021: I will serve as the PC Memeber of ICML 2021.
 * 01/2021: Three papers are accepted by ICASSP 2021. Their codes are released on Github.
 * 01/2021: One paper is accepted by ICLR 2021. Its code is released on Github.
 * 11/2020: One paper is accepted by NeurIPS Workshop 2020. Its code is released on Github.
@@ -45,7 +45,7 @@ I am currently a ~~second~~ third year Ph.D. student from the Tsinghua Shenzhen 
 ## Research
 \* indicates equal contribution 
 ### Model Security of the Inference Process
-* Jiawang Bai\*, Bin Chen\*, **Yiming Li**\*, Dongxian Wu, Weiwei Guo, Shu-Tao Xia, Enhui Yang. Targeted Attack for Deep Hashing based Retrieval. ***ECCV*** (<font color='red'>oral, TOP 2%</font>), 2020. [[arXiv]](https://arxiv.org/abs/2004.07955)[[Code]](https://github.com/jiawangbai/DHTA-master)
+* Jiawang Bai\*, Bin Chen\*, **Yiming Li**\*, Dongxian Wu, Weiwei Guo, Shu-Tao Xia, Enhui Yang. Targeted Attack for Deep Hashing based Retrieval. ***ECCV*** (<font color='red'>oral, TOP 2%</font>), 2020. [[arXiv]](https://arxiv.org/abs/2004.07955)[[Code]](https://github.com/jiawangbai/DHTA-master)[[Slides]](https://www.dropbox.com/s/7a1vvopt8z0jxvl/targeted_attack_slides.pptx?dl=0)
 
 * **Yiming Li**\*, Yang Zhang\*, Qingtao Tang, Weipeng Huang, Yong Jiang, Shu-Tao Xia. *t*-*k*-means: A Robust and Stable *k*-means Variant. ***ICASSP***, 2021. [[arXiv]](https://arxiv.org/abs/1907.07442)[[Code]](https://github.com/THUYimingLi/t-k-means)[[Poster]](https://www.dropbox.com/s/mwmzwxivbi2bxlu/t_k_means_poster.pdf?dl=0)[[Slides]](https://www.dropbox.com/s/mlq01732qkcwp2l/t-k-means_slides.pptx?dl=0)[[Video]](https://www.dropbox.com/s/5f7nqutp8k3x17s/t-k-mean_video.mp4?dl=0)
 
@@ -56,7 +56,7 @@ I am currently a ~~second~~ third year Ph.D. student from the Tsinghua Shenzhen 
 * Chuanbiao Song, Yanbo Fan, Baoyuan Wu, **Yiming Li**, Zhifeng Li, Kun He. REG-AT: Region-based Adversarial Training for Better Adversarially Robust Generalization. ***Under Review***, 2020.
 
 ### Model Security of the Training Process
-* Tongqing Zhai\*, **Yiming Li**\*, Ziqi Zhang, Baoyuan Wu, Yong Jiang, Shu-Tao Xia. Backdoor Attack against Speaker Verification. ***ICASSP***, 2021.[[arXiv]](https://arxiv.org/pdf/2010.11607.pdf)[[Code]](https://github.com/zhaitongqing233/Backdoor-attack-against-speaker-verification)
+* Tongqing Zhai\*, **Yiming Li**\*, Ziqi Zhang, Baoyuan Wu, Yong Jiang, Shu-Tao Xia. Backdoor Attack against Speaker Verification. ***ICASSP***, 2021.[[arXiv]](https://arxiv.org/pdf/2010.11607.pdf)[[Code]](https://github.com/zhaitongqing233/Backdoor-attack-against-speaker-verification)[[Poster]](https://www.dropbox.com/s/jd9z8eer749ffgh/BackdoorSpeakerVerification_poster.pdf?dl=0)[[Slides]](https://www.dropbox.com/s/ox2h6wicc9v88a3/BackdoorSpeakerVerification_slides.pptx?dl=0)[[Video]](https://www.dropbox.com/s/0f7effif8itgsow/BackdoorSpeakerVerification_video.mp4?dl=0)
 
 * **Yiming Li**, Tongqing Zhai, Yong Jiang, Zhifeng Li, Shu-Tao Xia. Backdoor Attack in the Physical World. ***ICLR Workshop on Robust and Reliable Machine Learning in the Real World***, 2021. [[arXiv]](https://arxiv.org/pdf/2104.02361.pdf)[[Extension]](https://arxiv.org/abs/2004.04692)
 
