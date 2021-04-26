@@ -10,8 +10,8 @@ redirect_from:
 
 ## Biography
 I am currently a ~~second~~ third year Ph.D. student from the Tsinghua Shenzhen International Graduate School (SIGS) at Tsinghua University, China. Before that, I received my B.S. degree in Mathematics and Applied Mathematics from Ningbo University, China, in 2018. **My research mainly focus on the AI security**, including 
-  * Model Security of the Inference Process (mainly on the Adversarial Learning and Robust Machine Learning)
   * Model Security of the Training Process (mainly on the Backdoor Learning)
+  * Model Security of the Inference Process (mainly on the Adversarial Learning and Robust Machine Learning)
   * Data Privacy
 
 
@@ -43,7 +43,24 @@ I am currently a ~~second~~ third year Ph.D. student from the Tsinghua Shenzhen 
   * Thesis Topic: [Study and Application of Ensemble Learning in Deep Learning (in Chinese)](https://share.weiyun.com/jB7mlKgV) (<font color='red'>Outstanding Undergraduate Thesis in Ningbo University</font>)
 
 ## Research
-\* indicates equal contribution 
+\* indicates equal contribution; \^ indicates corresponding author 
+
+### Model Security of the Training Process
+* Tongqing Zhai\*, **Yiming Li**\* \^, Ziqi Zhang, Baoyuan Wu, Yong Jiang, Shu-Tao Xia. Backdoor Attack against Speaker Verification. ***ICASSP***, 2021.[[arXiv]](https://arxiv.org/pdf/2010.11607.pdf)[[Code]](https://github.com/zhaitongqing233/Backdoor-attack-against-speaker-verification)[[Poster]](https://www.dropbox.com/s/jd9z8eer749ffgh/BackdoorSpeakerVerification_poster.pdf?dl=0)[[Slides]](https://www.dropbox.com/s/ox2h6wicc9v88a3/BackdoorSpeakerVerification_slides.pptx?dl=0)[[Video]](https://www.dropbox.com/s/0f7effif8itgsow/BackdoorSpeakerVerification_video.mp4?dl=0)
+
+* **Yiming Li**, Tongqing Zhai, Yong Jiang, Zhifeng Li, Shu-Tao Xia. Backdoor Attack in the Physical World. ***ICLR Workshop on Robust and Reliable Machine Learning in the Real World***, 2021. [[arXiv]](https://arxiv.org/pdf/2104.02361.pdf)[[Poster]](https://www.dropbox.com/s/cskxnptkd5pmzcj/PhysicalAttack_poster.pdf?dl=0)[[Extension]](https://arxiv.org/abs/2004.04692)
+
+* **Yiming Li**\*, Yanjie Li\*, Yalei Lv, Yong Jiang, Shu-Tao Xia. Hidden Backdoor Attack against Semantic Segmentation Models. ***ICLR Workshop on Security and Safety in Machine Learning Systems***, 2021. [[arXiv]](https://arxiv.org/pdf/2103.04038.pdf)[[Slides]](https://share.weiyun.com/rz7Rvjup)[[Video]](https://studio.slideslive.com/web_recorder/share/35269?s=5fbfa356-0fa7-48e8-9041-146bd5ee296e)
+
+* Jiawang Bai, Baoyuan Wu, Yong Zhang, **Yiming Li**, Zhifeng Li, Shu-Tao Xia. Targeted Attack against Deep Neural Networks via Flipping Limited Weight Bits. ***ICLR***, 2021. [[arXiv]](https://arxiv.org/pdf/2102.10496.pdf)[[Code]](https://github.com/jiawangbai/TA-LBF-master)
+
+* **Yiming Li**, Baoyuan Wu, Yong Jiang, Zhifeng Li, Shu-Tao Xia. Backdoor Learning: A Survey. ***Under Review***, 2020. [[arXiv]](https://arxiv.org/abs/2007.08745)[[Github Resources]](https://github.com/THUYimingLi/backdoor-learning-resources)
+
+* Kunzhe Huang\*, **Yiming Li**\*, Baoyuan Wu, Zhan Qin, Kui Ren. Backdoor Defense via Disentangling the Training Process. ***Under Review***, 2021.
+
+* Yuezun Li, **Yiming Li**, Baoyuan Wu, Longkang Li, Ran He, Siwei Lyu. Backdoor Attack with Sample-Specific Triggers. ***Under Review***, 2020. [[arXiv]](https://arxiv.org/pdf/2012.03816.pdf)
+
+
 ### Model Security of the Inference Process
 * Jiawang Bai\*, Bin Chen\*, **Yiming Li**\*, Dongxian Wu, Weiwei Guo, Shu-Tao Xia, Enhui Yang. Targeted Attack for Deep Hashing based Retrieval. ***ECCV*** (<font color='red'>oral, TOP 2%</font>), 2020. [[arXiv]](https://arxiv.org/abs/2004.07955)[[Code]](https://github.com/jiawangbai/DHTA-master)[[Slides]](https://www.dropbox.com/s/7a1vvopt8z0jxvl/targeted_attack_slides.pptx?dl=0)
 
@@ -54,21 +71,6 @@ I am currently a ~~second~~ third year Ph.D. student from the Tsinghua Shenzhen 
 * **Yiming Li**, Baoyuan Wu, Yan Feng, Yanbo Fan, Yong Jiang, Zhifeng Li, Shu-Tao Xia. Semi-supervised Robust Training with Generalized Perturbed Neighborhood. ***Under Review***, 2020. (<font color='red'>Best Student Research Award of TBSI-WODS 2019, TOP-1</font>) [[Preprint]](https://www.researchgate.net/publication/339971613_Toward_Adversarial_Robustness_via_Semi-supervised_Robust_Training)[[Code]](https://github.com/THUYimingLi/Semi-supervised_Robust_Training)
 
 * Chuanbiao Song, Yanbo Fan, Baoyuan Wu, **Yiming Li**, Zhifeng Li, Kun He. REG-AT: Region-based Adversarial Training for Better Adversarially Robust Generalization. ***Under Review***, 2020.
-
-### Model Security of the Training Process
-* Tongqing Zhai\*, **Yiming Li**\*, Ziqi Zhang, Baoyuan Wu, Yong Jiang, Shu-Tao Xia. Backdoor Attack against Speaker Verification. ***ICASSP***, 2021.[[arXiv]](https://arxiv.org/pdf/2010.11607.pdf)[[Code]](https://github.com/zhaitongqing233/Backdoor-attack-against-speaker-verification)[[Poster]](https://www.dropbox.com/s/jd9z8eer749ffgh/BackdoorSpeakerVerification_poster.pdf?dl=0)[[Slides]](https://www.dropbox.com/s/ox2h6wicc9v88a3/BackdoorSpeakerVerification_slides.pptx?dl=0)[[Video]](https://www.dropbox.com/s/0f7effif8itgsow/BackdoorSpeakerVerification_video.mp4?dl=0)
-
-* **Yiming Li**, Tongqing Zhai, Yong Jiang, Zhifeng Li, Shu-Tao Xia. Backdoor Attack in the Physical World. ***ICLR Workshop on Robust and Reliable Machine Learning in the Real World***, 2021. [[arXiv]](https://arxiv.org/pdf/2104.02361.pdf)[[Poster]](https://www.dropbox.com/s/cskxnptkd5pmzcj/PhysicalAttack_poster.pdf?dl=0)[[Extension]](https://arxiv.org/abs/2004.04692)
-
-* **Yiming Li**\*, Yanjie Li\*, Yalei Lv, Yong Jiang, Shu-Tao Xia. Hidden Backdoor Attack against Semantic Segmentation Models. ***ICLR Workshop on Security and Safety in Machine Learning Systems***, 2021. [[arXiv]](https://arxiv.org/pdf/2103.04038.pdf)[[Slides]](https://share.weiyun.com/rz7Rvjup)[[Video]](https://studio.slideslive.com/web_recorder/share/35269?s=5fbfa356-0fa7-48e8-9041-146bd5ee296e)
-
-* Jiawang Bai, Baoyuan Wu, Yong Zhang, **Yiming Li**, Zhifeng Li, Shu-Tao Xia. Targeted Attack against Deep Neural Networks via Flipping Limited Weight Bits. ***ICLR***, 2021. [[arXiv]](https://arxiv.org/pdf/2102.10496.pdf)[[Code]](https://github.com/jiawangbai/TA-LBF-master)
-
-* Kunzhe Huang\*, **Yiming Li**\*, Baoyuan Wu, Zhan Qin, Kui Ren. Backdoor Defense via Disentangling the Training Process. ***Under Review***, 2021.
-
-* **Yiming Li**, Baoyuan Wu, Yong Jiang, Zhifeng Li, Shu-Tao Xia. Backdoor Learning: A Survey. ***Under Review***, 2020. [[arXiv]](https://arxiv.org/abs/2007.08745)[[Github Resources]](https://github.com/THUYimingLi/backdoor-learning-resources)
-
-* Yuezun Li, **Yiming Li**, Baoyuan Wu, Longkang Li, Ran He, Siwei Lyu. Backdoor Attack with Sample-Specific Triggers. ***Under Review***, 2020. [[arXiv]](https://arxiv.org/pdf/2012.03816.pdf)
 
 
 ### Data Privacy
@@ -87,11 +89,8 @@ I am currently a ~~second~~ third year Ph.D. student from the Tsinghua Shenzhen 
 * Jiawei Li, **Yiming Li**, Xingchun Xiang, Shu-Tao Xia, Siyi Dong, Yun Cai. TNT: An Interpretable Tree-Network-Tree Learning Framework using 
 Knowledge Distillation. ***Entropy***, 2020. [[Link]](https://www.mdpi.com/1099-4300/22/11/1203)[[Code]](https://github.com/liviclee/TNT_explainable-tree-network-tree-learning/)
 
-* Jiawei Li, **Yiming Li**, Jiacheng Yang, Taian Guo, Shu-Tao Xia. UA-DRN: Unbiased Aggregation of Deep Neural Networks for Regression Ensemble. ***ICONIP***, 2019. [[Link]](http://ajiips.com.au/papers/V15.2/v15n2_90-97.pdf)
-
 * **Yiming Li**\*, Jiawang Bai\*, Jiawei Li, Xue Yang, Yong Jiang, Shu-Tao Xia. Rectified Decision Trees: Exploring the Landscape of Interpretable and Effective Machine Learning. ***Under Review***, 2020. [[arXiv]](https://arxiv.org/pdf/2008.09413.pdf)
 
-* Jiawei Li, **Yiming Li**, Tao Dai, Maocai Xia, Shu-Tao Xia. Human Fall Recognition and Detection using Multitask Deep Learning. ***Under Review***, 2019. 
 
 
 ## Technical Reports and Invited Talks
