@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## Biography
-I am currently a ~~second~~ third year Ph.D. student from the Tsinghua Shenzhen International Graduate School (SIGS) at Tsinghua University, China. Before that, I received my B.S. degree in Mathematics and Applied Mathematics from Ningbo University, China, in 2018. **My research mainly focus on the AI security**, including 
+I am currently a third year Ph.D. candidate from the Tsinghua Shenzhen International Graduate School (SIGS) at Tsinghua University, China. Before that, I received my B.S. degree in Mathematics and Applied Mathematics from Ningbo University, China, in 2018. **My research mainly focus on the AI security**, including 
   * Model Security of the Training Process (mainly on the Backdoor Learning)
   * Model Security of the Inference Process (mainly on the Adversarial Learning and Robust Machine Learning)
   * Data Privacy
@@ -24,11 +24,11 @@ I am currently a ~~second~~ third year Ph.D. student from the Tsinghua Shenzhen 
 
 
 ## News
+* 04/2021: So glad to pass my Ph.D. qualifying exam. I am officially a Ph.D. candidate now.
 * 04/2021: Posters, slides, and videos of our ICASSP 2021 papers are uploaded. Looking forward to seeing you all online in June.
 * 03/2021: Two papers are accepted by ICLR Workshop 2021. Their codes will be released on Github when we publish their extensions.
 * 01/2021: Three papers are accepted by ICASSP 2021. Their codes are released on Github.
 * 01/2021: One paper is accepted by ICLR 2021. Its code is released on Github.
-* 11/2020: One paper is accepted by NeurIPS Workshop 2020. Its code is released on Github.
 
 
 ## Education
