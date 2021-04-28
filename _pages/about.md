@@ -29,7 +29,6 @@ I am currently a third year Ph.D. candidate from the Tsinghua Shenzhen Internati
 * 04/2021: Posters, slides, and videos of our ICASSP'21 papers are uploaded. Looking forward to seeing you all in June.
 * 03/2021: Two papers are accepted by ICLR Workshop 2021. Their codes will be released on Github when we publish their extensions.
 * 01/2021: Three papers are accepted by ICASSP 2021. Their codes are released on Github.
-* 01/2021: One paper is accepted by ICLR 2021. Its code is released on Github.
 
 
 ## Education
