@@ -24,8 +24,9 @@ I am currently a third year Ph.D. candidate from the Tsinghua Shenzhen Internati
 
 
 ## News
+* 04/2021: Posters, slides, and videos of our ICLRW'21 papers are uploaded. Looking forward to seeing you all in May.
 * 04/2021: So glad to pass my Ph.D. qualifying exam. I am officially a Ph.D. candidate now.
-* 04/2021: Posters, slides, and videos of our ICASSP 2021 papers are uploaded. Looking forward to seeing you all online in June.
+* 04/2021: Posters, slides, and videos of our ICASSP'21 papers are uploaded. Looking forward to seeing you all in June.
 * 03/2021: Two papers are accepted by ICLR Workshop 2021. Their codes will be released on Github when we publish their extensions.
 * 01/2021: Three papers are accepted by ICASSP 2021. Their codes are released on Github.
 * 01/2021: One paper is accepted by ICLR 2021. Its code is released on Github.
@@ -50,7 +51,7 @@ I am currently a third year Ph.D. candidate from the Tsinghua Shenzhen Internati
 
 * **Yiming Li**, Tongqing Zhai, Yong Jiang, Zhifeng Li, Shu-Tao Xia. Backdoor Attack in the Physical World. ***ICLR Workshop on Robust and Reliable Machine Learning in the Real World***, 2021. [[arXiv]](https://arxiv.org/pdf/2104.02361.pdf)[[Poster]](https://www.dropbox.com/s/cskxnptkd5pmzcj/PhysicalAttack_poster.pdf?dl=0)[[Extension]](https://arxiv.org/abs/2004.04692)
 
-* **Yiming Li**\*, Yanjie Li\*, Yalei Lv, Yong Jiang, Shu-Tao Xia. Hidden Backdoor Attack against Semantic Segmentation Models. ***ICLR Workshop on Security and Safety in Machine Learning Systems***, 2021. [[arXiv]](https://arxiv.org/pdf/2103.04038.pdf)[[Slides]](https://share.weiyun.com/rz7Rvjup)[[Video]](https://studio.slideslive.com/web_recorder/share/35269?s=5fbfa356-0fa7-48e8-9041-146bd5ee296e)
+* **Yiming Li**\*, Yanjie Li\*, Yalei Lv, Yong Jiang, Shu-Tao Xia. Hidden Backdoor Attack against Semantic Segmentation Models. ***ICLR Workshop on Security and Safety in Machine Learning Systems***, 2021. [[arXiv]](https://arxiv.org/pdf/2103.04038.pdf)[[Poster]](https://www.dropbox.com/s/r462uoe3qtkyphu/BackdoorSegmentation_poster.pdf?dl=0)[[Slides]](https://share.weiyun.com/rz7Rvjup)[[Video]](https://studio.slideslive.com/web_recorder/share/35269?s=5fbfa356-0fa7-48e8-9041-146bd5ee296e)
 
 * Jiawang Bai, Baoyuan Wu, Yong Zhang, **Yiming Li**, Zhifeng Li, Shu-Tao Xia. Targeted Attack against Deep Neural Networks via Flipping Limited Weight Bits. ***ICLR***, 2021. [[arXiv]](https://arxiv.org/pdf/2102.10496.pdf)[[Code]](https://github.com/jiawangbai/TA-LBF-master)
 
