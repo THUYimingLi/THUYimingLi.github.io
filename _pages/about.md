@@ -24,8 +24,8 @@ I am currently a third year Ph.D. candidate from the Tsinghua Shenzhen Internati
 
 
 ## News
+* 05/2021: So glad to pass my Ph.D. qualifying exam. I am officially a Ph.D. candidate now.
 * 04/2021: Posters, slides, and videos of our ICLRW'21 papers are uploaded. Looking forward to seeing you all in May.
-* 04/2021: So glad to pass my Ph.D. qualifying exam. I am officially a Ph.D. candidate now.
 * 04/2021: Posters, slides, and videos of our ICASSP'21 papers are uploaded. Looking forward to seeing you all in June.
 * 03/2021: Two papers are accepted by ICLR Workshop 2021. Their codes will be released on Github when we publish their extensions.
 * 01/2021: Three papers are accepted by ICASSP 2021. Their codes are released on Github.
@@ -144,7 +144,7 @@ Knowledge Distillation. ***Entropy***, 2020. [[Link]](https://www.mdpi.com/1099-
 
 ## Services
 * **Reviewer**, IEEE Transactions on Industrial Informatics (TII), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), Neurocomputing
-* **Program Committee Member**, ICONIP 2019/2020, NeurIPS 2020, AAAI 2021, AISTATS 2021, CVPR 2021, IJCAI 2021, ICML 2021
+* **Program Committee Member**, ICONIP, NeurIPS, AAAI, AISTATS, CVPR, IJCAI, ICML
 * **Executive Chairman Committee Member**, TBSI Workshop on Data Science (TBSI-WODS), 2019
 * **Lecturer and Consultant** (paper writing and submission track), Academic Servicing Center of Tsinghua University, 2021
 * **Secretary of Masters Thesis Committee**, Tsinghua Shenzhen International Graduate School, 2021. 
