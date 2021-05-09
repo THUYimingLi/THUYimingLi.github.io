@@ -147,6 +147,6 @@ Knowledge Distillation. ***Entropy***, 2020. [[Link]](https://www.mdpi.com/1099-
 * **Program Committee Member**, ICONIP, NeurIPS, AAAI, AISTATS, CVPR, IJCAI, ICML
 * **Executive Chairman Committee Member**, TBSI Workshop on Data Science (TBSI-WODS), 2019
 * **Lecturer and Consultant** (paper writing and submission track), Academic Servicing Center of Tsinghua University, 2021
-* **Secretary of Masters Thesis Committee**, Tsinghua Shenzhen International Graduate School, 2021. 
+* **Secretary of Masters Thesis Committee**, Tsinghua-Berkeley Shenzhen Institute, 2021. 
 
 
