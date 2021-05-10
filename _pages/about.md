@@ -52,7 +52,7 @@ I am currently a third year Ph.D. candidate from the Tsinghua Shenzhen Internati
 
 * **Yiming Li**\*, Yanjie Li\*, Yalei Lv, Yong Jiang, Shu-Tao Xia. Hidden Backdoor Attack against Semantic Segmentation Models. ***ICLR Workshop on Security and Safety in Machine Learning Systems***, 2021. [[arXiv]](https://arxiv.org/pdf/2103.04038.pdf)[[Poster]](https://www.dropbox.com/s/r462uoe3qtkyphu/BackdoorSegmentation_poster.pdf?dl=0)[[Slides]](https://share.weiyun.com/rz7Rvjup)[[Video]](https://studio.slideslive.com/web_recorder/share/35269?s=5fbfa356-0fa7-48e8-9041-146bd5ee296e)
 
-* Jiawang Bai, Baoyuan Wu, Yong Zhang, **Yiming Li**, Zhifeng Li, Shu-Tao Xia. Targeted Attack against Deep Neural Networks via Flipping Limited Weight Bits. ***ICLR***, 2021. [[arXiv]](https://arxiv.org/pdf/2102.10496.pdf)[[Code]](https://github.com/jiawangbai/TA-LBF-master)
+* Jiawang Bai, Baoyuan Wu, Yong Zhang, **Yiming Li**, Zhifeng Li, Shu-Tao Xia. Targeted Attack against Deep Neural Networks via Flipping Limited Weight Bits. ***ICLR***, 2021. [[arXiv]](https://arxiv.org/pdf/2102.10496.pdf)[[Code]](https://github.com/jiawangbai/TA-LBF-master)[[Poster]](https://www.dropbox.com/s/h700kexejyfs8g1/iclr2021_TA_lBF_poster.pdf?dl=0)[[Video]](https://iclr.cc/virtual/2021/poster/2631)
 
 * **Yiming Li**, Baoyuan Wu, Yong Jiang, Zhifeng Li, Shu-Tao Xia. Backdoor Learning: A Survey. ***Under Review***, 2020. [[arXiv]](https://arxiv.org/abs/2007.08745)[[Github Resources]](https://github.com/THUYimingLi/backdoor-learning-resources)
 
