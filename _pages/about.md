@@ -80,7 +80,7 @@ I am currently a third year Ph.D. candidate from the Tsinghua Shenzhen Internati
 
 * **Yiming Li**, Ziqi Zhang, Jiawang Bai, Baoyuan Wu, Yong Jiang, Shu-Tao Xia. Open-sourced Dataset Protection via Backdoor Watermarking. ***NeurIPS Workshop on Dataset Curation and Security***, 2020. [[arXiv]](https://arxiv.org/abs/2010.05821)[[Code]](https://github.com/THUYimingLi/Open-sourced_Dataset_Protection)[[Poster]](https://www.dropbox.com/s/dtkers5txx0mats/WatermarkingDataset_NIPSW2020_poster.pdf?dl=0)
 
-* Linghui Zhu, **Yiming Li**\*^, Xiaojun Jia, Yong Jiang, Shu-Tao Xia, Xiaochun Cao. Defending against Model Stealing Attacks via Verifying Embedded External Features. ***Under Review***, 2021.
+* Linghui Zhu\*, **Yiming Li**\*^, Xiaojun Jia, Yong Jiang, Shu-Tao Xia, Xiaochun Cao. Defending against Model Stealing Attacks via Verifying Embedded External Features. ***Under Review***, 2021.
 
 * **Yiming Li**\*, Jiawang Bai\*, Jiawei Li, Chun Li, Yong Jiang, Xue Yang, Shu-Tao Xia. Multinomial Random Forest: Toward Consistency and Privacy-Preservation. ***Under Review***, 2020. [[arXiv]](https://arxiv.org/abs/1903.04003)
 
