@@ -110,9 +110,6 @@ Knowledge Distillation. ***Entropy***, 2020. [[Link]](https://www.mdpi.com/1099-
 
 
 ## Work Experiences
-[//]: # (* Research Intern (Talent Program), Ant Security Lab, Alibaba Group, June 2021 - Present)
-  [//]: # (* working on AI Security)
-
 * Visiting Ph.D. Student (online), The Chinese University of Hong Kong, Shenzhen (CUHK-SZ), Dec 2020 - Apr 2021
   * Working on Backdoor Learning
   * Supervisor: Dr. [Baoyuan Wu](https://sites.google.com/site/baoyuanwu2015/), Associate Professor
