@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## Biography
-I am currently a third year Ph.D. candidate from the Tsinghua Shenzhen International Graduate School (SIGS) at Tsinghua University, China. Before that, I received my B.S. degree in Mathematics and Applied Mathematics from Ningbo University, China, in 2018. **My research mainly focus on the AI security**, including 
+I am currently a third year Ph.D. candidate from the Tsinghua-Berkeley Shenzhen Institute (TBSI), Tsinghua Shenzhen International Graduate School (SIGS) at Tsinghua University, China. Before that, I received my B.S. degree in Mathematics and Applied Mathematics from Ningbo University, China, in 2018. **My research mainly focus on the AI security**, including 
   * Model Security of the Training Process (mainly on the Backdoor Learning)
   * Model Security of the Inference Process (mainly on the Adversarial Learning and Robust Machine Learning)
   * Data Privacy
@@ -133,10 +133,10 @@ Knowledge Distillation. ***Entropy***, 2020. [[Link]](https://www.mdpi.com/1099-
 ## Awards and Honors
 * Best Student Research Award of TBSI Workshop on Data Science (<font color='red'>TOP-1</font>), 2019.
 * Outstanding Undergraduate Thesis Award in Ningbo University (<font color='red'>TOP 5%</font>), 2018.
-* Tencent Rhino-bird Elite Training Program (<font color='red'>TOP 10%</font>), 2020.
 * First Prize of Chinese Mathematics Competition (<font color='red'>TOP 3%</font>), 2016.
 * First Prize of China Undergraduate Mathematical Contest in Modeling (<font color='red'>TOP 1%</font>), 2015.
 * Tsinghua 'Future Scholar' Ph.D. Scholarship (<font color='red'>TOP-2</font> in TBSI), 2020.
+* Tencent Rhino-bird Elite Training Program (<font color='red'>TOP 10%</font>), 2020.
 * Undergraduate National Scholarship (<font color='red'>TOP 1%</font>), 2017.
 * Outstanding Graduate of Zhejiang Province (<font color='red'>TOP 1%</font>), 2018.
 
