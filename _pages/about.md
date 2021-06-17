@@ -110,6 +110,9 @@ Knowledge Distillation. ***Entropy***, 2020. [[Link]](https://www.mdpi.com/1099-
 
 
 ## Work Experiences
+* Research Intern (Talent Program), Ant Security Lab, Alibaba Group, June 2021 - Present
+  * Working on AI Security
+
 * Visiting Ph.D. Student (online), The Chinese University of Hong Kong, Shenzhen (CUHK-SZ), Dec 2020 - Apr 2021
   * Working on Backdoor Learning
   * Supervisor: Dr. [Baoyuan Wu](https://sites.google.com/site/baoyuanwu2015/), Associate Professor
@@ -121,7 +124,7 @@ Knowledge Distillation. ***Entropy***, 2020. [[Link]](https://www.mdpi.com/1099-
 
 * Intern, Department of Vision Technology, OPPO, May 2019 - Jun 2019
   * Supported by the TBSI Capstone Project, working on human instance segmentation
-  * Mentor: Dr. Haidong Huang, Senior Algorithm Engineer
+  * Mentor: Haidong Huang, Senior Algorithm Engineer
 
 * Intern, Department of Quantitative Investment, Wukong Investment Management Company, July 2018 - Sept 2018
   * Working on ML-based algorithms development in high-frequency trading
@@ -148,7 +151,7 @@ Knowledge Distillation. ***Entropy***, 2020. [[Link]](https://www.mdpi.com/1099-
 
 ## Services
 * **Reviewer**, IEEE Transactions on Industrial Informatics (TII), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), Neurocomputing
-* **Program Committee Member**, ICONIP, NeurIPS, AAAI, AISTATS, CVPR, IJCAI, ICML
+* **Program Committee Member**, NeurIPS, ICML, CVPR, AISTATS, AAAI, IJCAI, ICONIP, ISPA
 * **Executive Chairman Committee Member**, TBSI Workshop on Data Science (TBSI-WODS), 2019
 * **Lecturer and Consultant** (paper writing and submission track), Academic Servicing Center of Tsinghua University, 2021
 * **Secretary of Masters Thesis Committee**, Tsinghua-Berkeley Shenzhen Institute, 2021. 
