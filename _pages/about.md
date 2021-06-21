@@ -68,7 +68,7 @@ I am currently a third year Ph.D. candidate from the Tsinghua-Berkeley Shenzhen 
 
 * **Yiming Li**\*, Yang Zhang\*, Qingtao Tang, Weipeng Huang, Yong Jiang, Shu-Tao Xia. *t*-*k*-means: A Robust and Stable *k*-means Variant. ***ICASSP***, 2021. [[arXiv]](https://arxiv.org/abs/1907.07442)[[Code]](https://github.com/THUYimingLi/t-k-means)[[Poster]](https://www.dropbox.com/s/mwmzwxivbi2bxlu/t_k_means_poster.pdf?dl=0)[[Slides]](https://www.dropbox.com/s/mlq01732qkcwp2l/t-k-means_slides.pptx?dl=0)[[Video]](https://www.dropbox.com/s/5f7nqutp8k3x17s/t-k-mean_video.mp4?dl=0)
 
-* Jia Xu\*, **Yiming Li**\*, Yong Jiang, Shu-Tao Xia. Adversarial Defense via Local Flatness Regularization. ***ICIP***, 2020. [[arXiv]](https://arxiv.org/abs/1910.12165)[[Slides]](https://share.weiyun.com/6uJPj6VG)
+* Jia Xu\*, **Yiming Li**\*, Yong Jiang, Shu-Tao Xia. Adversarial Defense via Local Flatness Regularization. ***ICIP***, 2020. [[arXiv]](https://arxiv.org/abs/1910.12165)[[Code](https://github.com/Uooga/Local-Flatness-Regularization)[[Slides]](https://share.weiyun.com/6uJPj6VG)
 
 * **Yiming Li**, Baoyuan Wu, Yan Feng, Yanbo Fan, Yong Jiang, Zhifeng Li, Shu-Tao Xia. Semi-supervised Robust Training with Generalized Perturbed Neighborhood. ***Under Review***, 2020. (<font color='red'>Best Student Research Award of TBSI-WODS 2019, TOP-1</font>) [[Preprint]](https://www.researchgate.net/publication/339971613_Toward_Adversarial_Robustness_via_Semi-supervised_Robust_Training)[[Code]](https://github.com/THUYimingLi/Semi-supervised_Robust_Training)
 
@@ -82,7 +82,7 @@ I am currently a third year Ph.D. candidate from the Tsinghua-Berkeley Shenzhen 
 
 [//]: # (* Linghui Zhu\*, **Yiming Li**\*^, Xiaojun Jia, Yong Jiang, Shu-Tao Xia, Xiaochun Cao. Defending against Model Stealing Attacks via Verifying Embedded External Features. ***Under Review***, 2021.)
 
-* **Yiming Li**\*, Jiawang Bai\*, Jiawei Li, Chun Li, Yong Jiang, Xue Yang, Shu-Tao Xia. Multinomial Random Forest: Toward Consistency and Privacy-Preservation. ***Under Review***, 2020. [[arXiv]](https://arxiv.org/abs/1903.04003)
+* **Yiming Li**\*, Jiawang Bai\*, Jiawei Li, Chun Li, Yong Jiang, Xue Yang, Shu-Tao Xia. Multinomial Random Forest: Toward Consistency and Privacy-Preservation. ***Under Review***, 2020. [[arXiv]](https://arxiv.org/abs/1903.04003)[[Code]](https://github.com/jiawangbai/Multinomial-Random-Forest)
 
 [//]: # (* Linghui Zhu, Xinyi Liu, **Yiming Li**, Xue Yang, Shu-Tao Xia, Rongxing Lu. A Fine-grained Differentially Private Federated Learning against Leakage from Gradients. ***Under Review***, 2021.)
 
