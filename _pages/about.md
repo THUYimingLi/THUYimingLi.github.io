@@ -78,7 +78,7 @@ I am currently a third year Ph.D. candidate from the Tsinghua-Berkeley Shenzhen 
 ### Data Privacy
 * **Yiming Li**\*, Peidong Liu\*, Yong Jiang, Shu-Tao Xia. Visual Privacy Protection via Mapping Distortion. ***ICASSP***, 2021. [[arXiv]](https://arxiv.org/abs/1911.01769)[[Code]](https://github.com/PerdonLiu/Visual-Privacy-Protection-via-Mapping-Distortion)[[Poster]](https://www.dropbox.com/s/g22yr1suem4y36l/MDP_poster.pdf?dl=0)[[Slides]](https://www.dropbox.com/s/8cbnmt335s3p1ix/MDP_slides.pptx?dl=0)[[Video]](https://www.dropbox.com/s/ww7mhdn09sqk2nh/MDP_video.mp4?dl=0)
 
-* Linghui Zhu\*, **Yiming Li**\*^, Xiaojun Jia, Yong Jiang, Shu-Tao Xia, Xiaochun Cao. Defending against Model Stealing via Verifying Embedded External Features. ***ICML Workshop*** (<font color='red'>oral, TOP 10%</font>), 2021.[[Link]](https://openreview.net/forum?id=g6zfnWUg8A1)[[Slides]](https://www.dropbox.com/s/rlqaox8bia9aln5/StealingVerification_slides.pptx?dl=0)[[Video]](https://recorder-v3.slideslive.com/?share=41027&s=f59fb2d3-2705-4a23-94c9-8efd3a92b8e1)
+* Linghui Zhu\*, **Yiming Li**\*^, Xiaojun Jia, Yong Jiang, Shu-Tao Xia, Xiaochun Cao. Defending against Model Stealing via Verifying Embedded External Features. ***ICML Workshop*** (<font color='red'>oral, TOP-10</font>), 2021.[[Link]](https://openreview.net/forum?id=g6zfnWUg8A1)[[Slides]](https://www.dropbox.com/s/rlqaox8bia9aln5/StealingVerification_slides.pptx?dl=0)[[Video]](https://recorder-v3.slideslive.com/?share=41027&s=f59fb2d3-2705-4a23-94c9-8efd3a92b8e1)
 
 * **Yiming Li**, Ziqi Zhang, Jiawang Bai, Baoyuan Wu, Yong Jiang, Shu-Tao Xia. Open-sourced Dataset Protection via Backdoor Watermarking. ***NeurIPS Workshop***, 2020. [[arXiv]](https://arxiv.org/abs/2010.05821)[[Code]](https://github.com/THUYimingLi/Open-sourced_Dataset_Protection)[[Poster]](https://www.dropbox.com/s/dtkers5txx0mats/WatermarkingDataset_NIPSW2020_poster.pdf?dl=0)
 
@@ -142,6 +142,7 @@ Knowledge Distillation. ***Entropy***, 2020. [[Link]](https://www.mdpi.com/1099-
 * First Prize of China Undergraduate Mathematical Contest in Modeling (<font color='red'>TOP 1%</font>), 2015.
 * Tsinghua 'Future Scholar' Ph.D. Scholarship (<font color='red'>TOP-2</font> in TBSI), 2020.
 * Tencent Rhino-bird Elite Training Program (<font color='red'>TOP 10%</font>), 2020.
+* TBSI Dean's Scholarship, 2020.
 * Undergraduate National Scholarship (<font color='red'>TOP 1%</font>), 2017.
 * Outstanding Graduate of Zhejiang Province (<font color='red'>TOP 1%</font>), 2018.
 
