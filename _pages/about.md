@@ -24,11 +24,11 @@ I am currently a third year Ph.D. candidate from the Tsinghua-Berkeley Shenzhen 
 
 
 ## News
+* 07/2021: So glad to be awarded the TBSI Excellence Scholarship, 2021.
 * 06/2021: One paper is accepted by ICML Workshop 2021. Its codes will be released on Github when we publish its extension.
 * 06/2021: I will work as a research intern at the Ant Security Lab, Alibaba Group, start from June 2021.
 * 05/2021: So glad to pass my Ph.D. qualifying exam. I am officially a Ph.D. candidate now.
 * 04/2021: Posters, slides, and videos of our ICASSP'21 papers are uploaded. Looking forward to seeing you all in June.
-* 03/2021: Two papers are accepted by ICLR Workshop 2021. Their codes will be released on Github when we publish their extensions.
 
 
 ## Education
@@ -142,7 +142,8 @@ Knowledge Distillation. ***Entropy***, 2020. [[Link]](https://www.mdpi.com/1099-
 * First Prize of China Undergraduate Mathematical Contest in Modeling (<font color='red'>TOP 1%</font>), 2015.
 * Tsinghua 'Future Scholar' Ph.D. Scholarship (<font color='red'>TOP-2</font> in TBSI), 2020.
 * Tencent Rhino-bird Elite Training Program (<font color='red'>TOP 10%</font>), 2020.
-* TBSI Dean's Scholarship, 2020.
+* TBSI Excellence Scholarship (<font color='red'>TOP 20%</font>), 2021.
+* TBSI Dean's Scholarship, 2020/2021.
 * Undergraduate National Scholarship (<font color='red'>TOP 1%</font>), 2017.
 * Outstanding Graduate of Zhejiang Province (<font color='red'>TOP 1%</font>), 2018.
 
