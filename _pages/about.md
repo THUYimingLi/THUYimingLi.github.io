@@ -113,7 +113,8 @@ Knowledge Distillation. ***Entropy***, 2020. [[Link]](https://www.mdpi.com/1099-
 
 ## Work Experiences
 * Research Intern (<font color='red'>Talent Program</font>), Ant Security Lab, Alibaba Group, June 2021 - Present
-  * Working on AI Security
+  * Working on Backdoor Learning
+  * Mentor: Dr. Weifeng Qiu and Dr. Feng Xue
 
 * Visiting Ph.D. Student (online), The Chinese University of Hong Kong, Shenzhen (CUHK-SZ), Dec 2020 - Apr 2021
   * Working on Backdoor Learning
