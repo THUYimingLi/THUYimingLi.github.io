@@ -24,11 +24,11 @@ I am currently a third year Ph.D. candidate from the Tsinghua-Berkeley Shenzhen 
 
 
 ## News
+* 07/2021: I am invited as the PC Member of IJCAI and ICLR 2022
 * 07/2021: So glad to be awarded the TBSI Excellence Scholarship, 2021.
 * 06/2021: One paper is accepted by ICML Workshop 2021. Its codes will be released on Github when we publish its extension.
 * 06/2021: I will work as a research intern at the Ant Security Lab, Alibaba Group, start from June 2021.
 * 05/2021: So glad to pass my Ph.D. qualifying exam. I am officially a Ph.D. candidate now.
-* 04/2021: Posters, slides, and videos of our ICASSP'21 papers are uploaded. Looking forward to seeing you all in June.
 
 
 ## Education
@@ -156,7 +156,7 @@ Knowledge Distillation. ***Entropy***, 2020. [[Link]](https://www.mdpi.com/1099-
 
 ## Services
 * **Reviewer**, IEEE Transactions on Industrial Informatics (TII), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), Neurocomputing
-* **Program Committee Member**, NeurIPS, ICML, CVPR, AISTATS, AAAI, IJCAI, ICONIP, ISPA
+* **Program Committee Member**, NeurIPS, ICML, ICLR, CVPR, AISTATS, AAAI, IJCAI, ICONIP, ISPA
 * **Executive Chairman Committee Member**, TBSI Workshop on Data Science (TBSI-WODS), 2019
 * **Lecturer and Consultant** (paper writing and submission track), Academic Servicing Center of Tsinghua University, 2021
 * **Secretary of Masters Thesis Committee**, Tsinghua-Berkeley Shenzhen Institute, 2021. 
