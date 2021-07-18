@@ -24,7 +24,7 @@ I am currently a third year Ph.D. candidate from the Tsinghua-Berkeley Shenzhen 
 
 
 ## News
-* 07/2021: So glad that our paper 'Defending against Model Stealing via Verifying Embedded External Features' is awarded the Adversarial for Good Award (TOP-1) by ICML AdvML Workshop, 2021.  
+* 07/2021: So glad that our paper 'Defending against Model Stealing via Verifying Embedded External Features' is awarded the Adversarial for Good Award by ICML AdvML Workshop, 2021.  
 * 07/2021: I am invited as the PC Member of IJCAI and ICLR 2022
 * 07/2021: So glad to be awarded the TBSI Excellence Scholarship, 2021.
 * 06/2021: One paper is accepted by ICML Workshop 2021. Its codes will be released on Github when we publish its extension.
