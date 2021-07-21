@@ -24,7 +24,7 @@ I am currently a third year Ph.D. candidate from the Tsinghua-Berkeley Shenzhen 
 
 
 ## News
-* 07/2021: So glad that our paper 'Defending against Model Stealing via Verifying Embedded External Features' is awarded the Adversarial for Good Award by ICML AdvML Workshop, 2021.  
+* 07/2021: So glad that our paper 'Defending against Model Stealing via Verifying Embedded External Features' is awarded the Adversarial for Good Award by ICML AdvML Workshop, 2021. Looking forward to discussing it at the workshop in 24 July, 2021. 
 * 07/2021: I am invited as the PC Member of IJCAI and ICLR 2022
 * 07/2021: So glad to be awarded the TBSI Excellence Scholarship, 2021.
 * 06/2021: One paper is accepted by ICML Workshop 2021. Its codes will be released on Github when we publish its extension.
@@ -138,6 +138,7 @@ Knowledge Distillation. ***Entropy***, 2020. [[Link]](https://www.mdpi.com/1099-
 
 ## Awards and Honors
 * Best Student Research Award of TBSI Workshop on Data Science (<font color='red'>TOP-1</font>), 2019.
+* Adversarial for Good Award of ICML AdvML Workshop (<font color='red'>TOP-1</font>), 2021.
 * Outstanding Undergraduate Thesis Award in Ningbo University (<font color='red'>TOP 5%</font>), 2018.
 * First Prize of Chinese Mathematics Competition (<font color='red'>TOP 3%</font>), 2016.
 * First Prize of China Undergraduate Mathematical Contest in Modeling (<font color='red'>TOP 1%</font>), 2015.
