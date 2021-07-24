@@ -24,11 +24,11 @@ I am currently a third year Ph.D. candidate from the Tsinghua-Berkeley Shenzhen 
 
 
 ## News
+* 07/2021: One paper is accepted by ICCV 2021.
 * 07/2021: So glad that our paper 'Defending against Model Stealing via Verifying Embedded External Features' is awarded the Adversarial for Good Award by ICML AdvML Workshop, 2021. Looking forward to discussing it at the workshop in July 24, 2021. 
 * 07/2021: I am invited as the PC Member of IJCAI and ICLR 2022.
 * 07/2021: So glad to be awarded the TBSI Excellence Scholarship, 2021.
 * 06/2021: One paper is accepted by ICML Workshop 2021. Its codes will be released on Github when we publish its extension.
-* 06/2021: I will work as a research intern at the Ant Security Lab, Alibaba Group, start from June 2021.
 
 
 ## Education
@@ -48,6 +48,8 @@ I am currently a third year Ph.D. candidate from the Tsinghua-Berkeley Shenzhen 
 ### Model Security of the Training Process
 * Tongqing Zhai\*, **Yiming Li**\*^, Ziqi Zhang, Baoyuan Wu, Yong Jiang, Shu-Tao Xia. Backdoor Attack against Speaker Verification. ***ICASSP***, 2021.[[arXiv]](https://arxiv.org/pdf/2010.11607.pdf)[[Code]](https://github.com/zhaitongqing233/Backdoor-attack-against-speaker-verification)[[Poster]](https://www.dropbox.com/s/jd9z8eer749ffgh/BackdoorSpeakerVerification_poster.pdf?dl=0)[[Slides]](https://www.dropbox.com/s/ox2h6wicc9v88a3/BackdoorSpeakerVerification_slides.pptx?dl=0)[[Video]](https://www.dropbox.com/s/0f7effif8itgsow/BackdoorSpeakerVerification_video.mp4?dl=0)
 
+* Yuezun Li, **Yiming Li**, Baoyuan Wu, Longkang Li, Ran He, Siwei Lyu. Invisible Backdoor Attack with Sample-Specific Triggers. ***ICCV***, 2021. [[arXiv]](https://arxiv.org/pdf/2012.03816.pdf)
+
 * **Yiming Li**, Tongqing Zhai, Yong Jiang, Zhifeng Li, Shu-Tao Xia. Backdoor Attack in the Physical World. ***ICLR Workshop***, 2021. [[arXiv]](https://arxiv.org/pdf/2104.02361.pdf)[[Poster]](https://www.dropbox.com/s/cskxnptkd5pmzcj/PhysicalAttack_poster.pdf?dl=0)[[Extension]](https://arxiv.org/abs/2004.04692)
 
 * **Yiming Li**\*, Yanjie Li\*, Yalei Lv, Yong Jiang, Shu-Tao Xia. Hidden Backdoor Attack against Semantic Segmentation Models. ***ICLR Workshop***, 2021. [[arXiv]](https://arxiv.org/pdf/2103.04038.pdf)[[Poster]](https://www.dropbox.com/s/r462uoe3qtkyphu/BackdoorSegmentation_poster.pdf?dl=0)[[Slides]](https://share.weiyun.com/rz7Rvjup)[[Video]](https://studio.slideslive.com/web_recorder/share/35269?s=5fbfa356-0fa7-48e8-9041-146bd5ee296e)
@@ -59,8 +61,6 @@ I am currently a third year Ph.D. candidate from the Tsinghua-Berkeley Shenzhen 
 * **Yiming Li**, Baoyuan Wu, Yong Jiang, Zhifeng Li, Shu-Tao Xia. Backdoor Learning: A Survey. ***Under Review***, 2020. [[arXiv]](https://arxiv.org/abs/2007.08745)[[Github Resources]](https://github.com/THUYimingLi/backdoor-learning-resources)
 
 [//]: # (* Kunzhe Huang\*, **Yiming Li**\*, Baoyuan Wu, Zhan Qin, Kui Ren. Backdoor Defense via Disentangling the Training Process. ***Under Review***, 2021.)
-
-* Yuezun Li, **Yiming Li**, Baoyuan Wu, Longkang Li, Ran He, Siwei Lyu. Backdoor Attack with Sample-Specific Triggers. ***Under Review***, 2020. [[arXiv]](https://arxiv.org/pdf/2012.03816.pdf)
 
 
 ### Model Security of the Inference Process
@@ -137,8 +137,8 @@ Knowledge Distillation. ***Entropy***, 2020. [[Link]](https://www.mdpi.com/1099-
 * Spring, 2021. TA in **Optimization Theory and Machine Learning**, instructed by Prof. [Somayeh Sojoudi](https://people.eecs.berkeley.edu/~sojoudi/).
 
 ## Awards and Honors
-* Best Student Research Award of TBSI Workshop on Data Science (<font color='red'>TOP-1</font>), 2019.
 * Adversarial for Good Award of ICML AdvML Workshop (<font color='red'>TOP-1</font>), 2021.
+* Best Student Research Award of TBSI Workshop on Data Science (<font color='red'>TOP-1</font>), 2019.
 * Outstanding Undergraduate Thesis Award in Ningbo University (<font color='red'>TOP 5%</font>), 2018.
 * First Prize of Chinese Mathematics Competition (<font color='red'>TOP 3%</font>), 2016.
 * First Prize of China Undergraduate Mathematical Contest in Modeling (<font color='red'>TOP 1%</font>), 2015.
