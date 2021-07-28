@@ -20,7 +20,7 @@ I am currently a third year Ph.D. candidate from the Tsinghua-Berkeley Shenzhen 
 [Github Repo about Backdoor Learning Resources](https://github.com/THUYimingLi/backdoor-learning-resources)
 
 
-[The ATT&CK Matrix of AI Security (in Chinese)](https://ai.tencent.com/ailab/media/AI%E5%AE%89%E5%85%A8%E7%9A%84%E5%A8%81%E8%83%81%E9%A3%8E%E9%99%A9%E7%9F%A9%E9%98%B5.pdf) [[Website]](https://aisecmatrix.org/)(It is the first technical report comprehensively covering different kinds of security threats in the full cycle of an AI system.)
+[The ATT&CK Matrix of AI Security](https://ai.tencent.com/ailab/media/AI%E5%AE%89%E5%85%A8%E7%9A%84%E5%A8%81%E8%83%81%E9%A3%8E%E9%99%A9%E7%9F%A9%E9%98%B5.pdf) [[Website]](https://aisecmatrix.org/)(It is the first technical report comprehensively covering different kinds of security threats in the full cycle of an AI system.)
 
 
 ## News
@@ -96,9 +96,16 @@ Knowledge Distillation. ***Entropy***, 2020. [[Link]](https://www.mdpi.com/1099-
 * **Yiming Li**\*, Jiawang Bai\*, Jiawei Li, Xue Yang, Yong Jiang, Shu-Tao Xia. Rectified Decision Trees: Exploring the Landscape of Interpretable and Effective Machine Learning. ***Under Review***, 2020. [[arXiv]](https://arxiv.org/pdf/2008.09413.pdf)
 
 
+## Technical Reports and Patents
+* Tencent AI Lab (Baoyuan Wu, Yanbo Fan, Yong Zhang, **Yiming Li**, Zhifeng Li, Wei Liu), Tencent Zhuque Lab (viking, jifengzhu, allenszch, ucasjh, dylan, xunsu). The ATT&CK Matrix of AI Security, 2020/09/18. [[Download]](https://ai.tencent.com/ailab/media/AI%E5%AE%89%E5%85%A8%E7%9A%84%E5%A8%81%E8%83%81%E9%A3%8E%E9%99%A9%E7%9F%A9%E9%98%B5.pdf) [[Website]](https://aisecmatrix.org/)[[Media1]](https://ai.tencent.com/ailab/zh/news/detial/?id=68) [[Media2]](https://www.jiqizhixin.com/articles/2020-09-25-9) [[Media3]](http://tech.sina.com.cn/csj/2020-09-25/doc-iivhuipp6375448.shtml) [[Media4]](https://tech.qq.com/a/20200925/020797.htm) [[Media5]](http://mp.163.com/article/FNCHRG1V0511DSSR.html) [[Media6]](https://www.sohu.com/a/421167914_120765903)...
 
-## Technical Reports and Invited Talks
-* Tencent AI Lab (Baoyuan Wu, Yanbo Fan, Yong Zhang, **Yiming Li**, Zhifeng Li, Wei Liu), Tencent Zhuque Lab (viking, jifengzhu, allenszch, ucasjh, dylan, xunsu). The ATT&CK Matrix of AI Security (in Chinese), 2020/09/18. [[Download]](https://ai.tencent.com/ailab/media/AI%E5%AE%89%E5%85%A8%E7%9A%84%E5%A8%81%E8%83%81%E9%A3%8E%E9%99%A9%E7%9F%A9%E9%98%B5.pdf) [[Website]](https://aisecmatrix.org/)[[Media1]](https://ai.tencent.com/ailab/zh/news/detial/?id=68) [[Media2]](https://www.jiqizhixin.com/articles/2020-09-25-9) [[Media3]](http://tech.sina.com.cn/csj/2020-09-25/doc-iivhuipp6375448.shtml) [[Media4]](https://tech.qq.com/a/20200925/020797.htm) [[Media5]](http://mp.163.com/article/FNCHRG1V0511DSSR.html) [[Media6]](https://www.sohu.com/a/421167914_120765903)...
+* **李一鸣**, 吴保元, 张勇, 樊艳波, 李志锋, 刘威, 冯岩, 江勇, 夏树涛. 一种图像识别模型的训练方法、图像识别的方法及装置. (发明专利, 申请号: CN202010182180.5, HKS202989-CN)
+
+* **李一鸣**, 吴保元, 江勇, 李志锋, 夏树涛, 刘威. 图像分类模型后门攻击的防御方法、装置、设备及介质. (发明专利, 申请号: CN202011122124.9)
+
+
+## Invited Talks
+* A Brief Introduction of Backdoor Attack in the Low-level Computer Vision, Virginia Tech (online), 2021/08/12. [[Slides]](https://www.dropbox.com/s/pxm137snbzq2e0t/BackdoorCV_YimingLi.pptx?dl=0)
 
 * Defending against Model Stealing via Verifying Embedded External Features, ICML Workshop, 2021/07/24. [[Slides]](https://www.dropbox.com/s/rlqaox8bia9aln5/StealingVerification_slides.pptx?dl=0)[[Video]](https://recorder-v3.slideslive.com/?share=41027&s=f59fb2d3-2705-4a23-94c9-8efd3a92b8e1)
 
@@ -111,9 +118,13 @@ Knowledge Distillation. ***Entropy***, 2020. [[Link]](https://www.mdpi.com/1099-
 * How to Improve Model Robustness via Adopting Unlabeled Data, CCF Young Computer Scientists & Engineers Forum, Shenzhen (CCF-YOCSEF-SZ), 2020/08/22. [[Slides]](https://www.dropbox.com/s/y48jq69ofa19j3k/slides_YOCSEF.pdf?dl=0)
 
 
+## Teaching
+* Spring, 2021. TA in **Optimization Theory and Machine Learning**, instructed by Prof. [Somayeh Sojoudi](https://people.eecs.berkeley.edu/~sojoudi/).
+
+
 ## Work Experiences
-* Research Intern (<font color='red'>Talent Program</font>), Ant Security Lab, Alibaba Group, June 2021 - Present
-  * Working on Backdoor Learning
+* Research Intern (<font color='red'>Talent Program</font>), Ant Security Lab, Ant Group, Alibaba Group, June 2021 - Present
+  * Working on AI Security
   * Mentor: Dr. Weifeng Qiu and Dr. Feng Xue
 
 * Visiting Ph.D. Student (online), The Chinese University of Hong Kong, Shenzhen (CUHK-SZ), Dec 2020 - Apr 2021
@@ -129,12 +140,6 @@ Knowledge Distillation. ***Entropy***, 2020. [[Link]](https://www.mdpi.com/1099-
   * Supported by the TBSI Capstone Project, working on human instance segmentation
   * Mentor: Haidong Huang, Senior Algorithm Engineer
 
-* Intern, Department of Quantitative Investment, Wukong Investment Management Company, July 2018 - Sept 2018
-  * Working on ML-based algorithms development in high-frequency trading
-  * Mentor: Dr. Xinji Liu, Deputy Manager of Quantitative Investment Department
-
-## Teaching
-* Spring, 2021. TA in **Optimization Theory and Machine Learning**, instructed by Prof. [Somayeh Sojoudi](https://people.eecs.berkeley.edu/~sojoudi/).
 
 ## Awards and Honors
 * Adversarial for Good Award of ICML AdvML Workshop (<font color='red'>TOP-1</font>), 2021.
@@ -148,11 +153,6 @@ Knowledge Distillation. ***Entropy***, 2020. [[Link]](https://www.mdpi.com/1099-
 * TBSI Dean's Scholarship, 2020/2021.
 * Undergraduate National Scholarship (<font color='red'>TOP 1%</font>), 2017.
 * Outstanding Graduate of Zhejiang Province (<font color='red'>TOP 1%</font>), 2018.
-
-## Patents
-* **李一鸣**, 吴保元, 张勇, 樊艳波, 李志锋, 刘威, 冯岩, 江勇, 夏树涛. 一种图像识别模型的训练方法、图像识别的方法及装置. (发明专利, 申请号: CN202010182180.5, HKS202989-CN)
-
-* **李一鸣**, 吴保元, 江勇, 李志锋, 夏树涛, 刘威. 图像分类模型后门攻击的防御方法、装置、设备及介质. (发明专利, 申请号: CN202011122124.9)
 
 
 ## Services
