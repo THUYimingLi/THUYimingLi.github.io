@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## Biography
-I am currently a third year Ph.D. candidate from the Tsinghua-Berkeley Shenzhen Institute (TBSI), Tsinghua Shenzhen International Graduate School (SIGS) at Tsinghua University, China. Before that, I received my B.S. degree in Mathematics and Applied Mathematics from Ningbo University, China, in 2018. **My research mainly focus on the AI security**, including 
+I am currently a fourth year Ph.D. candidate from the Tsinghua-Berkeley Shenzhen Institute (TBSI), Tsinghua Shenzhen International Graduate School (SIGS) at Tsinghua University, China. Before that, I received my B.S. degree in Mathematics and Applied Mathematics from Ningbo University, China, in 2018. **My research mainly focus on the AI security**, including 
   * Model Security of the Training Process (mainly on the Backdoor Learning)
   * Model Security of the Inference Process (mainly on the Adversarial Learning and Robust Machine Learning)
   * Data Privacy
@@ -24,11 +24,12 @@ I am currently a third year Ph.D. candidate from the Tsinghua-Berkeley Shenzhen 
 
 
 ## News
+* 08/2021: I am invited as the Senior PC Member of AAAI 2022.
 * 07/2021: One paper is accepted by ICCV 2021.
 * 07/2021: So glad that our paper 'Defending against Model Stealing via Verifying Embedded External Features' is awarded the Adversarial for Good Award by ICML AdvML Workshop, 2021. Looking forward to discussing it at the workshop in July 24, 2021. 
 * 07/2021: I am invited as the PC Member of IJCAI and ICLR 2022.
 * 07/2021: So glad to be awarded the TBSI Excellence Scholarship, 2021.
-* 06/2021: One paper is accepted by ICML Workshop 2021. Its codes will be released on Github when we publish its extension.
+
 
 
 ## Education
@@ -157,7 +158,7 @@ Knowledge Distillation. ***Entropy***, 2020. [[Link]](https://www.mdpi.com/1099-
 
 ## Services
 * **Reviewer**, IEEE Transactions on Industrial Informatics (TII), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), Neurocomputing
-* **Program Committee Member**, NeurIPS, ICML, ICLR, CVPR, AISTATS, AAAI, IJCAI, ICONIP, ISPA
+* **(Senior) Program Committee Member**, NeurIPS, ICML, ICLR, CVPR, AISTATS, AAAI, IJCAI, ICONIP, ISPA
 * **Executive Chairman Committee Member**, TBSI Workshop on Data Science (TBSI-WODS), 2019
 * **Lecturer and Consultant** (paper writing and submission track), Academic Servicing Center of Tsinghua University, 2021
 * **Secretary of Masters Thesis Committee**, Tsinghua-Berkeley Shenzhen Institute, 2021. 
