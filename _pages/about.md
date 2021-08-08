@@ -9,11 +9,9 @@ redirect_from:
 ---
 
 ## Biography
-I am currently a fourth year Ph.D. candidate from the Tsinghua-Berkeley Shenzhen Institute (TBSI), Tsinghua Shenzhen International Graduate School (SIGS) at Tsinghua University, China. Before that, I received my B.S. degree in Mathematics and Applied Mathematics from Ningbo University, China, in 2018. 
+I am currently a fourth year Ph.D. candidate from the Tsinghua-Berkeley Shenzhen Institute (TBSI), Tsinghua Shenzhen International Graduate School (SIGS) at Tsinghua University, advised by Prof. [Shu-Tao Xia](https://www.sigs.tsinghua.edu.cn/xst/main.htm) and Prof. [Yong Jiang](https://www.sigs.tsinghua.edu.cn/jy/main.htm). Before that, I received my B.S. degree in Mathematics and Applied Mathematics from Ningbo University in 2018, advised by Prof [Lifeng Xi](http://math.nbu.edu.cn/info/1046/1098.htm) (Undergraduate Thesis Topic: [Study and Application of Ensemble Learning in Deep Learning (in Chinese)](https://share.weiyun.com/jB7mlKgV), <font color='red'>Outstanding Undergraduate Thesis in Ningbo University</font>). 
 
 **My research mainly focus on the AI security**, including backdoor learning, adversarial learning, and data privacy.
-
-
 
 
 [<font color='orange'>Github Repo about Backdoor Learning Resources</font>](https://github.com/THUYimingLi/backdoor-learning-resources)
@@ -32,8 +30,6 @@ I am currently a fourth year Ph.D. candidate from the Tsinghua-Berkeley Shenzhen
 
 
 ## Education
-* Ph.D. in Computer Science, Tsinghua University, Aug. 2018 - Present
-  * Supervisor: Prof. [Shu-Tao Xia](https://www.sigs.tsinghua.edu.cn/xst/main.htm) and Prof. [Yong Jiang](https://www.sigs.tsinghua.edu.cn/jy/main.htm)
 
 * Exchange Student, University of Wisconsin, Jan. 2017 − May. 2017
   * Major in Mathematics and Computer Science
