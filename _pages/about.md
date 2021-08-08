@@ -18,7 +18,7 @@ I am currently a fourth year Ph.D. candidate in Data Science and Information Tec
 [<font color='orange'>Github Repo about Backdoor Learning Resources</font>](https://github.com/THUYimingLi/backdoor-learning-resources)
 
 
-[<font color='orange'>The ATT&CK Matrix of AI Security</font>](https://aisecmatrix.org/) (It is the first technical report comprehensively covering different kinds of security threats in the full cycle of an AI system.)
+[<font color='orange'>The ATT&CK Matrix of AI Security</font>](https://aisecmatrix.org/) (The first technical report comprehensively covering different kinds of security threats in the full cycle of AI systems.)
 
 
 
@@ -37,7 +37,7 @@ I am currently a fourth year Ph.D. candidate in Data Science and Information Tec
 
 
 ## Publications and Preprints
-\`\*\' indicates equal contribution while \`^\' indicates corresponding author 
+\'\*\' indicates equal contribution while \'^\' indicates corresponding author 
 
 
 
