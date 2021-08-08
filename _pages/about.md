@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## Biography
-I am currently a fourth year Ph.D. candidate in Data Science and Information Technology from the [Tsinghua-Berkeley Shenzhen Institute](https://www.tbsi.edu.cn/en/), [Tsinghua Shenzhen International Graduate School](https://www.sigs.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by Prof. [Shu-Tao Xia](https://www.sigs.tsinghua.edu.cn/xst/main.htm) and Prof. [Yong Jiang](https://www.sigs.tsinghua.edu.cn/jy/main.htm). Before that, I received my B.S. degree in Mathematics and Applied Mathematics ([<font color='red'>Yangming Innovation Class</font>]()), [Ningbo University](https://www.nbu.edu.cn/en/) in 2018, advised by Prof [Lifeng Xi](http://math.nbu.edu.cn/info/1046/1098.htm) (Undergraduate Thesis: [Study and Application of Ensemble Learning in Deep Learning (in Chinese)](https://share.weiyun.com/jB7mlKgV), <font color='red'>Outstanding Undergraduate Thesis in Ningbo University</font>). 
+I am currently a fourth year Ph.D. candidate in Data Science and Information Technology from the [Tsinghua-Berkeley Shenzhen Institute](https://www.tbsi.edu.cn/en/), [Tsinghua Shenzhen International Graduate School](https://www.sigs.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by Prof. [Shu-Tao Xia](https://www.sigs.tsinghua.edu.cn/xst/main.htm) and Prof. [Yong Jiang](https://www.sigs.tsinghua.edu.cn/jy/main.htm). Before that, I received my B.S. degree in Mathematics and Applied Mathematics ([<font color='red'>Yangming Innovation Class</font>](http://ymxy.nbu.edu.cn/ymcxb1.htm)), [Ningbo University](https://www.nbu.edu.cn/en/) in 2018, advised by Prof [Lifeng Xi](http://math.nbu.edu.cn/info/1046/1098.htm) (**Undergraduate Thesis**: [Study and Application of Ensemble Learning in Deep Learning (in Chinese)](https://share.weiyun.com/jB7mlKgV), <font color='red'>Outstanding Undergraduate Thesis in Ningbo University</font>). 
 
 **My research mainly focus on the AI security**, including backdoor learning, adversarial learning, and data privacy.
 
@@ -33,7 +33,10 @@ I am currently a fourth year Ph.D. candidate in Data Science and Information Tec
 \* indicates equal contribution; ^ indicates corresponding author 
 
 ### Backdoor Learning
-* Tongqing Zhai\*, **Yiming Li**\*^, Ziqi Zhang, Baoyuan Wu, Yong Jiang, Shu-Tao Xia. Backdoor Attack against Speaker Verification. ***ICASSP***, 2021.[[arXiv]](https://arxiv.org/pdf/2010.11607.pdf)[[Code]](https://github.com/zhaitongqing233/Backdoor-attack-against-speaker-verification)[[Poster]](https://www.dropbox.com/s/jd9z8eer749ffgh/BackdoorSpeakerVerification_poster.pdf?dl=0)[[Slides]](https://www.dropbox.com/s/ox2h6wicc9v88a3/BackdoorSpeakerVerification_slides.pptx?dl=0)[[Video]](https://www.dropbox.com/s/0f7effif8itgsow/BackdoorSpeakerVerification_video.mp4?dl=0)
+* [Backdoor Attack against Speaker Verification](https://arxiv.org/pdf/2010.11607.pdf)
+Tongqing Zhai\*, **Yiming Li**\*^, Ziqi Zhang, Baoyuan Wu, Yong Jiang, Shu-Tao Xia
+International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2021.
+[[Code]](https://github.com/zhaitongqing233/Backdoor-attack-against-speaker-verification)[[Poster]](https://www.dropbox.com/s/jd9z8eer749ffgh/BackdoorSpeakerVerification_poster.pdf?dl=0)[[Slides]](https://www.dropbox.com/s/ox2h6wicc9v88a3/BackdoorSpeakerVerification_slides.pptx?dl=0)[[Video]](https://www.dropbox.com/s/0f7effif8itgsow/BackdoorSpeakerVerification_video.mp4?dl=0)
 
 * Yuezun Li, **Yiming Li**, Baoyuan Wu, Longkang Li, Ran He, Siwei Lyu. Invisible Backdoor Attack with Sample-Specific Triggers. ***ICCV***, 2021. [[arXiv]](https://arxiv.org/pdf/2012.03816.pdf)
 
