@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 ## Biography
-I am currently a fourth year Ph.D. candidate in Data Science and Information Technology from the [Tsinghua-Berkeley Shenzhen Institute](https://www.tbsi.edu.cn/en/), [Tsinghua Shenzhen International Graduate School](https://www.sigs.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by Prof. [Shu-Tao Xia](https://www.sigs.tsinghua.edu.cn/xst/main.htm) and Prof. [Yong Jiang](https://www.sigs.tsinghua.edu.cn/jy/main.htm). Before that, I received my B.S. degree in Mathematics and Applied Mathematics ([Yangming Innovation Class](http://ymxy.nbu.edu.cn/ymcxb1.htm)), [Ningbo University](https://www.nbu.edu.cn/en/) in 2018, advised by Prof [Lifeng Xi](http://math.nbu.edu.cn/info/1046/1098.htm). 
+I am currently a fourth year Ph.D. candidate in Data Science and Information Technology from the [Tsinghua-Berkeley Shenzhen Institute](https://www.tbsi.edu.cn/en/), [Tsinghua Shenzhen International Graduate School](https://www.sigs.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by Professor [Shu-Tao Xia](https://www.sigs.tsinghua.edu.cn/xst/main.htm) and Professor [Yong Jiang](https://www.sigs.tsinghua.edu.cn/jy/main.htm). Before that, I received my B.S. degree in Mathematics and Applied Mathematics ([Yangming Innovation Class](http://ymxy.nbu.edu.cn/ymcxb1.htm)) from the [Ningbo University](https://www.nbu.edu.cn/en/) in 2018, advised by Professor [Lifeng Xi](http://math.nbu.edu.cn/info/1046/1098.htm). 
+
 
 **My research mainly focus on the AI security**, including backdoor learning, adversarial learning, and data privacy.
 
@@ -64,7 +65,7 @@ International Conference on Learning Representations (**ICLR**), 2021<br>
 
 * [Backdoor Learning: A Survey](https://arxiv.org/abs/2007.08745)<br>
 **Yiming Li**, Baoyuan Wu, Yong Jiang, Zhifeng Li, Shu-Tao Xia<br>
-submitted to Pattern Recognition, 2021<br>
+submitted to **Pattern Recognition**, 2021<br>
 [[Github Resources]](https://github.com/THUYimingLi/backdoor-learning-resources)
 
 
