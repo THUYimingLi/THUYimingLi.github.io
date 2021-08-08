@@ -37,13 +37,13 @@ My research mainly focus on AI security, especially backdoor learning, adversari
 
 
 ## Publications and Preprints
-\'\*\' indicates equal contribution while \'^\' indicates corresponding author 
+\'\*\' indicates equal contribution, \'^\' indicates corresponding author 
 
 
 
 ### Backdoor Learning
 * [Backdoor Learning: A Survey](https://arxiv.org/abs/2007.08745)<br>
-**Yiming Li**, Baoyuan Wu, Yong Jiang, Zhifeng Li, Shu-Tao Xia<br>
+**Yiming Li**, Baoyuan Wu, Yong Jiang, Zhifeng Li, Shu-Tao Xia^<br>
 submitted to **Pattern Recognition**, 2021<br>
 [[Github Resources]](https://github.com/THUYimingLi/backdoor-learning-resources)
 
@@ -185,10 +185,6 @@ arXiv preprint 2008.09413
 * Research Intern (<font color='red'>Talent Program</font>), Ant Security Lab, Ant Group, Alibaba Group, June 2021 - Present
   * Working on Backdoor Attack
   * Mentor: Dr. Weifeng Qiu and Dr. Feng Xue
-
-* Visiting Ph.D. Student (online), The Chinese University of Hong Kong, Shenzhen (CUHK-SZ), Dec 2020 - Apr 2021
-  * Working on Backdoor Learning
-  * Supervisor: Dr. [Baoyuan Wu](https://sites.google.com/site/baoyuanwu2015/), Associate Professor
 
 * Research Intern, Tencent AI Lab, Jul 2019 - Oct 2020
   * Supported by the <font color='red'>Tencent Rhino-bird Elite Training Program</font>, working on AI Security
