@@ -33,9 +33,9 @@ I am currently a fourth year Ph.D. candidate in Data Science and Information Tec
 \* indicates equal contribution; ^ indicates corresponding author 
 
 ### Backdoor Learning
-* [Backdoor Attack against Speaker Verification](https://arxiv.org/pdf/2010.11607.pdf)
-Tongqing Zhai\*, **Yiming Li**\*^, Ziqi Zhang, Baoyuan Wu, Yong Jiang, Shu-Tao Xia
-International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2021.
+* [Backdoor Attack against Speaker Verification](https://arxiv.org/pdf/2010.11607.pdf) //
+Tongqing Zhai\*, **Yiming Li**\*^, Ziqi Zhang, Baoyuan Wu, Yong Jiang, Shu-Tao Xia //
+International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2021. //
 [[Code]](https://github.com/zhaitongqing233/Backdoor-attack-against-speaker-verification)[[Poster]](https://www.dropbox.com/s/jd9z8eer749ffgh/BackdoorSpeakerVerification_poster.pdf?dl=0)[[Slides]](https://www.dropbox.com/s/ox2h6wicc9v88a3/BackdoorSpeakerVerification_slides.pptx?dl=0)[[Video]](https://www.dropbox.com/s/0f7effif8itgsow/BackdoorSpeakerVerification_video.mp4?dl=0)
 
 * Yuezun Li, **Yiming Li**, Baoyuan Wu, Longkang Li, Ran He, Siwei Lyu. Invisible Backdoor Attack with Sample-Specific Triggers. ***ICCV***, 2021. [[arXiv]](https://arxiv.org/pdf/2012.03816.pdf)
