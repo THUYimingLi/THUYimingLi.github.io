@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## Biography
-I am currently a fourth year Ph.D. candidate in Data Science and Information Technology from the [Tsinghua-Berkeley Shenzhen Institute](https://www.tbsi.edu.cn/en/), [Tsinghua Shenzhen International Graduate School](https://www.sigs.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by Prof. [Shu-Tao Xia](https://www.sigs.tsinghua.edu.cn/xst/main.htm) and Prof. [Yong Jiang](https://www.sigs.tsinghua.edu.cn/jy/main.htm). Before that, I received my B.S. degree in Mathematics and Applied Mathematics ([<font color='red'>Yangming Innovation Class</font>](http://ymxy.nbu.edu.cn/ymcxb1.htm)), [Ningbo University](https://www.nbu.edu.cn/en/) in 2018, advised by Prof [Lifeng Xi](http://math.nbu.edu.cn/info/1046/1098.htm) (**Undergraduate Thesis**: [Study and Application of Ensemble Learning in Deep Learning (in Chinese)](https://share.weiyun.com/jB7mlKgV), <font color='red'>Outstanding Undergraduate Thesis in Ningbo University</font>). 
+I am currently a fourth year Ph.D. candidate in Data Science and Information Technology from the [Tsinghua-Berkeley Shenzhen Institute](https://www.tbsi.edu.cn/en/), [Tsinghua Shenzhen International Graduate School](https://www.sigs.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by Prof. [Shu-Tao Xia](https://www.sigs.tsinghua.edu.cn/xst/main.htm) and Prof. [Yong Jiang](https://www.sigs.tsinghua.edu.cn/jy/main.htm). Before that, I received my B.S. degree in Mathematics and Applied Mathematics ([Yangming Innovation Class](http://ymxy.nbu.edu.cn/ymcxb1.htm)), [Ningbo University](https://www.nbu.edu.cn/en/) in 2018, advised by Prof [Lifeng Xi](http://math.nbu.edu.cn/info/1046/1098.htm). 
 
 **My research mainly focus on the AI security**, including backdoor learning, adversarial learning, and data privacy.
 
@@ -17,7 +17,7 @@ I am currently a fourth year Ph.D. candidate in Data Science and Information Tec
 [<font color='orange'>Github Repo about Backdoor Learning Resources</font>](https://github.com/THUYimingLi/backdoor-learning-resources)
 
 
-[<font color='orange'>The ATT&CK Matrix of AI Security</font>](https://aisecmatrix.org/)(It is the first technical report comprehensively covering different kinds of security threats in the full cycle of an AI system.)
+[<font color='orange'>The ATT&CK Matrix of AI Security</font>](https://aisecmatrix.org/) (It is the first technical report comprehensively covering different kinds of security threats in the full cycle of an AI system.)
 
 
 ## News
@@ -38,6 +38,7 @@ Tongqing Zhai\*, **Yiming Li**\*^, Ziqi Zhang, Baoyuan Wu, Yong Jiang, Shu-Tao X
 International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2021 <br>
 [[Code]](https://github.com/zhaitongqing233/Backdoor-attack-against-speaker-verification)[[Poster]](https://www.dropbox.com/s/jd9z8eer749ffgh/BackdoorSpeakerVerification_poster.pdf?dl=0)[[Slides]](https://www.dropbox.com/s/ox2h6wicc9v88a3/BackdoorSpeakerVerification_slides.pptx?dl=0)[[Video]](https://www.dropbox.com/s/0f7effif8itgsow/BackdoorSpeakerVerification_video.mp4?dl=0)
 
+
 * [Invisible Backdoor Attack with Sample-Specific Triggers](https://arxiv.org/pdf/2012.03816.pdf)<br>
 Yuezun Li, **Yiming Li**, Baoyuan Wu, Longkang Li, Ran He, Siwei Lyu<br>
 International Conference on Computer Vision (**ICCV**), 2021
@@ -45,19 +46,27 @@ International Conference on Computer Vision (**ICCV**), 2021
 
 * [Backdoor Attack in the Physical World](https://arxiv.org/pdf/2104.02361.pdf)<br> 
 **Yiming Li**, Tongqing Zhai, Yong Jiang, Zhifeng Li, Shu-Tao Xia<br>
-International Conference on Learning Representations (**ICLR**) Workshop on Robust and Reliable Machine Learning in the Real World, 2021<br>
+International Conference on Learning Representations (**ICLR**) Workshop, 2021<br>
 [[Poster]](https://www.dropbox.com/s/cskxnptkd5pmzcj/PhysicalAttack_poster.pdf?dl=0)[[Extension]](https://arxiv.org/abs/2004.04692)
 
 
-* **Yiming Li**\*, Yanjie Li\*, Yalei Lv, Yong Jiang, Shu-Tao Xia. Hidden Backdoor Attack against Semantic Segmentation Models. ***ICLR Workshop***, 2021. [[arXiv]](https://arxiv.org/pdf/2103.04038.pdf)[[Poster]](https://www.dropbox.com/s/r462uoe3qtkyphu/BackdoorSegmentation_poster.pdf?dl=0)[[Slides]](https://share.weiyun.com/rz7Rvjup)[[Video]](https://studio.slideslive.com/web_recorder/share/35269?s=5fbfa356-0fa7-48e8-9041-146bd5ee296e)
+* [Hidden Backdoor Attack against Semantic Segmentation Models](https://arxiv.org/pdf/2103.04038.pdf)<br>
+**Yiming Li**\*, Yanjie Li\*, Yalei Lv, Yong Jiang, Shu-Tao Xia<br>
+International Conference on Learning Representations (**ICLR**) Workshop, 2021<br>
+[[Poster]](https://www.dropbox.com/s/r462uoe3qtkyphu/BackdoorSegmentation_poster.pdf?dl=0)[[Slides]](https://share.weiyun.com/rz7Rvjup)[[Video]](https://studio.slideslive.com/web_recorder/share/35269?s=5fbfa356-0fa7-48e8-9041-146bd5ee296e)
 
-* Jiawang Bai, Baoyuan Wu, Yong Zhang, **Yiming Li**, Zhifeng Li, Shu-Tao Xia. Targeted Attack against Deep Neural Networks via Flipping Limited Weight Bits. ***ICLR***, 2021. [[arXiv]](https://arxiv.org/pdf/2102.10496.pdf)[[Code]](https://github.com/jiawangbai/TA-LBF-master)[[Poster]](https://www.dropbox.com/s/h700kexejyfs8g1/iclr2021_TA_lBF_poster.pdf?dl=0)[[Video]](https://iclr.cc/virtual/2021/poster/2631)
 
-[//]: # (* **Yiming Li**\*, Haoxiang Zhong\*, Xingjun Ma, Yong Jiang, Shu-Tao Xia. Few-Shot Backdoor Attack against Visual Tracking. ***Under Review***, 2021.)
+* [Targeted Attack against Deep Neural Networks via Flipping Limited Weight Bits](https://arxiv.org/pdf/2102.10496.pdf)<br>
+Jiawang Bai, Baoyuan Wu, Yong Zhang, **Yiming Li**, Zhifeng Li, Shu-Tao Xia<br>
+International Conference on Learning Representations (**ICLR**), 2021<br>
+[[Code]](https://github.com/jiawangbai/TA-LBF-master)[[Poster]](https://www.dropbox.com/s/h700kexejyfs8g1/iclr2021_TA_lBF_poster.pdf?dl=0)[[Video]](https://iclr.cc/virtual/2021/poster/2631)
 
-* **Yiming Li**, Baoyuan Wu, Yong Jiang, Zhifeng Li, Shu-Tao Xia. Backdoor Learning: A Survey. ***Under Review***, 2020. [[arXiv]](https://arxiv.org/abs/2007.08745)[[Github Resources]](https://github.com/THUYimingLi/backdoor-learning-resources)
 
-[//]: # (* Kunzhe Huang\*, **Yiming Li**\*, Baoyuan Wu, Zhan Qin, Kui Ren. Backdoor Defense via Disentangling the Training Process. ***Under Review***, 2021.)
+* [Backdoor Learning: A Survey](https://arxiv.org/abs/2007.08745)<br>
+**Yiming Li**, Baoyuan Wu, Yong Jiang, Zhifeng Li, Shu-Tao Xia<br>
+submitted to Pattern Recognition, 2021<br>
+[[Github Resources]](https://github.com/THUYimingLi/backdoor-learning-resources)
+
 
 
 ### Adversarial Learning and Robust Machine Learning
