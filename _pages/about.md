@@ -107,7 +107,7 @@ Jiawang Bai\*, **Yiming Li**\*, Jiawei Li, Chun Li, Yong Jiang, Xue Yang, Shu-Ta
 
 
 * [Visual Privacy Protection via Mapping Distortion](https://arxiv.org/abs/1911.01769)<br>
-**Yiming Li**\*, Peidong Liu\*, Yong Jiang, Shu-Tao Xia. Visual Privacy Protection via Mapping Distortion<br>
+**Yiming Li**\*, Peidong Liu\*, Yong Jiang, Shu-Tao Xia<br>
 International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2021<br>
 [[Code]](https://github.com/PerdonLiu/Visual-Privacy-Protection-via-Mapping-Distortion) [[Poster]](https://www.dropbox.com/s/g22yr1suem4y36l/MDP_poster.pdf?dl=0) [[Slides]](https://www.dropbox.com/s/8cbnmt335s3p1ix/MDP_slides.pptx?dl=0) [[Video]](https://www.dropbox.com/s/ww7mhdn09sqk2nh/MDP_video.mp4?dl=0)
 
@@ -185,7 +185,6 @@ arXiv preprint 2008.09413
 * Research Intern, Tencent AI Lab, Jul 2019 - Oct 2020
   * Supported by the <font color='red'>Tencent Rhino-bird Elite Training Program</font>, working on AI Security
   * Mentor: Dr. [Baoyuan Wu](https://sites.google.com/site/baoyuanwu2015/), Principle Research Scientist
-  * Partly involved in the Tencent technical report, The ATT&CK Matrix of AI Security (in Chinese) [[Link]](https://ai.tencent.com/ailab/media/AI%E5%AE%89%E5%85%A8%E7%9A%84%E5%A8%81%E8%83%81%E9%A3%8E%E9%99%A9%E7%9F%A9%E9%98%B5.pdf) [[News]](https://www.jiqizhixin.com/articles/2020-09-25-9). Mainly responsible for backdoor-related sections and report editing.
 
 * Intern, Department of Vision Technology, OPPO, May 2019 - Jun 2019
   * Supported by the TBSI Capstone Project, working on human instance segmentation
