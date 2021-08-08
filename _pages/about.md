@@ -34,6 +34,12 @@ I am currently a fourth year Ph.D. candidate in Data Science and Information Tec
 \* indicates equal contribution; ^ indicates corresponding author 
 
 ### Backdoor Learning
+* [Backdoor Learning: A Survey](https://arxiv.org/abs/2007.08745)<br>
+**Yiming Li**, Baoyuan Wu, Yong Jiang, Zhifeng Li, Shu-Tao Xia<br>
+submitted to **Pattern Recognition**, 2021<br>
+[[Github Resources]](https://github.com/THUYimingLi/backdoor-learning-resources)
+
+
 * [Backdoor Attack against Speaker Verification](https://arxiv.org/pdf/2010.11607.pdf)<br>
 Tongqing Zhai\*, **Yiming Li**\*^, Ziqi Zhang, Baoyuan Wu, Yong Jiang, Shu-Tao Xia<br>
 International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2021 <br>
@@ -43,6 +49,12 @@ International Conference on Acoustics, Speech and Signal Processing (**ICASSP**)
 * [Invisible Backdoor Attack with Sample-Specific Triggers](https://arxiv.org/pdf/2012.03816.pdf)<br>
 Yuezun Li, **Yiming Li**, Baoyuan Wu, Longkang Li, Ran He, Siwei Lyu<br>
 International Conference on Computer Vision (**ICCV**), 2021
+
+
+* [Targeted Attack against Deep Neural Networks via Flipping Limited Weight Bits](https://arxiv.org/pdf/2102.10496.pdf)<br>
+Jiawang Bai, Baoyuan Wu, Yong Zhang, **Yiming Li**, Zhifeng Li, Shu-Tao Xia<br>
+International Conference on Learning Representations (**ICLR**), 2021<br>
+[[Code]](https://github.com/jiawangbai/TA-LBF-master)[[Poster]](https://www.dropbox.com/s/h700kexejyfs8g1/iclr2021_TA_lBF_poster.pdf?dl=0)[[Video]](https://iclr.cc/virtual/2021/poster/2631)
 
 
 * [Backdoor Attack in the Physical World](https://arxiv.org/pdf/2104.02361.pdf)<br> 
@@ -57,16 +69,6 @@ International Conference on Learning Representations (**ICLR**) Workshop, 2021<b
 [[Poster]](https://www.dropbox.com/s/r462uoe3qtkyphu/BackdoorSegmentation_poster.pdf?dl=0)[[Slides]](https://share.weiyun.com/rz7Rvjup)[[Video]](https://studio.slideslive.com/web_recorder/share/35269?s=5fbfa356-0fa7-48e8-9041-146bd5ee296e)
 
 
-* [Targeted Attack against Deep Neural Networks via Flipping Limited Weight Bits](https://arxiv.org/pdf/2102.10496.pdf)<br>
-Jiawang Bai, Baoyuan Wu, Yong Zhang, **Yiming Li**, Zhifeng Li, Shu-Tao Xia<br>
-International Conference on Learning Representations (**ICLR**), 2021<br>
-[[Code]](https://github.com/jiawangbai/TA-LBF-master)[[Poster]](https://www.dropbox.com/s/h700kexejyfs8g1/iclr2021_TA_lBF_poster.pdf?dl=0)[[Video]](https://iclr.cc/virtual/2021/poster/2631)
-
-
-* [Backdoor Learning: A Survey](https://arxiv.org/abs/2007.08745)<br>
-**Yiming Li**, Baoyuan Wu, Yong Jiang, Zhifeng Li, Shu-Tao Xia<br>
-submitted to **Pattern Recognition**, 2021<br>
-[[Github Resources]](https://github.com/THUYimingLi/backdoor-learning-resources)
 
 
 
