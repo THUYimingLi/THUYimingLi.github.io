@@ -9,10 +9,9 @@ redirect_from:
 ---
 
 ## Biography
-I am currently a fourth year Ph.D. candidate from the Tsinghua-Berkeley Shenzhen Institute (TBSI), Tsinghua Shenzhen International Graduate School (SIGS) at Tsinghua University, China. Before that, I received my B.S. degree in Mathematics and Applied Mathematics from Ningbo University, China, in 2018. **My research mainly focus on the AI security**, including 
-  * Model Security of the Training Process (mainly on the Backdoor Learning)
-  * Model Security of the Inference Process (mainly on the Adversarial Learning and Robust Machine Learning)
-  * Data Privacy
+I am currently a fourth year Ph.D. candidate from the Tsinghua-Berkeley Shenzhen Institute (TBSI), Tsinghua Shenzhen International Graduate School (SIGS) at Tsinghua University, China. Before that, I received my B.S. degree in Mathematics and Applied Mathematics from Ningbo University, China, in 2018. 
+
+**My research mainly focus on the AI security**, including backdoor learning, adversarial learning, and data privacy.
 
 
 
@@ -43,10 +42,10 @@ I am currently a fourth year Ph.D. candidate from the Tsinghua-Berkeley Shenzhen
   * Supervisor: Prof. [Lifeng Xi](http://math.nbu.edu.cn/info/1046/1098.htm)
   * Thesis Topic: [Study and Application of Ensemble Learning in Deep Learning (in Chinese)](https://share.weiyun.com/jB7mlKgV) (<font color='red'>Outstanding Undergraduate Thesis in Ningbo University</font>)
 
-## Research
+## Publications and Preprints
 \* indicates equal contribution; ^ indicates corresponding author 
 
-### Model Security of the Training Process
+### Backdoor Learning
 * Tongqing Zhai\*, **Yiming Li**\*^, Ziqi Zhang, Baoyuan Wu, Yong Jiang, Shu-Tao Xia. Backdoor Attack against Speaker Verification. ***ICASSP***, 2021.[[arXiv]](https://arxiv.org/pdf/2010.11607.pdf)[[Code]](https://github.com/zhaitongqing233/Backdoor-attack-against-speaker-verification)[[Poster]](https://www.dropbox.com/s/jd9z8eer749ffgh/BackdoorSpeakerVerification_poster.pdf?dl=0)[[Slides]](https://www.dropbox.com/s/ox2h6wicc9v88a3/BackdoorSpeakerVerification_slides.pptx?dl=0)[[Video]](https://www.dropbox.com/s/0f7effif8itgsow/BackdoorSpeakerVerification_video.mp4?dl=0)
 
 * Yuezun Li, **Yiming Li**, Baoyuan Wu, Longkang Li, Ran He, Siwei Lyu. Invisible Backdoor Attack with Sample-Specific Triggers. ***ICCV***, 2021. [[arXiv]](https://arxiv.org/pdf/2012.03816.pdf)
