@@ -21,17 +21,26 @@ I am currently a fourth year Ph.D. candidate in Data Science and Information Tec
 [<font color='orange'>The ATT&CK Matrix of AI Security</font>](https://aisecmatrix.org/) (It is the first technical report comprehensively covering different kinds of security threats in the full cycle of an AI system.)
 
 
+
+
+
 ## News
 * 08/2021: I am invited as the Senior PC Member of AAAI 2022.
-* 07/2021: One paper is accepted by ICCV 2021.
-* 07/2021: So glad that our paper 'Defending against Model Stealing via Verifying Embedded External Features' is awarded the Adversarial for Good Award by ICML AdvML Workshop, 2021. Looking forward to discussing it at the workshop in July 24, 2021. 
+* 07/2021: One paper is accepted by the ICCV 2021.
+* 07/2021: So glad that our paper 'Defending against Model Stealing via Verifying Embedded External Features' is awarded the Best Paper of Adversarial for Good Award by the ICML AdvML Workshop, 2021. 
 * 07/2021: I am invited as the PC Member of IJCAI and ICLR 2022.
 * 07/2021: So glad to be awarded the TBSI Excellence Scholarship, 2021.
 
 
 
+
+
+
 ## Publications and Preprints
-\* indicates equal contribution; ^ indicates corresponding author 
+\* indicates equal contribution
+^ indicates corresponding author 
+
+
 
 ### Backdoor Learning
 * [Backdoor Learning: A Survey](https://arxiv.org/abs/2007.08745)<br>
