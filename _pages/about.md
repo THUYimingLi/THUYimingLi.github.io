@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## Biography
-I am currently a fourth year Ph.D. candidate from the Tsinghua-Berkeley Shenzhen Institute (TBSI), Tsinghua Shenzhen International Graduate School (SIGS) at Tsinghua University, advised by Prof. [Shu-Tao Xia](https://www.sigs.tsinghua.edu.cn/xst/main.htm) and Prof. [Yong Jiang](https://www.sigs.tsinghua.edu.cn/jy/main.htm). Before that, I received my B.S. degree in Mathematics and Applied Mathematics from Ningbo University in 2018, advised by Prof [Lifeng Xi](http://math.nbu.edu.cn/info/1046/1098.htm) (Undergraduate Thesis Topic: [Study and Application of Ensemble Learning in Deep Learning (in Chinese)](https://share.weiyun.com/jB7mlKgV), <font color='red'>Outstanding Undergraduate Thesis in Ningbo University</font>). 
+I am currently a fourth year Ph.D. candidate from the [Tsinghua-Berkeley Shenzhen Institute (TBSI)](https://www.tbsi.edu.cn/en/), [Tsinghua Shenzhen International Graduate School (SIGS)](https://www.sigs.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by Prof. [Shu-Tao Xia](https://www.sigs.tsinghua.edu.cn/xst/main.htm) and Prof. [Yong Jiang](https://www.sigs.tsinghua.edu.cn/jy/main.htm). Before that, I received my B.S. degree in Mathematics and Applied Mathematics (<font color='red'>Yangming Innovation Class</font>) from [Ningbo University](https://www.nbu.edu.cn/en/) in 2018, advised by Prof [Lifeng Xi](http://math.nbu.edu.cn/info/1046/1098.htm) (Undergraduate Thesis: [Study and Application of Ensemble Learning in Deep Learning (in Chinese)](https://share.weiyun.com/jB7mlKgV), <font color='red'>Outstanding Undergraduate Thesis in Ningbo University</font>). 
 
 **My research mainly focus on the AI security**, including backdoor learning, adversarial learning, and data privacy.
 
@@ -28,15 +28,6 @@ I am currently a fourth year Ph.D. candidate from the Tsinghua-Berkeley Shenzhen
 * 07/2021: So glad to be awarded the TBSI Excellence Scholarship, 2021.
 
 
-
-## Education
-
-* Exchange Student, University of Wisconsin, Jan. 2017 − May. 2017
-  * Major in Mathematics and Computer Science
-  
-* B.S. in Mathematics and Applied Mathematics (<font color='red'>Yangming Innovation Class</font>), Ningbo University, Aug. 2014 - May. 2018
-  * Supervisor: Prof. [Lifeng Xi](http://math.nbu.edu.cn/info/1046/1098.htm)
-  * Thesis Topic: [Study and Application of Ensemble Learning in Deep Learning (in Chinese)](https://share.weiyun.com/jB7mlKgV) (<font color='red'>Outstanding Undergraduate Thesis in Ningbo University</font>)
 
 ## Publications and Preprints
 \* indicates equal contribution; ^ indicates corresponding author 
@@ -59,7 +50,7 @@ I am currently a fourth year Ph.D. candidate from the Tsinghua-Berkeley Shenzhen
 [//]: # (* Kunzhe Huang\*, **Yiming Li**\*, Baoyuan Wu, Zhan Qin, Kui Ren. Backdoor Defense via Disentangling the Training Process. ***Under Review***, 2021.)
 
 
-### Model Security of the Inference Process
+### Adversarial Learning and Robust Machine Learning
 * Jiawang Bai\*, Bin Chen\*, **Yiming Li**\*, Dongxian Wu, Weiwei Guo, Shu-Tao Xia, Enhui Yang. Targeted Attack for Deep Hashing based Retrieval. ***ECCV*** (<font color='red'>oral, TOP 2%</font>), 2020. [[arXiv]](https://arxiv.org/abs/2004.07955)[[Code]](https://github.com/jiawangbai/DHTA-master)[[Slides]](https://www.dropbox.com/s/7a1vvopt8z0jxvl/targeted_attack_slides.pptx?dl=0)
 
 * **Yiming Li**\*, Yang Zhang\*, Qingtao Tang, Weipeng Huang, Yong Jiang, Shu-Tao Xia. *t*-*k*-means: A Robust and Stable *k*-means Variant. ***ICASSP***, 2021. [[arXiv]](https://arxiv.org/abs/1907.07442)[[Code]](https://github.com/THUYimingLi/t-k-means)[[Poster]](https://www.dropbox.com/s/mwmzwxivbi2bxlu/t_k_means_poster.pdf?dl=0)[[Slides]](https://www.dropbox.com/s/mlq01732qkcwp2l/t-k-means_slides.pptx?dl=0)[[Video]](https://www.dropbox.com/s/5f7nqutp8k3x17s/t-k-mean_video.mp4?dl=0)
