@@ -101,7 +101,7 @@ International Conference on Image Processing (**ICIP**), 2020<br>
 
 ### Data Privacy
 * [Multinomial Random Forest](https://arxiv.org/abs/1903.04003)<br>
-Jiawang Bai\*, **Yiming Li**\*, Jiawei Li, Chun Li, Yong Jiang, Xue Yang, Shu-Tao Xia<br>
+Jiawang Bai\*, **Yiming Li**\*, Jiawei Li, Yong Jiang, Xue Yang, Shu-Tao Xia<br>
 **Pattern Recognition**, under minor revision, 2021<br>
 [[Code]](https://github.com/jiawangbai/Multinomial-Random-Forest)
 
