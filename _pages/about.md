@@ -72,7 +72,7 @@ International Conference on Learning Representations (**ICLR**) Workshop, 2021<b
 
 
 ### Adversarial Learning and Robust Machine Learning
-* [Adversarial Defense via Semi-supervised Robust Training with Generalized Perturbed Neighborhood](https://www.researchgate.net/publication/339971613_Toward_Adversarial_Robustness_via_Semi-supervised_Robust_Training)<br>
+* [Semi-supervised Robust Training with Generalized Perturbed Neighborhood](https://www.researchgate.net/publication/339971613_Toward_Adversarial_Robustness_via_Semi-supervised_Robust_Training)<br>
 **Yiming Li**, Baoyuan Wu, Yan Feng, Yanbo Fan, Yong Jiang, Zhifeng Li, Shu-Tao Xia<br>
 **Pattern Recognition**, under minor revision, 2021 (<font color='red'>Best Student Research Award of TBSI-WODS 2019, TOP-1</font>)<br>
 [[Code]](https://github.com/THUYimingLi/Semi-supervised_Robust_Training)
@@ -80,7 +80,7 @@ International Conference on Learning Representations (**ICLR**) Workshop, 2021<b
 
 * [Targeted Attack for Deep Hashing based Retrieval](https://arxiv.org/abs/2004.07955)<br>
 Jiawang Bai\*, Bin Chen\*, **Yiming Li**\*, Dongxian Wu, Weiwei Guo, Shu-Tao Xia, Enhui Yang<br>
-European Conference on Computer Vision (**ECCV***) (<font color='red'>oral, TOP 2%</font>), 2020<br>
+European Conference on Computer Vision (**ECCV**) (<font color='red'>oral, TOP 2%</font>), 2020<br>
 [[Code]](https://github.com/jiawangbai/DHTA-master) [[Slides]](https://www.dropbox.com/s/7a1vvopt8z0jxvl/targeted_attack_slides.pptx?dl=0)
 
 
@@ -100,15 +100,32 @@ International Conference on Image Processing (**ICIP**), 2020<br>
 
 
 ### Data Privacy
-* **Yiming Li**\*, Peidong Liu\*, Yong Jiang, Shu-Tao Xia. Visual Privacy Protection via Mapping Distortion. ***ICASSP***, 2021. [[arXiv]](https://arxiv.org/abs/1911.01769)[[Code]](https://github.com/PerdonLiu/Visual-Privacy-Protection-via-Mapping-Distortion)[[Poster]](https://www.dropbox.com/s/g22yr1suem4y36l/MDP_poster.pdf?dl=0)[[Slides]](https://www.dropbox.com/s/8cbnmt335s3p1ix/MDP_slides.pptx?dl=0)[[Video]](https://www.dropbox.com/s/ww7mhdn09sqk2nh/MDP_video.mp4?dl=0)
+* [Multinomial Random Forest](https://arxiv.org/abs/1903.04003)<br>
+Jiawang Bai\*, **Yiming Li**\*, Jiawei Li, Chun Li, Yong Jiang, Xue Yang, Shu-Tao Xia<br>
+**Pattern Recognition**, under minor revision, 2021<br>
+[[Code]](https://github.com/jiawangbai/Multinomial-Random-Forest)
 
-* Linghui Zhu\*, **Yiming Li**\*^, Xiaojun Jia, Yong Jiang, Shu-Tao Xia, Xiaochun Cao. Defending against Model Stealing via Verifying Embedded External Features. ***ICML Workshop*** (<font color='red'>Adversarial for Good Award, oral, TOP-1</font>), 2021.[[Link]](https://openreview.net/forum?id=g6zfnWUg8A1)[[Poster]](https://www.dropbox.com/s/i3u7p1kea5thn4s/StealingVerification_poster.pdf?dl=0)[[Slides]](https://www.dropbox.com/s/rlqaox8bia9aln5/StealingVerification_slides.pptx?dl=0)[[Video]](https://recorder-v3.slideslive.com/?share=41027&s=f59fb2d3-2705-4a23-94c9-8efd3a92b8e1)
 
-* **Yiming Li**, Ziqi Zhang, Jiawang Bai, Baoyuan Wu, Yong Jiang, Shu-Tao Xia. Open-sourced Dataset Protection via Backdoor Watermarking. ***NeurIPS Workshop***, 2020. [[arXiv]](https://arxiv.org/abs/2010.05821)[[Code]](https://github.com/THUYimingLi/Open-sourced_Dataset_Protection)[[Poster]](https://www.dropbox.com/s/dtkers5txx0mats/WatermarkingDataset_NIPSW2020_poster.pdf?dl=0)
+* [Visual Privacy Protection via Mapping Distortion](https://arxiv.org/abs/1911.01769)<br>
+* **Yiming Li**\*, Peidong Liu\*, Yong Jiang, Shu-Tao Xia. Visual Privacy Protection via Mapping Distortion<br>
+* International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2021<br>
+[[Code]](https://github.com/PerdonLiu/Visual-Privacy-Protection-via-Mapping-Distortion) [[Poster]](https://www.dropbox.com/s/g22yr1suem4y36l/MDP_poster.pdf?dl=0) [[Slides]](https://www.dropbox.com/s/8cbnmt335s3p1ix/MDP_slides.pptx?dl=0) [[Video]](https://www.dropbox.com/s/ww7mhdn09sqk2nh/MDP_video.mp4?dl=0)
 
-* **Yiming Li**\*, Jiawang Bai\*, Jiawei Li, Chun Li, Yong Jiang, Xue Yang, Shu-Tao Xia. Multinomial Random Forest: Toward Consistency and Privacy-Preservation. ***Under Review***, 2020. [[arXiv]](https://arxiv.org/abs/1903.04003)[[Code]](https://github.com/jiawangbai/Multinomial-Random-Forest)
 
-[//]: # (* Linghui Zhu, Xinyi Liu, **Yiming Li**, Xue Yang, Shu-Tao Xia, Rongxing Lu. A Fine-grained Differentially Private Federated Learning against Leakage from Gradients. ***Under Review***, 2021.)
+
+* [Defending against Model Stealing via Verifying Embedded External Features](https://openreview.net/forum?id=g6zfnWUg8A1)<br>
+Linghui Zhu\*, **Yiming Li**\*^, Xiaojun Jia, Yong Jiang, Shu-Tao Xia, Xiaochun Cao<br>
+International Conference on Machine Learning (**ICML**) Workshop (<font color='red'>Best Paper of Adversarial for Good Award, oral, TOP-1</font>), 2021<br>
+[[Poster]](https://www.dropbox.com/s/i3u7p1kea5thn4s/StealingVerification_poster.pdf?dl=0) [[Slides]](https://www.dropbox.com/s/rlqaox8bia9aln5/StealingVerification_slides.pptx?dl=0) [[Video]](https://recorder-v3.slideslive.com/?share=41027&s=f59fb2d3-2705-4a23-94c9-8efd3a92b8e1)
+
+
+
+* [Open-sourced Dataset Protection via Backdoor Watermarking](https://arxiv.org/abs/2010.05821)<br>
+**Yiming Li**, Ziqi Zhang, Jiawang Bai, Baoyuan Wu, Yong Jiang, Shu-Tao Xia<br>
+Neural Information Processing Systems (**NeurIPS**) Workshop, 2020<br>
+[[Code]](https://github.com/THUYimingLi/Open-sourced_Dataset_Protection) [[Poster]](https://www.dropbox.com/s/dtkers5txx0mats/WatermarkingDataset_NIPSW2020_poster.pdf?dl=0)
+
+
 
 
 ### Other Topics
