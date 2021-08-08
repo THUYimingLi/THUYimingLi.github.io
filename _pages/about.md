@@ -37,9 +37,7 @@ I am currently a fourth year Ph.D. candidate in Data Science and Information Tec
 
 
 ## Publications and Preprints
-\* indicates equal contribution
-
-^ indicates corresponding author 
+\`\*\' indicates equal contribution while \`^\' indicates corresponding author 
 
 
 
