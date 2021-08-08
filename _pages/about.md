@@ -143,7 +143,7 @@ Neural Information Processing Systems (**NeurIPS**) Workshop, 2020<br>
 
 
 * [TNT: An Interpretable Tree-Network-Tree Learning Framework using Knowledge Distillation](https://www.mdpi.com/1099-4300/22/11/1203)<br>
-Jiawei Li, **Yiming Li**, Xingchun Xiang, Shu-Tao Xia, Siyi Dong, Yun Cai<br>
+Jiawei Li^, **Yiming Li**, Xingchun Xiang, Shu-Tao Xia^, Siyi Dong, Yun Cai<br>
 **Entropy**, 2020
 
 
