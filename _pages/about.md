@@ -17,10 +17,10 @@ I am currently a fourth year Ph.D. candidate from the Tsinghua-Berkeley Shenzhen
 
 
 
-[Github Repo about Backdoor Learning Resources](https://github.com/THUYimingLi/backdoor-learning-resources)
+[<font color='orange'>Github Repo about Backdoor Learning Resources</font>](https://github.com/THUYimingLi/backdoor-learning-resources)
 
 
-[The ATT&CK Matrix of AI Security](https://ai.tencent.com/ailab/media/AI%E5%AE%89%E5%85%A8%E7%9A%84%E5%A8%81%E8%83%81%E9%A3%8E%E9%99%A9%E7%9F%A9%E9%98%B5.pdf) [[Website]](https://aisecmatrix.org/)(It is the first technical report comprehensively covering different kinds of security threats in the full cycle of an AI system.)
+[<font color='orange'>The ATT&CK Matrix of AI Security</font>](https://aisecmatrix.org/)(It is the first technical report comprehensively covering different kinds of security threats in the full cycle of an AI system.)
 
 
 ## News
