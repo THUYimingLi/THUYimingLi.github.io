@@ -43,7 +43,7 @@ My research mainly focus on AI security, especially backdoor learning, adversari
 
 ### Backdoor Learning
 * [Backdoor Learning: A Survey](https://arxiv.org/abs/2007.08745)<br>
-**Yiming Li**, Baoyuan Wu, Yong Jiang, Zhifeng Li, Shu-Tao Xia^<br>
+**Yiming Li**, Baoyuan Wu, Yong Jiang, Zhifeng Li, Shu-Tao Xia<br>
 submitted to **Pattern Recognition**, 2021<br>
 [[Github Resources]](https://github.com/THUYimingLi/backdoor-learning-resources)
 
