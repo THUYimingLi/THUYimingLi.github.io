@@ -74,7 +74,7 @@ International Conference on Learning Representations (**ICLR**) Workshop, 2021<b
 ### Adversarial Learning and Robust Machine Learning
 * [Semi-supervised Robust Training with Generalized Perturbed Neighborhood](https://www.researchgate.net/publication/339971613_Toward_Adversarial_Robustness_via_Semi-supervised_Robust_Training)<br>
 **Yiming Li**, Baoyuan Wu, Yan Feng, Yanbo Fan, Yong Jiang, Zhifeng Li, Shu-Tao Xia<br>
-**Pattern Recognition**, under minor revision, 2021 (<font color='red'>Best Student Research Award of TBSI-WODS 2019, TOP-1</font>)<br>
+**Pattern Recognition**, under minor revision, 2021 (<font color='red'>Best Student Research Award of TBSI-WODS</font>)<br>
 [[Code]](https://github.com/THUYimingLi/Semi-supervised_Robust_Training)
 
 
@@ -115,7 +115,7 @@ International Conference on Acoustics, Speech and Signal Processing (**ICASSP**)
 
 * [Defending against Model Stealing via Verifying Embedded External Features](https://openreview.net/forum?id=g6zfnWUg8A1)<br>
 Linghui Zhu\*, **Yiming Li**\*^, Xiaojun Jia, Yong Jiang, Shu-Tao Xia, Xiaochun Cao<br>
-International Conference on Machine Learning (**ICML**) Workshop (<font color='red'>Best Paper of Adversarial for Good Award, oral, TOP-1</font>), 2021<br>
+International Conference on Machine Learning (**ICML**) Workshop (<font color='red'>Best Paper of Adversarial for Good Award</font>), 2021<br>
 [[Poster]](https://www.dropbox.com/s/i3u7p1kea5thn4s/StealingVerification_poster.pdf?dl=0) [[Slides]](https://www.dropbox.com/s/rlqaox8bia9aln5/StealingVerification_slides.pptx?dl=0) [[Video]](https://recorder-v3.slideslive.com/?share=41027&s=f59fb2d3-2705-4a23-94c9-8efd3a92b8e1)
 
 
@@ -129,12 +129,22 @@ Neural Information Processing Systems (**NeurIPS**) Workshop, 2020<br>
 
 
 ### Other Topics
-* **Yiming Li**, Lifeng Xi. Manhattan Property of Geodesic Paths on Self-affine Carpets. ***Archiv der Mathematik***, 2018. [[Link]](https://link.springer.com/article/10.1007/s00013-018-1199-4)
+* [Manhattan Property of Geodesic Paths on Self-affine Carpets](https://link.springer.com/article/10.1007/s00013-018-1199-4)<br>
+**Yiming Li**, Lifeng Xi<br>
+**Archiv der Mathematik**, 2018
 
-* Jiawei Li, **Yiming Li**, Xingchun Xiang, Shu-Tao Xia, Siyi Dong, Yun Cai. TNT: An Interpretable Tree-Network-Tree Learning Framework using 
-Knowledge Distillation. ***Entropy***, 2020. [[Link]](https://www.mdpi.com/1099-4300/22/11/1203)[[Code]](https://github.com/liviclee/TNT_explainable-tree-network-tree-learning/)
 
-* **Yiming Li**\*, Jiawang Bai\*, Jiawei Li, Xue Yang, Yong Jiang, Shu-Tao Xia. Rectified Decision Trees: Exploring the Landscape of Interpretable and Effective Machine Learning. ***Under Review***, 2020. [[arXiv]](https://arxiv.org/pdf/2008.09413.pdf)
+* [TNT: An Interpretable Tree-Network-Tree Learning Framework using Knowledge Distillation](https://www.mdpi.com/1099-4300/22/11/1203)<br>
+Jiawei Li, **Yiming Li**, Xingchun Xiang, Shu-Tao Xia, Siyi Dong, Yun Cai<br>
+**Entropy**, 2020
+
+
+* [Rectified Decision Trees: Exploring the Landscape of Interpretable and Effective Machine Learning](https://arxiv.org/pdf/2008.09413.pdf)<br>
+**Yiming Li**\*, Jiawang Bai\*, Jiawei Li, Xue Yang, Yong Jiang, Shu-Tao Xia<br>
+arXiv preprint 2008.09413
+
+
+
 
 
 ## Technical Reports and Patents
