@@ -166,7 +166,7 @@ arXiv preprint 2008.09413
 ## Invited Talks
 * A Brief Introduction of Backdoor Attack in the Low-level Computer Vision, Virginia Tech (online), 2021/08/12. [[Slides]](https://www.dropbox.com/s/pxm137snbzq2e0t/BackdoorCV_YimingLi.pptx?dl=0)
 
-* Defending against Model Stealing via Verifying Embedded External Features, ICML Workshop, 2021/07/24. [[Slides]](https://www.dropbox.com/s/rlqaox8bia9aln5/StealingVerification_slides.pptx?dl=0)[[Video]](https://recorder-v3.slideslive.com/?share=41027&s=f59fb2d3-2705-4a23-94c9-8efd3a92b8e1)
+* Defending against Model Stealing via Verifying Embedded External Features, ICML Workshop (online), 2021/07/24. [[Slides]](https://www.dropbox.com/s/rlqaox8bia9aln5/StealingVerification_slides.pptx?dl=0)[[Video]](https://recorder-v3.slideslive.com/?share=41027&s=f59fb2d3-2705-4a23-94c9-8efd3a92b8e1)
 
 * A Brief Introduction of Backdoor Learning, Southwest Jiaotong University, 2021/04/12. [[Slides]](https://www.dropbox.com/s/so882gvchvzdnqp/BackdoorIntro_YimingLi.pptx?dl=0)
 
