@@ -37,42 +37,42 @@ My research mainly focus on AI security, especially backdoor learning, adversari
 
 
 ## Publications and Preprints
-\'\*\' indicates equal contribution, \'^\' indicates corresponding author 
+\'\*\' indicates equal contribution
 
 
 
 ### Backdoor Learning
 * [Backdoor Learning: A Survey](https://arxiv.org/abs/2007.08745)<br>
-**Yiming Li**, Baoyuan Wu^, Yong Jiang, Zhifeng Li, Shu-Tao Xia^<br>
+**Yiming Li**, Baoyuan Wu, Yong Jiang, Zhifeng Li, Shu-Tao Xia<br>
 submitted to **Pattern Recognition**, 2021<br>
 [[Github Resources]](https://github.com/THUYimingLi/backdoor-learning-resources)
 
 
 * [Backdoor Attack against Speaker Verification](https://arxiv.org/pdf/2010.11607.pdf)<br>
-Tongqing Zhai\*, **Yiming Li**\*^, Ziqi Zhang, Baoyuan Wu, Yong Jiang, Shu-Tao Xia^<br>
+Tongqing Zhai\*, **Yiming Li**\* (corresponding author), Ziqi Zhang, Baoyuan Wu, Yong Jiang, Shu-Tao Xia<br>
 International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2021 <br>
 [[Code]](https://github.com/zhaitongqing233/Backdoor-attack-against-speaker-verification) [[Poster]](https://www.dropbox.com/s/jd9z8eer749ffgh/BackdoorSpeakerVerification_poster.pdf?dl=0) [[Slides]](https://www.dropbox.com/s/ox2h6wicc9v88a3/BackdoorSpeakerVerification_slides.pptx?dl=0) [[Video]](https://www.dropbox.com/s/0f7effif8itgsow/BackdoorSpeakerVerification_video.mp4?dl=0)
 
 
 * [Invisible Backdoor Attack with Sample-Specific Triggers](https://arxiv.org/pdf/2012.03816.pdf)<br>
-Yuezun Li, **Yiming Li**, Baoyuan Wu^, Longkang Li, Ran He, Siwei Lyu<br>
+Yuezun Li, **Yiming Li**, Baoyuan Wu, Longkang Li, Ran He, Siwei Lyu<br>
 International Conference on Computer Vision (**ICCV**), 2021
 
 
 * [Targeted Attack against Deep Neural Networks via Flipping Limited Weight Bits](https://arxiv.org/pdf/2102.10496.pdf)<br>
-Jiawang Bai, Baoyuan Wu^, Yong Zhang, **Yiming Li**, Zhifeng Li, Shu-Tao Xia^<br>
+Jiawang Bai, Baoyuan Wu, Yong Zhang, **Yiming Li**, Zhifeng Li, Shu-Tao Xia<br>
 International Conference on Learning Representations (**ICLR**), 2021<br>
 [[Code]](https://github.com/jiawangbai/TA-LBF-master) [[Poster]](https://www.dropbox.com/s/h700kexejyfs8g1/iclr2021_TA_lBF_poster.pdf?dl=0) [[Video]](https://iclr.cc/virtual/2021/poster/2631)
 
 
 * [Backdoor Attack in the Physical World](https://arxiv.org/pdf/2104.02361.pdf)<br> 
-**Yiming Li**, Tongqing Zhai, Yong Jiang, Zhifeng Li, Shu-Tao Xia^<br>
+**Yiming Li**, Tongqing Zhai, Yong Jiang, Zhifeng Li, Shu-Tao Xia<br>
 International Conference on Learning Representations (**ICLR**) Workshop, 2021<br>
 [[Poster]](https://www.dropbox.com/s/cskxnptkd5pmzcj/PhysicalAttack_poster.pdf?dl=0) [[Extension]](https://arxiv.org/abs/2004.04692)
 
 
 * [Hidden Backdoor Attack against Semantic Segmentation Models](https://arxiv.org/pdf/2103.04038.pdf)<br>
-**Yiming Li**\*, Yanjie Li\*, Yalei Lv, Yong Jiang, Shu-Tao Xia^<br>
+**Yiming Li**\*, Yanjie Li\*, Yalei Lv, Yong Jiang, Shu-Tao Xia<br>
 International Conference on Learning Representations (**ICLR**) Workshop, 2021<br>
 [[Poster]](https://www.dropbox.com/s/r462uoe3qtkyphu/BackdoorSegmentation_poster.pdf?dl=0) [[Slides]](https://share.weiyun.com/rz7Rvjup) [[Video]](https://studio.slideslive.com/web_recorder/share/35269?s=5fbfa356-0fa7-48e8-9041-146bd5ee296e)
 
@@ -81,25 +81,25 @@ International Conference on Learning Representations (**ICLR**) Workshop, 2021<b
 
 ### Adversarial Learning and Robust Machine Learning
 * [Semi-supervised Robust Training with Generalized Perturbed Neighborhood](https://www.researchgate.net/publication/339971613_Toward_Adversarial_Robustness_via_Semi-supervised_Robust_Training)<br>
-**Yiming Li**, Baoyuan Wu^, Yan Feng, Yanbo Fan, Yong Jiang, Zhifeng Li, Shu-Tao Xia^<br>
+**Yiming Li**, Baoyuan Wu, Yan Feng, Yanbo Fan, Yong Jiang, Zhifeng Li, Shu-Tao Xia<br>
 **Pattern Recognition**, under minor revision, 2021 (<font color='red'>Best Student Research Award of TBSI-WODS, 2019</font>)<br>
 [[Code]](https://github.com/THUYimingLi/Semi-supervised_Robust_Training)
 
 
 * [*t*-*k*-means: A Robust and Stable *k*-means Variant](https://arxiv.org/abs/1907.07442)<br>
-**Yiming Li**\*, Yang Zhang\*, Qingtao Tang, Weipeng Huang, Yong Jiang, Shu-Tao Xia^<br>
+**Yiming Li**\*, Yang Zhang\*, Qingtao Tang, Weipeng Huang, Yong Jiang, Shu-Tao Xia<br>
 International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2021<br>
 [[Code]](https://github.com/THUYimingLi/t-k-means)[[Poster]](https://www.dropbox.com/s/mwmzwxivbi2bxlu/t_k_means_poster.pdf?dl=0) [[Slides]](https://www.dropbox.com/s/mlq01732qkcwp2l/t-k-means_slides.pptx?dl=0) [[Video]](https://www.dropbox.com/s/5f7nqutp8k3x17s/t-k-mean_video.mp4?dl=0)
 
 
 * [Targeted Attack for Deep Hashing based Retrieval](https://arxiv.org/abs/2004.07955)<br>
-Jiawang Bai\*, Bin Chen\*^, **Yiming Li**\*, Dongxian Wu, Weiwei Guo, Shu-Tao Xia, Enhui Yang<br>
+Jiawang Bai\*, Bin Chen\*, **Yiming Li**\*, Dongxian Wu, Weiwei Guo, Shu-Tao Xia, Enhui Yang<br>
 European Conference on Computer Vision (**ECCV**) (<font color='red'>oral, TOP 2%</font>), 2020<br>
 [[Code]](https://github.com/jiawangbai/DHTA-master) [[Slides]](https://www.dropbox.com/s/7a1vvopt8z0jxvl/targeted_attack_slides.pptx?dl=0)
 
 
 * [Adversarial Defense via Local Flatness Regularization](https://arxiv.org/abs/1910.12165)<br>
-Jia Xu\*, **Yiming Li**\*, Yong Jiang^, Shu-Tao Xia<br>
+Jia Xu\*, **Yiming Li**\*, Yong Jiang, Shu-Tao Xia<br>
 International Conference on Image Processing (**ICIP**), 2020<br>
 [[Code]](https://github.com/Uooga/Local-Flatness-Regularization) [[Slides]](https://share.weiyun.com/6uJPj6VG)
 
@@ -109,20 +109,20 @@ International Conference on Image Processing (**ICIP**), 2020<br>
 
 ### Data Privacy
 * [Multinomial Random Forest](https://arxiv.org/abs/1903.04003)<br>
-Jiawang Bai\*, **Yiming Li**\*, Jiawei Li, Xue Yang^, Yong Jiang, Shu-Tao Xia^<br>
+Jiawang Bai\*, **Yiming Li**\*, Jiawei Li, Xue Yang^, Yong Jiang, Shu-Tao Xia<br>
 **Pattern Recognition**, under minor revision, 2021<br>
 [[Code]](https://github.com/jiawangbai/Multinomial-Random-Forest)
 
 
 * [Visual Privacy Protection via Mapping Distortion](https://arxiv.org/abs/1911.01769)<br>
-**Yiming Li**\*, Peidong Liu\*, Yong Jiang^, Shu-Tao Xia<br>
+**Yiming Li**\*, Peidong Liu\*, Yong Jiang, Shu-Tao Xia<br>
 International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2021<br>
 [[Code]](https://github.com/PerdonLiu/Visual-Privacy-Protection-via-Mapping-Distortion) [[Poster]](https://www.dropbox.com/s/g22yr1suem4y36l/MDP_poster.pdf?dl=0) [[Slides]](https://www.dropbox.com/s/8cbnmt335s3p1ix/MDP_slides.pptx?dl=0) [[Video]](https://www.dropbox.com/s/ww7mhdn09sqk2nh/MDP_video.mp4?dl=0)
 
 
 
 * [Defending against Model Stealing via Verifying Embedded External Features](https://openreview.net/forum?id=g6zfnWUg8A1)<br>
-Linghui Zhu\*, **Yiming Li**\*^, Xiaojun Jia, Yong Jiang, Shu-Tao Xia^, Xiaochun Cao<br>
+Linghui Zhu\*, **Yiming Li**\* (corresponding author), Xiaojun Jia, Yong Jiang, Shu-Tao Xia, Xiaochun Cao<br>
 International Conference on Machine Learning (**ICML**) Workshop (<font color='red'>Best Paper of Adversarial for Good Award</font>), 2021<br>
 [[Poster]](https://www.dropbox.com/s/i3u7p1kea5thn4s/StealingVerification_poster.pdf?dl=0) [[Slides]](https://www.dropbox.com/s/rlqaox8bia9aln5/StealingVerification_slides.pptx?dl=0) [[Video]](https://recorder-v3.slideslive.com/?share=41027&s=f59fb2d3-2705-4a23-94c9-8efd3a92b8e1)
 
