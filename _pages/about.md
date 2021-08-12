@@ -148,7 +148,7 @@ Jiawei Li, **Yiming Li**, Xingchun Xiang, Shu-Tao Xia, Siyi Dong, Yun Cai<br>
 
 
 * [Rectified Decision Trees: Exploring the Landscape of Interpretable and Effective Machine Learning](https://arxiv.org/pdf/2008.09413.pdf)<br>
-**Yiming Li**\*, Jiawang Bai\*, Jiawei Li, Xue Yang, Yong Jiang, Shu-Tao Xia^<br>
+**Yiming Li**\*, Jiawang Bai\*, Jiawei Li, Xue Yang, Yong Jiang, Shu-Tao Xia<br>
 arXiv preprint 2008.09413
 
 
@@ -188,11 +188,11 @@ arXiv preprint 2008.09413
 
 * Research Intern, Tencent AI Lab, Jul 2019 - Oct 2020
   * Supported by the <font color='red'>Tencent Rhino-bird Elite Training Program</font>, working on AI Security
-  * Mentor: Dr. [Baoyuan Wu](https://sites.google.com/site/baoyuanwu2015/), Principle Research Scientist
+  * Mentor: Dr. [Baoyuan Wu](https://sites.google.com/site/baoyuanwu2015/) and Dr. [Zhifeng Li](https://scholar.google.com/citations?user=VTrRNN4AAAAJ&hl=zh-CN&oi=ao)
 
 * Intern, Department of Vision Technology, OPPO, May 2019 - Jun 2019
   * Supported by the TBSI Capstone Project, working on human instance segmentation
-  * Mentor: Haidong Huang, Senior Algorithm Engineer
+  * Mentor: Dr. Haidong Huang
 
 
 ## Awards and Honors
