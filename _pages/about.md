@@ -138,12 +138,12 @@ Neural Information Processing Systems (**NeurIPS**) Workshop, 2020<br>
 
 ### Other Topics
 * [Manhattan Property of Geodesic Paths on Self-affine Carpets](https://link.springer.com/article/10.1007/s00013-018-1199-4)<br>
-**Yiming Li**, Lifeng Xi^<br>
+**Yiming Li**, Lifeng Xi<br>
 **Archiv der Mathematik**, 2018
 
 
 * [TNT: An Interpretable Tree-Network-Tree Learning Framework using Knowledge Distillation](https://www.mdpi.com/1099-4300/22/11/1203)<br>
-Jiawei Li^, **Yiming Li**, Xingchun Xiang, Shu-Tao Xia^, Siyi Dong, Yun Cai<br>
+Jiawei Li, **Yiming Li**, Xingchun Xiang, Shu-Tao Xia, Siyi Dong, Yun Cai<br>
 **Entropy**, 2020
 
 
