@@ -214,7 +214,7 @@ arXiv preprint 2008.09413
 * **Reviewer**, IEEE Transactions on Dependable and Secure Computing (TDSC), IEEE Transactions on Industrial Informatics (TII), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), Neurocomputing
 * **(Senior) Program Committee Member**, NeurIPS, ICML, ICLR, CVPR, AISTATS, AAAI, IJCAI, ICONIP, ISPA
 * **Executive Chairman Committee Member**, TBSI Workshop on Data Science (TBSI-WODS), 2019
-* **Lecturer and Consultant** (paper writing and submission track), Academic Servicing Center of Tsinghua University, 2021
+* **Lecturer and Consultant**, Academic Servicing Center of Tsinghua University, 2021
 * **Secretary of Masters Thesis Committee**, Tsinghua-Berkeley Shenzhen Institute, 2021. 
 
 
