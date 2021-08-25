@@ -182,7 +182,7 @@ arXiv preprint 2008.09413
 
 
 ## Work Experiences
-* Research Intern (<font color='red'>Talent Program</font>), Ant Security Lab, Ant Group, Alibaba Group, June 2021 - Present
+* Research Intern (<font color='red'>Talent Program</font>), Ant Security Lab, Alibaba Group, June 2021 - Present
   * Working on Backdoor Attack
   * Mentor: Dr. Weifeng Qiu and Dr. Feng Xue
 
