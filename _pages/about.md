@@ -124,7 +124,7 @@ International Conference on Acoustics, Speech and Signal Processing (**ICASSP**)
 * [Defending against Model Stealing via Verifying Embedded External Features](https://openreview.net/forum?id=g6zfnWUg8A1)<br>
 Linghui Zhu\*, **Yiming Li**\* (corresponding author), Xiaojun Jia, Yong Jiang, Shu-Tao Xia, Xiaochun Cao<br>
 International Conference on Machine Learning (**ICML**) Workshop (<font color='red'>Best Paper of Adversarial for Good Award</font>), 2021<br>
-[[Poster]](https://www.dropbox.com/s/n4ped4hajxqgk5l/StealingVerification_ICMLW21_Poster.pdf?dl=0) [[Slides]](https://www.dropbox.com/s/rlqaox8bia9aln5/StealingVerification_slides.pptx?dl=0)
+[[Poster]](https://www.dropbox.com/s/n4ped4hajxqgk5l/StealingVerification_ICMLW21_Poster.pdf?dl=0) [[Slides]](https://www.dropbox.com/s/slm1vtnaa1z7hn0/StealingVerification_slides.pptx?dl=0)
 
 
 
@@ -166,7 +166,7 @@ arXiv preprint 2008.09413
 ## Invited Talks
 * A Brief Introduction of Backdoor Attack in the Low-level Computer Vision, Virginia Tech (online), 2021/08/12. [[Slides]](https://www.dropbox.com/s/pxm137snbzq2e0t/BackdoorCV_YimingLi.pptx?dl=0)
 
-* Defending against Model Stealing via Verifying Embedded External Features, ICML Workshop (online), 2021/07/24. [[Slides]](https://www.dropbox.com/s/rlqaox8bia9aln5/StealingVerification_slides.pptx?dl=0)
+* Defending against Model Stealing via Verifying Embedded External Features, ICML Workshop (online), 2021/07/24. [[Slides]](https://www.dropbox.com/s/slm1vtnaa1z7hn0/StealingVerification_slides.pptx?dl=0)
 
 * A Brief Introduction of Backdoor Learning, Southwest Jiaotong University, 2021/04/12. [[Slides]](https://www.dropbox.com/s/so882gvchvzdnqp/BackdoorIntro_YimingLi.pptx?dl=0)
 
