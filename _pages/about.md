@@ -182,8 +182,8 @@ arXiv preprint 2008.09413
 
 
 ## Work Experiences
-* Research Intern (<font color='red'>Talent Program</font>), Ant Security Lab, Alibaba Group, June 2021 - Present
-  * Working on Backdoor Attack
+* Research Intern, Ant Security Lab, Alibaba Group, June 2021 - Present
+  * Supported by the <font color='red'>Alibaba Talent Program</font>, working on Backdoor Attack
   * Mentor: Dr. Weifeng Qiu and Dr. Feng Xue
 
 * Research Intern, Tencent AI Lab, Jul 2019 - Oct 2020
@@ -203,7 +203,7 @@ arXiv preprint 2008.09413
 * First Prize of Chinese Mathematics Competition (<font color='red'>TOP 3%</font>), 2016.
 * First Prize of China Undergraduate Mathematical Contest in Modeling (<font color='red'>TOP 1%</font>), 2015.
 * Tsinghua 'Future Scholar' Ph.D. Scholarship (<font color='red'>TOP-2</font> in TBSI), 2020.
-* Tencent Rhino-bird Elite Training Program (<font color='red'>TOP 10%</font>), 2020.
+* Tencent Rhino-bird Elite (<font color='red'>TOP 10%</font>), 2021.
 * TBSI Excellence Scholarship (<font color='red'>Rank First in our Track, TOP 20%</font>), 2021.
 * TBSI Dean's Scholarship, 2020/2021.
 * Undergraduate National Scholarship (<font color='red'>TOP 1%</font>), 2017.
