@@ -103,6 +103,9 @@ Jia Xu\*, **Yiming Li**\*, Yong Jiang, Shu-Tao Xia<br>
 International Conference on Image Processing (**ICIP**), 2020<br>
 [[Code]](https://github.com/Uooga/Local-Flatness-Regularization) [[Slides]](https://share.weiyun.com/6uJPj6VG)
 
+* [Regional Adversarial Training for Better Robust Generalization](https://arxiv.org/pdf/2109.00678.pdf)<br>
+Chuanbiao Song, Yanbo Fan, Yichen Yang, Baoyuan Wu, **Yiming Li**, Zhifeng Li, Kun He<br>
+arXiv preprint 2109.00678
 
 
 
