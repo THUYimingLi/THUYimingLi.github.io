@@ -195,7 +195,7 @@ arXiv preprint 2008.09413
   * Mentor: Dr. [Baoyuan Wu](https://sites.google.com/site/baoyuanwu2015/) and Dr. [Zhifeng Li](https://scholar.google.com/citations?user=VTrRNN4AAAAJ&hl=zh-CN&oi=ao)
 
 * Intern, Department of Vision Technology, OPPO, May 2019 - Jun 2019
-  * Supported by the TBSI Capstone Project, working on human instance segmentation
+  * Supported by the TBSI Capstone Project, working on instance segmentation
   * Mentor: Dr. Haidong Huang
 
 
