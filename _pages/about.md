@@ -128,7 +128,7 @@ International Conference on Acoustics, Speech and Signal Processing (**ICASSP**)
 * [Defending against Model Stealing via Verifying Embedded External Features](https://openreview.net/forum?id=g6zfnWUg8A1)<br>
 Linghui Zhu\*, **Yiming Li**\* (corresponding author), Xiaojun Jia, Yong Jiang, Shu-Tao Xia, Xiaochun Cao<br>
 International Conference on Machine Learning (**ICML**) Workshop (<font color='red'>Best Paper of Adversarial for Good Award</font>), 2021<br>
-[[Poster]](https://www.dropbox.com/s/n4ped4hajxqgk5l/StealingVerification_ICMLW21_Poster.pdf?dl=0) [[Slides]](https://www.dropbox.com/s/slm1vtnaa1z7hn0/StealingVerification_slides.pptx?dl=0)
+[[Slides]](https://www.dropbox.com/s/slm1vtnaa1z7hn0/StealingVerification_slides.pptx?dl=0)
 
 
 
