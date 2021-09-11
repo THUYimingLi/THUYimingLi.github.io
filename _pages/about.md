@@ -217,8 +217,8 @@ arXiv preprint 2008.09413
 
 
 ## Services
-* **Reviewer**, IEEE Transactions on Dependable and Secure Computing (TDSC), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), IEEE Transactions on Industrial Informatics (TII), Neurocomputing
-* **Program Committee Member**, NeurIPS, ICML, ICLR, CVPR, AISTATS, AAAI (Senior PC Member, 2022), IJCAI, ICONIP, ISPA
+* **Reviewer**: IEEE Transactions on Dependable and Secure Computing (TDSC), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), IEEE Transactions on Industrial Informatics (TII), Neurocomputing
+* **Program Committee Member**: NeurIPS, ICML, ICLR, CVPR, AISTATS, AAAI (Senior PC Member, 2022), IJCAI, ICONIP, ISPA
 * **Executive Chairman Committee Member**, TBSI Workshop on Data Science (TBSI-WODS), 2019
 * **Lecturer and Consultant**, Academic Servicing Center of Tsinghua University, 2021
 * **Secretary of Master's Thesis Committee**, Tsinghua-Berkeley Shenzhen Institute, 2021. 
