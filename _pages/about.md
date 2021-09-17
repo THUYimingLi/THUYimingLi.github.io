@@ -25,11 +25,11 @@ My research mainly focuses on AI security, especially backdoor learning, adversa
 
 
 ## News
+* 09/2021: One paper is accepted by Pattern Recognition.
 * 08/2021: I am invited as the Senior PC Member of AAAI 2022.
 * 07/2021: One paper is accepted by the ICCV 2021.
 * 07/2021: So glad that our paper 'Defending against Model Stealing via Verifying Embedded External Features' is awarded the Best Paper of Adversarial for Good Award by the ICML AdvML Workshop, 2021. 
 * 07/2021: I am invited as the PC Member of IJCAI and ICLR 2022.
-* 07/2021: So glad to be awarded the TBSI Excellence Scholarship, 2021.
 
 
 
@@ -114,7 +114,7 @@ arXiv preprint 2109.00678
 ### Data Privacy
 * [Multinomial Random Forest](https://arxiv.org/abs/1903.04003)<br>
 Jiawang Bai\*, **Yiming Li**\*, Jiawei Li, Xue Yang, Yong Jiang, Shu-Tao Xia<br>
-**Pattern Recognition**, under minor revision, 2021<br>
+**Pattern Recognition**, 2021<br>
 [[Code]](https://github.com/jiawangbai/Multinomial-Random-Forest)
 
 
