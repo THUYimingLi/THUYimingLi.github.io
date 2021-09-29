@@ -112,7 +112,7 @@ arXiv preprint 2109.00678
 
 
 ### Data Privacy
-* [Multinomial Random Forest](https://arxiv.org/abs/1903.04003)<br>
+* [Multinomial Random Forest](https://www.sciencedirect.com/science/article/pii/S0031320321005112)<br>
 Jiawang Bai\*, **Yiming Li**\*, Jiawei Li, Xue Yang, Yong Jiang, Shu-Tao Xia<br>
 **Pattern Recognition**, 2021<br>
 [[Code]](https://github.com/jiawangbai/Multinomial-Random-Forest)
