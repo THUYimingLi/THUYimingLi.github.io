@@ -168,7 +168,7 @@ arXiv preprint 2008.09413
 
 
 ## Invited Talks
-* A Brief Introduction of Backdoor Attack, TechBeat (online), 2021/09/29. [[Slides]](https://www.dropbox.com/s/tfm7hjne5cmoucm/BackdoorAttack_TechBeat.pptx?dl=0)
+* A Brief Introduction of Backdoor Attack, TechBeat (online), 2021/09/29. [[Slides]](https://www.dropbox.com/s/tfm7hjne5cmoucm/BackdoorAttack_TechBeat.pptx?dl=0)[[Video]](https://www.techbeat.net/talk-info?id=587)
 
 * A Brief Introduction of Backdoor Attack in the Low-level Computer Vision, Virginia Tech (online), 2021/08/12. [[Slides]](https://www.dropbox.com/s/pxm137snbzq2e0t/BackdoorCV_YimingLi.pptx?dl=0)
 
