@@ -21,13 +21,11 @@ My research mainly focuses on AI security, especially backdoor learning, adversa
 My research is supported by Tsinghua 'Future Scholar' Ph.D. Fellowship.
 
 
+### Useful Resources
 [<font color='orange'>Github Repo about Backdoor Learning Resources</font>](https://github.com/THUYimingLi/backdoor-learning-resources)
 
 
 [<font color='orange'>The ATT&CK Matrix of AI Security</font>](https://aisecmatrix.org/en) (The first technical report comprehensively covering different kinds of security threats in the full cycle of AI systems.)
-
-
-
 
 
 ## News
