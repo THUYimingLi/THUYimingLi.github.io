@@ -205,7 +205,7 @@ arXiv preprint 2008.09413
 
 
 ## Services
-* **Reviewer**: IEEE Transactions on Dependable and Secure Computing (TDSC), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), IEEE Transactions on Industrial Informatics (TII), Neurocomputing
+* **Reviewer**: IEEE Transactions on Dependable and Secure Computing (TDSC), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), IEEE Transactions on Industrial Informatics (TII), Neurocomputing, Computers & Security
 * **Senior Program Committee Member**: AAAI'22
 * **Member of Program Committee Board**: IJCAI'22-24
 * **Program Committee Member**: NeurIPS, ICML, ICLR, CVPR, AISTATS, AAAI, IJCAI, ICONIP
