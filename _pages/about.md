@@ -12,7 +12,7 @@ redirect_from:
 I am currently a fourth-year Ph.D. candidate in Data Science and Information Technology from the [Tsinghua-Berkeley Shenzhen Institute](https://www.tbsi.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by Professor [Yong Jiang](https://www.sigs.tsinghua.edu.cn/jy/main.htm) and Professor [Shu-Tao Xia](https://www.sigs.tsinghua.edu.cn/xst/main.htm). Before that, I received my B.S. degree in Mathematics and Applied Mathematics ([Yangming Innovation Class](http://ymxy.nbu.edu.cn/ymcxb1.htm)) from the [Ningbo University](https://www.nbu.edu.cn/en/) in 2018, advised by Professor [Lifeng Xi](http://math.nbu.edu.cn/info/1046/1098.htm). 
 
 
-My research mainly focuses on AI security, especially backdoor learning, adversarial learning, and data privacy.
+My research mainly focuses on AI security, especially backdoor learning, adversarial learning, and data privacy. My research is supported by Tsinghua 'Future Scholar' Ph.D. Fellowship.
 
 
 [<font color='orange'>Github Repo about Backdoor Learning Resources</font>](https://github.com/THUYimingLi/backdoor-learning-resources)
@@ -208,7 +208,7 @@ arXiv preprint 2008.09413
 * Outstanding Undergraduate Thesis Award in Ningbo University (<font color='red'>TOP 5%</font>), 2018.
 * First Prize of Chinese Mathematics Competition (<font color='red'>TOP 3%</font>), 2016.
 * First Prize of China Undergraduate Mathematical Contest in Modeling (<font color='red'>TOP 1%</font>), 2015.
-* Tsinghua 'Future Scholar' Ph.D. Scholarship (<font color='red'>TOP-2</font> in TBSI), 2020.
+* Tsinghua 'Future Scholar' Ph.D. Fellowship (<font color='red'>TOP-2</font> in TBSI), 2020.
 * Tencent Rhino-bird Elite (<font color='red'>TOP 10%</font>), 2021.
 * TBSI Excellence Scholarship (<font color='red'>Rank First in our Track, TOP 20%</font>), 2021.
 * TBSI Dean's Scholarship, 2020/2021.
