@@ -12,7 +12,10 @@ redirect_from:
 I am currently a fourth-year Ph.D. candidate in Data Science and Information Technology from the [Tsinghua-Berkeley Shenzhen Institute](https://www.tbsi.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by Professor [Yong Jiang](https://www.sigs.tsinghua.edu.cn/jy/main.htm) and Professor [Shu-Tao Xia](https://www.sigs.tsinghua.edu.cn/xst/main.htm). Before that, I received my B.S. degree in Mathematics and Applied Mathematics ([Yangming Innovation Class](http://ymxy.nbu.edu.cn/ymcxb1.htm)) from the [Ningbo University](https://www.nbu.edu.cn/en/) in 2018, advised by Professor [Lifeng Xi](http://math.nbu.edu.cn/info/1046/1098.htm). 
 
 
-My research mainly focuses on AI security, especially backdoor learning, adversarial learning, and data privacy. My research is supported by Tsinghua 'Future Scholar' Ph.D. Fellowship.
+My research mainly focuses on AI security, especially backdoor learning, adversarial learning, and data privacy. 
+
+
+My research is supported by Tsinghua 'Future Scholar' Ph.D. Fellowship.
 
 
 [<font color='orange'>Github Repo about Backdoor Learning Resources</font>](https://github.com/THUYimingLi/backdoor-learning-resources)
