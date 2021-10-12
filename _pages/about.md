@@ -12,6 +12,9 @@ redirect_from:
 I am currently a fourth-year Ph.D. candidate in Data Science and Information Technology from the [Tsinghua-Berkeley Shenzhen Institute](https://www.tbsi.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by Professor [Yong Jiang](https://www.sigs.tsinghua.edu.cn/jy/main.htm) and Professor [Shu-Tao Xia](https://www.sigs.tsinghua.edu.cn/xst/main.htm). Before that, I received my B.S. degree in Mathematics and Applied Mathematics ([Yangming Innovation Class](http://ymxy.nbu.edu.cn/ymcxb1.htm)) from the [Ningbo University](https://www.nbu.edu.cn/en/) in 2018, advised by Professor [Lifeng Xi](http://math.nbu.edu.cn/info/1046/1098.htm). 
 
 
+I was a research intern at Ant Security Lab (supported by Alibaba Talent Program, 2021), working with Dr. Weifeng Qiu and Dr. Feng Xue; a research intern at Tencent AI Lab (supported by Tencent Rhino-bird Elite Training Program, 2021, 2020), working with Dr. [Baoyuan Wu](https://sites.google.com/site/baoyuanwu2015/) and Dr. [Zhifeng Li](https://scholar.google.com/citations?user=VTrRNN4AAAAJ&hl=zh-CN&oi=ao).  
+
+
 My research mainly focuses on AI security, especially backdoor learning, adversarial learning, and data privacy. 
 
 
@@ -189,19 +192,6 @@ arXiv preprint 2008.09413
 ## Teaching
 * Spring, 2021. TA in **Optimization Theory and Machine Learning**, instructed by Prof. [Somayeh Sojoudi](https://people.eecs.berkeley.edu/~sojoudi/).
 
-
-## Work Experiences
-* Research Intern, Ant Security Lab, Alibaba Group, June 2021 - Present
-  * Supported by the <font color='red'>Alibaba Talent Program</font>, working on Backdoor Attack
-  * Mentor: Dr. Weifeng Qiu and Dr. Feng Xue
-
-* Research Intern, Tencent AI Lab, Jul 2019 - Oct 2020
-  * Supported by the <font color='red'>Tencent Rhino-bird Elite Training Program</font>, working on AI Security
-  * Mentor: Dr. [Baoyuan Wu](https://sites.google.com/site/baoyuanwu2015/) and Dr. [Zhifeng Li](https://scholar.google.com/citations?user=VTrRNN4AAAAJ&hl=zh-CN&oi=ao)
-
-* Intern, Department of Vision Technology, OPPO, May 2019 - Jun 2019
-  * Supported by the TBSI Capstone Project, working on instance segmentation
-  * Mentor: Dr. Haidong Huang
 
 
 ## Awards and Honors
