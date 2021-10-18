@@ -42,7 +42,7 @@ My research mainly focuses on AI security, especially backdoor learning, adversa
 
 
 
-### Backdoor Learning
+### Backdoor Learning and Robust Machine Learning
 * [Backdoor Learning: A Survey](https://arxiv.org/abs/2007.08745)<br>
 **Yiming Li**, Baoyuan Wu, Yong Jiang, Zhifeng Li, Shu-Tao Xia<br>
 submitted to **Pattern Recognition**, 2021<br>
@@ -53,6 +53,12 @@ submitted to **Pattern Recognition**, 2021<br>
 Tongqing Zhai\*, **Yiming Li**\* (corresponding author), Ziqi Zhang, Baoyuan Wu, Yong Jiang, Shu-Tao Xia<br>
 International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2021 <br>
 [[Code]](https://github.com/zhaitongqing233/Backdoor-attack-against-speaker-verification) [[Poster]](https://www.dropbox.com/s/jd9z8eer749ffgh/BackdoorSpeakerVerification_poster.pdf?dl=0) [[Slides]](https://www.dropbox.com/s/ox2h6wicc9v88a3/BackdoorSpeakerVerification_slides.pptx?dl=0) [[Video]](https://www.dropbox.com/s/0f7effif8itgsow/BackdoorSpeakerVerification_video.mp4?dl=0)
+
+
+* [*t*-*k*-means: A Robust and Stable *k*-means Variant](https://arxiv.org/abs/1907.07442)<br>
+**Yiming Li**\*, Yang Zhang\*, Qingtao Tang, Weipeng Huang, Yong Jiang, Shu-Tao Xia<br>
+International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2021<br>
+[[Code]](https://github.com/THUYimingLi/t-k-means)[[Poster]](https://www.dropbox.com/s/mwmzwxivbi2bxlu/t_k_means_poster.pdf?dl=0) [[Slides]](https://www.dropbox.com/s/mlq01732qkcwp2l/t-k-means_slides.pptx?dl=0) [[Video]](https://www.dropbox.com/s/5f7nqutp8k3x17s/t-k-mean_video.mp4?dl=0)
 
 
 * [Invisible Backdoor Attack with Sample-Specific Triggers](https://arxiv.org/pdf/2012.03816.pdf)<br>
@@ -81,17 +87,11 @@ International Conference on Learning Representations (**ICLR**) Workshop, 2021<b
 
 
 
-### Adversarial Learning and Robust Machine Learning
+### Adversarial Learning
 * [Semi-supervised Robust Training with Generalized Perturbed Neighborhood](https://www.researchgate.net/publication/339971613_Toward_Adversarial_Robustness_via_Semi-supervised_Robust_Training)<br>
 **Yiming Li**, Baoyuan Wu, Yan Feng, Yanbo Fan, Yong Jiang, Zhifeng Li, Shu-Tao Xia<br>
 **Pattern Recognition**, under minor revision, 2021 (<font color='red'>Best Student Research Award of TBSI-WODS, 2019</font>)<br>
 [[Code]](https://github.com/THUYimingLi/Semi-supervised_Robust_Training)
-
-
-* [*t*-*k*-means: A Robust and Stable *k*-means Variant](https://arxiv.org/abs/1907.07442)<br>
-**Yiming Li**\*, Yang Zhang\*, Qingtao Tang, Weipeng Huang, Yong Jiang, Shu-Tao Xia<br>
-International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2021<br>
-[[Code]](https://github.com/THUYimingLi/t-k-means)[[Poster]](https://www.dropbox.com/s/mwmzwxivbi2bxlu/t_k_means_poster.pdf?dl=0) [[Slides]](https://www.dropbox.com/s/mlq01732qkcwp2l/t-k-means_slides.pptx?dl=0) [[Video]](https://www.dropbox.com/s/5f7nqutp8k3x17s/t-k-mean_video.mp4?dl=0)
 
 
 * [Targeted Attack for Deep Hashing based Retrieval](https://arxiv.org/abs/2004.07955)<br>
@@ -117,6 +117,11 @@ arXiv preprint 2109.00678
 Jiawang Bai\*, **Yiming Li**\*, Jiawei Li, Xue Yang, Yong Jiang, Shu-Tao Xia<br>
 **Pattern Recognition**, 2021<br>
 [[Code]](https://github.com/jiawangbai/Multinomial-Random-Forest)
+
+
+* [A Fine-grained Differentially Private Federated Learning against Deep Leakage from Gradients]()<br>
+Linghui Zhu, **Yiming Li**, Xinyi Liu, Xue Yang, Shu-Tao Xia, Rongxing Lu<br>
+**IEEE Internet of Things Journal**, under minor revision, 2021
 
 
 * [Visual Privacy Protection via Mapping Distortion](https://arxiv.org/abs/1911.01769)<br>
