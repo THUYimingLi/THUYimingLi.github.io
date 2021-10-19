@@ -120,7 +120,7 @@ Jiawang Bai\*, **Yiming Li**\*, Jiawei Li, Xue Yang, Yong Jiang, Shu-Tao Xia<br>
 
 
 * [A Fine-grained Differentially Private Federated Learning against Deep Leakage from Gradients]()<br>
-Linghui Zhu, **Yiming Li**, Xinyi Liu, Xue Yang, Shu-Tao Xia, Rongxing Lu<br>
+Linghui Zhu, Xinyi Liu, **Yiming Li**, Xue Yang, Shu-Tao Xia, Rongxing Lu<br>
 **IEEE Internet of Things Journal**, under minor revision, 2021
 
 
