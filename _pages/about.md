@@ -42,7 +42,7 @@ My research mainly focuses on AI security, especially backdoor learning, adversa
 
 
 
-### Backdoor Learning and Robust Machine Learning
+### Training Security: Backdoor Learning & Robust Machine Learning
 * [Backdoor Learning: A Survey](https://arxiv.org/abs/2007.08745)<br>
 **Yiming Li**, Baoyuan Wu, Yong Jiang, Zhifeng Li, Shu-Tao Xia<br>
 submitted to **Pattern Recognition**, 2021<br>
@@ -87,7 +87,7 @@ International Conference on Learning Representations (**ICLR**) Workshop, 2021<b
 
 
 
-### Adversarial Learning
+### Inference Security: Adversarial Learning
 * [Semi-supervised Robust Training with Generalized Perturbed Neighborhood](https://www.researchgate.net/publication/339971613_Toward_Adversarial_Robustness_via_Semi-supervised_Robust_Training)<br>
 **Yiming Li**, Baoyuan Wu, Yan Feng, Yanbo Fan, Yong Jiang, Zhifeng Li, Shu-Tao Xia<br>
 **Pattern Recognition**, under minor revision, 2021 (<font color='red'>Best Student Research Award of TBSI-WODS, 2019</font>)<br>
@@ -119,7 +119,7 @@ Jiawang Bai\*, **Yiming Li**\*, Jiawei Li, Xue Yang, Yong Jiang, Shu-Tao Xia<br>
 [[Code]](https://github.com/jiawangbai/Multinomial-Random-Forest)
 
 
-* [A Fine-grained Differentially Private Federated Learning against Deep Leakage from Gradients]()<br>
+* [A Fine-grained Differentially Private Federated Learning against Leakage from Gradients]()<br>
 Linghui Zhu, Xinyi Liu, **Yiming Li**, Xue Yang, Shu-Tao Xia, Rongxing Lu<br>
 **IEEE Internet of Things Journal**, under minor revision, 2021
 
