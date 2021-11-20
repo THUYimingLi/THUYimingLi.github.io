@@ -26,11 +26,11 @@ My research mainly focuses on AI security, especially backdoor learning, adversa
 
 
 ## News
+* 11/2021: One paper is accepted by IEEE ToT Journal.
 * 09/2021: One paper is accepted by Pattern Recognition.
 * 08/2021: I am invited as the Senior PC Member of AAAI 2022.
 * 07/2021: One paper is accepted by the ICCV 2021.
 * 07/2021: So glad that our paper 'Defending against Model Stealing via Verifying Embedded External Features' is awarded the Best Paper of Adversarial for Good Award by the ICML AdvML Workshop, 2021. 
-* 07/2021: I am invited as the PC Member of IJCAI and ICLR 2022.
 
 
 
@@ -121,7 +121,7 @@ Jiawang Bai\*, **Yiming Li**\*, Jiawei Li, Xue Yang, Yong Jiang, Shu-Tao Xia<br>
 
 * [A Fine-grained Differentially Private Federated Learning against Leakage from Gradients]()<br>
 Linghui Zhu, Xinyi Liu, **Yiming Li**, Xue Yang, Shu-Tao Xia, Rongxing Lu<br>
-**IEEE Internet of Things Journal**, under minor revision, 2021
+**IEEE Internet of Things Journal**, 2021
 
 
 * [Visual Privacy Protection via Mapping Distortion](https://arxiv.org/abs/1911.01769)<br>
