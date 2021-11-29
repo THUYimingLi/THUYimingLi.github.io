@@ -26,11 +26,11 @@ My research mainly focuses on AI security, especially backdoor learning, adversa
 
 
 ## News
+* 11/2021: One paper is accepted by the Pattern Recognition.
 * 11/2021: One paper is accepted by the IEEE IoT Journal.
 * 09/2021: One paper is accepted by the Pattern Recognition.
 * 08/2021: I am invited as the Senior PC Member of AAAI 2022.
 * 07/2021: One paper is accepted by the ICCV 2021.
-* 07/2021: So glad that our paper 'Defending against Model Stealing via Verifying Embedded External Features' is awarded the Best Paper of Adversarial for Good Award by the ICML AdvML Workshop, 2021. 
 
 
 
@@ -90,7 +90,7 @@ International Conference on Learning Representations (**ICLR**) Workshop, 2021<b
 ### Inference Security: Adversarial Learning
 * [Semi-supervised Robust Training with Generalized Perturbed Neighborhood](https://www.researchgate.net/publication/339971613_Toward_Adversarial_Robustness_via_Semi-supervised_Robust_Training)<br>
 **Yiming Li**, Baoyuan Wu, Yan Feng, Yanbo Fan, Yong Jiang, Zhifeng Li, Shu-Tao Xia<br>
-**Pattern Recognition**, under minor revision, 2021 (<font color='red'>Best Student Research Award of TBSI-WODS, 2019</font>)<br>
+**Pattern Recognition**, 2021 (<font color='red'>Best Student Research Award of TBSI-WODS, 2019</font>)<br>
 [[Code]](https://github.com/THUYimingLi/Semi-supervised_Robust_Training)
 
 
