@@ -126,7 +126,7 @@ Linghui Zhu, Xinyi Liu, **Yiming Li**, Xue Yang, Shu-Tao Xia, Rongxing Lu<br>
 
 * [Defending against Model Stealing via Verifying Embedded External Features](https://openreview.net/forum?id=g6zfnWUg8A1)<br>
 **Yiming Li**\*, Linghui Zhu\*, Xiaojun Jia, Yong Jiang, Shu-Tao Xia, Xiaochun Cao<br>
-AAAI Conference on Artificial Intelligence (**AAAI**), 2022 (<font color='red'>Best Paper of Adversarial for Good Award, ICML'21 AdvML Workshop</font>).<br>
+AAAI Conference on Artificial Intelligence (**AAAI**), 2022 (<font color='red'>Best Paper of Adversarial for Good Award</font>, ICML'21 AdvML Workshop)<br>
 [Workshop Version](https://openreview.net/forum?id=g6zfnWUg8A1)
 
 
