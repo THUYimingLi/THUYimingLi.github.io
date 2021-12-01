@@ -26,11 +26,11 @@ My research mainly focuses on AI security, especially backdoor learning, adversa
 
 
 ## News
+* 12/2021: One paper is accepted by the AAAI 2022.
 * 11/2021: One paper is accepted by the Pattern Recognition.
 * 11/2021: One paper is accepted by the IEEE IoT Journal.
 * 09/2021: One paper is accepted by the Pattern Recognition.
 * 08/2021: I am invited as the Senior PC Member of AAAI 2022.
-* 07/2021: One paper is accepted by the ICCV 2021.
 
 
 
@@ -124,17 +124,16 @@ Linghui Zhu, Xinyi Liu, **Yiming Li**, Xue Yang, Shu-Tao Xia, Rongxing Lu<br>
 **IEEE Internet of Things Journal**, 2021
 
 
+* [Defending against Model Stealing via Verifying Embedded External Features](https://openreview.net/forum?id=g6zfnWUg8A1)<br>
+**Yiming Li**\*, Linghui Zhu\*, Xiaojun Jia, Yong Jiang, Shu-Tao Xia, Xiaochun Cao<br>
+AAAI Conference on Artificial Intelligence (**AAAI**), 2022 (<font color='red'>Best Paper of Adversarial for Good Award, ICML AdvML Workshop 2021</font>).<br>
+[Workshop Version](https://openreview.net/forum?id=g6zfnWUg8A1)
+
+
 * [Visual Privacy Protection via Mapping Distortion](https://arxiv.org/abs/1911.01769)<br>
 **Yiming Li**\*, Peidong Liu\*, Yong Jiang, Shu-Tao Xia<br>
 International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2021<br>
 [[Code]](https://github.com/PerdonLiu/Visual-Privacy-Protection-via-Mapping-Distortion) [[Poster]](https://www.dropbox.com/s/g22yr1suem4y36l/MDP_poster.pdf?dl=0) [[Slides]](https://www.dropbox.com/s/8cbnmt335s3p1ix/MDP_slides.pptx?dl=0) [[Video]](https://www.dropbox.com/s/ww7mhdn09sqk2nh/MDP_video.mp4?dl=0)
-
-
-
-* [Defending against Model Stealing via Verifying Embedded External Features](https://openreview.net/forum?id=g6zfnWUg8A1)<br>
-Linghui Zhu\*, **Yiming Li**\* (corresponding author), Xiaojun Jia, Yong Jiang, Shu-Tao Xia, Xiaochun Cao<br>
-International Conference on Machine Learning (**ICML**) Workshop (<font color='red'>Best Paper of Adversarial for Good Award</font>), 2021<br>
-[[Slides]](https://www.dropbox.com/s/slm1vtnaa1z7hn0/StealingVerification_slides.pptx?dl=0)
 
 
 
