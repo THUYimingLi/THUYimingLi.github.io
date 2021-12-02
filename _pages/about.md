@@ -217,6 +217,6 @@ arXiv preprint 2008.09413
 * **Program Committee Member**: NeurIPS, ICML, ICLR, CVPR, AISTATS, AAAI, IJCAI, ICONIP
 * **Executive Chairman Committee Member**, TBSI Workshop on Data Science (TBSI-WODS), 2019
 * **Lecturer and Consultant**, Academic Servicing Center of Tsinghua University, 2021
-* **Secretary of Master's Thesis Committee**, Tsinghua-Berkeley Shenzhen Institute, 2021. 
+* **Secretary of Master's Thesis Committee**, Tsinghua-Berkeley Shenzhen Institute, 2021
 
 
