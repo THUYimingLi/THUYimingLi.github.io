@@ -88,7 +88,7 @@ International Conference on Learning Representations (**ICLR**) Workshop, 2021<b
 
 
 ### Inference Security: Adversarial Learning
-* [Semi-supervised Robust Training with Generalized Perturbed Neighborhood](https://doi.org/10.1016/j.patcog.2021.108472)<br>
+* [Semi-supervised Robust Training with Generalized Perturbed Neighborhood](https://www.sciencedirect.com/science/article/abs/pii/S0031320321006488)<br>
 **Yiming Li**, Baoyuan Wu, Yan Feng, Yanbo Fan, Yong Jiang, Zhifeng Li, Shu-Tao Xia<br>
 **Pattern Recognition**, 2021 (<font color='red'>Best Student Research Award of TBSI-WODS, 2019</font>)<br>
 [[Code]](https://github.com/THUYimingLi/Semi-supervised_Robust_Training)
