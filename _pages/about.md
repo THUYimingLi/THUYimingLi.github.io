@@ -26,11 +26,11 @@ My research mainly focuses on AI security, especially backdoor learning, adversa
 
 
 ## News
+* 12/2021: I will visit the Secure Learning Lab at UIUC, working with Professor [Bo Li](https://aisecure.github.io/) (start from 2022).
 * 12/2021: One paper is accepted by the AAAI 2022. Its codes will be released soon.
 * 11/2021: One paper is accepted by the Pattern Recognition.
 * 11/2021: One paper is accepted by the IEEE IoT Journal.
 * 09/2021: One paper is accepted by the Pattern Recognition.
-* 08/2021: I am invited as the Senior PC Member of AAAI 2022.
 
 
 
