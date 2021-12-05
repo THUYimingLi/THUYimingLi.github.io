@@ -27,7 +27,7 @@ My research mainly focuses on AI security, especially backdoor learning, adversa
 
 ## News
 * 12/2021: I will visit the Secure Learning Lab at UIUC, working with Professor [Bo Li](https://aisecure.github.io/) (start from 2022).
-* 12/2021: One paper is accepted by the AAAI 2022. Its codes will be released soon.
+* 12/2021: One paper is accepted by the AAAI 2022. Its codes have been released on Github.
 * 11/2021: One paper is accepted by the Pattern Recognition.
 * 11/2021: One paper is accepted by the IEEE IoT Journal.
 * 09/2021: One paper is accepted by the Pattern Recognition.
@@ -127,7 +127,7 @@ Linghui Zhu, Xinyi Liu, **Yiming Li**, Xue Yang, Shu-Tao Xia, Rongxing Lu<br>
 * [Defending against Model Stealing via Verifying Embedded External Features](https://www.researchgate.net/publication/356717751_Defending_against_Model_Stealing_via_Verifying_Embedded_External_Features)<br>
 **Yiming Li**\*, Linghui Zhu\*, Xiaojun Jia, Yong Jiang, Shu-Tao Xia, Xiaochun Cao<br>
 AAAI Conference on Artificial Intelligence (**AAAI**), 2022 (<font color='red'>Best Paper of Adversarial for Good Award</font>, ICML'21 AdvML Workshop)<br>
-[[Workshop Version]](https://openreview.net/forum?id=g6zfnWUg8A1)
+[[Code]](https://github.com/zlh-thu/StealingVerification) [[Workshop Version]](https://openreview.net/forum?id=g6zfnWUg8A1)
 
 
 * [Visual Privacy Protection via Mapping Distortion](https://arxiv.org/abs/1911.01769)<br>
