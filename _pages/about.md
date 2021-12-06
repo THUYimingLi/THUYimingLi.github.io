@@ -25,7 +25,9 @@ My research mainly focuses on AI security, especially backdoor learning, adversa
 [<font color='orange'>The ATT&CK Matrix of AI Security</font>](https://aisecmatrix.org/en) (The first technical report comprehensively covering different kinds of security threats in the full cycle of AI systems.)
 
 
+
 ## News
+
 * 12/2021: I will visit the Secure Learning Lab at UIUC, working with Professor [Bo Li](https://aisecure.github.io/) (start from 2022).
 * 12/2021: One paper is accepted by the AAAI 2022. Its codes have been released.
 * 11/2021: One paper is accepted by the Pattern Recognition.
@@ -35,14 +37,12 @@ My research mainly focuses on AI security, especially backdoor learning, adversa
 
 
 
-
-
-## Publications and Preprints
+## Selected Publications and Preprints
 \'\*\' indicates equal contribution
 
 
 
-### Training Security: Backdoor Learning & Robust Machine Learning
+### Training Security: Backdoor Learning
 * [Backdoor Learning: A Survey](https://arxiv.org/abs/2007.08745)<br>
 **Yiming Li**, Baoyuan Wu, Yong Jiang, Zhifeng Li, Shu-Tao Xia<br>
 submitted to **Pattern Recognition**, 2021<br>
@@ -55,34 +55,16 @@ International Conference on Acoustics, Speech and Signal Processing (**ICASSP**)
 [[Code]](https://github.com/zhaitongqing233/Backdoor-attack-against-speaker-verification) [[Poster]](https://www.dropbox.com/s/jd9z8eer749ffgh/BackdoorSpeakerVerification_poster.pdf?dl=0) [[Slides]](https://www.dropbox.com/s/ox2h6wicc9v88a3/BackdoorSpeakerVerification_slides.pptx?dl=0) [[Video]](https://www.dropbox.com/s/0f7effif8itgsow/BackdoorSpeakerVerification_video.mp4?dl=0)
 
 
-* [*t*-*k*-means: A Robust and Stable *k*-means Variant](https://arxiv.org/abs/1907.07442)<br>
-**Yiming Li**\*, Yang Zhang\*, Qingtao Tang, Weipeng Huang, Yong Jiang, Shu-Tao Xia<br>
-International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2021<br>
-[[Code]](https://github.com/THUYimingLi/t-k-means)[[Poster]](https://www.dropbox.com/s/mwmzwxivbi2bxlu/t_k_means_poster.pdf?dl=0) [[Slides]](https://www.dropbox.com/s/mlq01732qkcwp2l/t-k-means_slides.pptx?dl=0) [[Video]](https://www.dropbox.com/s/5f7nqutp8k3x17s/t-k-mean_video.mp4?dl=0)
-
-
 * [Invisible Backdoor Attack with Sample-Specific Triggers](https://arxiv.org/pdf/2012.03816.pdf)<br>
 Yuezun Li, **Yiming Li**, Baoyuan Wu, Longkang Li, Ran He, Siwei Lyu<br>
 International Conference on Computer Vision (**ICCV**), 2021 <br>
 [[Code]](https://github.com/yuezunli/ISSBA)
 
 
-* [Targeted Attack against Deep Neural Networks via Flipping Limited Weight Bits](https://arxiv.org/pdf/2102.10496.pdf)<br>
-Jiawang Bai, Baoyuan Wu, Yong Zhang, **Yiming Li**, Zhifeng Li, Shu-Tao Xia<br>
-International Conference on Learning Representations (**ICLR**), 2021<br>
-[[Code]](https://github.com/jiawangbai/TA-LBF-master) [[Poster]](https://www.dropbox.com/s/h700kexejyfs8g1/iclr2021_TA_lBF_poster.pdf?dl=0) [[Video]](https://iclr.cc/virtual/2021/poster/2631)
-
-
-* [Backdoor Attack in the Physical World](https://arxiv.org/pdf/2104.02361.pdf)<br> 
+* [Backdoor Attack in the Physical World](https://arxiv.org/pdf/2104.02361.pdf)<br>
 **Yiming Li**, Tongqing Zhai, Yong Jiang, Zhifeng Li, Shu-Tao Xia<br>
 International Conference on Learning Representations (**ICLR**) Workshop, 2021<br>
 [[Poster]](https://www.dropbox.com/s/cskxnptkd5pmzcj/PhysicalAttack_poster.pdf?dl=0) [[Extension]](https://arxiv.org/abs/2004.04692)
-
-
-* [Hidden Backdoor Attack against Semantic Segmentation Models](https://arxiv.org/pdf/2103.04038.pdf)<br>
-**Yiming Li**\*, Yanjie Li\*, Yalei Lv, Yong Jiang, Shu-Tao Xia<br>
-International Conference on Learning Representations (**ICLR**) Workshop, 2021<br>
-[[Poster]](https://www.dropbox.com/s/r462uoe3qtkyphu/BackdoorSegmentation_poster.pdf?dl=0) [[Slides]](https://share.weiyun.com/rz7Rvjup) [[Video]](https://studio.slideslive.com/web_recorder/share/35269?s=5fbfa356-0fa7-48e8-9041-146bd5ee296e)
 
 
 
@@ -100,16 +82,6 @@ European Conference on Computer Vision (**ECCV**) (<font color='red'>oral, TOP 2
 [[Code]](https://github.com/jiawangbai/DHTA-master) [[Slides]](https://www.dropbox.com/s/7a1vvopt8z0jxvl/targeted_attack_slides.pptx?dl=0)
 
 
-* [Adversarial Defense via Local Flatness Regularization](https://arxiv.org/abs/1910.12165)<br>
-Jia Xu\*, **Yiming Li**\*, Yong Jiang, Shu-Tao Xia<br>
-International Conference on Image Processing (**ICIP**), 2020<br>
-[[Code]](https://github.com/Uooga/Local-Flatness-Regularization) [[Slides]](https://share.weiyun.com/6uJPj6VG)
-
-* [Regional Adversarial Training for Better Robust Generalization](https://arxiv.org/pdf/2109.00678.pdf)<br>
-Chuanbiao Song, Yanbo Fan, Yichen Yang, Baoyuan Wu, **Yiming Li**, Zhifeng Li, Kun He<br>
-arXiv preprint 2109.00678
-
-
 
 
 ### Data Privacy
@@ -119,23 +91,10 @@ Jiawang Bai\*, **Yiming Li**\*, Jiawei Li, Xue Yang, Yong Jiang, Shu-Tao Xia<br>
 [[Code]](https://github.com/jiawangbai/Multinomial-Random-Forest)
 
 
-* [A Fine-grained Differentially Private Federated Learning against Leakage from Gradients](https://ieeexplore.ieee.org/document/9627872)<br>
-Linghui Zhu, Xinyi Liu, **Yiming Li**, Xue Yang, Shu-Tao Xia, Rongxing Lu<br>
-**IEEE Internet of Things Journal**, 2021
-
-
 * [Defending against Model Stealing via Verifying Embedded External Features](https://www.researchgate.net/publication/356717751_Defending_against_Model_Stealing_via_Verifying_Embedded_External_Features)<br>
-**Yiming Li**\*, Linghui Zhu\*, Xiaojun Jia, Yong Jiang, Shu-Tao Xia, Xiaochun Cao<br>
-AAAI Conference on Artificial Intelligence (**AAAI**), 2022 (<font color='red'>Best Paper of Adversarial for Good Award</font>, ICML'21 AdvML Workshop)<br>
-[[Code]](https://github.com/zlh-thu/StealingVerification) [[Workshop Version]](https://openreview.net/forum?id=g6zfnWUg8A1)
-
-
-* [Visual Privacy Protection via Mapping Distortion](https://arxiv.org/abs/1911.01769)<br>
-**Yiming Li**\*, Peidong Liu\*, Yong Jiang, Shu-Tao Xia<br>
-International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2021<br>
-[[Code]](https://github.com/PerdonLiu/Visual-Privacy-Protection-via-Mapping-Distortion) [[Poster]](https://www.dropbox.com/s/g22yr1suem4y36l/MDP_poster.pdf?dl=0) [[Slides]](https://www.dropbox.com/s/8cbnmt335s3p1ix/MDP_slides.pptx?dl=0) [[Video]](https://www.dropbox.com/s/ww7mhdn09sqk2nh/MDP_video.mp4?dl=0)
-
-
+  **Yiming Li**\*, Linghui Zhu\*, Xiaojun Jia, Yong Jiang, Shu-Tao Xia, Xiaochun Cao<br>
+  AAAI Conference on Artificial Intelligence (**AAAI**), 2022 (<font color='red'>Best Paper of Adversarial for Good Award</font>, ICML'21 AdvML Workshop)<br>
+  [[Code]](https://github.com/zlh-thu/StealingVerification) [[Workshop Version]](https://openreview.net/forum?id=g6zfnWUg8A1)
 
 * [Open-sourced Dataset Protection via Backdoor Watermarking](https://arxiv.org/abs/2010.05821)<br>
 **Yiming Li**, Ziqi Zhang, Jiawang Bai, Baoyuan Wu, Yong Jiang, Shu-Tao Xia^<br>
@@ -144,73 +103,14 @@ Neural Information Processing Systems (**NeurIPS**) Workshop, 2020<br>
 
 
 
-
-### Other Topics
-* [Manhattan Property of Geodesic Paths on Self-affine Carpets](https://link.springer.com/article/10.1007/s00013-018-1199-4)<br>
-**Yiming Li**, Lifeng Xi<br>
-**Archiv der Mathematik**, 2018
-
-
-* [TNT: An Interpretable Tree-Network-Tree Learning Framework using Knowledge Distillation](https://www.mdpi.com/1099-4300/22/11/1203)<br>
-Jiawei Li, **Yiming Li**, Xingchun Xiang, Shu-Tao Xia, Siyi Dong, Yun Cai<br>
-**Entropy**, 2020
-
-
-* [Rectified Decision Trees: Exploring the Landscape of Interpretable and Effective Machine Learning](https://arxiv.org/pdf/2008.09413.pdf)<br>
-**Yiming Li**\*, Jiawang Bai\*, Jiawei Li, Xue Yang, Yong Jiang, Shu-Tao Xia<br>
-arXiv preprint 2008.09413
-
-
-
-
-
-## Technical Reports and Patents
-* Tencent AI Lab (Baoyuan Wu, Yanbo Fan, Yong Zhang, **Yiming Li**, Zhifeng Li, Wei Liu), Tencent Zhuque Lab (viking, jifengzhu, allenszch, ucasjh, dylan, xunsu). The ATT&CK Matrix of AI Security, 2020/09/18. [[Download]](https://ai.tencent.com/ailab/media/AI%E5%AE%89%E5%85%A8%E7%9A%84%E5%A8%81%E8%83%81%E9%A3%8E%E9%99%A9%E7%9F%A9%E9%98%B5.pdf) [[Website]](https://aisecmatrix.org/en)[[Media1]](https://ai.tencent.com/ailab/zh/news/detial/?id=68) [[Media2]](https://www.jiqizhixin.com/articles/2020-09-25-9) [[Media3]](http://tech.sina.com.cn/csj/2020-09-25/doc-iivhuipp6375448.shtml) [[Media4]](https://tech.qq.com/a/20200925/020797.htm) [[Media5]](http://mp.163.com/article/FNCHRG1V0511DSSR.html) [[Media6]](https://www.sohu.com/a/421167914_120765903)...
-
-* **李一鸣**, 吴保元, 张勇, 樊艳波, 李志锋, 刘威, 冯岩, 江勇, 夏树涛. 一种图像识别模型的训练方法、图像识别的方法及装置. (发明专利, 申请号: CN202010182180.5, HKS202989-CN)
-
-* **李一鸣**, 吴保元, 江勇, 李志锋, 夏树涛, 刘威. 图像分类模型后门攻击的防御方法、装置、设备及介质. (发明专利, 申请号: CN202011122124.9)
-
-
-## Invited Talks
-* Backdoor Attacks in Image Classification, Nanjing University of Science and Technology (online), 2021/12/03. [[Slides]](https://www.dropbox.com/s/h8bgo42h6u14hak/BackdoorIntro.pptx?dl=0)
-
-* A Brief Introduction of Backdoor Attack, TechBeat (online), 2021/09/29. [[Slides]](https://www.dropbox.com/s/tfm7hjne5cmoucm/BackdoorAttack_TechBeat.pptx?dl=0)[[Video]](https://www.techbeat.net/talk-info?id=587)
-
-* A Brief Introduction of Backdoor Attack in the Low-level Computer Vision, Virginia Tech (online), 2021/08/12. [[Slides]](https://www.dropbox.com/s/pxm137snbzq2e0t/BackdoorCV_YimingLi.pptx?dl=0)
-
-* Defending against Model Stealing via Verifying Embedded External Features, ICML Workshop (online), 2021/07/24. [[Slides]](https://www.dropbox.com/s/slm1vtnaa1z7hn0/StealingVerification_slides.pptx?dl=0)
-
-* A Brief Introduction of Backdoor Learning, Southwest Jiaotong University, 2021/04/12. [[Slides]](https://www.dropbox.com/s/so882gvchvzdnqp/BackdoorIntro_YimingLi.pptx?dl=0)
-
-* Backdoor Attack: A New Security Threat towards the Training of DNNs, AI Drive (online), 2021/01/20. [[Slides]](https://www.dropbox.com/s/rp7p437s3mvsamj/BackdoorAttackIntro_YimingLi.pptx?dl=0)[[Video]](https://www.bilibili.com/video/BV1ep4y1W7KV)
-
-* A Brief Introduction of Backdoor Learning, The Chinese University of Hong Kong, Shenzhen (CUHK-SZ), 2020/12/05. [[Slides]](https://www.dropbox.com/s/4nb8nywqfvhj6m6/BackdoorLearningIntro_YimingLi.pptx?dl=0)
-
-* How to Improve Model Robustness via Adopting Unlabeled Data, CCF Young Computer Scientists & Engineers Forum, Shenzhen (CCF-YOCSEF-SZ), 2020/08/22. [[Slides]](https://www.dropbox.com/s/y48jq69ofa19j3k/slides_YOCSEF.pdf?dl=0)
-
-
 ## Teaching
+
 * Spring, 2021. TA in **Optimization Theory and Machine Learning**, instructed by Prof. [Somayeh Sojoudi](https://people.eecs.berkeley.edu/~sojoudi/).
 
 
 
-## Awards and Honors
-* Adversarial for Good Award of ICML AdvML Workshop (<font color='red'>TOP-1</font>), 2021.
-* Best Student Research Award of TBSI Workshop on Data Science (<font color='red'>TOP-1</font>), 2019.
-* Top 25% PC Member of AAAI, 2021. 
-* Outstanding Undergraduate Thesis Award in Ningbo University (<font color='red'>TOP 5%</font>), 2018.
-* First Prize of Chinese Mathematics Competition (<font color='red'>TOP 3%</font>), 2016.
-* First Prize of China Undergraduate Mathematical Contest in Modeling (<font color='red'>TOP 1%</font>), 2015.
-* Tsinghua 'Future Scholar' Ph.D. Fellowship (<font color='red'>TOP-2</font> in TBSI), 2020.
-* Tencent Rhino-bird Elite (<font color='red'>TOP 10%</font>), 2021.
-* TBSI Excellence Scholarship (<font color='red'>Rank First in our Track, TOP 20%</font>), 2021.
-* TBSI Dean's Scholarship, 2020/2021.
-* Undergraduate National Scholarship (<font color='red'>TOP 1%</font>), 2017.
-* Outstanding Graduate of Zhejiang Province (<font color='red'>TOP 1%</font>), 2018.
-
-
 ## Services
+
 * **Reviewer**: IEEE Transactions on Dependable and Secure Computing (TDSC), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), IEEE Transactions on Industrial Informatics (TII), Neurocomputing, Computers & Security
 * **Senior Program Committee Member**: AAAI'22
 * **Member of Program Committee Board**: IJCAI'22-24
@@ -218,5 +118,4 @@ arXiv preprint 2008.09413
 * **Executive Chairman Committee Member**, TBSI Workshop on Data Science (TBSI-WODS), 2019
 * **Lecturer and Consultant**, Academic Servicing Center of Tsinghua University, 2021
 * **Secretary of Master's Thesis Committee**, Tsinghua-Berkeley Shenzhen Institute, 2021
-
 
