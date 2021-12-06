@@ -8,8 +8,6 @@ redirect_from:
 
 
 
-## Awards and Honors
-
 * Adversarial for Good Award of ICML AdvML Workshop (<font color='red'>TOP-1</font>), 2021.
 * Best Student Research Award of TBSI Workshop on Data Science (<font color='red'>TOP-1</font>), 2019.
 * Top 25% PC Member of AAAI, 2021. 

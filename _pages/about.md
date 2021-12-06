@@ -102,20 +102,3 @@ Neural Information Processing Systems (**NeurIPS**) Workshop, 2020<br>
 [[Code]](https://github.com/THUYimingLi/Open-sourced_Dataset_Protection) [[Poster]](https://www.dropbox.com/s/dtkers5txx0mats/WatermarkingDataset_NIPSW2020_poster.pdf?dl=0)
 
 
-
-## Teaching
-
-* Spring, 2021. TA in **Optimization Theory and Machine Learning**, instructed by Prof. [Somayeh Sojoudi](https://people.eecs.berkeley.edu/~sojoudi/).
-
-
-
-## Services
-
-* **Reviewer**: IEEE Transactions on Dependable and Secure Computing (TDSC), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), IEEE Transactions on Industrial Informatics (TII), Neurocomputing, Computers & Security
-* **Senior Program Committee Member**: AAAI'22
-* **Member of Program Committee Board**: IJCAI'22-24
-* **Program Committee Member**: NeurIPS, ICML, ICLR, CVPR, AISTATS, AAAI, IJCAI, ICONIP
-* **Executive Chairman Committee Member**, TBSI Workshop on Data Science (TBSI-WODS), 2019
-* **Lecturer and Consultant**, Academic Servicing Center of Tsinghua University, 2021
-* **Secretary of Master's Thesis Committee**, Tsinghua-Berkeley Shenzhen Institute, 2021
-

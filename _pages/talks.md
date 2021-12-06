@@ -1,14 +1,12 @@
 ---
 layout: archive
-title: "Talks"
+title: "Invited Talks"
 permalink: /talks/
 redirect_from:
   - /talks
 ---
 
 
-
-## Invited Talks
 
 * Backdoor Attacks in Image Classification, Nanjing University of Science and Technology (online), 2021/12/03. [[Slides]](https://www.dropbox.com/s/h8bgo42h6u14hak/BackdoorIntro.pptx?dl=0)
 
