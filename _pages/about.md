@@ -18,7 +18,7 @@ I was a research intern at Ant Security Lab (2021), working with Dr. Weifeng Qiu
 My research mainly focuses on AI security, especially backdoor learning, adversarial learning, and data privacy. My research is supported by the Tsinghua 'Future Scholar' Ph.D. Fellowship, and my Ph.D. dissertation topic is 'Poisoning-based Backdoor Attacks in Computer Vision'.
 
 
-**I will graduate in June 2023 and I am looking for both post-doc or industrial job opportunities (start from Summer/Fall 2023). Feel free to connect!**
+**I will graduate in June 2023 and I am looking for both academic or industrial job opportunities (especially post-doc position) start from Summer/Fall 2023. Feel free to connect!**
 
 
 ## News
