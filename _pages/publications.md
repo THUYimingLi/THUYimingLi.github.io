@@ -95,7 +95,7 @@ redirect_from:
   **IEEE Internet of Things Journal**, 2021
 
 
-* [Defending against Model Stealing via Verifying Embedded External Features](https://www.researchgate.net/publication/356717751_Defending_against_Model_Stealing_via_Verifying_Embedded_External_Features)<br>
+* [Defending against Model Stealing via Verifying Embedded External Features](https://arxiv.org/pdf/2112.03476.pdf)<br>
   **Yiming Li**\*, Linghui Zhu\*, Xiaojun Jia, Yong Jiang, Shu-Tao Xia, Xiaochun Cao<br>
   AAAI Conference on Artificial Intelligence (**AAAI**), 2022 (<font color='red'>Best Paper of Adversarial for Good Award</font>, ICML'21 AdvML Workshop)<br>
   [[Code]](https://github.com/zlh-thu/StealingVerification) [[Workshop Version]](https://openreview.net/forum?id=g6zfnWUg8A1)
