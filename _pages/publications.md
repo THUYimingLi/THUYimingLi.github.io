@@ -11,10 +11,8 @@ redirect_from:
 \'\*\' indicates equal contribution
 
 ### Training Security: Backdoor Learning & Robust Machine Learning
-
-* [Backdoor Learning: A Survey](https://arxiv.org/abs/2007.08745)<br>
-  **Yiming Li**, Baoyuan Wu, Yong Jiang, Zhifeng Li, Shu-Tao Xia<br>
-  submitted to **Pattern Recognition**, 2021<br>
+* [Backdoor Learning: A Survey](https://www.researchgate.net/publication/343006441_Backdoor_Learning_A_Survey)<br>
+  **Yiming Li**, Yong Jiang, Zhifeng Li, Shu-Tao Xia, Bo Li<br>
   [[Github Resources]](https://github.com/THUYimingLi/backdoor-learning-resources)
 
 
