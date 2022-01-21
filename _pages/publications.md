@@ -23,16 +23,17 @@ redirect_from:
   Kunzhe Huang\*, **Yiming Li**\*, Baoyuan Wu, Zhan Qin, Kui Ren<br>
   International Conference on Learning Representations (**ICLR**), 2022
 
-* [Backdoor Attack against Speaker Verification](https://arxiv.org/pdf/2010.11607.pdf)<br>
-  Tongqing Zhai\*, **Yiming Li**\* (corresponding author), Ziqi Zhang, Baoyuan Wu, Yong Jiang, Shu-Tao Xia<br>
-  International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2021 <br>
-  [[Code]](https://github.com/zhaitongqing233/Backdoor-attack-against-speaker-verification) [[Poster]](https://www.dropbox.com/s/jd9z8eer749ffgh/BackdoorSpeakerVerification_poster.pdf?dl=0) [[Slides]](https://www.dropbox.com/s/ox2h6wicc9v88a3/BackdoorSpeakerVerification_slides.pptx?dl=0) [[Video]](https://www.dropbox.com/s/0f7effif8itgsow/BackdoorSpeakerVerification_video.mp4?dl=0)
-
 
 * [*t*-*k*-means: A Robust and Stable *k*-means Variant](https://arxiv.org/abs/1907.07442)<br>
   **Yiming Li**\*, Yang Zhang\*, Qingtao Tang, Weipeng Huang, Yong Jiang, Shu-Tao Xia<br>
   International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2021<br>
   [[Code]](https://github.com/THUYimingLi/t-k-means)[[Poster]](https://www.dropbox.com/s/mwmzwxivbi2bxlu/t_k_means_poster.pdf?dl=0) [[Slides]](https://www.dropbox.com/s/mlq01732qkcwp2l/t-k-means_slides.pptx?dl=0) [[Video]](https://www.dropbox.com/s/5f7nqutp8k3x17s/t-k-mean_video.mp4?dl=0)
+
+
+* [Backdoor Attack against Speaker Verification](https://arxiv.org/pdf/2010.11607.pdf)<br>
+  Tongqing Zhai\*, **Yiming Li**\* (corresponding author), Ziqi Zhang, Baoyuan Wu, Yong Jiang, Shu-Tao Xia<br>
+  International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2021 <br>
+  [[Code]](https://github.com/zhaitongqing233/Backdoor-attack-against-speaker-verification) [[Poster]](https://www.dropbox.com/s/jd9z8eer749ffgh/BackdoorSpeakerVerification_poster.pdf?dl=0) [[Slides]](https://www.dropbox.com/s/ox2h6wicc9v88a3/BackdoorSpeakerVerification_slides.pptx?dl=0) [[Video]](https://www.dropbox.com/s/0f7effif8itgsow/BackdoorSpeakerVerification_video.mp4?dl=0)
 
 
 * [Invisible Backdoor Attack with Sample-Specific Triggers](https://arxiv.org/pdf/2012.03816.pdf)<br>
