@@ -15,6 +15,13 @@ redirect_from:
   **Yiming Li**, Yong Jiang, Zhifeng Li, Shu-Tao Xia, Bo Li<br>
   [[Github Resources]](https://github.com/THUYimingLi/backdoor-learning-resources)
 
+* [Few-Shot Backdoor Attacks on Visual Object Tracking](https://openreview.net/pdf?id=qSV5CuSaK_a)
+  **Yiming Li**\*, Haoxiang Zhong\*, Xingjun Ma, Yong Jiang, Shu-Tao Xia<br>
+  International Conference on Learning Representations (ICLR), 2022
+
+* [Backdoor Defense via Decoupling the Training Process](https://openreview.net/pdf?id=TySnJ-0RdKI)
+  Kunzhe Huang\*, **Yiming Li**\*, Baoyuan Wu, Zhan Qin, Kui Ren<br>
+  International Conference on Learning Representations (ICLR), 2022
 
 * [Backdoor Attack against Speaker Verification](https://arxiv.org/pdf/2010.11607.pdf)<br>
   Tongqing Zhai\*, **Yiming Li**\* (corresponding author), Ziqi Zhang, Baoyuan Wu, Yong Jiang, Shu-Tao Xia<br>
