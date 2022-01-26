@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## Biography
-I am currently a fourth-year Ph.D. candidate in Data Science and Information Technology from the [Tsinghua-Berkeley Shenzhen Institute](https://www.tbsi.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by Professor [Yong Jiang](https://www.sigs.tsinghua.edu.cn/jy/main.htm) and Professor [Shu-Tao Xia](https://www.sigs.tsinghua.edu.cn/xst/main.htm). Before that, I received my B.S. degree in Mathematics and Applied Mathematics ([Yangming Innovation Class](http://ymxy.nbu.edu.cn/ymcxb1.htm)) from the [Ningbo University](https://www.nbu.edu.cn/en/) in 2018, advised by Professor [Lifeng Xi](http://math.nbu.edu.cn/info/1046/1098.htm).
+I am currently a Ph.D. candidate in Data Science and Information Technology from the [Tsinghua-Berkeley Shenzhen Institute](https://www.tbsi.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by Professor [Yong Jiang](https://www.sigs.tsinghua.edu.cn/jy/main.htm) and Professor [Shu-Tao Xia](https://www.sigs.tsinghua.edu.cn/xst/main.htm). Before that, I received my B.S. degree in Mathematics and Applied Mathematics ([Yangming Innovation Class](http://ymxy.nbu.edu.cn/ymcxb1.htm)) from the [Ningbo University](https://www.nbu.edu.cn/en/) in 2018, advised by Professor [Lifeng Xi](http://math.nbu.edu.cn/info/1046/1098.htm).
 
 
 I was a research intern at Ant Security Lab (2021), working with Dr. Weifeng Qiu and Dr. [Feng Xue](https://www.linkedin.com/in/%E5%B3%B0-%E8%96%9B-7817005a); a research intern at Tencent AI Lab (2020, 2019), working with Dr. [Baoyuan Wu](https://sites.google.com/site/baoyuanwu2015/) and Dr. [Zhifeng Li](https://scholar.google.com/citations?user=VTrRNN4AAAAJ&hl=zh-CN&oi=ao) (supported by the Tencent Rhino-bird Elite Training Program).  
@@ -17,8 +17,6 @@ I was a research intern at Ant Security Lab (2021), working with Dr. Weifeng Qiu
 
 I studied machine learning algorithms (especially tree-based ones) for their good interpretability and theoretical properties at the beginning of my post-graduate study. Currently, my research mainly focuses on AI security, especially backdoor learning, adversarial learning, and data privacy. My research is supported by the Tsinghua 'Future Scholar' Ph.D. Fellowship, and my Ph.D. dissertation topic is 'Poisoning-based Backdoor Attacks in Computer Vision'.
 
-
-**I will graduate in June 2023 (expected). Currently, I am looking for both academic and industrial job opportunities (especially post-doc positions regarding AI security) starting from Summer 2023. Feel free to connect if there are suitable opportunities!**
 
 
 ## News
