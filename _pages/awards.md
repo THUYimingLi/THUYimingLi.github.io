@@ -16,7 +16,7 @@ redirect_from:
 * First Prize of China Undergraduate Mathematical Contest in Modeling (<font color='red'>TOP 1%</font>), 2015.
 * Tsinghua 'Future Scholar' Ph.D. Fellowship (<font color='red'>TOP-2</font> in TBSI), 2020.
 * Tencent Rhino-bird Elite (<font color='red'>TOP 10%</font>), 2021.
-* Student Scholarship, AAAI, 2022.
+* AAAI Student Scholarship, 2022.
 * TBSI Excellence Scholarship (<font color='red'>Rank First in our Track, TOP 20%</font>), 2021.
 * TBSI Dean's Scholarship, 2020/2021.
 * Undergraduate National Scholarship (<font color='red'>TOP 1%</font>), 2017.
