@@ -10,7 +10,7 @@ redirect_from:
 
 \'\*\' indicates equal contribution
 
-### Training Security: Backdoor Learning & Robust Machine Learning
+### Training Security of ML Models: Backdoor Learning & Robust Machine Learning
 * [Backdoor Learning: A Survey](https://www.researchgate.net/publication/343006441_Backdoor_Learning_A_Survey)<br>
   **Yiming Li**, Yong Jiang, Zhifeng Li, Shu-Tao Xia, Bo Li<br>
   [[Github Resources]](https://github.com/THUYimingLi/backdoor-learning-resources)
@@ -64,7 +64,7 @@ redirect_from:
 
 
 
-### Inference Security: Adversarial Learning
+### Inference Security of ML Models: Adversarial Learning
 
 * [Semi-supervised Robust Training with Generalized Perturbed Neighborhood](https://www.sciencedirect.com/science/article/abs/pii/S0031320321006488)<br>
   **Yiming Li**, Baoyuan Wu, Yan Feng, Yanbo Fan, Yong Jiang, Zhifeng Li, Shu-Tao Xia<br>
