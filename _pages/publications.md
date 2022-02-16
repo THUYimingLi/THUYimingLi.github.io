@@ -12,7 +12,7 @@ redirect_from:
 
 ### Training Security of ML Models: Backdoor Learning & Robust Machine Learning
 * [Backdoor Learning: A Survey](https://www.researchgate.net/publication/343006441_Backdoor_Learning_A_Survey)<br>
-  **Yiming Li**, Yong Jiang, Zhifeng Li, Shu-Tao Xia, Bo Li<br>
+  **Yiming Li**, Yong Jiang, Zhifeng Li, Shu-Tao Xia<br>
   [[Github Resources]](https://github.com/THUYimingLi/backdoor-learning-resources)
 
 * [Few-Shot Backdoor Attacks on Visual Object Tracking](https://openreview.net/pdf?id=qSV5CuSaK_a)<br>
