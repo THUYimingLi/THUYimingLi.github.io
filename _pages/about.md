@@ -23,7 +23,7 @@ I studied machine learning algorithms (especially tree-based ones) for their goo
 
 
 ## News
-* 01/2022: Two papers are accepted by the ICLR 2022. Their codes will be released soon.
+* 01/2022: Two papers are accepted by the ICLR 2022. Their codes, slides, and videos have been released.
 * 12/2021: I will visit the Secure Learning Lab at UIUC, working with Professor [Bo Li](https://aisecure.github.io/) (start from 2022).
 * 12/2021: One paper is accepted by the AAAI 2022. Its codes have been released.
 * 11/2021: One paper is accepted by the Pattern Recognition. Its codes have been released.
