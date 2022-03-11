@@ -15,7 +15,7 @@ I am currently a fourth-year Ph.D. candidate in Computer Science and Technology 
 I was a research intern at Ant Security Lab (2021), working with Dr. Feng Xue and Dr. [Tao Wei](https://scholar.google.com/citations?user=Ao3wEckAAAAJ&hl=zh-CN&oi=ao); a research intern at Tencent AI Lab (2020, 2019), working with Dr. [Baoyuan Wu](https://sites.google.com/site/baoyuanwu2015/) and Dr. [Zhifeng Li](https://scholar.google.com/citations?user=VTrRNN4AAAAJ&hl=zh-CN&oi=ao) (supported by the Tencent Rhino-bird Elite Training Program).  
 
 
-I studied <u>**machine learning**</u> algorithms (especially tree-based ones) for their good interpretability and theoretical properties at the beginning of my post-graduate journey. Currently, my research mainly focuses on <u>**AI security**</u>, especially backdoor learning, adversarial learning, and data privacy. My research is supported by the Tsinghua 'Future Scholar' Ph.D. Fellowship, and my Ph.D. dissertation topic is 'Poisoning-based Backdoor Attacks in Computer Vision'.
+I studied machine learning algorithms (especially tree-based ones) for their good interpretability and theoretical properties at the beginning of my post-graduate journey. **Currently, my research mainly focuses on AI security**, especially backdoor learning, adversarial learning, and data privacy. My research is supported by the Tsinghua 'Future Scholar' Ph.D. Fellowship, and my Ph.D. dissertation topic is 'Poisoning-based Backdoor Attacks in Computer Vision'.
 
 
 **I will graduate in June 2023 (expected). Currently, I am looking for both academic and industrial job opportunities (especially post-doc positions regarding AI security) starting from Summer 2023. Feel free to connect if there are suitable opportunities!**
