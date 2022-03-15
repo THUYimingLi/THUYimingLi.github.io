@@ -115,7 +115,7 @@ redirect_from:
   [[Code]](https://github.com/PerdonLiu/Visual-Privacy-Protection-via-Mapping-Distortion) [[Poster]](https://www.dropbox.com/s/g22yr1suem4y36l/MDP_poster.pdf?dl=0) [[Slides]](https://www.dropbox.com/s/8cbnmt335s3p1ix/MDP_slides.pptx?dl=0) [[Video]](https://www.dropbox.com/s/ww7mhdn09sqk2nh/MDP_video.mp4?dl=0)
 
 * [Open-sourced Dataset Protection via Backdoor Watermarking](https://arxiv.org/abs/2010.05821)<br>
-  **Yiming Li**, Ziqi Zhang, Jiawang Bai, Baoyuan Wu, Yong Jiang, Shu-Tao Xia^<br>
+  **Yiming Li**, Ziqi Zhang, Jiawang Bai, Baoyuan Wu, Yong Jiang, Shu-Tao Xia<br>
   Neural Information Processing Systems (**NeurIPS**) Workshop, 2020<br>
   [[Code]](https://github.com/THUYimingLi/Open-sourced_Dataset_Protection) [[Poster]](https://www.dropbox.com/s/dtkers5txx0mats/WatermarkingDataset_NIPSW2020_poster.pdf?dl=0)
 
