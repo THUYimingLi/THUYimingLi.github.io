@@ -5,7 +5,8 @@ permalink: /talks/
 redirect_from:
   - /talks
 ---
- 
+* How to Write Your Cover Letter and Rebuttal, Academic Servicing Center of Tsinghua University (online), 2022/03/26. [[Resources]](https://www.dropbox.com/sh/st91drs1915qsa5/AAAguJt0qgsu7Bek5JItIoTsa?dl=0)
+
 * How to Write Your Conference Rebuttal: A Reviewer’s Perspective, VALSE Student Seminar (online), 2022/01/23. [[Slides]](https://www.dropbox.com/s/ftq5gs3kbkmzs1a/RebuttalSharing_YimingLi.pptx?dl=0)[[Video]](https://www.dropbox.com/s/r5z3fwaqax63u34/RebuttalSharing_YimingLi.mp4?dl=0)
 
 * Backdoor Attacks in Image Classification, Nanjing University of Science and Technology (online), 2021/12/03. [[Slides]](https://www.dropbox.com/s/h8bgo42h6u14hak/BackdoorIntro.pptx?dl=0)[[Video]](https://www.dropbox.com/s/qyagbdbosgbiwjg/BackdoorAttacks_ImageClassification.mp4?dl=0)
