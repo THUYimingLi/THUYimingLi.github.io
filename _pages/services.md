@@ -29,6 +29,6 @@ redirect_from:
 
 ## Others
 
-* **Lecturer and Consultant**, Academic Servicing Center of Tsinghua University, 2021
+* **Lecturer and Consultant**, Academic Servicing Center, Tsinghua University, 2021/2022
 * **Secretary of Master's Thesis Committee**, Tsinghua-Berkeley Shenzhen Institute, 2021
 
