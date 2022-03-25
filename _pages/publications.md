@@ -62,7 +62,7 @@ redirect_from:
   [[Github Resources]](https://github.com/THUYimingLi/backdoor-learning-resources)
   
 * [BackdoorBox: A Python Toolbox for Backdoor Learning](https://www.researchgate.net/publication/359439455_BackdoorBox_A_Python_Toolbox_for_Backdoor_Learning)<br>
-  **Yiming Li**, Mengxi Ya, Yang Bai, Yong Jiang, Shu-Tao Xia<br>
+  **Yiming Li**\*, Mengxi Ya\*, Yang Bai, Yong Jiang, Shu-Tao Xia<br>
   [[Code]](https://github.com/THUYimingLi/BackdoorBox)
 
 
