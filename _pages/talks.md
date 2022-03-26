@@ -5,7 +5,7 @@ permalink: /talks/
 redirect_from:
   - /talks
 ---
-* How to Write Your Cover Letter and Rebuttal, Academic Servicing Center of Tsinghua University (online), 2022/03/26. [[Resources]](https://www.dropbox.com/sh/st91drs1915qsa5/AAAguJt0qgsu7Bek5JItIoTsa?dl=0)
+* How to Write Your Cover Letter and Rebuttal, Academic Servicing Center of Tsinghua University (online), 2022/03/26. [[Resources]](https://www.dropbox.com/sh/st91drs1915qsa5/AAAguJt0qgsu7Bek5JItIoTsa?dl=0) [[Video]](https://www.dropbox.com/s/0c17nw9qw3c2am8/CoverLetter_Rebuttal.mp4?dl=0)
 
 * How to Write Your Conference Rebuttal: A Reviewer’s Perspective, VALSE Student Seminar (online), 2022/01/23. [[Slides]](https://www.dropbox.com/s/ftq5gs3kbkmzs1a/RebuttalSharing_YimingLi.pptx?dl=0)[[Video]](https://www.dropbox.com/s/r5z3fwaqax63u34/RebuttalSharing_YimingLi.mp4?dl=0)
 
