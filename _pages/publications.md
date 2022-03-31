@@ -49,7 +49,7 @@ TH-CPL: list of recommended conferences and journals in computer science at Tsin
 * [Targeted Attack against Deep Neural Networks via Flipping Limited Weight Bits](https://arxiv.org/pdf/2102.10496.pdf)<br>
   Jiawang Bai, Baoyuan Wu, Yong Zhang, **Yiming Li**, Zhifeng Li, Shu-Tao Xia<br>
   International Conference on Learning Representations (**ICLR**), 2021<br>
-  [<font color='red'><b>TH-CPL: A</b>]<br>
+  [<font color='red'><b>TH-CPL: A</b></font>]<br>
   [[Code]](https://github.com/jiawangbai/TA-LBF-master) [[Poster]](https://www.dropbox.com/s/h700kexejyfs8g1/iclr2021_TA_lBF_poster.pdf?dl=0) [[Video]](https://iclr.cc/virtual/2021/poster/2631)
 
 
