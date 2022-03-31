@@ -92,7 +92,7 @@ TH-CPL: list of recommended conferences and journals in computer science at Tsin
 * [Adversarial Defense via Local Flatness Regularization](https://arxiv.org/abs/1910.12165)<br>
   Jia Xu\*, **Yiming Li**\*, Yong Jiang, Shu-Tao Xia<br>
   International Conference on Image Processing (**ICIP**), 2020<br>
-  [TH-CPL B]<br>
+  [TH-CPL: B]<br>
   [[Code]](https://github.com/Uooga/Local-Flatness-Regularization) [[Slides]](https://share.weiyun.com/6uJPj6VG)
 
 * [Regional Adversarial Training for Better Robust Generalization](https://arxiv.org/pdf/2109.00678.pdf)<br>
@@ -127,7 +127,7 @@ TH-CPL: list of recommended conferences and journals in computer science at Tsin
 * [Visual Privacy Protection via Mapping Distortion](https://arxiv.org/abs/1911.01769)<br>
   **Yiming Li**\*, Peidong Liu\*, Yong Jiang, Shu-Tao Xia<br>
   International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2021<br>
-  [TH-CPL B]<br>
+  [TH-CPL: B]<br>
   [[Code]](https://github.com/PerdonLiu/Visual-Privacy-Protection-via-Mapping-Distortion) [[Poster]](https://www.dropbox.com/s/g22yr1suem4y36l/MDP_poster.pdf?dl=0) [[Slides]](https://www.dropbox.com/s/8cbnmt335s3p1ix/MDP_slides.pptx?dl=0) [[Video]](https://www.dropbox.com/s/ww7mhdn09sqk2nh/MDP_video.mp4?dl=0)
 
 * [Open-sourced Dataset Protection via Backdoor Watermarking](https://arxiv.org/abs/2010.05821)<br>
