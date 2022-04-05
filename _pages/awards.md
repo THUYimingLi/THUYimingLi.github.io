@@ -8,12 +8,12 @@ redirect_from:
 
 
 
-* Best Paper of `Adversarial for Good' Award, ICML AdvML Workshop (<font color='red'>TOP-1</font>), 2021.
-* Best Student Research Award, TBSI Workshop on Data Science (<font color='red'>TOP-1</font>), 2019.
+* Best Paper of `Adversarial for Good' Award (<font color='red'>TOP-1</font>), ICML AdvML Workshop, 2021.
+* Best Student Research Award (<font color='red'>TOP-1</font>), TBSI Workshop on Data Science, 2019.
 * Top 25% PC Member, AAAI, 2021. 
-* Outstanding Undergraduate Thesis Award, Ningbo University (<font color='red'>TOP 5%</font>), 2018.
-* First Prize, Chinese Mathematics Competition (<font color='red'>TOP 3%</font>), 2016.
-* First Prize, China Undergraduate Mathematical Contest in Modeling (<font color='red'>TOP 1%</font>), 2015.
+* Outstanding Undergraduate Thesis Award (<font color='red'>TOP 5%</font>), Ningbo University, 2018.
+* First Prize (<font color='red'>TOP 3%</font>), Chinese Mathematics Competition, 2016.
+* First Prize (<font color='red'>TOP 1%</font>), China Undergraduate Mathematical Contest in Modeling, 2015.
 * 'Future Scholar' Ph.D. Fellowship (<font color='red'>TOP-2</font> in TBSI), Tsinghua University, 2020.
 * Rhino-bird Elite (<font color='red'>TOP 10%</font>), Tencent, 2021.
 * Student Scholarship, AAAI, 2022.
