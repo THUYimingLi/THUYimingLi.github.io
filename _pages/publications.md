@@ -55,7 +55,7 @@ TH-CPL: list of recommended conferences and journals in computer science at Tsin
 
 * [Backdoor Learning: A Survey](https://www.researchgate.net/publication/343006441_Backdoor_Learning_A_Survey)<br>
   **Yiming Li**, Yong Jiang, Zhifeng Li, Shu-Tao Xia<br>
-  Under review by IEEE Transactions on Neural Networks and Learning Systems, 2022<br>
+  Under review by **IEEE Transactions on Neural Networks and Learning Systems**, 2022<br>
   [[Github Resources]](https://github.com/THUYimingLi/backdoor-learning-resources)
 
 * [Backdoor Attack in the Physical World](https://arxiv.org/pdf/2104.02361.pdf)<br>
