@@ -53,7 +53,7 @@ TH-CPL: list of recommended conferences and journals in computer science at Tsin
   [[Code]](https://github.com/jiawangbai/TA-LBF-master) [[Poster]](https://www.dropbox.com/s/h700kexejyfs8g1/iclr2021_TA_lBF_poster.pdf?dl=0) [[Video]](https://iclr.cc/virtual/2021/poster/2631)
 
 
-* [Rethinking the Trigger of Backdoor Attacks: Towards Physical Backdoor Threats]()
+* [Rethinking the Trigger of Backdoor Attacks: Towards Physical Backdoor Threats]()<br>
   **Yiming Li**, Mengxi Ya, Feng Xue, Tongqing Zhai, Yong Jiang, Tao Wei, Shu-Tao Xia<br>
   Under review by IEEE Transactions on Dependable and Secure Computing (**IEEE TDSC**), 2022<br>
   The journal version of our [workshop paper](https://arxiv.org/pdf/2104.02361.pdf).
