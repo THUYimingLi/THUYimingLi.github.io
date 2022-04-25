@@ -108,13 +108,7 @@ TH-CPL: list of recommended conferences and journals in computer science at Tsin
 
 
 
-### Data Security & Privacy
-* [MOVE: Effective and Harmless Model Ownership Verification via Embedded External Features]()<br>
-  **Yiming Li**, Linghui Zhu, Xiaojun Jia, Yong Jiang, Shu-Tao Xia, Xiaochun Cao<br>
-  Under review by IEEE Transactions on Pattern Analysis and Machine Intelligence (**IEEE TPAMI**), 2022<br>
-  The journal extension of our [work](https://arxiv.org/pdf/2112.03476.pdf) in AAAI-2022.
-  
-  
+### Data Security & Privacy  
 * [Multinomial Random Forest](https://www.sciencedirect.com/science/article/pii/S0031320321005112)<br>
   Jiawang Bai\*, **Yiming Li**\*, Jiawei Li, Xue Yang, Yong Jiang, Shu-Tao Xia<br>
   **Pattern Recognition**, 2021<br>
@@ -141,12 +135,15 @@ TH-CPL: list of recommended conferences and journals in computer science at Tsin
   [TH-CPL: B]<br>
   [[Code]](https://github.com/PerdonLiu/Visual-Privacy-Protection-via-Mapping-Distortion) [[Poster]](https://www.dropbox.com/s/g22yr1suem4y36l/MDP_poster.pdf?dl=0) [[Slides]](https://www.dropbox.com/s/8cbnmt335s3p1ix/MDP_slides.pptx?dl=0) [[Video]](https://www.dropbox.com/s/ww7mhdn09sqk2nh/MDP_video.mp4?dl=0)
 
+* [MOVE: Effective and Harmless Model Ownership Verification via Embedded External Features]()<br>
+  **Yiming Li**, Linghui Zhu, Xiaojun Jia, Yong Jiang, Shu-Tao Xia, Xiaochun Cao<br>
+  Under review by IEEE Transactions on Pattern Analysis and Machine Intelligence (**IEEE TPAMI**), 2022<br>
+  The journal extension of our [work](https://arxiv.org/pdf/2112.03476.pdf) in AAAI-2022.
 
 * [Black-box Ownership Verification for Dataset Protection via Backdoor Watermarking]()<br>
   **Yiming Li**, Mingyan Zhu, Xue Yang, Yong Jiang, Shu-Tao Xia, Rongxing Lu<br>
   Under review by IEEE Transactions on Dependable and Secure Computing (**IEEE TDSC**), 2022<br>
   The journal version of our [workshop paper](https://arxiv.org/abs/2010.05821)
-
 
 * [Open-sourced Dataset Protection via Backdoor Watermarking](https://arxiv.org/abs/2010.05821)<br>
   **Yiming Li**, Ziqi Zhang, Jiawang Bai, Baoyuan Wu, Yong Jiang, Shu-Tao Xia<br>
