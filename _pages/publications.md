@@ -53,6 +53,12 @@ TH-CPL: list of recommended conferences and journals in computer science at Tsin
   [[Code]](https://github.com/jiawangbai/TA-LBF-master) [[Poster]](https://www.dropbox.com/s/h700kexejyfs8g1/iclr2021_TA_lBF_poster.pdf?dl=0) [[Video]](https://iclr.cc/virtual/2021/poster/2631)
 
 
+* [Rethinking the Trigger of Backdoor Attacks: Towards Physical Backdoor Threats]()
+  **Yiming Li**, Mengxi Ya, Feng Xue, Tongqing Zhai, Yong Jiang, Tao Wei, Shu-Tao Xia<br>
+  Under review by IEEE Transactions on Dependable and Secure Computing (**IEEE TDSC**), 2022<br>
+  The journal version of our [workshop paper](https://arxiv.org/pdf/2104.02361.pdf).
+  
+
 * [Backdoor Learning: A Survey](https://www.researchgate.net/publication/343006441_Backdoor_Learning_A_Survey)<br>
   **Yiming Li**, Yong Jiang, Zhifeng Li, Shu-Tao Xia<br>
   Under review by IEEE Transactions on Neural Networks and Learning Systems (**IEEE TNNLS**), 2022<br>
@@ -61,7 +67,7 @@ TH-CPL: list of recommended conferences and journals in computer science at Tsin
 * [Backdoor Attack in the Physical World](https://arxiv.org/pdf/2104.02361.pdf)<br>
   **Yiming Li**, Tongqing Zhai, Yong Jiang, Zhifeng Li, Shu-Tao Xia<br>
   International Conference on Learning Representations (**ICLR**) Workshop, 2021<br>
-  [[Poster]](https://www.dropbox.com/s/cskxnptkd5pmzcj/PhysicalAttack_poster.pdf?dl=0) [[Extension]](https://arxiv.org/abs/2004.04692)
+  [[Poster]](https://www.dropbox.com/s/cskxnptkd5pmzcj/PhysicalAttack_poster.pdf?dl=0)
 
 
 * [Hidden Backdoor Attack against Semantic Segmentation Models](https://arxiv.org/pdf/2103.04038.pdf)<br>
@@ -106,7 +112,7 @@ TH-CPL: list of recommended conferences and journals in computer science at Tsin
 * [MOVE: Effective and Harmless Model Ownership Verification via Embedded External Features]()<br>
   **Yiming Li**, Linghui Zhu, Xiaojun Jia, Yong Jiang, Shu-Tao Xia, Xiaochun Cao<br>
   Under review by IEEE Transactions on Pattern Analysis and Machine Intelligence (**IEEE TPAMI**), 2022<br>
-  The journal extension of our work in AAAI-2022.
+  The journal extension of our [work](Defending against Model Stealing via Verifying Embedded External Features) in AAAI-2022.
   
   
 * [Multinomial Random Forest](https://www.sciencedirect.com/science/article/pii/S0031320321005112)<br>
