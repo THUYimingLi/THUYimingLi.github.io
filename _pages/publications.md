@@ -138,7 +138,7 @@ TH-CPL: list of recommended conferences and journals in computer science at Tsin
 * [MOVE: Effective and Harmless Model Ownership Verification via Embedded External Features]()<br>
   **Yiming Li**, Linghui Zhu, Xiaojun Jia, Yong Jiang, Shu-Tao Xia, Xiaochun Cao<br>
   Under review by IEEE Transactions on Pattern Analysis and Machine Intelligence (**IEEE TPAMI**), 2022<br>
-  The journal extension of our [work](https://arxiv.org/pdf/2112.03476.pdf) in AAAI-2022.
+  The journal extension of our [work](https://arxiv.org/pdf/2112.03476.pdf) in AAAI-2022
 
 * [Black-box Ownership Verification for Dataset Protection via Backdoor Watermarking]()<br>
   **Yiming Li**, Mingyan Zhu, Xue Yang, Yong Jiang, Shu-Tao Xia, Rongxing Lu<br>
