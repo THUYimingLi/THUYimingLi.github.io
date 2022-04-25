@@ -53,6 +53,11 @@ TH-CPL: list of recommended conferences and journals in computer science at Tsin
   [[Code]](https://github.com/jiawangbai/TA-LBF-master) [[Poster]](https://www.dropbox.com/s/h700kexejyfs8g1/iclr2021_TA_lBF_poster.pdf?dl=0) [[Video]](https://iclr.cc/virtual/2021/poster/2631)
 
 
+* [Backdoor Learning: A Survey](https://www.researchgate.net/publication/343006441_Backdoor_Learning_A_Survey)<br>
+  **Yiming Li**, Yong Jiang, Zhifeng Li, Shu-Tao Xia<br>
+  Under review by IEEE Transactions on Neural Networks and Learning Systems, 2022<br>
+  [[Github Resources]](https://github.com/THUYimingLi/backdoor-learning-resources)
+
 * [Backdoor Attack in the Physical World](https://arxiv.org/pdf/2104.02361.pdf)<br>
   **Yiming Li**, Tongqing Zhai, Yong Jiang, Zhifeng Li, Shu-Tao Xia<br>
   International Conference on Learning Representations (**ICLR**) Workshop, 2021<br>
@@ -63,10 +68,6 @@ TH-CPL: list of recommended conferences and journals in computer science at Tsin
   **Yiming Li**\*, Yanjie Li\*, Yalei Lv, Yong Jiang, Shu-Tao Xia<br>
   International Conference on Learning Representations (**ICLR**) Workshop, 2021<br>
   [[Poster]](https://www.dropbox.com/s/r462uoe3qtkyphu/BackdoorSegmentation_poster.pdf?dl=0) [[Slides]](https://share.weiyun.com/rz7Rvjup) [[Video]](https://studio.slideslive.com/web_recorder/share/35269?s=5fbfa356-0fa7-48e8-9041-146bd5ee296e)
-
-* [Backdoor Learning: A Survey](https://www.researchgate.net/publication/343006441_Backdoor_Learning_A_Survey)<br>
-  **Yiming Li**, Yong Jiang, Zhifeng Li, Shu-Tao Xia<br>
-  [[Github Resources]](https://github.com/THUYimingLi/backdoor-learning-resources)
   
 * [BackdoorBox: A Python Toolbox for Backdoor Learning](https://www.researchgate.net/publication/359439455_BackdoorBox_A_Python_Toolbox_for_Backdoor_Learning)<br>
   **Yiming Li**\*, Mengxi Ya\*, Yang Bai, Yong Jiang, Shu-Tao Xia<br>
@@ -74,7 +75,6 @@ TH-CPL: list of recommended conferences and journals in computer science at Tsin
 
 
 ### Inference Security of ML Models: Adversarial Learning
-
 * [Semi-supervised Robust Training with Generalized Perturbed Neighborhood](https://www.sciencedirect.com/science/article/abs/pii/S0031320321006488)<br>
   **Yiming Li**, Baoyuan Wu, Yan Feng, Yanbo Fan, Yong Jiang, Zhifeng Li, Shu-Tao Xia<br>
   **Pattern Recognition**, 2021 (<font color='red'>Best Student Research Award of TBSI-WODS, 2019</font>)<br>
@@ -103,7 +103,12 @@ TH-CPL: list of recommended conferences and journals in computer science at Tsin
 
 
 ### Data Security & Privacy
-
+* [MOVE: Effective and Harmless Model Ownership Verification via Embedded External Features]()<br>
+  **Yiming Li**, Linghui Zhu, Xiaojun Jia, Yong Jiang, Shu-Tao Xia, Xiaochun Cao<br>
+  Under review by **IEEE Transactions on Pattern Analysis and Machine Intelligence**, 2022<br>
+  The journal extension of our work in AAAI-2022.
+  
+  
 * [Multinomial Random Forest](https://www.sciencedirect.com/science/article/pii/S0031320321005112)<br>
   Jiawang Bai\*, **Yiming Li**\*, Jiawei Li, Xue Yang, Yong Jiang, Shu-Tao Xia<br>
   **Pattern Recognition**, 2021<br>
