@@ -55,13 +55,13 @@ TH-CPL: list of recommended conferences and journals in computer science at Tsin
 
 * [Rethinking the Trigger of Backdoor Attacks: Towards Physical Backdoor Threats]()<br>
   **Yiming Li**, Mengxi Ya, Feng Xue, Tongqing Zhai, Yong Jiang, Tao Wei, Shu-Tao Xia<br>
-  Under review by IEEE Transactions on Dependable and Secure Computing (**IEEE TDSC**), 2022<br>
+  Under review by IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2022<br>
   The journal version of our [workshop paper](https://arxiv.org/pdf/2104.02361.pdf)
   
 
 * [Backdoor Learning: A Survey](https://www.researchgate.net/publication/343006441_Backdoor_Learning_A_Survey)<br>
   **Yiming Li**, Yong Jiang, Zhifeng Li, Shu-Tao Xia<br>
-  Under review by IEEE Transactions on Neural Networks and Learning Systems (**IEEE TNNLS**), 2022<br>
+  Under review by IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2022<br>
   [[Github Resources]](https://github.com/THUYimingLi/backdoor-learning-resources)
 
 * [Backdoor Attack in the Physical World](https://arxiv.org/pdf/2104.02361.pdf)<br>
@@ -118,7 +118,7 @@ TH-CPL: list of recommended conferences and journals in computer science at Tsin
 
 * [A Fine-grained Differentially Private Federated Learning against Leakage from Gradients](https://ieeexplore.ieee.org/document/9627872)<br>
   Linghui Zhu, Xinyi Liu, **Yiming Li**, Xue Yang, Shu-Tao Xia, Rongxing Lu<br>
-  IEEE Internet of Things Journal (**IEEE IoT Journal**), 2021<br>
+  IEEE Internet of Things Journal (**IoT Journal**), 2021<br>
   [<font color='red'><b>JCR-1</b></font>]
 
 
@@ -137,12 +137,12 @@ TH-CPL: list of recommended conferences and journals in computer science at Tsin
 
 * [MOVE: Effective and Harmless Model Ownership Verification via Embedded External Features]()<br>
   **Yiming Li**, Linghui Zhu, Xiaojun Jia, Yong Jiang, Shu-Tao Xia, Xiaochun Cao<br>
-  Under review by IEEE Transactions on Pattern Analysis and Machine Intelligence (**IEEE TPAMI**), 2022<br>
+  Under review by IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2022<br>
   The journal extension of our [work](https://arxiv.org/pdf/2112.03476.pdf) in AAAI-2022
 
 * [Black-box Ownership Verification for Dataset Protection via Backdoor Watermarking]()<br>
   **Yiming Li**, Mingyan Zhu, Xue Yang, Yong Jiang, Shu-Tao Xia, Rongxing Lu<br>
-  Under review by IEEE Transactions on Dependable and Secure Computing (**IEEE TDSC**), 2022<br>
+  Under review by IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2022<br>
   The journal version of our [workshop paper](https://arxiv.org/abs/2010.05821)
 
 * [Open-sourced Dataset Protection via Backdoor Watermarking](https://arxiv.org/abs/2010.05821)<br>
