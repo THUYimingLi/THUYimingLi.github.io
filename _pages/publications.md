@@ -55,7 +55,7 @@ TH-CPL: list of recommended conferences and journals in computer science at Tsin
 
 * [Backdoor Learning: A Survey](https://www.researchgate.net/publication/343006441_Backdoor_Learning_A_Survey)<br>
   **Yiming Li**, Yong Jiang, Zhifeng Li, Shu-Tao Xia<br>
-  Under review by **IEEE Transactions on Neural Networks and Learning Systems**, 2022<br>
+  Under review by IEEE Transactions on Neural Networks and Learning Systems (**IEEE TNNLS**), 2022<br>
   [[Github Resources]](https://github.com/THUYimingLi/backdoor-learning-resources)
 
 * [Backdoor Attack in the Physical World](https://arxiv.org/pdf/2104.02361.pdf)<br>
@@ -105,7 +105,7 @@ TH-CPL: list of recommended conferences and journals in computer science at Tsin
 ### Data Security & Privacy
 * [MOVE: Effective and Harmless Model Ownership Verification via Embedded External Features]()<br>
   **Yiming Li**, Linghui Zhu, Xiaojun Jia, Yong Jiang, Shu-Tao Xia, Xiaochun Cao<br>
-  Under review by **IEEE Transactions on Pattern Analysis and Machine Intelligence**, 2022<br>
+  Under review by IEEE Transactions on Pattern Analysis and Machine Intelligence (**IEEE TPAMI**), 2022<br>
   The journal extension of our work in AAAI-2022.
   
   
@@ -118,7 +118,7 @@ TH-CPL: list of recommended conferences and journals in computer science at Tsin
 
 * [A Fine-grained Differentially Private Federated Learning against Leakage from Gradients](https://ieeexplore.ieee.org/document/9627872)<br>
   Linghui Zhu, Xinyi Liu, **Yiming Li**, Xue Yang, Shu-Tao Xia, Rongxing Lu<br>
-  **IEEE Internet of Things Journal**, 2021<br>
+  IEEE Internet of Things Journal (**IEEE IoT Journal**), 2021<br>
   [<font color='red'><b>JCR-1</b></font>]
 
 
