@@ -21,6 +21,7 @@ redirect_from:
 
 - IEEE Transactions on Dependable and Secure Computing (TDSC)
 - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+- IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 - IEEE Transactions on Industrial Informatics (TII)
 - Pattern Recognition
 - Neurocomputing
