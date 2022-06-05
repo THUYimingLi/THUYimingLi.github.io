@@ -14,42 +14,36 @@ TH-CPL: list of recommended conferences and journals in computer science at Tsin
 ### Training Security of ML Models: Backdoor Learning & Robust Machine Learning
 * [Few-Shot Backdoor Attacks on Visual Object Tracking](https://openreview.net/pdf?id=qSV5CuSaK_a)<br>
   **Yiming Li**\*, Haoxiang Zhong\*, Xingjun Ma, Yong Jiang, Shu-Tao Xia<br>
-  International Conference on Learning Representations (**ICLR**), 2022<br>
-  [<font color='red'><b>TH-CPL: A</b></font>]<br>
+  International Conference on Learning Representations (**ICLR**), 2022. [<font color='red'><b>TH-CPL: A</b></font>] <br>
   [[Code]](https://github.com/HXZhong1997/FSBA) [[Poster]](https://www.dropbox.com/s/4nmzwvkwfbktnqs/BackdoorVOT_ICLR22_poster.pdf?dl=0) [[Slides]](https://www.dropbox.com/s/rn3h0xr7eflo3a7/BackdoorVOT_ICLR22.pptx?dl=0) [[Video]](https://recorder-v3.slideslive.com/#/share?share=61825&s=d28384c4-297b-4a75-b5e7-3c9dba75f6df)
 
 * [Backdoor Defense via Decoupling the Training Process](https://openreview.net/pdf?id=TySnJ-0RdKI)<br>
   Kunzhe Huang\*, **Yiming Li**\*, Baoyuan Wu, Zhan Qin, Kui Ren<br>
-  International Conference on Learning Representations (**ICLR**), 2022<br>
-  [<font color='red'><b>TH-CPL: A</b></font>]<br>
+  International Conference on Learning Representations (**ICLR**), 2022. [<font color='red'><b>TH-CPL: A</b></font>] <br>
   [[Code]](https://github.com/SCLBD/DBD) [[Poster]](https://www.dropbox.com/s/i6m6rcsoe7xd6tr/DBD_ICLR22_poster.pdf?dl=0) [[Slides]](https://www.dropbox.com/s/2ved7swqsp8x02y/DBD_ICLR22.pptx?dl=0) [[Video]](https://recorder-v3.slideslive.com/#/share?share=62074&s=60f4eeae-3910-42b7-b91a-b1b4f3861ecc)
 
 
 * [*t*-*k*-means: A Robust and Stable *k*-means Variant](https://arxiv.org/abs/1907.07442)<br>
   **Yiming Li**\*, Yang Zhang\*, Qingtao Tang, Weipeng Huang, Yong Jiang, Shu-Tao Xia<br>
-  International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2021<br>
-  [TH-CPL: B]<br>
+  International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2021. [TH-CPL: B] <br>
   [[Code]](https://github.com/THUYimingLi/t-k-means) [[Poster]](https://www.dropbox.com/s/mwmzwxivbi2bxlu/t_k_means_poster.pdf?dl=0) [[Slides]](https://www.dropbox.com/s/mlq01732qkcwp2l/t-k-means_slides.pptx?dl=0) [[Video]](https://www.dropbox.com/s/5f7nqutp8k3x17s/t-k-mean_video.mp4?dl=0)
 
 
 * [Backdoor Attack against Speaker Verification](https://arxiv.org/pdf/2010.11607.pdf)<br>
   Tongqing Zhai\*, **Yiming Li**\* (corresponding author), Ziqi Zhang, Baoyuan Wu, Yong Jiang, Shu-Tao Xia<br>
-  International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2021<br>
-  [TH-CPL: B], <font color='red'><b>top-tier conference in Speech Recognition</b></font><br>
+  International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2021. [TH-CPL: B, <font color='red'><b>top-tier conference in Speech Recognition</b></font>] <br>
   [[Code]](https://github.com/zhaitongqing233/Backdoor-attack-against-speaker-verification) [[Poster]](https://www.dropbox.com/s/jd9z8eer749ffgh/BackdoorSpeakerVerification_poster.pdf?dl=0) [[Slides]](https://www.dropbox.com/s/ox2h6wicc9v88a3/BackdoorSpeakerVerification_slides.pptx?dl=0) [[Video]](https://www.dropbox.com/s/0f7effif8itgsow/BackdoorSpeakerVerification_video.mp4?dl=0)
 
 
 * [Invisible Backdoor Attack with Sample-Specific Triggers](https://arxiv.org/pdf/2012.03816.pdf)<br>
   Yuezun Li, **Yiming Li**, Baoyuan Wu, Longkang Li, Ran He, Siwei Lyu<br>
-  International Conference on Computer Vision (**ICCV**), 2021<br>
-  [<font color='red'><b>TH-CPL: A</b></font>]<br>
+  International Conference on Computer Vision (**ICCV**), 2021. [<font color='red'><b>TH-CPL: A</b></font>] <br>
   [[Code]](https://github.com/yuezunli/ISSBA)
 
 
 * [Targeted Attack against Deep Neural Networks via Flipping Limited Weight Bits](https://arxiv.org/pdf/2102.10496.pdf)<br>
   Jiawang Bai, Baoyuan Wu, Yong Zhang, **Yiming Li**, Zhifeng Li, Shu-Tao Xia<br>
-  International Conference on Learning Representations (**ICLR**), 2021<br>
-  [<font color='red'><b>TH-CPL: A</b></font>]<br>
+  International Conference on Learning Representations (**ICLR**), 2021. [<font color='red'><b>TH-CPL: A</b></font>] <br>
   [[Code]](https://github.com/jiawangbai/TA-LBF-master) [[Poster]](https://www.dropbox.com/s/h700kexejyfs8g1/iclr2021_TA_lBF_poster.pdf?dl=0) [[Video]](https://iclr.cc/virtual/2021/poster/2631)
 
 
@@ -77,22 +71,19 @@ TH-CPL: list of recommended conferences and journals in computer science at Tsin
 ### Inference Security of ML Models: Adversarial Learning
 * [Semi-supervised Robust Training with Generalized Perturbed Neighborhood](https://www.sciencedirect.com/science/article/abs/pii/S0031320321006488)<br>
   **Yiming Li**, Baoyuan Wu, Yan Feng, Yanbo Fan, Yong Jiang, Zhifeng Li, Shu-Tao Xia<br>
-  **Pattern Recognition**, 2021 (<font color='red'>Best Student Research Award of TBSI-WODS, 2019</font>)<br>
-  [<font color='red'><b>JCR-1</b></font>]<br>
+  **Pattern Recognition**, 2021. [<font color='red'><b>JCR-1</b></font>, <font color='red'>Best Student Research Award of TBSI-WODS'19</font>] <br>
   [[Code]](https://github.com/THUYimingLi/Semi-supervised_Robust_Training)
 
 
 * [Targeted Attack for Deep Hashing based Retrieval](https://arxiv.org/abs/2004.07955)<br>
   Jiawang Bai\*, Bin Chen\*, **Yiming Li**\*, Dongxian Wu, Weiwei Guo, Shu-Tao Xia, Enhui Yang<br>
-  European Conference on Computer Vision (**ECCV**) (<font color='red'>oral, TOP 2%</font>), 2020<br>
-  [<font color='red'><b>TH-CPL: A</b></font>]<br>
+  European Conference on Computer Vision (**ECCV**), 2020. [<font color='red'><b>TH-CPL: A</b></font>, <font color='red'>oral (TOP 2%)</font>] <br>
   [[Code]](https://github.com/jiawangbai/DHTA-master) [[Slides]](https://www.dropbox.com/s/7a1vvopt8z0jxvl/targeted_attack_slides.pptx?dl=0)
 
 
 * [Adversarial Defense via Local Flatness Regularization](https://arxiv.org/abs/1910.12165)<br>
   Jia Xu\*, **Yiming Li**\*, Yong Jiang, Shu-Tao Xia<br>
-  International Conference on Image Processing (**ICIP**), 2020<br>
-  [TH-CPL: B]<br>
+  International Conference on Image Processing (**ICIP**), 2020. [TH-CPL: B] <br>
   [[Code]](https://github.com/Uooga/Local-Flatness-Regularization) [[Slides]](https://share.weiyun.com/6uJPj6VG)
 
 * [Regional Adversarial Training for Better Robust Generalization](https://arxiv.org/pdf/2109.00678.pdf)<br>
@@ -105,28 +96,24 @@ TH-CPL: list of recommended conferences and journals in computer science at Tsin
 ### Data Security & Privacy  
 * [Multinomial Random Forest](https://www.sciencedirect.com/science/article/pii/S0031320321005112)<br>
   Jiawang Bai\*, **Yiming Li**\*, Jiawei Li, Xue Yang, Yong Jiang, Shu-Tao Xia<br>
-  **Pattern Recognition**, 2021<br>
-  [<font color='red'><b>JCR-1</b></font>]<br>
+  **Pattern Recognition**, 2021. [<font color='red'><b>JCR-1</b></font>] <br>
   [[Code]](https://github.com/jiawangbai/Multinomial-Random-Forest)
 
 
 * [A Fine-grained Differentially Private Federated Learning against Leakage from Gradients](https://ieeexplore.ieee.org/document/9627872)<br>
   Linghui Zhu, Xinyi Liu, **Yiming Li**, Xue Yang, Shu-Tao Xia, Rongxing Lu<br>
-  IEEE Internet of Things Journal (**IoT Journal**), 2021<br>
-  [<font color='red'><b>JCR-1</b></font>]
+  IEEE Internet of Things Journal (**IoT Journal**), 2021. [<font color='red'><b>JCR-1</b></font>] <br>
 
 
 * [Defending against Model Stealing via Verifying Embedded External Features](https://arxiv.org/pdf/2112.03476.pdf)<br>
   **Yiming Li**\*, Linghui Zhu\*, Xiaojun Jia, Yong Jiang, Shu-Tao Xia, Xiaochun Cao<br>
-  AAAI Conference on Artificial Intelligence (**AAAI**), 2022 (<font color='red'>Best Paper of Adversarial for Good Award</font>, ICML'21 AdvML Workshop)<br>
-  [<font color='red'><b>TH-CPL: A</b></font>]<br>
+  AAAI Conference on Artificial Intelligence (**AAAI**), 2022. [<font color='red'><b>TH-CPL: A</b></font>, <font color='red'>Best Paper of Adversarial for Good Award</font> (ICML'21 AdvML Workshop)] <br>
   [[Code]](https://github.com/zlh-thu/StealingVerification) [[Poster]](https://www.dropbox.com/s/v95s1u7gl97f46u/StealingVerification_AAAI_poster.pdf?dl=0) [[Slides]](https://www.dropbox.com/s/rpx4wrr5upqrdw9/StealingVerification_AAAI22_slides.pptx?dl=0) [[Video]](https://recorder-v3.slideslive.com/?share=56906&s=2ea1c02a-3d17-4981-85b9-1f294505043c) [[Workshop Version]](https://openreview.net/forum?id=g6zfnWUg8A1)
 
 
 * [Visual Privacy Protection via Mapping Distortion](https://arxiv.org/abs/1911.01769)<br>
   **Yiming Li**\*, Peidong Liu\*, Yong Jiang, Shu-Tao Xia<br>
-  International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2021<br>
-  [TH-CPL: B]<br>
+  International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2021. [TH-CPL: B] <br>
   [[Code]](https://github.com/PerdonLiu/Visual-Privacy-Protection-via-Mapping-Distortion) [[Poster]](https://www.dropbox.com/s/g22yr1suem4y36l/MDP_poster.pdf?dl=0) [[Slides]](https://www.dropbox.com/s/8cbnmt335s3p1ix/MDP_slides.pptx?dl=0) [[Video]](https://www.dropbox.com/s/ww7mhdn09sqk2nh/MDP_video.mp4?dl=0)
 
 
