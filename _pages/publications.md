@@ -71,7 +71,7 @@ TH-CPL: list of recommended conferences and journals in computer science at Tsin
 ### Inference Security of ML Models: Adversarial Learning
 * [Semi-supervised Robust Training with Generalized Perturbed Neighborhood](https://www.sciencedirect.com/science/article/abs/pii/S0031320321006488)<br>
   **Yiming Li**, Baoyuan Wu, Yan Feng, Yanbo Fan, Yong Jiang, Zhifeng Li, Shu-Tao Xia<br>
-  **Pattern Recognition**, 2021. [<font color='red'><b>JCR-1</b></font>, <font color='red'>Best Student Research Award of TBSI-WODS'19</font>] <br>
+  **Pattern Recognition**, 2021. [<font color='red'><b>JCR-1</b></font>, <font color='red'><b>Best Student Research Award of TBSI-WODS'19</b></font>] <br>
   [[Code]](https://github.com/THUYimingLi/Semi-supervised_Robust_Training)
 
 
