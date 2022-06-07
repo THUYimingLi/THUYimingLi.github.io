@@ -26,7 +26,6 @@ I was a research intern at Ant CyberSecurity Group (2021, 2022), working with Dr
 * 01/2022: Two papers are accepted by the ICLR 2022. Their codes, posters, slides, and videos have been released.
 * 12/2021: I will visit the Secure Learning Lab at UIUC, working with Professor [Bo Li](https://aisecure.github.io/) (start from 2022).
 * 12/2021: One paper is accepted by the AAAI 2022. Its codes, poster, slides, and video have been released.
-* 11/2021: One paper is accepted by the Pattern Recognition. Its codes have been released.
 
 
 
