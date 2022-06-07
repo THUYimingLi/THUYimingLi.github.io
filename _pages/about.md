@@ -21,7 +21,7 @@ I was a research intern at Ant CyberSecurity Group (2021, 2022), working with Dr
 
 
 ## News
-* 06/2022: The attack part of our [BackdoorBox](https://github.com/THUYimingLi/BackdoorBox) has been developed (10+ attacks). The defense part and the benchmark are coming soon. Feel free to check and play with it~
+* 06/2022: The attack part of our open-sourced Python toolbox [BackdoorBox](https://github.com/THUYimingLi/BackdoorBox) has been developed (10+ attacks). The defense part and the benchmark are coming soon. Feel free to check and play with it~
 * 04/2022: One patent is granted.
 * 01/2022: Two papers are accepted by the ICLR 2022. Their codes, posters, slides, and videos have been released.
 * 12/2021: I will visit the Secure Learning Lab at UIUC, working with Professor [Bo Li](https://aisecure.github.io/) (start from 2022).
