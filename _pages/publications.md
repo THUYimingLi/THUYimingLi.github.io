@@ -12,6 +12,11 @@ redirect_from:
 TH-CPL: list of recommended conferences and journals in computer science at Tsinghua University
 
 ### Training Security of ML Models: Backdoor Learning & Robust Machine Learning
+* [Backdoor Learning: A Survey](https://www.researchgate.net/publication/343006441_Backdoor_Learning_A_Survey)<br>
+  **Yiming Li**, Yong Jiang, Zhifeng Li, Shu-Tao Xia<br>
+  IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2022. [<font color='red'><b>JCR-1</b></font>] <br>
+  [[Github Resources]](https://github.com/THUYimingLi/backdoor-learning-resources)
+
 * [Few-Shot Backdoor Attacks on Visual Object Tracking](https://openreview.net/pdf?id=qSV5CuSaK_a)<br>
   **Yiming Li**\*, Haoxiang Zhong\*, Xingjun Ma, Yong Jiang, Shu-Tao Xia<br>
   International Conference on Learning Representations (**ICLR**), 2022. [<font color='red'><b>TH-CPL: A</b></font>] <br>
@@ -46,11 +51,6 @@ TH-CPL: list of recommended conferences and journals in computer science at Tsin
   International Conference on Learning Representations (**ICLR**), 2021. [<font color='red'><b>TH-CPL: A</b></font>] <br>
   [[Code]](https://github.com/jiawangbai/TA-LBF-master) [[Poster]](https://www.dropbox.com/s/h700kexejyfs8g1/iclr2021_TA_lBF_poster.pdf?dl=0) [[Video]](https://iclr.cc/virtual/2021/poster/2631)
 
-
-
-* [Backdoor Learning: A Survey](https://www.researchgate.net/publication/343006441_Backdoor_Learning_A_Survey)<br>
-  **Yiming Li**, Yong Jiang, Zhifeng Li, Shu-Tao Xia<br>
-  [[Github Resources]](https://github.com/THUYimingLi/backdoor-learning-resources)
 
 * [Backdoor Attack in the Physical World](https://arxiv.org/pdf/2104.02361.pdf)<br>
   **Yiming Li**, Tongqing Zhai, Yong Jiang, Zhifeng Li, Shu-Tao Xia<br>
