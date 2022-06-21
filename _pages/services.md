@@ -19,6 +19,7 @@ redirect_from:
 
 ## Journals
 
+- IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
 - IEEE Transactions on Dependable and Secure Computing (TDSC)
 - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
