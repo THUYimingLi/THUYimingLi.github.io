@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications and Preprints"
 permalink: /publications/
 redirect_from:
   - /publications
@@ -68,6 +68,7 @@ TH-CPL: list of recommended conferences and journals in computer science at Tsin
   [[Code]](https://github.com/THUYimingLi/BackdoorBox)
 
 
+
 ### Inference Security of ML Models: Adversarial Learning
 * [Semi-supervised Robust Training with Generalized Perturbed Neighborhood](https://www.sciencedirect.com/science/article/abs/pii/S0031320321006488)<br>
   **Yiming Li**, Baoyuan Wu, Yan Feng, Yanbo Fan, Yong Jiang, Zhifeng Li, Shu-Tao Xia<br>
@@ -105,24 +106,25 @@ TH-CPL: list of recommended conferences and journals in computer science at Tsin
   IEEE Internet of Things Journal (**IoT Journal**), 2021. [<font color='red'><b>JCR-1</b></font>] <br>
 
 
-* [Defending against Model Stealing via Verifying Embedded External Features](https://arxiv.org/pdf/2112.03476.pdf)<br>
-  **Yiming Li**\*, Linghui Zhu\*, Xiaojun Jia, Yong Jiang, Shu-Tao Xia, Xiaochun Cao<br>
-  AAAI Conference on Artificial Intelligence (**AAAI**), 2022. [<font color='red'><b>TH-CPL: A</b></font>, <font color='red'><b>Best Paper of Adversarial for Good Award</b></font> (ICML'21 AdvML Workshop)] <br>
-  [[Code]](https://github.com/zlh-thu/StealingVerification) [[Poster]](https://www.dropbox.com/s/v95s1u7gl97f46u/StealingVerification_AAAI_poster.pdf?dl=0) [[Slides]](https://www.dropbox.com/s/rpx4wrr5upqrdw9/StealingVerification_AAAI22_slides.pptx?dl=0) [[Video]](https://recorder-v3.slideslive.com/?share=56906&s=2ea1c02a-3d17-4981-85b9-1f294505043c) [[Workshop Version]](https://openreview.net/forum?id=g6zfnWUg8A1)
-
-
 * [Visual Privacy Protection via Mapping Distortion](https://arxiv.org/abs/1911.01769)<br>
   **Yiming Li**\*, Peidong Liu\*, Yong Jiang, Shu-Tao Xia<br>
   International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2021. [TH-CPL: B] <br>
   [[Code]](https://github.com/PerdonLiu/Visual-Privacy-Protection-via-Mapping-Distortion) [[Poster]](https://www.dropbox.com/s/g22yr1suem4y36l/MDP_poster.pdf?dl=0) [[Slides]](https://www.dropbox.com/s/8cbnmt335s3p1ix/MDP_slides.pptx?dl=0) [[Video]](https://www.dropbox.com/s/ww7mhdn09sqk2nh/MDP_video.mp4?dl=0)
 
 
+
+
+### Copyright Protection in Deep learning
+* [Defending against Model Stealing via Verifying Embedded External Features](https://arxiv.org/pdf/2112.03476.pdf)<br>
+  **Yiming Li**\*, Linghui Zhu\*, Xiaojun Jia, Yong Jiang, Shu-Tao Xia, Xiaochun Cao<br>
+  AAAI Conference on Artificial Intelligence (**AAAI**), 2022. [<font color='red'><b>TH-CPL: A</b></font>, <font color='red'><b>Best Paper of Adversarial for Good Award</b></font> (ICML'21 AdvML Workshop)] <br>
+  [[Code]](https://github.com/zlh-thu/StealingVerification) [[Poster]](https://www.dropbox.com/s/v95s1u7gl97f46u/StealingVerification_AAAI_poster.pdf?dl=0) [[Slides]](https://www.dropbox.com/s/rpx4wrr5upqrdw9/StealingVerification_AAAI22_slides.pptx?dl=0) [[Video]](https://recorder-v3.slideslive.com/?share=56906&s=2ea1c02a-3d17-4981-85b9-1f294505043c) [[Workshop Version]](https://openreview.net/forum?id=g6zfnWUg8A1)
+
+
 * [Open-sourced Dataset Protection via Backdoor Watermarking](https://arxiv.org/abs/2010.05821)<br>
   **Yiming Li**, Ziqi Zhang, Jiawang Bai, Baoyuan Wu, Yong Jiang, Shu-Tao Xia<br>
   Neural Information Processing Systems (**NeurIPS**) Workshop, 2020<br>
   [[Code]](https://github.com/THUYimingLi/Open-sourced_Dataset_Protection) [[Poster]](https://www.dropbox.com/s/dtkers5txx0mats/WatermarkingDataset_NIPSW2020_poster.pdf?dl=0)
-
-
 
 
 ### Other Topics
