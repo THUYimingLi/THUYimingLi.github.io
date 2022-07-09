@@ -17,8 +17,8 @@ redirect_from:
 * 'Future Scholar' Ph.D. Fellowship (<font color='red'>TOP-2</font> in TBSI), Tsinghua University, 2020.
 * Rhino-bird Elite (<font color='red'>TOP 10%</font>), Tencent, 2021.
 * Student Scholarship, AAAI, 2022.
-* Excellence Scholarship (<font color='red'>Rank First in our Track, TOP 20%</font>),TBSI, 2021.
-* Dean's Scholarship, TBSI, 2020/2021.
+* Excellence Scholarship (<font color='red'>Rank First in our Track, TOP 20%</font>), TBSI, 2021/2022.
+* Dean's Scholarship, TBSI, 2020/2021/2022.
 * Undergraduate National Scholarship (<font color='red'>TOP 1%</font>), 2017.
 * Outstanding Graduate of Zhejiang Province (<font color='red'>TOP 1%</font>), 2018.
 
