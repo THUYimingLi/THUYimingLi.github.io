@@ -20,9 +20,10 @@ redirect_from:
 ## Journals
 
 - **Reviewer**, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+- **Reviewer**, IEEE Transactions on Information Forensics and Security (TIFS)
 - **Reviewer**, IEEE Transactions on Dependable and Secure Computing (TDSC)
-- **Reviewer**, IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 - **Reviewer**, IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+- **Reviewer**, IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 - **Reviewer**, IEEE Transactions on Industrial Informatics (TII)
 - **Reviewer**, Pattern Recognition
 - **Reviewer**, Neurocomputing
