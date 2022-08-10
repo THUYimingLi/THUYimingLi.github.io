@@ -146,6 +146,11 @@ TH-CPL: list of recommended conferences and journals in computer science at Tsin
   Jiawei Li, **Yiming Li**, Xingchun Xiang, Shu-Tao Xia, Siyi Dong, Yun Cai<br>
   **Entropy**, 2020
 
+* [Adaptive Local Implicit Image Function for Arbitrary-scale Super-resolution](https://arxiv.org/pdf/2208.04318.pdf)<br>
+  Hongwei Li, Tao Dai, **Yiming Li**, Xueyi Zou, Shu-Tao Xia<br>
+  IEEE International Conference on Image Processing (**ICIP**), 2022<br>
+  [[Code]](https://github.com/LeeHW-THU/A-LIIF)
+
 
 * [Rectified Decision Trees: Exploring the Landscape of Interpretable and Effective Machine Learning](https://arxiv.org/pdf/2008.09413.pdf)<br>
   **Yiming Li**\*, Jiawang Bai\*, Jiawei Li, Xue Yang, Yong Jiang, Shu-Tao Xia<br>
