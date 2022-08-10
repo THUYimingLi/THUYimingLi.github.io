@@ -118,8 +118,8 @@ TH-CPL: list of recommended conferences and journals in computer science at Tsin
 ### Copyright Protection in Deep learning
 * [MOVE: Effective and Harmless Ownership Verification via Embedded External Features](https://arxiv.org/pdf/2208.02820.pdf)<br>
   **Yiming Li**, Linghui Zhu, Xiaojun Jia, Yang Bai, Yong Jiang, Shu-Tao Xia, Xiaochun Cao<br>
-  Under Review by IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2022<br>
-  [[codes]](https://github.com/THUYimingLi/MOVE)
+  Under Review by IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2022. (The journal extension of our [AAAI'22](https://arxiv.org/pdf/2112.03476.pdf))<br>
+  [[Code]](https://github.com/THUYimingLi/MOVE)
 
 
 * [Defending against Model Stealing via Verifying Embedded External Features](https://arxiv.org/pdf/2112.03476.pdf)<br>
@@ -131,13 +131,8 @@ TH-CPL: list of recommended conferences and journals in computer science at Tsin
 * [Black-box Ownership Verification for Dataset Protection via Backdoor Watermarking](https://www.researchgate.net/publication/362593558_Black-box_Ownership_Verification_for_Dataset_Protection_via_Backdoor_Watermarking)<br>
   **Yiming Li**, Mingyan Zhu, Xue Yang, Yong Jiang, Shu-Tao Xia<br>
   Under Review by IEEE Transactions on Information Forensics and Security (**TIFS**), 2022<br>
-  [[codes]](https://github.com/THUYimingLi/DVBW)
+  [[Code]](https://github.com/THUYimingLi/DVBW) [[Workshop Version]](https://arxiv.org/abs/2010.05821)
 
-
-* [Open-sourced Dataset Protection via Backdoor Watermarking](https://arxiv.org/abs/2010.05821)<br>
-  **Yiming Li**, Ziqi Zhang, Jiawang Bai, Baoyuan Wu, Yong Jiang, Shu-Tao Xia<br>
-  Neural Information Processing Systems (**NeurIPS**) Workshop, 2020<br>
-  [[Code]](https://github.com/THUYimingLi/Open-sourced_Dataset_Protection) [[Poster]](https://www.dropbox.com/s/dtkers5txx0mats/WatermarkingDataset_NIPSW2020_poster.pdf?dl=0)
 
 
 ### Other Topics
