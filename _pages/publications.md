@@ -17,6 +17,10 @@ TH-CPL: list of recommended conferences and journals in computer science at Tsin
   IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2022. [<font color='red'><b>JCR-1</b></font>] <br>
   [[Github Resources]](https://github.com/THUYimingLi/backdoor-learning-resources)
 
+* [BackdoorBox: A Python Toolbox for Backdoor Learning](https://www.researchgate.net/publication/359439455_BackdoorBox_A_Python_Toolbox_for_Backdoor_Learning)<br>
+  **Yiming Li**\*, Mengxi Ya\*, Yang Bai, Yong Jiang, Shu-Tao Xia<br>
+  [[Code]](https://github.com/THUYimingLi/BackdoorBox)
+
 * [Few-Shot Backdoor Attacks on Visual Object Tracking](https://openreview.net/pdf?id=qSV5CuSaK_a)<br>
   **Yiming Li**\*, Haoxiang Zhong\*, Xingjun Ma, Yong Jiang, Shu-Tao Xia<br>
   International Conference on Learning Representations (**ICLR**), 2022. [<font color='red'><b>TH-CPL: A</b></font>] <br>
@@ -62,10 +66,7 @@ TH-CPL: list of recommended conferences and journals in computer science at Tsin
   **Yiming Li**\*, Yanjie Li\*, Yalei Lv, Yong Jiang, Shu-Tao Xia<br>
   International Conference on Learning Representations (**ICLR**) Workshop, 2021<br>
   [[Poster]](https://www.dropbox.com/s/r462uoe3qtkyphu/BackdoorSegmentation_poster.pdf?dl=0) [[Slides]](https://share.weiyun.com/rz7Rvjup) [[Video]](https://studio.slideslive.com/web_recorder/share/35269?s=5fbfa356-0fa7-48e8-9041-146bd5ee296e)
-  
-* [BackdoorBox: A Python Toolbox for Backdoor Learning](https://www.researchgate.net/publication/359439455_BackdoorBox_A_Python_Toolbox_for_Backdoor_Learning)<br>
-  **Yiming Li**\*, Mengxi Ya\*, Yang Bai, Yong Jiang, Shu-Tao Xia<br>
-  [[Code]](https://github.com/THUYimingLi/BackdoorBox)
+
 
 
 
@@ -115,10 +116,22 @@ TH-CPL: list of recommended conferences and journals in computer science at Tsin
 
 
 ### Copyright Protection in Deep learning
+* [MOVE: Effective and Harmless Ownership Verification via Embedded External Features](https://arxiv.org/pdf/2208.02820.pdf)<br>
+  **Yiming Li**, Linghui Zhu, Xiaojun Jia, Yang Bai, Yong Jiang, Shu-Tao Xia, Xiaochun Cao<br>
+  Under Review by IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2022<br>
+  [[codes]](https://github.com/THUYimingLi/MOVE)
+
+
 * [Defending against Model Stealing via Verifying Embedded External Features](https://arxiv.org/pdf/2112.03476.pdf)<br>
   **Yiming Li**\*, Linghui Zhu\*, Xiaojun Jia, Yong Jiang, Shu-Tao Xia, Xiaochun Cao<br>
   AAAI Conference on Artificial Intelligence (**AAAI**), 2022. [<font color='red'><b>TH-CPL: A</b></font>, <font color='red'><b>Best Paper of Adversarial for Good Award</b></font> (ICML'21 AdvML Workshop)] <br>
   [[Code]](https://github.com/zlh-thu/StealingVerification) [[Poster]](https://www.dropbox.com/s/v95s1u7gl97f46u/StealingVerification_AAAI_poster.pdf?dl=0) [[Slides]](https://www.dropbox.com/s/rpx4wrr5upqrdw9/StealingVerification_AAAI22_slides.pptx?dl=0) [[Video]](https://recorder-v3.slideslive.com/?share=56906&s=2ea1c02a-3d17-4981-85b9-1f294505043c) [[Workshop Version]](https://openreview.net/forum?id=g6zfnWUg8A1)
+
+
+* [Black-box Ownership Verification for Dataset Protection via Backdoor Watermarking](https://www.researchgate.net/publication/362593558_Black-box_Ownership_Verification_for_Dataset_Protection_via_Backdoor_Watermarking)<br>
+  **Yiming Li**, Mingyan Zhu, Xue Yang, Yong Jiang, Shu-Tao Xia<br>
+  Under Review by IEEE Transactions on Information Forensics and Security (**TIFS**), 2022<br>
+  [[codes]](https://github.com/THUYimingLi/DVBW)
 
 
 * [Open-sourced Dataset Protection via Backdoor Watermarking](https://arxiv.org/abs/2010.05821)<br>
