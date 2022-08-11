@@ -6,10 +6,9 @@ redirect_from:
   - /publications
 ---
 
+Please refer to my [Google Scholar](https://scholar.google.com.sg/citations?user=mSW7kU8AAAAJ&hl=zh-CN) for the full paper list. <br>
 
-
-\'\*\' indicates equal contribution<br>
-TH-CPL: list of recommended conferences and journals in computer science at Tsinghua University
+**\'\*\'** indicates equal contribution; **TH-CPL**: list of recommended conferences and journals in computer science at Tsinghua University
 
 ### Preprints
 * [MOVE: Effective and Harmless Ownership Verification via Embedded External Features](https://arxiv.org/pdf/2208.02820.pdf)<br>
