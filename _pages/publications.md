@@ -47,10 +47,6 @@ TH-CPL: list of recommended conferences and journals in computer science at Tsin
   Linghui Zhu, Xinyi Liu, **Yiming Li**, Xue Yang, Shu-Tao Xia, Rongxing Lu<br>
   IEEE Internet of Things Journal (**IoT Journal**), 2021. [<font color='red'><b>JCR-1</b></font>] <br>
 
-* [Manhattan Property of Geodesic Paths on Self-affine Carpets](https://link.springer.com/article/10.1007/s00013-018-1199-4)<br>
-  **Yiming Li**, Lifeng Xi<br>
-  **Archiv der Mathematik**, 2018
-
 
 ### Selected Conference Papers
 * [Few-Shot Backdoor Attacks on Visual Object Tracking](https://openreview.net/pdf?id=qSV5CuSaK_a)<br>
