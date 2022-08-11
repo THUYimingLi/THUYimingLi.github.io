@@ -11,16 +11,48 @@ redirect_from:
 \'\*\' indicates equal contribution<br>
 TH-CPL: list of recommended conferences and journals in computer science at Tsinghua University
 
-### Training Security of ML Models: Backdoor Learning & Robust Machine Learning
-* [Backdoor Learning: A Survey](https://www.researchgate.net/publication/343006441_Backdoor_Learning_A_Survey)<br>
-  **Yiming Li**, Yong Jiang, Zhifeng Li, Shu-Tao Xia<br>
-  IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2022. [<font color='red'><b>JCR-1</b></font>] <br>
-  [[Github Resources]](https://github.com/THUYimingLi/backdoor-learning-resources)
+### Preprints
+* [MOVE: Effective and Harmless Ownership Verification via Embedded External Features](https://arxiv.org/pdf/2208.02820.pdf)<br>
+  **Yiming Li**, Linghui Zhu, Xiaojun Jia, Yang Bai, Yong Jiang, Shu-Tao Xia, Xiaochun Cao<br>
+  Under Review by IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2022. (The journal extension of our [AAAI'22](https://arxiv.org/pdf/2112.03476.pdf))<br>
+  [[Code]](https://github.com/THUYimingLi/MOVE)
+
+* [Black-box Ownership Verification for Dataset Protection via Backdoor Watermarking](https://www.researchgate.net/publication/362593558_Black-box_Ownership_Verification_for_Dataset_Protection_via_Backdoor_Watermarking)<br>
+  **Yiming Li**, Mingyan Zhu, Xue Yang, Yong Jiang, Shu-Tao Xia<br>
+  Under Review by IEEE Transactions on Information Forensics and Security (**TIFS**), 2022<br>
+  [[Code]](https://github.com/THUYimingLi/DVBW) [[Workshop Version]](https://arxiv.org/abs/2010.05821)
 
 * [BackdoorBox: A Python Toolbox for Backdoor Learning](https://www.researchgate.net/publication/359439455_BackdoorBox_A_Python_Toolbox_for_Backdoor_Learning)<br>
   **Yiming Li**\*, Mengxi Ya\*, Yang Bai, Yong Jiang, Shu-Tao Xia<br>
   [[Code]](https://github.com/THUYimingLi/BackdoorBox)
 
+
+### Selected Journal Papers
+* [Backdoor Learning: A Survey](https://www.researchgate.net/publication/343006441_Backdoor_Learning_A_Survey)<br>
+  **Yiming Li**, Yong Jiang, Zhifeng Li, Shu-Tao Xia<br>
+  IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2022. [<font color='red'><b>JCR-1</b></font>] <br>
+  [[Github Resources]](https://github.com/THUYimingLi/backdoor-learning-resources)
+
+* [Semi-supervised Robust Training with Generalized Perturbed Neighborhood](https://www.sciencedirect.com/science/article/abs/pii/S0031320321006488)<br>
+  **Yiming Li**, Baoyuan Wu, Yan Feng, Yanbo Fan, Yong Jiang, Zhifeng Li, Shu-Tao Xia<br>
+  **Pattern Recognition**, 2022. [<font color='red'><b>JCR-1</b></font>, <font color='red'><b>Best Student Research Award of TBSI-WODS'19</b></font>] <br>
+  [[Code]](https://github.com/THUYimingLi/Semi-supervised_Robust_Training)
+
+* [Multinomial Random Forest](https://www.sciencedirect.com/science/article/pii/S0031320321005112)<br>
+  Jiawang Bai\*, **Yiming Li**\*, Jiawei Li, Xue Yang, Yong Jiang, Shu-Tao Xia<br>
+  **Pattern Recognition**, 2022. [<font color='red'><b>JCR-1</b></font>] <br>
+  [[Code]](https://github.com/jiawangbai/Multinomial-Random-Forest)
+
+* [A Fine-grained Differentially Private Federated Learning against Leakage from Gradients](https://ieeexplore.ieee.org/document/9627872)<br>
+  Linghui Zhu, Xinyi Liu, **Yiming Li**, Xue Yang, Shu-Tao Xia, Rongxing Lu<br>
+  IEEE Internet of Things Journal (**IoT Journal**), 2021. [<font color='red'><b>JCR-1</b></font>] <br>
+
+* [Manhattan Property of Geodesic Paths on Self-affine Carpets](https://link.springer.com/article/10.1007/s00013-018-1199-4)<br>
+  **Yiming Li**, Lifeng Xi<br>
+  **Archiv der Mathematik**, 2018
+
+
+### Selected Conference Papers
 * [Few-Shot Backdoor Attacks on Visual Object Tracking](https://openreview.net/pdf?id=qSV5CuSaK_a)<br>
   **Yiming Li**\*, Haoxiang Zhong\*, Xingjun Ma, Yong Jiang, Shu-Tao Xia<br>
   International Conference on Learning Representations (**ICLR**), 2022. [<font color='red'><b>TH-CPL: A</b></font>] <br>
@@ -31,11 +63,10 @@ TH-CPL: list of recommended conferences and journals in computer science at Tsin
   International Conference on Learning Representations (**ICLR**), 2022. [<font color='red'><b>TH-CPL: A</b></font>] <br>
   [[Code]](https://github.com/SCLBD/DBD) [[Poster]](https://www.dropbox.com/s/i6m6rcsoe7xd6tr/DBD_ICLR22_poster.pdf?dl=0) [[Slides]](https://www.dropbox.com/s/2ved7swqsp8x02y/DBD_ICLR22.pptx?dl=0) [[Video]](https://recorder-v3.slideslive.com/#/share?share=62074&s=60f4eeae-3910-42b7-b91a-b1b4f3861ecc)
 
-
-* [*t*-*k*-means: A Robust and Stable *k*-means Variant](https://arxiv.org/abs/1907.07442)<br>
-  **Yiming Li**\*, Yang Zhang\*, Qingtao Tang, Weipeng Huang, Yong Jiang, Shu-Tao Xia<br>
-  International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2021. [TH-CPL: B] <br>
-  [[Code]](https://github.com/THUYimingLi/t-k-means) [[Poster]](https://www.dropbox.com/s/mwmzwxivbi2bxlu/t_k_means_poster.pdf?dl=0) [[Slides]](https://www.dropbox.com/s/mlq01732qkcwp2l/t-k-means_slides.pptx?dl=0) [[Video]](https://www.dropbox.com/s/5f7nqutp8k3x17s/t-k-mean_video.mp4?dl=0)
+* [Defending against Model Stealing via Verifying Embedded External Features](https://arxiv.org/pdf/2112.03476.pdf)<br>
+  **Yiming Li**\*, Linghui Zhu\*, Xiaojun Jia, Yong Jiang, Shu-Tao Xia, Xiaochun Cao<br>
+  AAAI Conference on Artificial Intelligence (**AAAI**), 2022. [<font color='red'><b>TH-CPL: A</b></font>, <font color='red'><b>Best Paper of Adversarial for Good Award</b></font> (ICML'21 AdvML Workshop)] <br>
+  [[Code]](https://github.com/zlh-thu/StealingVerification) [[Poster]](https://www.dropbox.com/s/v95s1u7gl97f46u/StealingVerification_AAAI_poster.pdf?dl=0) [[Slides]](https://www.dropbox.com/s/rpx4wrr5upqrdw9/StealingVerification_AAAI22_slides.pptx?dl=0) [[Video]](https://recorder-v3.slideslive.com/?share=56906&s=2ea1c02a-3d17-4981-85b9-1f294505043c) [[Workshop Version]](https://openreview.net/forum?id=g6zfnWUg8A1)
 
 
 * [Backdoor Attack against Speaker Verification](https://arxiv.org/pdf/2010.11607.pdf)<br>
@@ -56,105 +87,10 @@ TH-CPL: list of recommended conferences and journals in computer science at Tsin
   [[Code]](https://github.com/jiawangbai/TA-LBF-master) [[Poster]](https://www.dropbox.com/s/h700kexejyfs8g1/iclr2021_TA_lBF_poster.pdf?dl=0) [[Video]](https://iclr.cc/virtual/2021/poster/2631)
 
 
-* [Backdoor Attack in the Physical World](https://arxiv.org/pdf/2104.02361.pdf)<br>
-  **Yiming Li**, Tongqing Zhai, Yong Jiang, Zhifeng Li, Shu-Tao Xia<br>
-  International Conference on Learning Representations (**ICLR**) Workshop, 2021<br>
-  [[Poster]](https://www.dropbox.com/s/cskxnptkd5pmzcj/PhysicalAttack_poster.pdf?dl=0)
-
-
-* [Hidden Backdoor Attack against Semantic Segmentation Models](https://arxiv.org/pdf/2103.04038.pdf)<br>
-  **Yiming Li**\*, Yanjie Li\*, Yalei Lv, Yong Jiang, Shu-Tao Xia<br>
-  International Conference on Learning Representations (**ICLR**) Workshop, 2021<br>
-  [[Poster]](https://www.dropbox.com/s/r462uoe3qtkyphu/BackdoorSegmentation_poster.pdf?dl=0) [[Slides]](https://share.weiyun.com/rz7Rvjup) [[Video]](https://studio.slideslive.com/web_recorder/share/35269?s=5fbfa356-0fa7-48e8-9041-146bd5ee296e)
-
-
-
-
-### Inference Security of ML Models: Adversarial Learning
-* [Semi-supervised Robust Training with Generalized Perturbed Neighborhood](https://www.sciencedirect.com/science/article/abs/pii/S0031320321006488)<br>
-  **Yiming Li**, Baoyuan Wu, Yan Feng, Yanbo Fan, Yong Jiang, Zhifeng Li, Shu-Tao Xia<br>
-  **Pattern Recognition**, 2022. [<font color='red'><b>JCR-1</b></font>, <font color='red'><b>Best Student Research Award of TBSI-WODS'19</b></font>] <br>
-  [[Code]](https://github.com/THUYimingLi/Semi-supervised_Robust_Training)
-
-
 * [Targeted Attack for Deep Hashing based Retrieval](https://arxiv.org/abs/2004.07955)<br>
   Jiawang Bai\*, Bin Chen\*, **Yiming Li**\*, Dongxian Wu, Weiwei Guo, Shu-Tao Xia, Enhui Yang<br>
   European Conference on Computer Vision (**ECCV**), 2020. [<font color='red'><b>TH-CPL: A</b></font>, <font color='red'><b>oral (TOP 2%)</b></font>] <br>
   [[Code]](https://github.com/jiawangbai/DHTA-master) [[Slides]](https://www.dropbox.com/s/7a1vvopt8z0jxvl/targeted_attack_slides.pptx?dl=0)
-
-
-* [Adversarial Defense via Local Flatness Regularization](https://arxiv.org/abs/1910.12165)<br>
-  Jia Xu\*, **Yiming Li**\*, Yong Jiang, Shu-Tao Xia<br>
-  International Conference on Image Processing (**ICIP**), 2020. [TH-CPL: B] <br>
-  [[Code]](https://github.com/Uooga/Local-Flatness-Regularization) [[Slides]](https://share.weiyun.com/6uJPj6VG)
-
-* [Regional Adversarial Training for Better Robust Generalization](https://arxiv.org/pdf/2109.00678.pdf)<br>
-  Chuanbiao Song, Yanbo Fan, Yichen Yang, Baoyuan Wu, **Yiming Li**, Zhifeng Li, Kun He<br>
-  arXiv preprint 2109.00678
-
-
-
-
-### Data Security & Privacy  
-* [Multinomial Random Forest](https://www.sciencedirect.com/science/article/pii/S0031320321005112)<br>
-  Jiawang Bai\*, **Yiming Li**\*, Jiawei Li, Xue Yang, Yong Jiang, Shu-Tao Xia<br>
-  **Pattern Recognition**, 2022. [<font color='red'><b>JCR-1</b></font>] <br>
-  [[Code]](https://github.com/jiawangbai/Multinomial-Random-Forest)
-
-
-* [A Fine-grained Differentially Private Federated Learning against Leakage from Gradients](https://ieeexplore.ieee.org/document/9627872)<br>
-  Linghui Zhu, Xinyi Liu, **Yiming Li**, Xue Yang, Shu-Tao Xia, Rongxing Lu<br>
-  IEEE Internet of Things Journal (**IoT Journal**), 2021. [<font color='red'><b>JCR-1</b></font>] <br>
-
-
-* [Visual Privacy Protection via Mapping Distortion](https://arxiv.org/abs/1911.01769)<br>
-  **Yiming Li**\*, Peidong Liu\*, Yong Jiang, Shu-Tao Xia<br>
-  International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2021. [TH-CPL: B] <br>
-  [[Code]](https://github.com/PerdonLiu/Visual-Privacy-Protection-via-Mapping-Distortion) [[Poster]](https://www.dropbox.com/s/g22yr1suem4y36l/MDP_poster.pdf?dl=0) [[Slides]](https://www.dropbox.com/s/8cbnmt335s3p1ix/MDP_slides.pptx?dl=0) [[Video]](https://www.dropbox.com/s/ww7mhdn09sqk2nh/MDP_video.mp4?dl=0)
-
-
-
-
-### Copyright Protection in Deep learning
-* [MOVE: Effective and Harmless Ownership Verification via Embedded External Features](https://arxiv.org/pdf/2208.02820.pdf)<br>
-  **Yiming Li**, Linghui Zhu, Xiaojun Jia, Yang Bai, Yong Jiang, Shu-Tao Xia, Xiaochun Cao<br>
-  Under Review by IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2022. (The journal extension of our [AAAI'22](https://arxiv.org/pdf/2112.03476.pdf))<br>
-  [[Code]](https://github.com/THUYimingLi/MOVE)
-
-
-* [Defending against Model Stealing via Verifying Embedded External Features](https://arxiv.org/pdf/2112.03476.pdf)<br>
-  **Yiming Li**\*, Linghui Zhu\*, Xiaojun Jia, Yong Jiang, Shu-Tao Xia, Xiaochun Cao<br>
-  AAAI Conference on Artificial Intelligence (**AAAI**), 2022. [<font color='red'><b>TH-CPL: A</b></font>, <font color='red'><b>Best Paper of Adversarial for Good Award</b></font> (ICML'21 AdvML Workshop)] <br>
-  [[Code]](https://github.com/zlh-thu/StealingVerification) [[Poster]](https://www.dropbox.com/s/v95s1u7gl97f46u/StealingVerification_AAAI_poster.pdf?dl=0) [[Slides]](https://www.dropbox.com/s/rpx4wrr5upqrdw9/StealingVerification_AAAI22_slides.pptx?dl=0) [[Video]](https://recorder-v3.slideslive.com/?share=56906&s=2ea1c02a-3d17-4981-85b9-1f294505043c) [[Workshop Version]](https://openreview.net/forum?id=g6zfnWUg8A1)
-
-
-* [Black-box Ownership Verification for Dataset Protection via Backdoor Watermarking](https://www.researchgate.net/publication/362593558_Black-box_Ownership_Verification_for_Dataset_Protection_via_Backdoor_Watermarking)<br>
-  **Yiming Li**, Mingyan Zhu, Xue Yang, Yong Jiang, Shu-Tao Xia<br>
-  Under Review by IEEE Transactions on Information Forensics and Security (**TIFS**), 2022<br>
-  [[Code]](https://github.com/THUYimingLi/DVBW) [[Workshop Version]](https://arxiv.org/abs/2010.05821)
-
-
-
-### Other Topics
-
-* [Manhattan Property of Geodesic Paths on Self-affine Carpets](https://link.springer.com/article/10.1007/s00013-018-1199-4)<br>
-  **Yiming Li**, Lifeng Xi<br>
-  **Archiv der Mathematik**, 2018
-
-
-* [TNT: An Interpretable Tree-Network-Tree Learning Framework using Knowledge Distillation](https://www.mdpi.com/1099-4300/22/11/1203)<br>
-  Jiawei Li, **Yiming Li**, Xingchun Xiang, Shu-Tao Xia, Siyi Dong, Yun Cai<br>
-  **Entropy**, 2020
-
-* [Adaptive Local Implicit Image Function for Arbitrary-scale Super-resolution](https://arxiv.org/pdf/2208.04318.pdf)<br>
-  Hongwei Li, Tao Dai, **Yiming Li**, Xueyi Zou, Shu-Tao Xia<br>
-  IEEE International Conference on Image Processing (**ICIP**), 2022<br>
-  [[Code]](https://github.com/LeeHW-THU/A-LIIF)
-
-
-* [Rectified Decision Trees: Exploring the Landscape of Interpretable and Effective Machine Learning](https://arxiv.org/pdf/2008.09413.pdf)<br>
-  **Yiming Li**\*, Jiawang Bai\*, Jiawei Li, Xue Yang, Yong Jiang, Shu-Tao Xia<br>
-  arXiv preprint 2008.09413
 
 
 
