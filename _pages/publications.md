@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Publications and Preprints"
+title: "Selected Publications and Preprints"
 permalink: /publications/
 redirect_from:
   - /publications
 ---
 
-Please refer to my [Google Scholar](https://scholar.google.com.sg/citations?user=mSW7kU8AAAAJ&hl=zh-CN) for the full paper list. <br>
+Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?user=mSW7kU8AAAAJ&hl=zh-CN) for my full paper list. <br>
 
 Note: **\'\*\'** indicates equal contribution; **TH-CPL**: list of recommended conferences and journals in computer science at Tsinghua University.
 
