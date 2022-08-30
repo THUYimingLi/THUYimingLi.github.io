@@ -13,7 +13,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 ### Selected Preprints
 * [MOVE: Effective and Harmless Ownership Verification via Embedded External Features](https://arxiv.org/pdf/2208.02820.pdf)<br>
   **Yiming Li**, Linghui Zhu, Xiaojun Jia, Yang Bai, Yong Jiang, Shu-Tao Xia, Xiaochun Cao<br>
-  Under Review by IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2022. (The journal extension of our [AAAI'22](https://arxiv.org/pdf/2112.03476.pdf))<br>
+  Under Review by IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2022. (The journal extension of our [AAAI'22 conference paper](https://arxiv.org/pdf/2112.03476.pdf))<br>
   [[Code]](https://github.com/THUYimingLi/MOVE)
 
 * [Black-box Ownership Verification for Dataset Protection via Backdoor Watermarking](https://www.researchgate.net/publication/362593558_Black-box_Ownership_Verification_for_Dataset_Protection_via_Backdoor_Watermarking)<br>
