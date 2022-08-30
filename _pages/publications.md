@@ -8,7 +8,7 @@ redirect_from:
 
 Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?user=mSW7kU8AAAAJ&hl=zh-CN) for my full paper list. <br>
 
-Note: **\'\*\'** indicates equal contribution; **TH-CPL**: list of recommended conferences and journals in computer science at Tsinghua University.
+**TH-CPL**: list of recommended conferences and journals in computer science at Tsinghua University.
 
 ### Selected Preprints
 * [MOVE: Effective and Harmless Ownership Verification via Embedded External Features](https://arxiv.org/pdf/2208.02820.pdf)<br>
@@ -22,7 +22,7 @@ Note: **\'\*\'** indicates equal contribution; **TH-CPL**: list of recommended c
   [[Code]](https://github.com/THUYimingLi/DVBW) [[Workshop Version]](https://arxiv.org/abs/2010.05821)
 
 * [BackdoorBox: A Python Toolbox for Backdoor Learning](https://www.researchgate.net/publication/359439455_BackdoorBox_A_Python_Toolbox_for_Backdoor_Learning)<br>
-  **Yiming Li**\*, Mengxi Ya\*, Yang Bai, Yong Jiang, Shu-Tao Xia<br>
+  **Yiming Li**, Mengxi Ya, Yang Bai, Yong Jiang, Shu-Tao Xia<br>
   [[Code]](https://github.com/THUYimingLi/BackdoorBox)
 
 
@@ -38,7 +38,7 @@ Note: **\'\*\'** indicates equal contribution; **TH-CPL**: list of recommended c
   [[Code]](https://github.com/THUYimingLi/Semi-supervised_Robust_Training)
 
 * [Multinomial Random Forest](https://www.sciencedirect.com/science/article/pii/S0031320321005112)<br>
-  Jiawang Bai\*, **Yiming Li**\*, Jiawei Li, Xue Yang, Yong Jiang, Shu-Tao Xia<br>
+  Jiawang Bai, **Yiming Li** (co-first author), Jiawei Li, Xue Yang, Yong Jiang, Shu-Tao Xia<br>
   **Pattern Recognition**, 2022. [<font color='red'><b>JCR-1</b></font>] <br>
   [[Code]](https://github.com/jiawangbai/Multinomial-Random-Forest)
 
@@ -49,23 +49,23 @@ Note: **\'\*\'** indicates equal contribution; **TH-CPL**: list of recommended c
 
 ### Selected Conference Papers
 * [Few-Shot Backdoor Attacks on Visual Object Tracking](https://openreview.net/pdf?id=qSV5CuSaK_a)<br>
-  **Yiming Li**\*, Haoxiang Zhong\*, Xingjun Ma, Yong Jiang, Shu-Tao Xia<br>
+  **Yiming Li**, Haoxiang Zhong, Xingjun Ma, Yong Jiang, Shu-Tao Xia<br>
   International Conference on Learning Representations (**ICLR**), 2022. [<font color='red'><b>TH-CPL: A</b></font>] <br>
   [[Code]](https://github.com/HXZhong1997/FSBA) [[Poster]](https://www.dropbox.com/s/4nmzwvkwfbktnqs/BackdoorVOT_ICLR22_poster.pdf?dl=0) [[Slides]](https://www.dropbox.com/s/rn3h0xr7eflo3a7/BackdoorVOT_ICLR22.pptx?dl=0) [[Video]](https://recorder-v3.slideslive.com/#/share?share=61825&s=d28384c4-297b-4a75-b5e7-3c9dba75f6df)
 
 * [Backdoor Defense via Decoupling the Training Process](https://openreview.net/pdf?id=TySnJ-0RdKI)<br>
-  Kunzhe Huang\*, **Yiming Li**\*, Baoyuan Wu, Zhan Qin, Kui Ren<br>
+  Kunzhe Huang, **Yiming Li** (co-first author), Baoyuan Wu, Zhan Qin, Kui Ren<br>
   International Conference on Learning Representations (**ICLR**), 2022. [<font color='red'><b>TH-CPL: A</b></font>] <br>
   [[Code]](https://github.com/SCLBD/DBD) [[Poster]](https://www.dropbox.com/s/i6m6rcsoe7xd6tr/DBD_ICLR22_poster.pdf?dl=0) [[Slides]](https://www.dropbox.com/s/2ved7swqsp8x02y/DBD_ICLR22.pptx?dl=0) [[Video]](https://recorder-v3.slideslive.com/#/share?share=62074&s=60f4eeae-3910-42b7-b91a-b1b4f3861ecc)
 
 * [Defending against Model Stealing via Verifying Embedded External Features](https://arxiv.org/pdf/2112.03476.pdf)<br>
-  **Yiming Li**\*, Linghui Zhu\*, Xiaojun Jia, Yong Jiang, Shu-Tao Xia, Xiaochun Cao<br>
+  **Yiming Li**, Linghui Zhu, Xiaojun Jia, Yong Jiang, Shu-Tao Xia, Xiaochun Cao<br>
   AAAI Conference on Artificial Intelligence (**AAAI**), 2022. [<font color='red'><b>TH-CPL: A</b></font>, <font color='red'><b>Best Paper of Adversarial for Good Award</b></font> (ICML'21 AdvML Workshop)] <br>
   [[Code]](https://github.com/zlh-thu/StealingVerification) [[Poster]](https://www.dropbox.com/s/v95s1u7gl97f46u/StealingVerification_AAAI_poster.pdf?dl=0) [[Slides]](https://www.dropbox.com/s/rpx4wrr5upqrdw9/StealingVerification_AAAI22_slides.pptx?dl=0) [[Video]](https://recorder-v3.slideslive.com/?share=56906&s=2ea1c02a-3d17-4981-85b9-1f294505043c) [[Workshop Version]](https://openreview.net/forum?id=g6zfnWUg8A1)
 
 
 * [Backdoor Attack against Speaker Verification](https://arxiv.org/pdf/2010.11607.pdf)<br>
-  Tongqing Zhai\*, **Yiming Li**\* (corresponding author), Ziqi Zhang, Baoyuan Wu, Yong Jiang, Shu-Tao Xia<br>
+  Tongqing Zhai, **Yiming Li** (co-first author, corresponding author), Ziqi Zhang, Baoyuan Wu, Yong Jiang, Shu-Tao Xia<br>
   International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2021. [TH-CPL: B, <font color='red'><b>top-tier conference in Speech Recognition</b></font>] <br>
   [[Code]](https://github.com/zhaitongqing233/Backdoor-attack-against-speaker-verification) [[Poster]](https://www.dropbox.com/s/jd9z8eer749ffgh/BackdoorSpeakerVerification_poster.pdf?dl=0) [[Slides]](https://www.dropbox.com/s/ox2h6wicc9v88a3/BackdoorSpeakerVerification_slides.pptx?dl=0) [[Video]](https://www.dropbox.com/s/0f7effif8itgsow/BackdoorSpeakerVerification_video.mp4?dl=0)
 
@@ -83,7 +83,7 @@ Note: **\'\*\'** indicates equal contribution; **TH-CPL**: list of recommended c
 
 
 * [Targeted Attack for Deep Hashing based Retrieval](https://arxiv.org/abs/2004.07955)<br>
-  Jiawang Bai\*, Bin Chen\*, **Yiming Li**\*, Dongxian Wu, Weiwei Guo, Shu-Tao Xia, Enhui Yang<br>
+  Jiawang Bai, Bin Chen, **Yiming Li** (co-first author), Dongxian Wu, Weiwei Guo, Shu-Tao Xia, Enhui Yang<br>
   European Conference on Computer Vision (**ECCV**), 2020. [<font color='red'><b>TH-CPL: A</b></font>, <font color='red'><b>oral (TOP 2%)</b></font>] <br>
   [[Code]](https://github.com/jiawangbai/DHTA-master) [[Slides]](https://www.dropbox.com/s/7a1vvopt8z0jxvl/targeted_attack_slides.pptx?dl=0)
 
@@ -91,7 +91,7 @@ Note: **\'\*\'** indicates equal contribution; **TH-CPL**: list of recommended c
 
 ## Technical Reports
 
-* Tencent AI Lab (Baoyuan Wu, Yanbo Fan, Yong Zhang, **Yiming Li**, Zhifeng Li, Wei Liu), Tencent Zhuque Lab (viking, jifengzhu, allenszch, ucasjh, dylan, xunsu). The ATT&CK Matrix of AI Security, 2020/09/18. [[Download]](https://ai.tencent.com/ailab/media/AI%E5%AE%89%E5%85%A8%E7%9A%84%E5%A8%81%E8%83%81%E9%A3%8E%E9%99%A9%E7%9F%A9%E9%98%B5.pdf) [[Website]](https://aisecmatrix.org/en)[[Media1]](https://ai.tencent.com/ailab/zh/news/detial/?id=68) [[Media2]](https://www.jiqizhixin.com/articles/2020-09-25-9) [[Media3]](http://tech.sina.com.cn/csj/2020-09-25/doc-iivhuipp6375448.shtml) [[Media4]](https://tech.qq.com/a/20200925/020797.htm) [[Media5]](http://mp.163.com/article/FNCHRG1V0511DSSR.html) [[Media6]](https://www.sohu.com/a/421167914_120765903)...
+* Tencent AI Lab (Baoyuan Wu, Yanbo Fan, Yong Zhang, **Yiming Li** (first student author), Zhifeng Li, Wei Liu), Tencent Zhuque Lab (viking, jifengzhu, allenszch, ucasjh, dylan, xunsu). The ATT&CK Matrix of AI Security, 2020/09/18. [[Download]](https://ai.tencent.com/ailab/media/AI%E5%AE%89%E5%85%A8%E7%9A%84%E5%A8%81%E8%83%81%E9%A3%8E%E9%99%A9%E7%9F%A9%E9%98%B5.pdf) [[Website]](https://aisecmatrix.org/en)[[Media1]](https://ai.tencent.com/ailab/zh/news/detial/?id=68) [[Media2]](https://www.jiqizhixin.com/articles/2020-09-25-9) [[Media3]](http://tech.sina.com.cn/csj/2020-09-25/doc-iivhuipp6375448.shtml) [[Media4]](https://tech.qq.com/a/20200925/020797.htm) [[Media5]](http://mp.163.com/article/FNCHRG1V0511DSSR.html) [[Media6]](https://www.sohu.com/a/421167914_120765903)...
 
 
 
