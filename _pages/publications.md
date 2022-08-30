@@ -71,7 +71,7 @@ Note: **\'\*\'** indicates equal contribution; **TH-CPL**: list of recommended c
 
 
 * [Invisible Backdoor Attack with Sample-Specific Triggers](https://arxiv.org/pdf/2012.03816.pdf)<br>
-  Yuezun Li, **Yiming Li**, Baoyuan Wu, Longkang Li, Ran He, Siwei Lyu<br>
+  Yuezun Li, **Yiming Li** (first student author), Baoyuan Wu, Longkang Li, Ran He, Siwei Lyu<br>
   International Conference on Computer Vision (**ICCV**), 2021. [<font color='red'><b>TH-CPL: A</b></font>] <br>
   [[Code]](https://github.com/yuezunli/ISSBA)
 
