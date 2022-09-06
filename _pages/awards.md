@@ -8,6 +8,7 @@ redirect_from:
 
 
 
+* Best Poster Award, ICDIS, 2022.
 * Best Paper of `Adversarial for Good' Award (<font color='red'>TOP-1</font>), ICML AdvML Workshop, 2021.
 * Best Student Research Award (<font color='red'>TOP-1</font>), TBSI Workshop on Data Science, 2019.
 * Top 25% PC Member, AAAI, 2021. 
