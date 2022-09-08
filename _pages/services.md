@@ -18,7 +18,7 @@ redirect_from:
 
 
 ## Journals
-
+- **Guest Editor**, Special Issue '[Trustworthy AI: Information Theoretic Perspectives]', MDPI Entropy
 - **Reviewer**, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
 - **Reviewer**, IEEE Transactions on Information Forensics and Security (TIFS)
 - **Reviewer**, IEEE Transactions on Dependable and Secure Computing (TDSC)
