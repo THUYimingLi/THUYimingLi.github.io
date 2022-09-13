@@ -33,7 +33,7 @@ redirect_from:
 
 ## Other Services
 * **Lecturer and Consultant**, Academic Servicing Center, Tsinghua University, 2021/2022
-* **Secretary of Master's Thesis Committee**, Tsinghua-Berkeley Shenzhen Institute, 2021
+* **Secretary of Master's Thesis Committee**, Tsinghua Shenzhen International Graduate School, Tsinghua University, 2021
 
 ## Memberships
 * IEEE Member
