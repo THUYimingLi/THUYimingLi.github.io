@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Services"
+title: "Services and Memberships"
 permalink: /services/
 redirect_from:
   - /services
@@ -8,7 +8,7 @@ redirect_from:
 
 
 
-## Conferences
+## Conference Services
 
 * **Senior Program Committee Member**: AAAI'22
 * **Member of Program Committee Board**: IJCAI'22-24
@@ -17,7 +17,7 @@ redirect_from:
 
 
 
-## Journals
+## Journal Services
 - **Guest Editor**, Special Issue '[Trustworthy AI: Information Theoretic Perspectives]()', MDPI Entropy
 - **Reviewer**, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
 - **Reviewer**, IEEE Transactions on Information Forensics and Security (TIFS)
@@ -31,8 +31,12 @@ redirect_from:
 
 
 
-## Others
-
+## Other Services
 * **Lecturer and Consultant**, Academic Servicing Center, Tsinghua University, 2021/2022
 * **Secretary of Master's Thesis Committee**, Tsinghua-Berkeley Shenzhen Institute, 2021
 
+## Memberships
+* IEEE Member
+* ACM Member
+* AAAI Member
+* CCF Member
