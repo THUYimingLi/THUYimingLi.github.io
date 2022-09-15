@@ -21,10 +21,10 @@ Currently, I am working with Professor [Bo Li](https://aisecure.github.io/) at U
 
 
 ## News
+* 09/2022: Our paper about dataset copyright protection is accepted by the NeurIPS 2022. Its codes will be released soon.
 * 09/2022: Our Springer book '[Digital Watermarking for Machine Learning Models]()' is accepted and currently under the production process. We contributed to its [Chapter 4: The Robust and Harmless Model Watermarking]().
 * 06/2022: Our survey about backdoor attacks and defenses is accepted by the IEEE TNNLS.
 * 06/2022: The attack part of our open-sourced Python toolbox [BackdoorBox](https://github.com/THUYimingLi/BackdoorBox) has been developed (10+ attacks). The defense part and the benchmark are coming soon. Feel free to check and play with it~
-* 03/2022: One patent is granted.
 * 01/2022: Two papers are accepted by the ICLR 2022. Their codes, posters, slides, and videos have been released.
 
 
