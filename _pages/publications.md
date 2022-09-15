@@ -48,6 +48,10 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 
 ### Selected Conference Papers
+* [Untargeted Backdoor Watermark: Towards Harmless and Stealthy Dataset Copyright Protection]()<br>
+  **Yiming Li**, Yang Bai, Yong Jiang, Yong Yang, Shu-Tao Xia, Bo Li<br>
+  Thirty-sixth Conference on Neural Information Processing Systems (**NeurIPS**), 2022. (to appear)
+
 * [Few-Shot Backdoor Attacks on Visual Object Tracking](https://openreview.net/pdf?id=qSV5CuSaK_a)<br>
   **Yiming Li**, Haoxiang Zhong, Xingjun Ma, Yong Jiang, Shu-Tao Xia<br>
   International Conference on Learning Representations (**ICLR**), 2022. [<font color='red'><b>TH-CPL: A</b></font>] <br>
