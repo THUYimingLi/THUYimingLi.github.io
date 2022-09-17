@@ -31,6 +31,7 @@ redirect_from:
 
 
 ## Other Services
+* **Vice Chair**, Student Chapter of Shenzhen City Computer Federation, 2022
 * **Lecturer and Consultant**, Academic Servicing Center, Tsinghua University, 2021/2022
 * **Secretary of Master's Thesis Committee**, Tsinghua Shenzhen International Graduate School, Tsinghua University, 2021
 
