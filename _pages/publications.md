@@ -33,7 +33,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 * [Semi-supervised Robust Training with Generalized Perturbed Neighborhood](https://www.sciencedirect.com/science/article/abs/pii/S0031320321006488)<br>
   **Yiming Li**, Baoyuan Wu, Yan Feng, Yanbo Fan, Yong Jiang, Zhifeng Li, Shu-Tao Xia<br>
-  **Pattern Recognition**, 2022. [<font color='red'><b>Best Student Research Award of TBSI-WODS'19</b></font>] <br>
+  **Pattern Recognition**, 2022. (<font color='red'><b>Best Student Research Award</b></font>, TBSI-WODS'19) <br>
   [[Code]](https://github.com/THUYimingLi/Semi-supervised_Robust_Training)
 
 * [Multinomial Random Forest](https://www.sciencedirect.com/science/article/pii/S0031320321005112)<br>
@@ -63,7 +63,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 * [Defending against Model Stealing via Verifying Embedded External Features](https://arxiv.org/pdf/2112.03476.pdf)<br>
   **Yiming Li**, Linghui Zhu, Xiaojun Jia, Yong Jiang, Shu-Tao Xia, Xiaochun Cao<br>
-  AAAI Conference on Artificial Intelligence (**AAAI**), 2022. [<font color='red'><b>Best Paper of Adversarial for Good Award</b></font> (ICML'21 AdvML Workshop)] <br>
+  AAAI Conference on Artificial Intelligence (**AAAI**), 2022. (<font color='red'><b>Best Paper of Adversarial for Good Award</b></font>, ICML'21 AdvML Workshop) <br>
   [[Code]](https://github.com/zlh-thu/StealingVerification) [[Poster]](https://www.dropbox.com/s/v95s1u7gl97f46u/StealingVerification_AAAI_poster.pdf?dl=0) [[Slides]](https://www.dropbox.com/s/rpx4wrr5upqrdw9/StealingVerification_AAAI22_slides.pptx?dl=0) [[Video]](https://recorder-v3.slideslive.com/?share=56906&s=2ea1c02a-3d17-4981-85b9-1f294505043c) [[Workshop Version]](https://openreview.net/forum?id=g6zfnWUg8A1)
 
 
@@ -87,7 +87,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 * [Targeted Attack for Deep Hashing based Retrieval](https://arxiv.org/abs/2004.07955)<br>
   Jiawang Bai, Bin Chen, **Yiming Li** (co-first author), Dongxian Wu, Weiwei Guo, Shu-Tao Xia, Enhui Yang<br>
-  European Conference on Computer Vision (**ECCV**), 2020. [<font color='red'><b>oral (TOP 2%)</b></font>] <br>
+  European Conference on Computer Vision (**ECCV**), 2020. (<font color='red'><b>Oral</b></font>, TOP 2%) <br>
   [[Code]](https://github.com/jiawangbai/DHTA-master) [[Slides]](https://www.dropbox.com/s/7a1vvopt8z0jxvl/targeted_attack_slides.pptx?dl=0)
 
 
