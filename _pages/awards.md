@@ -21,7 +21,7 @@ redirect_from:
 * Excellence Scholarship (<font color='red'>Rank First in our Track, TOP 20%</font>), Tsinghua-Berkeley Shenzhen Institute (TBSI), 2021/2022.
 * Dean's Scholarship, Tsinghua-Berkeley Shenzhen Institute (TBSI), 2020/2021/2022.
 * Undergraduate National Scholarship (<font color='red'>TOP 1%</font>), Ministry of Education of China, 2017.
-* Outstanding Graduate of Zhejiang Province (<font color='red'>TOP 1%</font>), Department of Education of Zhejiang Province, 2018.
+* Outstanding Undergraduate Student (<font color='red'>TOP 1%</font>), Department of Education of Zhejiang Province, 2018.
 
 
 
