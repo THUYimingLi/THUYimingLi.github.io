@@ -9,8 +9,8 @@ redirect_from:
 
 
 * Best Poster Award, ICDIS, 2022.
-* Best Paper of `Adversarial for Good' Award (<font color='red'>TOP-1</font>), ICML AdvML Workshop, 2021.
-* Best Student Research Award (<font color='red'>TOP-1</font>), TBSI Workshop on Data Science, 2019.
+* Best Paper of `Adversarial for Good' Award, ICML AdvML Workshop, 2021.
+* Best Student Research Award, TBSI Workshop on Data Science, 2019.
 * Top 25% PC Member, AAAI, 2021. 
 * Outstanding Undergraduate Thesis Award (<font color='red'>TOP 5%</font>), Ningbo University, 2018.
 * First Prize (<font color='red'>TOP 3%</font>), Chinese Mathematics Competition, 2016.
