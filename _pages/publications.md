@@ -95,7 +95,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 
 ## Books and Technical Reports
-* [Chapter 4: The Robust and Harmless Model Watermarking]()<br>
+* [Chapter 4: The Robust and Harmless Model Watermarking](https://www.researchgate.net/publication/363766436_Untargeted_Backdoor_Watermark_Towards_Harmless_and_Stealthy_Dataset_Copyright_Protection)<br>
   **Yiming Li**, Linghui Zhu, Yang Bai, Yong Jiang, Shu-Tao Xia<br>
   Digital Watermarking for Machine Learning Models. Springer, 2022. (to appear)
   
