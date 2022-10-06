@@ -18,7 +18,7 @@ At the beginning of my Ph.D. journey, I studied tree-based methods for their int
 Currently, I am working with Professor [Bo Li](https://aisecure.github.io/) at UIUC as a visiting Ph.D. student. I was a research intern at Ant Security Lab (2021, 2022), working with Dr. [Haiqin Weng](https://www.semanticscholar.org/author/Haiqin-Weng/33167731) and Dr. [Tao Wei](https://scholar.google.com/citations?user=Ao3wEckAAAAJ&hl=zh-CN&oi=ao); a research intern at Tencent AI Lab (2019, 2020), working with Dr. [Baoyuan Wu](https://sites.google.com/site/baoyuanwu2015/) and Dr. [Zhifeng Li](https://scholar.google.com/citations?user=VTrRNN4AAAAJ&hl=zh-CN&oi=ao) (supported by the Tencent Rhino-bird Elite Training Program); an intern at Wukong Investment (2018), working with Dr. [Xinji Liu](https://www.wukongtz.com/pages_8/) on ML-based high-frequency trading.  
 
 
-I am always willing for research and project co-operations. Feel free to drop me an email if you have any ideas to discuss or suitable opportunities.
+**I am always willing for research and project co-operations**. Feel free to drop me an email if you have any ideas to discuss or suitable opportunities.
 
 
 
