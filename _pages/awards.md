@@ -16,6 +16,7 @@ redirect_from:
 * First Prize (<font color='red'>TOP 3%</font>), Chinese Mathematics Competition, 2016.
 * First Prize (<font color='red'>TOP 1%</font>), China Undergraduate Mathematical Contest in Modeling, 2015.
 * Rhino-bird Elite (<font color='red'>TOP 5%</font>), Tencent, 2021.
+* Scholar Award, NeurIPS, 2022.
 * Student Scholarship, Association for the Advancement of Artificial Intelligence (AAAI), 2022.
 * 'Future Scholar' Ph.D. Fellowship (<font color='red'>TOP-2</font> in TBSI), Tsinghua University, 2020/2021/2022.
 * Excellence Scholarship (<font color='red'>Rank First in our Track, TOP 20%</font>), Tsinghua-Berkeley Shenzhen Institute (TBSI), 2021/2022.
