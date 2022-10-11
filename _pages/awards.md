@@ -6,7 +6,7 @@ redirect_from:
   - /awards
 ---
 
-
+* China National Scholarship (Ph.D. Student, <font color='red'>TOP 1%</font>), Ministry of Education of China, 2022.
 * Scholar Award, NeurIPS, 2022.
 * Top Reviewers, NeurIPS, 2022.
 * Best Poster Award, ICDIS, 2022.
@@ -20,7 +20,7 @@ redirect_from:
 * Best Student Research Award, TBSI Workshop on Data Science, 2019.
 * Outstanding Undergraduate Student (<font color='red'>TOP 1%</font>), Department of Education of Zhejiang Province, 2018.
 * Outstanding Undergraduate Thesis Award (<font color='red'>TOP 5%</font>), Ningbo University, 2018.
-* Undergraduate National Scholarship (<font color='red'>TOP 1%</font>), Ministry of Education of China, 2017.
+* China National Scholarship (Undergraduate Student, <font color='red'>TOP 1%</font>), Ministry of Education of China, 2017.
 * First Prize (<font color='red'>TOP 3%</font>), Chinese Mathematics Competition, 2016.
 * First Prize (<font color='red'>TOP 1%</font>), China Undergraduate Mathematical Contest in Modeling, 2015.
 
