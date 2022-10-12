@@ -6,6 +6,7 @@ redirect_from:
   - /awards
 ---
 
+* Doctoral Consortium Award, AAAI/SIGAI, 2023.
 * China National Scholarship (Ph.D. Student, <font color='red'>TOP 1%</font>), Ministry of Education of China, 2022.
 * Scholar Award, NeurIPS, 2022.
 * Top Reviewers, NeurIPS, 2022.
