@@ -25,27 +25,6 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   [[Code]](https://github.com/THUYimingLi/BackdoorBox)
 
 
-### Selected Journal Papers
-* [Backdoor Learning: A Survey](https://www.researchgate.net/publication/343006441_Backdoor_Learning_A_Survey)<br>
-  **Yiming Li**, Yong Jiang, Zhifeng Li, Shu-Tao Xia<br>
-  IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2022. <br>
-  [[Github Resources]](https://github.com/THUYimingLi/backdoor-learning-resources)
-
-* [Semi-supervised Robust Training with Generalized Perturbed Neighborhood](https://www.sciencedirect.com/science/article/abs/pii/S0031320321006488)<br>
-  **Yiming Li**, Baoyuan Wu, Yan Feng, Yanbo Fan, Yong Jiang, Zhifeng Li, Shu-Tao Xia<br>
-  **Pattern Recognition**, 2022. (<font color='red'><b>Best Student Research Award</b></font>, TBSI-WODS'19) <br>
-  [[Code]](https://github.com/THUYimingLi/Semi-supervised_Robust_Training)
-
-* [Multinomial Random Forest](https://www.sciencedirect.com/science/article/pii/S0031320321005112)<br>
-  Jiawang Bai, **Yiming Li** (co-first author), Jiawei Li, Xue Yang, Yong Jiang, Shu-Tao Xia<br>
-  **Pattern Recognition**, 2022. <br>
-  [[Code]](https://github.com/jiawangbai/Multinomial-Random-Forest)
-
-* [A Fine-grained Differentially Private Federated Learning against Leakage from Gradients](https://ieeexplore.ieee.org/document/9627872)<br>
-  Linghui Zhu, Xinyi Liu, **Yiming Li**, Xue Yang, Shu-Tao Xia, Rongxing Lu<br>
-  IEEE Internet of Things Journal (**IoT Journal**), 2021. <br>
-
-
 ### Selected Conference Papers
 * [Untargeted Backdoor Watermark: Towards Harmless and Stealthy Dataset Copyright Protection](https://www.researchgate.net/publication/363766436_Untargeted_Backdoor_Watermark_Towards_Harmless_and_Stealthy_Dataset_Copyright_Protection)<br>
   **Yiming Li**, Yang Bai, Yong Jiang, Yong Yang, Shu-Tao Xia, Bo Li<br>
@@ -90,6 +69,28 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   Jiawang Bai, Bin Chen, **Yiming Li** (co-first author), Dongxian Wu, Weiwei Guo, Shu-Tao Xia, Enhui Yang<br>
   European Conference on Computer Vision (**ECCV**), 2020. (<font color='red'><b>Oral</b></font>, TOP 2%) <br>
   [[Code]](https://github.com/jiawangbai/DHTA-master) [[Slides]](https://www.dropbox.com/s/7a1vvopt8z0jxvl/targeted_attack_slides.pptx?dl=0)
+
+
+
+### Selected Journal Papers
+* [Backdoor Learning: A Survey](https://www.researchgate.net/publication/343006441_Backdoor_Learning_A_Survey)<br>
+  **Yiming Li**, Yong Jiang, Zhifeng Li, Shu-Tao Xia<br>
+  IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2022. <br>
+  [[Github Resources]](https://github.com/THUYimingLi/backdoor-learning-resources)
+
+* [Semi-supervised Robust Training with Generalized Perturbed Neighborhood](https://www.sciencedirect.com/science/article/abs/pii/S0031320321006488)<br>
+  **Yiming Li**, Baoyuan Wu, Yan Feng, Yanbo Fan, Yong Jiang, Zhifeng Li, Shu-Tao Xia<br>
+  **Pattern Recognition**, 2022. (<font color='red'><b>Best Student Research Award</b></font>, TBSI-WODS'19) <br>
+  [[Code]](https://github.com/THUYimingLi/Semi-supervised_Robust_Training)
+
+* [Multinomial Random Forest](https://www.sciencedirect.com/science/article/pii/S0031320321005112)<br>
+  Jiawang Bai, **Yiming Li** (co-first author), Jiawei Li, Xue Yang, Yong Jiang, Shu-Tao Xia<br>
+  **Pattern Recognition**, 2022. <br>
+  [[Code]](https://github.com/jiawangbai/Multinomial-Random-Forest)
+
+* [A Fine-grained Differentially Private Federated Learning against Leakage from Gradients](https://ieeexplore.ieee.org/document/9627872)<br>
+  Linghui Zhu, Xinyi Liu, **Yiming Li**, Xue Yang, Shu-Tao Xia, Rongxing Lu<br>
+  IEEE Internet of Things Journal (**IoT Journal**), 2021. <br>
 
 
 
