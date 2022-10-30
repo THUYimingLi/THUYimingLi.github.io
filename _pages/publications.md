@@ -17,7 +17,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 * [Black-box Ownership Verification for Dataset Protection via Backdoor Watermarking](https://www.researchgate.net/publication/362593558_Black-box_Ownership_Verification_for_Dataset_Protection_via_Backdoor_Watermarking)<br>
   **Yiming Li**, Mingyan Zhu, Xue Yang, Yong Jiang, Shu-Tao Xia<br>
-  Under Review by IEEE Transactions on Information Forensics and Security (**TIFS**), 2022<br>
+  Under Review by IEEE Transactions on Information Forensics and Security (**TIFS**), 2022.<br>
   [[Code]](https://github.com/THUYimingLi/DVBW) [[Workshop Version]](https://arxiv.org/abs/2010.05821)
 
 * [BackdoorBox: A Python Toolbox for Backdoor Learning](https://www.researchgate.net/publication/359439455_BackdoorBox_A_Python_Toolbox_for_Backdoor_Learning)<br>
@@ -52,6 +52,11 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2021. <br>
   [[Code]](https://github.com/zhaitongqing233/Backdoor-attack-against-speaker-verification) [[Poster]](https://www.dropbox.com/s/jd9z8eer749ffgh/BackdoorSpeakerVerification_poster.pdf?dl=0) [[Slides]](https://www.dropbox.com/s/ox2h6wicc9v88a3/BackdoorSpeakerVerification_slides.pptx?dl=0) [[Video]](https://www.dropbox.com/s/0f7effif8itgsow/BackdoorSpeakerVerification_video.mp4?dl=0)
 
+
+* [Backdoor Attack in the Physical World](https://arxiv.org/pdf/2104.02361.pdf)<br>
+  **Yiming Li**, Tongqing Zhai, Yong Jiang, Zhifeng Li, Shu-Tao Xia<br>
+  **ICLR RobustML Workshop**, 2021. <br>
+  [[Code]](https://github.com/THUYimingLi/BackdoorBox/blob/main/core/attacks/PhysicalBA.py)
 
 * [Invisible Backdoor Attack with Sample-Specific Triggers](https://arxiv.org/pdf/2012.03816.pdf)<br>
   Yuezun Li, **Yiming Li** (first student author), Baoyuan Wu, Longkang Li, Ran He, Siwei Lyu<br>
