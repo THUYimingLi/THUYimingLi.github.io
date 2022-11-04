@@ -12,7 +12,7 @@ redirect_from:
 
 * **Senior Program Committee Member**: AAAI'22
 * **Member of Program Committee Board**: IJCAI'22-24
-* **Program Committee Member**: NeurIPS, ICML, ICLR, CVPR, ECCV, AAAI, IJCAI, AISTATS, ICONIP
+* **Program Committee Member**: NeurIPS, ICML, ICLR, CVPR, ICCV, ECCV, AAAI, IJCAI, AISTATS, ICONIP
 * **Executive Chairman Committee Member**, TBSI Workshop on Data Science (TBSI-WODS), 2019
 
 
