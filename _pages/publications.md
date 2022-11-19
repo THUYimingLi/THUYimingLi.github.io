@@ -26,6 +26,10 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 
 ### Selected Conference Papers
+* [Generating Transferable 3D Adversarial Point Cloud via Random Perturbation Factorization]()<br>
+  Bangyan He, Jian Liu, **Yiming Li**, Siyuan Liang, Jingzhi Li, Xiaojun Jia, Xiaochun Cao<br>
+  AAAI Conference on Artificial Intelligence (**AAAI**), 2023. (To Appear)<br>
+
 * [Untargeted Backdoor Watermark: Towards Harmless and Stealthy Dataset Copyright Protection](https://www.researchgate.net/publication/363766436_Untargeted_Backdoor_Watermark_Towards_Harmless_and_Stealthy_Dataset_Copyright_Protection)<br>
   **Yiming Li**, Yang Bai, Yong Jiang, Yong Yang, Shu-Tao Xia, Bo Li<br>
   Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2022. (<font color='red'><b>Oral</b></font>, TOP 5%)<br>
