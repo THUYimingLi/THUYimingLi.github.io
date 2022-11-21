@@ -23,7 +23,7 @@ Currently, I am working with Professor [Bo Li](https://aisecure.github.io/) at U
 
 
 ## News
-* 11/2022: One paper is accepted by AAAI 2023.
+* 11/2022: One paper is accepted by AAAI 2023. Its codes will be released soon.
 * 10/2022: So glad and humble to know that our paper about dataset copyright protection is selected as the `Oral' by the NeurIPS 2022. Its codes will be released soon.
 * 09/2022: Our Springer book '[Digital Watermarking for Machine Learning Models]()' is accepted and currently under the production process. We contributed to its [Chapter 4: The Robust and Harmless Model Watermarking]().
 * 06/2022: Our survey about backdoor attacks and defenses is accepted by the IEEE TNNLS.
