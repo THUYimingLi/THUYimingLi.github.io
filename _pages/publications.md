@@ -33,7 +33,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 * [Untargeted Backdoor Watermark: Towards Harmless and Stealthy Dataset Copyright Protection](https://www.researchgate.net/publication/363766436_Untargeted_Backdoor_Watermark_Towards_Harmless_and_Stealthy_Dataset_Copyright_Protection)<br>
   **Yiming Li**, Yang Bai, Yong Jiang, Yong Yang, Shu-Tao Xia, Bo Li<br>
   Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2022. (<font color='red'><b>Oral</b></font>, TOP 2%)<br>
-  [[Code]](https://github.com/THUYimingLi/Untargeted_Backdoor_Watermark) [[Slides]](https://www.dropbox.com/s/08ve3bgnr7yhhc5/UBW_NeurIPS2022_Final.pptx?dl=0) [[Video]](https://recorder-v3.slideslive.com/#/share?share=72431&s=0a3f4d39-ae7c-4416-90d8-8d6c9ec4bd51)
+  [[Code]](https://github.com/THUYimingLi/Untargeted_Backdoor_Watermark) [[Poster]](https://www.dropbox.com/s/six9ypldiiv41xq/UBW_NeurIPS22_Poster.pdf?dl=0) [[Slides]](https://www.dropbox.com/s/08ve3bgnr7yhhc5/UBW_NeurIPS2022_Final.pptx?dl=0) [[Video]](https://recorder-v3.slideslive.com/#/share?share=72431&s=0a3f4d39-ae7c-4416-90d8-8d6c9ec4bd51)
 
 * [Few-Shot Backdoor Attacks on Visual Object Tracking](https://openreview.net/pdf?id=qSV5CuSaK_a)<br>
   **Yiming Li**, Haoxiang Zhong, Xingjun Ma, Yong Jiang, Shu-Tao Xia<br>
