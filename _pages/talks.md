@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Invited Talks and Guest Lectures"
+title: "Guest Lectures and Invited Talks"
 permalink: /talks/
 redirect_from:
   - /talks
