@@ -1,10 +1,16 @@
 ---
 layout: archive
-title: "Invited Talks"
+title: "Invited Talks and Guest Lectures"
 permalink: /talks/
 redirect_from:
   - /talks
 ---
+## Guest Lectures
+
+* The Copyright Protection of Models and Datasets via Ownership Verification in Deep Learning, The Course of 'The Introduction to AI Security', Tsinghua University, 2022/12/02. [[Slides]](https://www.dropbox.com/s/ica1tstkbtggqoh/DeepCopyrightProtection_THU.pptx?dl=0)
+
+
+## Invited Talks
 * The Copyright Protection of Models and Datasets via Ownership Verification, IJCAI-China, 2022/11/07. [[Slides]](https://www.dropbox.com/s/zrymt1e0y14e7u8/IJCAI-China_Yiming.pptx?dl=0)
 
 * How to Write Your Cover Letter and Rebuttal, Academic Servicing Center of Tsinghua University (online), 2022/03/26. [[Resources]](https://www.dropbox.com/sh/st91drs1915qsa5/AAAguJt0qgsu7Bek5JItIoTsa?dl=0) [[Video]](https://www.dropbox.com/s/0c17nw9qw3c2am8/CoverLetter_Rebuttal.mp4?dl=0)
