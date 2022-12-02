@@ -7,7 +7,7 @@ redirect_from:
 ---
 ## Guest Lectures
 
-* The Copyright Protection of Models and Datasets via Ownership Verification in Deep Learning, The Course of 'The Introduction to AI Security', Tsinghua University, 2022/12/02. [[Slides]](https://www.dropbox.com/s/ica1tstkbtggqoh/DeepCopyrightProtection_THU.pptx?dl=0)
+* The Copyright Protection of Models and Datasets via Ownership Verification in Deep Learning, The Course of 'The Introduction to AI Security', Tsinghua University, 2022/12/02. [[Slides]](https://www.dropbox.com/s/iko1490ldglzi0a/DeepCopyrightProtection_THU.pptx?dl=0)
 
 
 ## Invited Talks
