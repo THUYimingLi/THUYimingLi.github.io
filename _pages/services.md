@@ -33,7 +33,7 @@ redirect_from:
 ## Other Services
 * **Competition Co-chair**, [IEEE Trojan Removal Competition](http://www.trojan-removal.com/), 2022
 * **Founding Member and Vice Chair**, [Student Chapter of Shenzhen City Computer Federation](https://www.szccf.org.cn/?p=2964), 2022
-* **Founding Member and Lecturer**, Academic Servicing Center, Tsinghua University, 2021/2022
+* **Lecturer and Consultant**, Academic Servicing Center, Tsinghua University, 2021/2022
 * **Secretary of Master's Thesis Committee**, Tsinghua Shenzhen International Graduate School, Tsinghua University, 2021
 
 ## Memberships
