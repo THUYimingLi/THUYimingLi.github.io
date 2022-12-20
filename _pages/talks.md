@@ -11,6 +11,8 @@ redirect_from:
 
 
 ## Invited Talks
+* Poisoning-based Backdoor Attacks in Computer Vision, Huawei (online), 2022/12/22. [[Slides]](https://www.dropbox.com/s/raebvv458gwudbp/HuaweiTalk_YimingLi_THU.pptx?dl=0)
+
 * The Copyright Protection of Models and Datasets via Ownership Verification, IJCAI-China, 2022/11/07. [[Slides]](https://www.dropbox.com/s/zrymt1e0y14e7u8/IJCAI-China_Yiming.pptx?dl=0)
 
 * How to Write Your Cover Letter and Rebuttal, Academic Servicing Center of Tsinghua University (online), 2022/03/26. [[Resources]](https://www.dropbox.com/sh/st91drs1915qsa5/AAAguJt0qgsu7Bek5JItIoTsa?dl=0) [[Video]](https://www.dropbox.com/s/0c17nw9qw3c2am8/CoverLetter_Rebuttal.mp4?dl=0)
