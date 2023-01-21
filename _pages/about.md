@@ -23,12 +23,12 @@ Currently, I am working with Professor [Bo Li](https://aisecure.github.io/) at U
 
 
 ## News
+* 01/2023: Two papers about backdoor attacks and defenses are accepted by ICLR 2023. Their codes will be released soon.
 * 12/2022: **CFP**: We are organizing the [IEEE Trojan Removal Competition](http://www.trojan-removal.com/), challenging you to design efficient and effective end-to-end DNN Trojan removal techniques. A generous prize pool is waiting for your participation!
 * 11/2022: One paper is accepted by AAAI 2023. Its codes will be released soon.
 * 10/2022: So glad and humble to know that our paper about dataset copyright protection is selected as the `Oral' by the NeurIPS 2022. Its codes will be released soon.
 * 09/2022: Our Springer book '[Digital Watermarking for Machine Learning Models]()' is accepted and currently under the production process. We contributed to its [Chapter 4: The Robust and Harmless Model Watermarking]().
 * 06/2022: Our survey about backdoor attacks and defenses is accepted by the IEEE TNNLS.
-* 06/2022: The attack part of our open-sourced Python toolbox [BackdoorBox](https://github.com/THUYimingLi/BackdoorBox) has been developed (10+ attacks). The defense part and the benchmark are coming soon. Feel free to check and play with it~
 
 
 
