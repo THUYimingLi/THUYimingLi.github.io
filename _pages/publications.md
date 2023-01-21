@@ -26,6 +26,14 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 
 ### Selected Conference Papers
+* [SCALE-UP: An Efficient Black-box Input-level Backdoor Detection via Analyzing Scaled Prediction Consistency](https://openreview.net/pdf?id=o0LFPcoFKnr)<br>
+  Junfeng Guo, **Yiming Li** (co-first author), Xun Chen, Hanqing Guo, Lichao Sun, Cong Liu<br>
+  International Conference on Learning Representations (**ICLR**), 2023. <br>
+  
+* [Revisiting the Assumption of Latent Separability for Backdoor Defenses](https://openreview.net/pdf?id=_wSHsgrVali)<br>
+  Xiangyu Qi, Tinghao Xie, **Yiming Li** (corresponding author), Saeed Mahloujifar, Prateek Mittal<br>
+  International Conference on Learning Representations (**ICLR**), 2023. <br>
+
 * [Poisoning-based Backdoor Attacks in Computer Vision]()<br>
   **Yiming Li**<br>
   AAAI Conference on Artificial Intelligence (**AAAI**), 2023. (Doctoral Consortium, To Appear)<br>
