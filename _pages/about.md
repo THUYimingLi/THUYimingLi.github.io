@@ -23,7 +23,7 @@ Currently, I am working with Professor [Bo Li](https://aisecure.github.io/) at U
 
 
 ## News
-* 01/2023: Two papers about backdoor attacks and defenses are accepted by ICLR 2023. Their codes will be released soon.
+* 01/2023: Two papers about backdoor attacks and defenses are accepted by ICLR 2023. Their codes are released at GitHub.
 * 12/2022: **CFP**: We are organizing the [IEEE Trojan Removal Competition](http://www.trojan-removal.com/), challenging you to design efficient and effective end-to-end DNN Trojan removal techniques. A generous prize pool is waiting for your participation!
 * 11/2022: One paper is accepted by AAAI 2023. Its codes will be released soon.
 * 10/2022: So glad and humble to know that our paper about dataset copyright protection is selected as the `Oral' by the NeurIPS 2022. Its codes will be released soon.
