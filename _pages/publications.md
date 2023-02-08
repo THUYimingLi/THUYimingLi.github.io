@@ -36,9 +36,10 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   International Conference on Learning Representations (**ICLR**), 2023. <br>
   [[Code]](https://github.com/Unispac/Circumventing-Backdoor-Defenses)
 
-* [Poisoning-based Backdoor Attacks in Computer Vision]()<br>
+* [Poisoning-based Backdoor Attacks in Computer Vision](https://aaaidc.github.io/dc2023/paper/Yiming_Li.pdf)<br>
   **Yiming Li**.<br>
-  AAAI Conference on Artificial Intelligence (**AAAI**), 2023. (Doctoral Consortium, To Appear)<br>
+  AAAI Conference on Artificial Intelligence (**AAAI**), 2023. (Doctoral Consortium)<br>
+  [Slides](https://www.dropbox.com/s/6pj0lzuk9f4gjp9/AAAI23_DC_YimingLi_THU.pptx?dl=0)
 
 * [Generating Transferable 3D Adversarial Point Cloud via Random Perturbation Factorization]()<br>
   Bangyan He, Jian Liu, **Yiming Li**, Siyuan Liang, Jingzhi Li, Xiaojun Jia, Xiaochun Cao.<br>
