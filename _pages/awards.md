@@ -8,6 +8,7 @@ redirect_from:
 
 * Doctoral Consortium Award, AAAI/SIGAI, 2023.
 * China National Scholarship (Ph.D. Student, <font color='red'>TOP 1%</font>), Ministry of Education of China, 2022.
+* AI Risk Analysis Award, NeurIPS ML Safety Workshop, 2022.
 * Scholar Award, NeurIPS, 2022.
 * Top Reviewers, NeurIPS, 2022.
 * Best Poster Award, ICDIS, 2022.
