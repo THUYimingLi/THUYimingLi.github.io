@@ -11,6 +11,8 @@ redirect_from:
 
 
 ## Invited Talks
+* Poisoning-based Backdoor Attacks in Computer Vision, CISPA Helmholtz Center for Information Security (online), 2023/02/17. [[Slides]](https://www.dropbox.com/s/31hwxb8ia4xfyb7/JobTalk_YimingLi_THU.pptx?dl=0)
+
 * Poisoning-based Backdoor Attacks in Computer Vision, Huawei (online), 2022/12/22. [[Slides]](https://www.dropbox.com/s/raebvv458gwudbp/HuaweiTalk_YimingLi_THU.pptx?dl=0)
 
 * The Copyright Protection of Models and Datasets via Ownership Verification, IJCAI-China, 2022/11/07. [[Slides]](https://www.dropbox.com/s/zrymt1e0y14e7u8/IJCAI-China_Yiming.pptx?dl=0)
