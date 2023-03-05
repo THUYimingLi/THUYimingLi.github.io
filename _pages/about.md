@@ -23,12 +23,12 @@ Currently, I am working with Professor [Bo Li](https://aisecure.github.io/) at U
 
 
 ## News
+* 03/2023: The paper about our BackdoorBox is accepted in ICLR Workshop.
 * 03/2023: One paper about clean-label backdoor attack is accepted in Pattern Recognition. Its codes will be released soon.
 * 02/2023: One paper about backdoor defenses is accepted in PAKDD 2023. Its codes will be released soon.
 * 02/2023: Three papers about backdoor attacks and defenses are accepted by ICASSP 2023. Their codes will be released at GitHub soon.
 * 01/2023: Two papers about backdoor attacks and defenses are accepted by ICLR 2023. Their codes are released at GitHub.
 * 11/2022: One paper is accepted by AAAI 2023. Its codes will be released soon.
-* 10/2022: So glad and humble to know that our paper about dataset copyright protection is selected as the `Oral' by the NeurIPS 2022. Its codes will be released soon.
 
 
 
