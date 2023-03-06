@@ -105,7 +105,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   **Pattern Recognition**, 2023. <br>
 
 * [Backdoor Learning: A Survey](https://www.researchgate.net/publication/343006441_Backdoor_Learning_A_Survey)<br>
-  **Yiming Li**, Yong Jiang, Zhifeng Li, Shu-Tao Xia.<br>
+  **Yiming Li** (corresponding author), Yong Jiang, Zhifeng Li, Shu-Tao Xia.<br>
   IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2022. <br>
   [[Github Resources]](https://github.com/THUYimingLi/backdoor-learning-resources)
 
