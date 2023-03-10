@@ -100,7 +100,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 
 ### Selected Journal Papers
-* [Not All Samples Are Born Equal: Towards Effective Clean-Label Backdoor Attacks]()<br>
+* [Not All Samples Are Born Equal: Towards Effective Clean-Label Backdoor Attacks](https://www.sciencedirect.com/science/article/abs/pii/S0031320323002121)<br>
   Yinghua Gao, **Yiming Li** (co-first author, corresponding author), Linghui Zhu, Dongxian Wu, Yong Jiang, Shu-Tao Xia.<br>
   **Pattern Recognition**, 2023. <br>
 
