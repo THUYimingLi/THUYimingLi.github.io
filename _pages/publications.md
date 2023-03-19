@@ -25,7 +25,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 ### Selected Conference and Workshop Papers
 * [BackdoorBox: A Python Toolbox for Backdoor Learning](https://www.researchgate.net/publication/359439455_BackdoorBox_A_Python_Toolbox_for_Backdoor_Learning)<br>
   **Yiming Li**, Mengxi Ya, Yang Bai, Yong Jiang, Shu-Tao Xia.<br>
-  ICLR BANDS Workshop, 2023. <br>
+  **ICLR BANDS Workshop**, 2023. <br>
   [[Code]](https://github.com/THUYimingLi/BackdoorBox)
 
 * [SCALE-UP: An Efficient Black-box Input-level Backdoor Detection via Analyzing Scaled Prediction Consistency](https://openreview.net/pdf?id=o0LFPcoFKnr)<br>
