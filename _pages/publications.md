@@ -15,11 +15,6 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   Under Review by IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2022. (The journal extension of our [AAAI'22 conference paper](https://arxiv.org/pdf/2112.03476.pdf))<br>
   [[Code]](https://github.com/THUYimingLi/MOVE)
 
-* [Black-box Ownership Verification for Dataset Protection via Backdoor Watermarking](https://www.researchgate.net/publication/362593558_Black-box_Ownership_Verification_for_Dataset_Protection_via_Backdoor_Watermarking)<br>
-  **Yiming Li**, Mingyan Zhu, Xue Yang, Yong Jiang, Shu-Tao Xia.<br>
-  Under Review by IEEE Transactions on Information Forensics and Security (**TIFS**), 2022.<br>
-  [[Code]](https://github.com/THUYimingLi/DVBW) [[Workshop Version]](https://arxiv.org/abs/2010.05821)
-
 
 
 ### Selected Conference and Workshop Papers
@@ -100,6 +95,12 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 
 ### Selected Journal Papers
+* [Black-box Dataset Ownership Verification via Backdoor Watermarking]()<br>
+  **Yiming Li**, Mingyan Zhu, Xue Yang, Yong Jiang, Tao Wei, Shu-Tao Xia.<br>
+  IEEE Transactions on Information Forensics and Security (**TIFS**), 2023. (Accepted with Minor Revision)<br>
+  [[Code]](https://github.com/THUYimingLi/DVBW) [[Workshop Version]](https://arxiv.org/abs/2010.05821)
+
+
 * [Not All Samples Are Born Equal: Towards Effective Clean-Label Backdoor Attacks](https://www.sciencedirect.com/science/article/abs/pii/S0031320323002121)<br>
   Yinghua Gao, **Yiming Li** (co-first author, corresponding author), Linghui Zhu, Dongxian Wu, Yong Jiang, Shu-Tao Xia.<br>
   **Pattern Recognition**, 2023. <br>
