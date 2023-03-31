@@ -23,9 +23,9 @@ Currently, I am working with Professor [Bo Li](https://aisecure.github.io/) at U
 
 
 ## News
-* 03/2023: The paper about our BackdoorBox is accepted in ICLR Workshop.
+* 04/2023: The paper about backdoor-based dataset ownership verification is accepted by IEEE TIFS. Its codes will be released soon.
+* 03/2023: The paper about our BackdoorBox is accepted in ICLR Workshop. Its codes have been released at GitHub.
 * 03/2023: One paper about clean-label backdoor attack is accepted in Pattern Recognition. Its codes will be released soon.
-* 02/2023: One paper about backdoor defenses is accepted in PAKDD 2023. Its codes will be released soon.
 
 
 
