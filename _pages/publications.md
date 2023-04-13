@@ -33,6 +33,11 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   International Conference on Learning Representations (**ICLR**), 2023. <br>
   [[Code]](https://github.com/Unispac/Circumventing-Backdoor-Defenses)
 
+* [Defending Against Backdoor Attacks by Layer-wise Feature Analysis](https://arxiv.org/pdf/2302.12758.pdf)<br>
+  Najeeb Moharram Jebreel, Josep Domingo-Ferrer, **Yiming Li**.<br>
+  The Pacific-Asia Conference on Knowledge Discovery and Data Mining (**PAKDD**), 2023. <br>
+  [[Code]](https://github.com/NajeebJebreel/DBALFA)
+
 * [Poisoning-based Backdoor Attacks in Computer Vision](https://aaaidc.github.io/dc2023/paper/Yiming_Li.pdf)<br>
   **Yiming Li**.<br>
   AAAI Conference on Artificial Intelligence (**AAAI**), 2023. (Doctoral Consortium)<br>
