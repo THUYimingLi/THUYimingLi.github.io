@@ -6,7 +6,7 @@ redirect_from:
   - /awards
 ---
 
-* Academic Rising Star Award (<font color='red'>TOP 5</font>), Tsinghua Shenzhen International Graduate School (SIGS), 2023.
+* Academic Rising Star Award (<font color='red'>Rank First, TOP-5</font>), Tsinghua Shenzhen International Graduate School (SIGS), 2023.
 * Doctoral Consortium Award, AAAI/SIGAI, 2023.
 * China National Scholarship (Ph.D. Student, <font color='red'>TOP 1%</font>), Ministry of Education of China, 2022.
 * AI Risk Analysis Award, NeurIPS ML Safety Workshop, 2022.
