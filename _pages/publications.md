@@ -136,7 +136,8 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 ## Books and Others
 * [Poisoning-based Backdoor Attacks in Computer Vision](https://www.researchgate.net/publication/370233769_Poisoning-based_Backdoor_Attacks_in_Computer_Vision)<br>
   **Yiming Li**.<br>
-  Ph.D. Dissertation, 2023.
+  Ph.D. Dissertation, 2023. <br>
+  [[Slides]](https://www.dropbox.com/s/577xlvldtppo8rs/DissertationDefense_YimingLi.pptx?dl=0)
 
 * [Chapter 4: The Robust and Harmless Model Watermarking]()<br>
   **Yiming Li**, Linghui Zhu, Yang Bai, Yong Jiang, Shu-Tao Xia.<br>
