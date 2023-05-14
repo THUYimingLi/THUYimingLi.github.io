@@ -23,9 +23,9 @@ Currently, I am working with Professor [Bo Li](https://aisecure.github.io/) at U
 
 
 ## News
+* 05/2023: I have successfully passed my Ph.D. dissertation defense! I would like to sincerely thank my two amazing Ph.D. advisors -- Prof. Yong Jiang and Prof. Shu-Tao Xia, my undergraduate mentors, all my co-authors/colleagues, friends, and my parents -- Mr. Esheng Li and Ms. Juan Hu. I am nearly a Ph.D. now :)
 * 04/2023: So exciting to receive the Academic Rising Star Award from SIGS, Tsinghua University. Thanks to my Ph.D. supervisors and all co-authors!
 * 04/2023: The paper about backdoor-based dataset ownership verification is accepted by IEEE TIFS. Its codes will be released soon.
-* 03/2023: One paper about clean-label backdoor attack is accepted in Pattern Recognition. Its codes will be released soon.
 
 
 
