@@ -23,9 +23,11 @@ Currently, I am working with Professor [Bo Li](https://aisecure.github.io/) at U
 
 
 ## News
+* 05/2023: So exciting to receive the best paper award from PAKDD, 2023.
 * 05/2023: I will join [CISPA Helmholtz Center for Information Security](https://cispa.de/) as a Postdoctoral Researcher working with Prof. [Yang Zhang](https://yangzhangalmo.github.io/) and Prof. [Michael Backes](https://scholar.google.de/citations?user=ZVS3KOEAAAAJ&hl=zh-CN) in October 2023.
 * 05/2023: I have successfully passed my Ph.D. dissertation defense! I would like to sincerely thank my two amazing Ph.D. advisors -- Prof. Yong Jiang and Prof. Shu-Tao Xia, my undergraduate mentors, all my co-authors/colleagues, friends, and my parents -- Mr. Esheng Li and Ms. Juan Hu.
 * 04/2023: So exciting to receive the Academic Rising Star Award from SIGS, Tsinghua University. Thanks to my Ph.D. supervisors and all co-authors!
+* 04/2023: One paper is accepted by IEEE TIFS. Its codes will be released soon.
 
 
 
