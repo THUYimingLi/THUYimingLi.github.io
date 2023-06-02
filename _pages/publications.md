@@ -134,9 +134,9 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   Ph.D. Dissertation, 2023. <br>
   [[Slides]](https://www.dropbox.com/s/577xlvldtppo8rs/DissertationDefense_YimingLi.pptx?dl=0)
 
-* [Chapter 4: The Robust and Harmless Model Watermarking]()<br>
+* [Chapter 4: The Robust and Harmless Model Watermarking](https://link.springer.com/chapter/10.1007/978-981-19-7554-7_4)<br>
   **Yiming Li**, Linghui Zhu, Yang Bai, Yong Jiang, Shu-Tao Xia.<br>
-  Digital Watermarking for Machine Learning Model: Techniques, Protocols and Applications. Springer, 2023. (To Appear)
+  Digital Watermarking for Machine Learning Model: Techniques, Protocols and Applications. Springer, 2023.
 
 * [Poisoning-based Backdoor Attacks in Computer Vision](https://aaaidc.github.io/dc2023/paper/Yiming_Li.pdf)<br>
   **Yiming Li**.<br>
