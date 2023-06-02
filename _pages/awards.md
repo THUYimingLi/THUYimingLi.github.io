@@ -6,6 +6,7 @@ redirect_from:
   - /awards
 ---
 
+* Outstanding Paper Award (<font color='red'>TOP-10</font>), Cybersecurity Conference, The Chinese Institute of Electronics, 2023.
 * Best Paper Award (<font color='red'>TOP-1</font>), The Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2023.
 * Academic Rising Star Award (<font color='red'>Rank First, TOP-5</font>), Tsinghua Shenzhen International Graduate School (SIGS), 2023.
 * Doctoral Consortium Award, AAAI/SIGAI, 2023.
