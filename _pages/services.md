@@ -25,6 +25,7 @@ redirect_from:
 - **Reviewer**, IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 - **Reviewer**, IEEE Transactions on Industrial Informatics (TII)
 - **Reviewer**, Pattern Recognition
+- **Reviewer**, Neural Networks
 - **Reviewer**, Neurocomputing
 - **Reviewer**, Computers & Security
 
