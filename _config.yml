@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "liyimingningbo@163.com"
+    email                : "liyiming.tech@gmail.com"
   generatedFields:
     date:
       type               : "date"
@@ -101,8 +101,8 @@ author:
   instagram        :
   lastfm           :
   linkedin         : "yiming-li-THU"
-  orcid            : 
-  pinterest        : "0000-0002-2258-265X"
+  orcid            :  "0000-0002-2258-265X"
+  pinterest        : 
   soundcloud       :
   stackoverflow    : 
   steam            :
