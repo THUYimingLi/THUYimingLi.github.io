@@ -15,7 +15,6 @@ redirect_from:
 * AI Risk Analysis Award, NeurIPS ML Safety Workshop, 2022.
 * Scholar Award, NeurIPS, 2022.
 * Top Reviewers, NeurIPS, 2022.
-* Best Poster Award, ICDIS, 2022.
 * Student Scholarship, Association for the Advancement of Artificial Intelligence (AAAI), 2022.
 * Best Paper of `Adversarial for Good' Award, ICML AdvML Workshop, 2021.
 * Rhino-bird Elite (<font color='red'>TOP 5%</font>), Tencent, 2021.
