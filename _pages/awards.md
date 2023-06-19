@@ -6,7 +6,7 @@ redirect_from:
   - /awards
 ---
 
-* Rising Star Award (TOP-15), World Artificial Intelligence Conference, 2023.
+* Rising Star Award (<font color='red'>TOP-15</font>), World Artificial Intelligence Conference, 2023.
 * Outstanding Paper Award (<font color='red'>TOP-10</font>), Cybersecurity Conference, The Chinese Institute of Electronics, 2023.
 * Best Paper Award (<font color='red'>TOP-1</font>), The Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2023.
 * Rising Star Award (<font color='red'>Rank First, TOP-5</font>), Tsinghua Shenzhen International Graduate School (SIGS), 2023.
