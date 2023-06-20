@@ -12,7 +12,8 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 ### Selected Preprints
 * [Backdoor Attack with Sparse and Invisible Trigger](https://arxiv.org/pdf/2306.06209.pdf)<br>
   Yinghua Gao, **Yiming Li** (co-first author, corresponding author), Xueluan Gong, Shu-Tao Xia, Qian Wang.<br>
-  Under Review by IEEE Transactions on Information Forensics and Security (**TIFS**), 2023.
+  Under Review by IEEE Transactions on Information Forensics and Security (**TIFS**), 2023.<br>
+  [[Code]](https://github.com/YinghuaGao/SIBA)
 
 * [MOVE: Effective and Harmless Ownership Verification via Embedded External Features](https://arxiv.org/pdf/2208.02820.pdf)<br>
   **Yiming Li**, Linghui Zhu, Xiaojun Jia, Yang Bai, Yong Jiang, Shu-Tao Xia, Xiaochun Cao.<br>
