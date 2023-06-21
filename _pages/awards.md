@@ -5,7 +5,7 @@ permalink: /awards/
 redirect_from:
   - /awards
 ---
-
+* Outstanding Doctoral Graduates (<font color='red'>TOP 5%</font>), Beijing City, 2023.
 * Rising Star Award (<font color='red'>TOP-15</font>), World Artificial Intelligence Conference, 2023.
 * Outstanding Paper Award (<font color='red'>TOP-10</font>), Cybersecurity Conference, The Chinese Institute of Electronics, 2023.
 * Best Paper Award (<font color='red'>TOP-1</font>), The Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2023.
@@ -23,7 +23,7 @@ redirect_from:
 * 'Future Scholar' Ph.D. Fellowship (<font color='red'>TOP-2</font> in TBSI), Tsinghua University, 2020/2021/2022.
 * Dean's Scholarship, Tsinghua-Berkeley Shenzhen Institute (TBSI), 2020/2021/2022.
 * Best Student Research Award, TBSI Workshop on Data Science, 2019.
-* Outstanding Undergraduate Student (<font color='red'>TOP 1%</font>), Department of Education of Zhejiang Province, 2018.
+* Outstanding Undergraduates (<font color='red'>TOP 1%</font>), Zhejiang Province, 2018.
 * Outstanding Undergraduate Thesis Award (<font color='red'>TOP 5%</font>), Ningbo University, 2018.
 * China National Scholarship (Undergraduate Student, <font color='red'>TOP 1%</font>), Ministry of Education of China, 2017.
 * First Prize (<font color='red'>TOP 3%</font>), Chinese Mathematics Competition, 2016.
