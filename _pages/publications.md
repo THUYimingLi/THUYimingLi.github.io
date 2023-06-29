@@ -43,9 +43,9 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   The Pacific-Asia Conference on Knowledge Discovery and Data Mining (**PAKDD**), 2023. (<font color='red'><b>Best Paper Award</b></font>) <br>
   [[Code]](https://github.com/NajeebJebreel/DBALFA)
 
-* [Generating Transferable 3D Adversarial Point Cloud via Random Perturbation Factorization]()<br>
+* [Generating Transferable 3D Adversarial Point Cloud via Random Perturbation Factorization](https://ojs.aaai.org/index.php/AAAI/article/view/25154)<br>
   Bangyan He, Jian Liu, **Yiming Li**, Siyuan Liang, Jingzhi Li, Xiaojun Jia, Xiaochun Cao.<br>
-  AAAI Conference on Artificial Intelligence (**AAAI**), 2023. (To Appear)<br>
+  AAAI Conference on Artificial Intelligence (**AAAI**), 2023. <br>
   [[Code]](https://github.com/HeBangYan/PF-Attack)
 
 * [Untargeted Backdoor Watermark: Towards Harmless and Stealthy Dataset Copyright Protection](https://www.researchgate.net/publication/363766436_Untargeted_Backdoor_Watermark_Towards_Harmless_and_Stealthy_Dataset_Copyright_Protection)<br>
@@ -143,7 +143,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   **Yiming Li**, Linghui Zhu, Yang Bai, Yong Jiang, Shu-Tao Xia.<br>
   Digital Watermarking for Machine Learning Model: Techniques, Protocols and Applications. Springer, 2023.
 
-* [Poisoning-based Backdoor Attacks in Computer Vision](https://aaaidc.github.io/dc2023/paper/Yiming_Li.pdf)<br>
+* [Poisoning-based Backdoor Attacks in Computer Vision](https://ojs.aaai.org/index.php/AAAI/article/view/26921)<br>
   **Yiming Li**.<br>
   AAAI Conference on Artificial Intelligence (**AAAI**), 2023. (Doctoral Consortium)<br>
   [[Slides]](https://www.dropbox.com/s/6pj0lzuk9f4gjp9/AAAI23_DC_YimingLi_THU.pptx?dl=0)
