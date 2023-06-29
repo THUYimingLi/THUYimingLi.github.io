@@ -23,7 +23,7 @@ Currently, I am working with Prof. [Bo Li](https://aisecure.github.io/) at UIUC 
 
 
 ## News
-* 06/2023: I graduated with honors from Tsinghua University. Five years, a memorable journey. 
+* 06/2023: I graduate with honors from Tsinghua University. Five years, a memorable journey. 
 * 06/2023: So exciting to receive the Rising Star Award from WAIC'23.
 * 05/2023: So exciting to receive the Best Paper Award from PAKDD'23.
 * 05/2023: I will join [CISPA Helmholtz Center for Information Security](https://cispa.de/) as a Postdoctoral Researcher working with Prof. [Yang Zhang](https://yangzhangalmo.github.io/) and Prof. [Michael Backes](https://scholar.google.de/citations?user=ZVS3KOEAAAAJ&hl=zh-CN) in October 2023.
