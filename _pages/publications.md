@@ -23,6 +23,14 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 
 ### Selected Conference and Workshop Papers
+* [One-bit Flip is All You Need: When Bit-flip Attack Meets Model Training]()<br>
+  Jianshuo Dong, Han Qiu, **Yiming Li** (corresponding author), Tianwei Zhang, Yuanjie Li, Zeqi Lai, Chao Zhang, Shu-Tao Xia.<br>
+  International Conference on Computer Vision (**ICCV**), 2023. (To Appear) <br>
+
+* [Towards Robust Model Watermark via Reducing Parametric Vulnerability]()<br>
+  Guanhao Gan, **Yiming Li**, Dongxian Wu, Shu-Tao Xia.<br>
+  International Conference on Computer Vision (**ICCV**), 2023. (To Appear) <br>  
+
 * [BackdoorBox: A Python Toolbox for Backdoor Learning](https://www.researchgate.net/publication/359439455_BackdoorBox_A_Python_Toolbox_for_Backdoor_Learning)<br>
   **Yiming Li**, Mengxi Ya, Yang Bai, Yong Jiang, Shu-Tao Xia.<br>
   **ICLR BANDS Workshop**, 2023. <br>
@@ -34,7 +42,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   [[Code]](https://github.com/JunfengGo/SCALE-UP)
   
 * [Revisiting the Assumption of Latent Separability for Backdoor Defenses](https://openreview.net/pdf?id=_wSHsgrVali)<br>
-  Xiangyu Qi, Tinghao Xie, **Yiming Li** (corresponding author), Saeed Mahloujifar, Prateek Mittal.<br>
+  Xiangyu Qi, Tinghao Xie, **Yiming Li** (co-corresponding author), Saeed Mahloujifar, Prateek Mittal.<br>
   International Conference on Learning Representations (**ICLR**), 2023. <br>
   [[Code]](https://github.com/Unispac/Circumventing-Backdoor-Defenses)
 
@@ -70,7 +78,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 
 * [Backdoor Attack against Speaker Verification](https://arxiv.org/pdf/2010.11607.pdf)<br>
-  Tongqing Zhai, **Yiming Li** (co-first author, corresponding author), Ziqi Zhang, Baoyuan Wu, Yong Jiang, Shu-Tao Xia.<br>
+  Tongqing Zhai, **Yiming Li** (co-first author, co-corresponding author), Ziqi Zhang, Baoyuan Wu, Yong Jiang, Shu-Tao Xia.<br>
   International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2021. <br>
   [[Code]](https://github.com/zhaitongqing233/Backdoor-attack-against-speaker-verification) [[Poster]](https://www.dropbox.com/s/jd9z8eer749ffgh/BackdoorSpeakerVerification_poster.pdf?dl=0) [[Slides]](https://www.dropbox.com/s/ox2h6wicc9v88a3/BackdoorSpeakerVerification_slides.pptx?dl=0) [[Video]](https://www.dropbox.com/s/0f7effif8itgsow/BackdoorSpeakerVerification_video.mp4?dl=0)
 
