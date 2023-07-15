@@ -10,6 +10,11 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 
 ### Selected Preprints
+* [Towards Stealthy Backdoor Attacks against Speech Recognition via Elements of Sound](https://www.researchgate.net/publication/372388876_Towards_Stealthy_Backdoor_Attacks_against_Speech_Recognition_via_Elements_of_Sound)<br>
+  Hanbo Cai, Pengcheng Zhang, Hai Dong, Yan Xiao, Stefanos Koffas, **Yiming Li**.<br>
+  Under Review by IEEE Transactions on Information Forensics and Security (**TIFS**), 2023.<br>
+  [[Code]](https://github.com/HanboCai/BadSpeech_SoE)
+  
 * [Backdoor Attack with Sparse and Invisible Trigger](https://arxiv.org/pdf/2306.06209.pdf)<br>
   Yinghua Gao, **Yiming Li** (co-first author, corresponding author), Xueluan Gong, Shu-Tao Xia, Qian Wang.<br>
   Under Review by IEEE Transactions on Information Forensics and Security (**TIFS**), 2023.<br>
