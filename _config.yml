@@ -14,7 +14,7 @@ description              : &description "Personal Website"
 url                      : https://THUYimingLi.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "THUYimingLi/THUYimingLi.github.io"
-teaser                   : "Profile.png"
+teaser                   : "profile_new.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
