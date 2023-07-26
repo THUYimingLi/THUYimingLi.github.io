@@ -9,7 +9,6 @@ redirect_from:
 
 
 ## Conference Services
-
 * **Senior Program Committee Member**: AAAI'22
 * **Member of Program Committee Board**: IJCAI'22-24
 * **Program Committee Member**: ICLR, NeurIPS, ICML, CVPR, ICCV, ECCV, AAAI, IJCAI, AISTATS, ICONIP
@@ -18,16 +17,7 @@ redirect_from:
 
 
 ## Journal Services
-- **Reviewer**, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
-- **Reviewer**, IEEE Transactions on Information Forensics and Security (TIFS)
-- **Reviewer**, IEEE Transactions on Dependable and Secure Computing (TDSC)
-- **Reviewer**, IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
-- **Reviewer**, IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
-- **Reviewer**, IEEE Transactions on Industrial Informatics (TII)
-- **Reviewer**, Pattern Recognition
-- **Reviewer**, Neural Networks
-- **Reviewer**, Neurocomputing
-- **Reviewer**, Computers & Security
+- **Reviewer**: TPAMI, TIFS, TDSC, TNNLS, TCSVT, TII, Pattern Recognition, Neural Networks, Neurocomputing, Computers & Security, etc.
 
 
 
