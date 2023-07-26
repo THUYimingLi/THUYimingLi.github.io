@@ -26,4 +26,4 @@ redirect_from:
 * **Secretary of Master's Thesis Committee**, Tsinghua Shenzhen International Graduate School, Tsinghua University, 2021.
 
 ## Memberships
-IEEE Member, ACM Member, AAAI Member, CCF Member, CAAI Member, CIE Member
+IEEE Member, ACM Member, AAAI Member, CCF Member, CAAI Member, CIE Member.
