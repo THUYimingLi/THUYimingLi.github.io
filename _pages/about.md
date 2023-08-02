@@ -19,7 +19,7 @@ I am always looking for highly self-motivated research interns to join exciting 
 
 
 ## News
-* 08/2023: I will join the School of Cyber Science and Technology at Zhejiang University as a Research Fellow (求是科创学者) soon. Please feel free to drop me an email if you want to join my group.
+* 08/2023: I will join the School of Cyber Science and Technology at Zhejiang University as a Research Professor (求是科创学者) soon. Please feel free to drop me an email if you want to join my group.
 * 07/2023: Two papers are accepted by ICCV 2023. Their codes will be released soon.
 * 06/2023: So exciting to receive the Rising Star Award from WAIC'23.
 * 06/2023: I graduate with honors from Tsinghua University. Five years, a memorable journey. 
