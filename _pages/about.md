@@ -15,7 +15,7 @@ I received my Ph.D. degree with honors in Computer Science and Technology from [
 
 
 ## Annocement
-I am always looking for highly self-motivated students and interns to join exciting research projects on Trustworthy AI in our group. Drop me an email if you are interested! 
+I am always looking for highly self-motivated research interns to join exciting research projects on Trustworthy AI in our group. Drop me an email if you are interested! 
 
 
 ## News
