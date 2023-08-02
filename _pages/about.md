@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Greetings and welcome to my homepage"
+title: "Greetings and Welcome to My Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,25 +9,21 @@ redirect_from:
 ---
 
 ## Biography
-I received my Ph.D. degree with honors in Computer Science and Technology from [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2023, advised by Professor [Yong Jiang](https://www.sigs.tsinghua.edu.cn/jy/main.htm) and Professor [Shu-Tao Xia](https://www.sigs.tsinghua.edu.cn/xst/main.htm). Before that, I received my B.S. degree with honors in Mathematics and Applied Mathematics from [Ningbo University](https://www.nbu.edu.cn/en/) in 2018, advised by Professor [Lifeng Xi](http://math.nbu.edu.cn/info/1046/1098.htm).
-
+I received my Ph.D. degree with honors in Computer Science and Technology from [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2023, advised by Professor [Yong Jiang](https://www.sigs.tsinghua.edu.cn/jy/main.htm) and Professor [Shu-Tao Xia](https://www.sigs.tsinghua.edu.cn/xst/main.htm). Before that, I received my B.S. degree with honors in Mathematics and Applied Mathematics from [Ningbo University](https://www.nbu.edu.cn/en/) in 2018, advised by Professor [Lifeng Xi](http://math.nbu.edu.cn/info/1046/1098.htm). 
 
 **My research mainly focuses on Trustworthy ML**, especially backdoor attacks and defenses, data privacy, and copyright protection in deep learning. My long-term goal is to **make DL-based algorithms more robust and secure during their full life-cycle**. Recently, I focus more on **Trustworthy Large Foundation Models** (*e.g.*, GPT-4). I always **chase for simple yet effective methods** with deep insights and theoretical supports. 
 
 
-During my Ph.D. study, I worked closely with Prof. [Bo Li](https://aisecure.github.io/) at UIUC as a visiting Ph.D. student (2022-2023). I was a research intern at Ant Group (2021, 2022), working with Dr. [Haiqin Weng](https://www.semanticscholar.org/author/Haiqin-Weng/33167731) and Dr. [Tao Wei](https://scholar.google.com/citations?user=Ao3wEckAAAAJ&hl=zh-CN&oi=ao); a research intern at Tencent AI Lab (2019, 2020), working with Dr. [Baoyuan Wu](https://sites.google.com/site/baoyuanwu2015/) and Dr. [Zhifeng Li](https://scholar.google.com/citations?user=VTrRNN4AAAAJ&hl=zh-CN&oi=ao) (supported by Tencent Rhino-bird Elite Training Program); an intern at Wukong Investment (2018), working with Dr. [Xinji Liu](https://www.wukongtz.com/pages_8/) on ML-based high-frequency trading.  
-
-
-**I am always happy to work together on interesting projects with all people**. I have done many interesting research projects (*e.g.*, ICCV'21 and ICLR'22-23) with external collaborators. **Feel free to drop me an email** if you have any suitable ideas or opportunities to discuss!
-
+## Annocement
+I am always looking for highly self-motivated students and interns to join exciting research projects on Trustworthy AI in our group. Drop me an email if you are interested. 
 
 
 ## News
+* 08/2023: I will join the School of Cyber Science and Technology at Zhejiang University as a Research Fellow (求是科创学者) soon. Please feel free to drop me an email if you want to join my group.
 * 07/2023: Two papers are accepted by ICCV 2023. Their codes will be released soon.
 * 06/2023: So exciting to receive the Rising Star Award from WAIC'23.
 * 06/2023: I graduate with honors from Tsinghua University. Five years, a memorable journey. 
 * 05/2023: So exciting to receive the Best Paper Award from PAKDD'23.
-* 05/2023: I will join [CISPA Helmholtz Center for Information Security](https://cispa.de/) as a Postdoctoral Researcher working with Prof. [Yang Zhang](https://yangzhangalmo.github.io/) and Prof. [Michael Backes](https://scholar.google.de/citations?user=ZVS3KOEAAAAJ&hl=zh-CN) in October 2023.
 
 
 
