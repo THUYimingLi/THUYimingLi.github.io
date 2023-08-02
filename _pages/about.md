@@ -11,7 +11,7 @@ redirect_from:
 ## Biography
 I received my Ph.D. degree with honors in Computer Science and Technology from [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2023, advised by Professor [Yong Jiang](https://www.sigs.tsinghua.edu.cn/jy/main.htm) and Professor [Shu-Tao Xia](https://www.sigs.tsinghua.edu.cn/xst/main.htm). Before that, I received my B.S. degree with honors in Mathematics and Applied Mathematics from [Ningbo University](https://www.nbu.edu.cn/en/) in 2018, advised by Professor [Lifeng Xi](http://math.nbu.edu.cn/info/1046/1098.htm). 
 
-**My research mainly focuses on Trustworthy AI**, especially backdoor attacks and defenses, data privacy, and copyright protection in deep learning. My long-term goal is to **make DL-based algorithms more robust and secure during their full life-cycle**. Recently, I focus more on **Trustworthy Large Foundation Models** (*e.g.*, GPT-4). I always **chase for simple yet effective methods** with deep insights and theoretical supports. 
+**My research mainly focuses on Trustworthy AI**, especially backdoor attacks and defenses, data privacy, and copyright protection in deep learning. My long-term goal is to **make DL-based algorithms more robust and secure during their full life cycle**. Recently, I focus more on **Trustworthy Large Foundation Models** (*e.g.*, GPT-4). I always **chase for simple yet effective methods** with deep insights and theoretical supports. 
 
 
 ## Annocement
