@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## Biography
-I received my Ph.D. degree with honors in Computer Science and Technology from [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2023, advised by Prof. [Yong Jiang](https://www.sigs.tsinghua.edu.cn/jy/main.htm) and Prof. [Shu-Tao Xia](https://www.sigs.tsinghua.edu.cn/xst/main.htm). Before that, I received my B.S. degree with honors in Mathematics and Applied Mathematics from [Ningbo University](https://www.nbu.edu.cn/en/) in 2018, advised by Prof. [Lifeng Xi](http://math.nbu.edu.cn/info/1046/1098.htm). 
+I am currently a Research Fellow/Professor (求是科创学者) at the School of Cyber Science and Technology, Zhejiang University. I received my Ph.D. degree with honors in Computer Science and Technology from [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2023, advised by Prof. [Yong Jiang](https://www.sigs.tsinghua.edu.cn/jy/main.htm) and Prof. [Shu-Tao Xia](https://www.sigs.tsinghua.edu.cn/xst/main.htm). Before that, I received my B.S. degree with honors in Mathematics and Applied Mathematics from [Ningbo University](https://www.nbu.edu.cn/en/) in 2018, advised by Prof. [Lifeng Xi](http://math.nbu.edu.cn/info/1046/1098.htm). 
 
 I collaborated with Prof. [Bo Li](https://scholar.google.com/citations?user=K8vJkTcAAAAJ&hl=en) as a visiting Ph.D. student (online) from 2021 to 2023 at UIUC. I was a research intern at Ant Group from 2021 to 2023. I was a research intern at Tencent AI Lab under the Rhino-bird Elite Program from 2019 to 2020. I also worked closely with Dr. [Zhifeng Li](https://scholar.google.fr/citations?user=VTrRNN4AAAAJ&hl=zh-CN) during my Ph.D. journey.
 
@@ -21,7 +21,7 @@ I am always looking for highly self-motivated research interns to join exciting 
 
 
 ## News
-* 08/2023: I will join the School of Cyber Science and Technology at Zhejiang University as a Research Professor (求是科创学者) soon. Please feel free to drop me an email if you want to join my group.
+* 08/2023: I will join the School of Cyber Science and Technology at Zhejiang University as a Research Fellow/Professor (求是科创学者) soon. Please feel free to drop me an email if you want to join my group.
 * 07/2023: Two papers are accepted by ICCV 2023. Their codes will be released soon.
 * 06/2023: So exciting to receive the Rising Star Award from WAIC'23.
 * 06/2023: I graduate with honors from Tsinghua University. Five years, a memorable journey. 
