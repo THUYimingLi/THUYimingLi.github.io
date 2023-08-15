@@ -1,58 +1,26 @@
 ---
 layout: archive
 title: "People"
-permalink: /cv/
+permalink: /people/
 redirect_from:
   - /people
 ---
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+It is my fortune to work with following brilliant students.
 
-Work experience
+Ph.D. Students
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* [Linghui Zhu](https://scholar.google.fr/citations?user=mLzDZRoAAAAJ&hl=zh-CN), Tsinghua University, 2020 -  
+* Mingyan Zhu, Tsinghua University, 2020 -  
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Master Students
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Mengxi Ya, Tsinghua University, 2021 -
+* Guanhao Gan, Tsinghua University, 2021 -
+* Chengxiao Luo, Tsinghua University, 2021 -
+* [Sheng Yang](https://scholar.google.fr/citations?hl=zh-CN&user=HZdisxYAAAAJ), Tsinghua University, 2022 -
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+
