@@ -10,13 +10,11 @@ redirect_from:
 
 It is my fortune to work with following brilliant students.
 
-Ph.D. Students
-======
+## Ph.D. Students
 * [Linghui Zhu](https://scholar.google.fr/citations?user=mLzDZRoAAAAJ&hl=zh-CN), Tsinghua University, 2020 -  
 * Mingyan Zhu, Tsinghua University, 2020 -  
 
-Master Students
-======
+## Master Students
 * Mengxi Ya, Tsinghua University, 2021 -
 * Guanhao Gan, Tsinghua University, 2021 -
 * Chengxiao Luo, Tsinghua University, 2021 -
