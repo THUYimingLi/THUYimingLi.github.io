@@ -9,7 +9,7 @@ redirect_from:
 Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?user=mSW7kU8AAAAJ&hl=zh-CN) for my full paper list. <br>
 
 
-### Selected Preprints
+## Selected Preprints
 * [Towards Stealthy Backdoor Attacks against Speech Recognition via Elements of Sound](https://www.researchgate.net/publication/372388876_Towards_Stealthy_Backdoor_Attacks_against_Speech_Recognition_via_Elements_of_Sound)<br>
   Hanbo Cai, Pengcheng Zhang, Hai Dong, Yan Xiao, Stefanos Koffas, **Yiming Li**.<br>
   Under Review by IEEE Transactions on Information Forensics and Security (**TIFS**), 2023.<br>
@@ -27,7 +27,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 
 
-### Selected Conference and Workshop Papers
+## Selected Conference and Workshop Papers
 * [One-bit Flip is All You Need: When Bit-flip Attack Meets Model Training](https://www.researchgate.net/publication/373049298_One-bit_Flip_is_All_You_Need_When_Bit-flip_Attack_Meets_Model_Training)<br>
   Jianshuo Dong, Han Qiu, **Yiming Li** (corresponding author), Tianwei Zhang, Yuanjie Li, Zeqi Lai, Chao Zhang, Shu-Tao Xia.<br>
   International Conference on Computer Vision (**ICCV**), 2023. <br>
@@ -113,7 +113,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 
 
-### Selected Journal Papers
+## Selected Journal Papers
 * [Black-box Dataset Ownership Verification via Backdoor Watermarking](https://www.researchgate.net/publication/369559541_Black-box_Dataset_Ownership_Verification_via_Backdoor_Watermarking)<br>
   **Yiming Li**, Mingyan Zhu, Xue Yang, Yong Jiang, Tao Wei, Shu-Tao Xia.<br>
   IEEE Transactions on Information Forensics and Security (**TIFS**), 2023. <br>
