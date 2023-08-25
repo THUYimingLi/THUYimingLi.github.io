@@ -31,7 +31,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 
 
-## Selected Conference and Workshop Papers
+## Selected Conference Papers
 * [One-bit Flip is All You Need: When Bit-flip Attack Meets Model Training](https://www.researchgate.net/publication/373049298_One-bit_Flip_is_All_You_Need_When_Bit-flip_Attack_Meets_Model_Training)<br>
   Jianshuo Dong, Han Qiu, **Yiming Li** (corresponding author), Tianwei Zhang, Yuanjie Li, Zeqi Lai, Chao Zhang, Shu-Tao Xia.<br>
   International Conference on Computer Vision (**ICCV**), 2023. <br>
@@ -118,7 +118,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 
 
-## Selected Journal Papers
+## Selected Journal Articles
 * [Black-box Dataset Ownership Verification via Backdoor Watermarking](https://www.researchgate.net/publication/369559541_Black-box_Dataset_Ownership_Verification_via_Backdoor_Watermarking)<br>
   **Yiming Li**, Mingyan Zhu, Xue Yang, Yong Jiang, Tao Wei, Shu-Tao Xia.<br>
   IEEE Transactions on Information Forensics and Security (**TIFS**), 2023. <br>
