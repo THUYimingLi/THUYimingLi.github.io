@@ -25,6 +25,10 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   Under Review by IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2022. (The journal extension of our [AAAI'22 conference paper](https://arxiv.org/pdf/2112.03476.pdf))<br>
   [[Code]](https://github.com/THUYimingLi/MOVE)
 
+* [BaDExpert: Extracting Backdoor Functionality for Accurate Backdoor Input Detection](https://arxiv.org/pdf/2308.12439.pdf)<br>
+ Tinghao Xie, Xiangyu Qi, Ping He, **Yiming Li**, Jiachen T. Wang, Prateek Mittal.<br>
+ arXiv, 2023.
+
 
 
 ## Selected Conference and Workshop Papers
@@ -33,9 +37,10 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   International Conference on Computer Vision (**ICCV**), 2023. <br>
   [[Code]](https://github.com/jianshuod/TBA)
 
-* [Towards Robust Model Watermark via Reducing Parametric Vulnerability]()<br>
+* [Towards Robust Model Watermark via Reducing Parametric Vulnerability](https://www.researchgate.net/publication/373367424_Towards_Robust_Model_Watermark_via_Reducing_Parametric_Vulnerability)<br>
   Guanhao Gan, **Yiming Li**, Dongxian Wu, Shu-Tao Xia.<br>
-  International Conference on Computer Vision (**ICCV**), 2023. (To Appear) <br>  
+  International Conference on Computer Vision (**ICCV**), 2023. <br>
+  [[Code]](https://github.com/GuanhaoGan/robust-model-watermarking)
 
 * [BackdoorBox: A Python Toolbox for Backdoor Learning](https://www.researchgate.net/publication/359439455_BackdoorBox_A_Python_Toolbox_for_Backdoor_Learning)<br>
   **Yiming Li**, Mengxi Ya, Yang Bai, Yong Jiang, Shu-Tao Xia.<br>
