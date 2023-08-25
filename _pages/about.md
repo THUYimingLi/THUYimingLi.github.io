@@ -17,11 +17,11 @@ I collaborated with Prof. [Bo Li](https://scholar.google.com/citations?user=K8vJ
 
 
 ## Annocement
-I am always looking for highly self-motivated research interns to join exciting research projects on Trustworthy AI in our group. Besides, I am always willing to work together on interesting projects with external collaborators. Drop me an email if you are interested! 
+I am **always looking for highly self-motivated research interns** to join exciting research projects on Trustworthy AI in our group. Besides, I am **always willing to work together on interesting projects with external collaborators**. Drop me an email if you are interested! 
 
 
 ## News
-* 07/2023: Two papers are accepted by ICCV 2023. Their codes have be released.
+* 07/2023: Two papers are accepted by ICCV 2023. Their codes have been released.
 * 06/2023: So exciting to receive the Rising Star Award from WAIC'23.
 * 05/2023: So exciting to receive the Best Paper Award from PAKDD'23.
 
