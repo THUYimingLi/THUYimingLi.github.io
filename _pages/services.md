@@ -22,7 +22,7 @@ redirect_from:
 
 ## Other Services
 * **Founding Member and Vice Chair**, [Student Chapter of Shenzhen City Computer Federation](https://www.szccf.org.cn/?p=2964), 2022-2023.
-* **Lecturer and Consultant**, Academic Servicing Center, Tsinghua University, 2021-2022.
+* **Lecturer and Consultant**, Academic Servicing Center, Tsinghua University, 2021-2023.
 * **Secretary of Master's Thesis Committee**, Tsinghua Shenzhen International Graduate School, Tsinghua University, 2021.
 
 ## Memberships
