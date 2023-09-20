@@ -11,7 +11,7 @@ redirect_from:
 ## Conference Services
 * **Senior Program Committee Member**: AAAI'22.
 * **Member of Program Committee Board**: IJCAI'22-24.
-* **Program Committee Member**: ICLR, NeurIPS, ICML, CVPR, ICCV, ECCV, AAAI, IJCAI, AISTATS, ICONIP, etc.
+* **Program Committee Member**: ICLR, NeurIPS, ICML, CVPR, ICCV, ECCV, AAAI, IJCAI, AISTATS, ICASSP, ICONIP, etc.
 * **Executive Chairman Committee Member**, TBSI Workshop on Data Science (TBSI-WODS), 2019.
 
 ## Journal Services
