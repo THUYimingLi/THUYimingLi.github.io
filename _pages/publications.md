@@ -32,6 +32,14 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 
 ## Selected Conference Papers
+* [Domain Watermark: Effective and Harmless Dataset Copyright Protection is Closed at Hand]()<br>
+  Junfeng Guo, **Yiming Li** (co-first author, corresponding author), Lixu Wang, Shu-Tao Xia, Heng Huang, Cong Liu, Bo Li.<br>
+  Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2023. (To Appear) <br>
+
+* [Setting the Trap: Capturing and Defeating Backdoor Threats in PLMs through Honeypots]()<br>
+  Ruixiang Tang, Jiayi Yuan, **Yiming Li** (corresponding author), Zirui Liu, Rui Chen, Xia Hu.<br>
+  Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2023. (To Appear) <br>
+
 * [One-bit Flip is All You Need: When Bit-flip Attack Meets Model Training](https://www.researchgate.net/publication/373049298_One-bit_Flip_is_All_You_Need_When_Bit-flip_Attack_Meets_Model_Training)<br>
   Jianshuo Dong, Han Qiu, **Yiming Li** (corresponding author), Tianwei Zhang, Yuanjie Li, Zeqi Lai, Chao Zhang, Shu-Tao Xia.<br>
   International Conference on Computer Vision (**ICCV**), 2023. <br>
