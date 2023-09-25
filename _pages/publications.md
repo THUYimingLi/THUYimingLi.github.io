@@ -31,7 +31,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 
 
-## Selected Conference Papers
+## Selected Conference Papers (5 ICLR, 3 NeurIPS, 3 ICCV, 1 ECCV, 2 AAAI)
 * [Domain Watermark: Effective and Harmless Dataset Copyright Protection is Closed at Hand]()<br>
   Junfeng Guo, **Yiming Li** (co-first author, corresponding author), Lixu Wang, Shu-Tao Xia, Heng Huang, Cong Liu, Bo Li.<br>
   Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2023. (To Appear) <br>
@@ -126,7 +126,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 
 
-## Selected Journal Articles
+## Selected Journal Articles (1 TIFS, 3 PR, 1 TNNLS, 1 IoTJ)
 * [Black-box Dataset Ownership Verification via Backdoor Watermarking](https://www.researchgate.net/publication/369559541_Black-box_Dataset_Ownership_Verification_via_Backdoor_Watermarking)<br>
   **Yiming Li**, Mingyan Zhu, Xue Yang, Yong Jiang, Tao Wei, Shu-Tao Xia.<br>
   IEEE Transactions on Information Forensics and Security (**TIFS**), 2023. <br>
