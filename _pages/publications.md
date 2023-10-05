@@ -32,9 +32,10 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 
 ## Selected Conference Papers (5 ICLR, 3 NeurIPS, 3 ICCV, 1 ECCV, 2 AAAI)
-* [Domain Watermark: Effective and Harmless Dataset Copyright Protection is Closed at Hand]()<br>
+* [Domain Watermark: Effective and Harmless Dataset Copyright Protection is Closed at Hand](https://www.researchgate.net/publication/374440504_Domain_Watermark_Effective_and_Harmless_Dataset_Copyright_Protection_is_Closed_at_Hand)<br>
   Junfeng Guo, **Yiming Li** (co-first author, corresponding author), Lixu Wang, Shu-Tao Xia, Heng Huang, Cong Liu, Bo Li.<br>
-  Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2023. (To Appear) <br>
+  Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2023. <br>
+  [[Code]](https://github.com/JunfengGo/Domain-Watermark)
 
 * [Setting the Trap: Capturing and Defeating Backdoor Threats in PLMs through Honeypots]()<br>
   Ruixiang Tang, Jiayi Yuan, **Yiming Li** (corresponding author), Zirui Liu, Rui Chen, Xia Hu.<br>
