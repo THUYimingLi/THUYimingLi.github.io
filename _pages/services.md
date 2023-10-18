@@ -9,6 +9,7 @@ redirect_from:
 
 
 ## Conference Services
+* **Area Chair**: NeurIPS Workshop on Robustness of Few-shot and Zero-shot Learning in Foundation Models (2023).
 * **Senior Program Committee Member**: AAAI'22.
 * **Member of Program Committee Board**: IJCAI'22-24.
 * **Program Committee Member**: ICLR, NeurIPS, ICML, CVPR, ICCV, ECCV, AAAI, IJCAI, AISTATS, ICASSP, ICONIP, etc.
