@@ -16,7 +16,7 @@ redirect_from:
 * **Executive Chairman Committee Member**, TBSI Workshop on Data Science (TBSI-WODS), 2019.
 
 ## Journal Services
-- **Reviewer**: TPAMI, TIFS, TDSC, TNNLS, TCSVT, TII, ACM TOIS, Pattern Recognition, Neural Networks, Neurocomputing, Computers & Security, etc.
+- **Reviewer**: TPAMI, TIFS, TDSC, TNNLS, TCSVT, TII, TOIS, Pattern Recognition, Neural Networks, Neurocomputing, Computers & Security, etc.
 
 ## Competition Services
 * **Competition Co-chair**, [IEEE Trojan Removal Competition](http://www.trojan-removal.com/), 2022.
