@@ -6,7 +6,7 @@ redirect_from:
   - /publications
 ---
 
-[Preprints](#selected-preprints)|[Conferences](#selected-conference-papers)|[Journals](#selected-journal-articles)|[Books & Others](#books-and-others)|[Patents](#patents)
+[Preprints](#selected-preprints) | [Conferences](#selected-conference-papers) | [Journals](#selected-journal-articles) | [Books & Others](#books-and-others) | [Patents](#patents)
 
 Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?user=mSW7kU8AAAAJ&hl=zh-CN) for my full paper list. <br>
 
