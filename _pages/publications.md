@@ -6,6 +6,8 @@ redirect_from:
   - /publications
 ---
 
+[Preprints](#selected-preprints)|[Conferences](#selected-conference-papers)|[Journals](#selected-journal-articles)|[Books & Others](#books-and-others)|[Patents](#patents)
+
 Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?user=mSW7kU8AAAAJ&hl=zh-CN) for my full paper list. <br>
 
 
@@ -31,7 +33,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 
 
-## Selected Conference Papers (5 ICLR, 3 NeurIPS, 3 ICCV, 1 ECCV, 2 AAAI)
+## Selected Conference Papers
 * [Domain Watermark: Effective and Harmless Dataset Copyright Protection is Closed at Hand](https://www.researchgate.net/publication/374440504_Domain_Watermark_Effective_and_Harmless_Dataset_Copyright_Protection_is_Closed_at_Hand)<br>
   Junfeng Guo, **Yiming Li** (co-first author, corresponding author), Lixu Wang, Shu-Tao Xia, Heng Huang, Cong Liu, Bo Li.<br>
   Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2023. <br>
@@ -127,7 +129,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 
 
-## Selected Journal Articles (1 TIFS, 3 PR, 1 TNNLS, 1 IoTJ)
+## Selected Journal Articles
 * [Black-box Dataset Ownership Verification via Backdoor Watermarking](https://www.researchgate.net/publication/369559541_Black-box_Dataset_Ownership_Verification_via_Backdoor_Watermarking)<br>
   **Yiming Li**, Mingyan Zhu, Xue Yang, Yong Jiang, Tao Wei, Shu-Tao Xia.<br>
   IEEE Transactions on Information Forensics and Security (**TIFS**), 2023. <br>
