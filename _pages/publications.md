@@ -6,10 +6,9 @@ redirect_from:
   - /publications
 ---
 
-[Preprints](#selected-preprints) | [Conferences](#selected-conference-papers) | [Journals](#selected-journal-articles) | [Books & Others](#books-and-others) | [Patents](#patents)
-
 Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?user=mSW7kU8AAAAJ&hl=zh-CN) for my full paper list. <br>
 
+[Preprints](#selected-preprints) | [Conferences](#selected-conference-papers) | [Journals](#selected-journal-articles) | [Books & Others](#books-and-others) | [Patents](#patents)
 
 ## Selected Preprints
 * [Towards Stealthy Backdoor Attacks against Speech Recognition via Elements of Sound](https://www.researchgate.net/publication/372388876_Towards_Stealthy_Backdoor_Attacks_against_Speech_Recognition_via_Elements_of_Sound)<br>
