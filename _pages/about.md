@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## Biography
-I am currently a Research Professor (求是科创学者) at the School of Cyber Science and Technology, Zhejiang University (also affiliated with ZJU-HIC). Before that, I received my Ph.D. degree with honors in Computer Science and Technology from [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2023, advised by Prof. [Yong Jiang](https://www.sigs.tsinghua.edu.cn/jy/main.htm) and Prof. [Shu-Tao Xia](https://www.sigs.tsinghua.edu.cn/xst/main.htm). I received my B.S. degree with honors in Applied Mathematics from [Ningbo University](https://www.nbu.edu.cn/en/) in 2018, advised by Prof. [Lifeng Xi](http://math.nbu.edu.cn/info/1046/1098.htm). 
+I am currently a Research Professor at the School of Cyber Science and Technology, Zhejiang University (also affiliated with ZJU-HIC). Before that, I received my Ph.D. degree with honors in Computer Science and Technology from [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2023, advised by Prof. [Yong Jiang](https://www.sigs.tsinghua.edu.cn/jy/main.htm) and Prof. [Shu-Tao Xia](https://www.sigs.tsinghua.edu.cn/xst/main.htm). I received my B.S. degree with honors in Applied Mathematics from [Ningbo University](https://www.nbu.edu.cn/en/) in 2018, advised by Prof. [Lifeng Xi](http://math.nbu.edu.cn/info/1046/1098.htm). 
 
 I collaborated with Prof. [Bo Li](https://scholar.google.com/citations?user=K8vJkTcAAAAJ&hl=en) as a visiting Ph.D. student from 2021 to 2023 at UIUC. I was a research intern at Ant Group from 2021 to 2023. I was a research intern at Tencent AI Lab under the Rhino-bird Elite Program from 2019 to 2020. I also worked closely with Dr. [Zhifeng Li](https://scholar.google.fr/citations?user=VTrRNN4AAAAJ&hl=zh-CN) from Tencent  during my Ph.D. journey.
 
