@@ -11,7 +11,7 @@ redirect_from:
 ## Biography
 I am currently a Research Professor at the School of Cyber Science and Technology, Zhejiang University (also affiliated with ZJU-HIC). Before that, I received my Ph.D. degree with honors in Computer Science and Technology from [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by Prof. [Yong Jiang](https://www.sigs.tsinghua.edu.cn/jy/main.htm) and Prof. [Shu-Tao Xia](https://www.sigs.tsinghua.edu.cn/xst/main.htm). I received my B.S. degree with honors in Applied Mathematics from [Ningbo University](https://www.nbu.edu.cn/en/), advised by Prof. [Lifeng Xi](http://math.nbu.edu.cn/info/1046/1098.htm). I also collaborated closely with Prof. [Bo Li](https://scholar.google.com/citations?user=K8vJkTcAAAAJ&hl=en) and Dr. [Zhifeng Li](https://scholar.google.fr/citations?user=VTrRNN4AAAAJ&hl=zh-CN) during my Ph.D. journey.
 
-**My research mainly focuses on Trustworthy AI**, especially backdoor attacks/defenses and copyright protection in deep learning. My long-term goal is to **make DL-based algorithms more robust and secure during their full life cycle**. Recently, I focus more on **Trustworthy Large Foundation Models** (*e.g.*, GPT-4 and ViT). I always **chase for simple yet effective methods** with deep insights and theoretical supports. 
+**My research mainly focuses on Trustworthy AI**, especially backdoor attacks/defenses and copyright protection in deep learning. My long-term goal is to **make DL-based algorithms more robust and secure during their full life cycle**. Recently, I focus more on **Trustworthy Large Foundation Models** (*e.g.*, GPT-4 and ViT). I always **chase for simple yet effective methods** with deep insights and theoretical support. 
 
 
 ## Annocement
