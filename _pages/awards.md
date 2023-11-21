@@ -14,7 +14,7 @@ redirect_from:
 * China National Scholarship (Ph.D. Student, <font color='red'>TOP 1%</font>), Ministry of Education of China, 2022.
 * AI Risk Analysis Award, NeurIPS ML Safety Workshop, 2022.
 * Scholar Award, NeurIPS, 2022.
-* Top Reviewers, NeurIPS, 2022.
+* Top Reviewers, NeurIPS, 2022/2023.
 * Student Scholarship, Association for the Advancement of Artificial Intelligence (AAAI), 2022.
 * Best Paper of `Adversarial for Good' Award, ICML AdvML Workshop, 2021.
 * Rhino-bird Elite (<font color='red'>TOP 5%</font>), Tencent, 2021.
