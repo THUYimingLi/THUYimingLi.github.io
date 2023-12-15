@@ -11,7 +11,7 @@ redirect_from:
 
 
 ## Invited Talks
-* A Blessing in Disguise: Backdoor Attacks as Watermarks for Dataset Copyright Protection, NeurIPS BUGS Workshop (online), 2023/12/15. [[Slides]]() [[Video]]()
+* A Blessing in Disguise: Backdoor Attacks as Watermarks for Dataset Copyright Protection, NeurIPS BUGS Workshop (online), 2023/12/15. [[Slides]](https://www.dropbox.com/scl/fi/2yc7n3lvwbsz7990lykrc/NeurIPSTalk_Yiming.pptx?rlkey=t61y3xte03wezavvvxlwc8c9z&dl=0) [[Video]](https://www.dropbox.com/scl/fi/5g23tbmnzp2gfd3menrhm/NeurIPSTalk_Yiming.mp4?rlkey=fdmi3n245n6gcaq2op1oqchc6&dl=0)
 
 * A Blessing in Disguise: Devil and Angel in Backdoor Attacks, HKUST-GZ, 2023/06/08. [[Slides]](https://www.dropbox.com/s/i1316b3dyb5wdam/Talk_HKUST-GZ_YimingLi.pptx?dl=0)
 
