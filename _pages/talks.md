@@ -11,6 +11,8 @@ redirect_from:
 
 
 ## Invited Talks
+* A Blessing in Disguise: Backdoor Attacks as Watermarks for Dataset Copyright Protection, NeurIPS BUGS Workshop (online), 2023/12/15. [[Slides]]() [[Video]]()
+
 * A Blessing in Disguise: Devil and Angel in Backdoor Attacks, HKUST-GZ, 2023/06/08. [[Slides]](https://www.dropbox.com/s/i1316b3dyb5wdam/Talk_HKUST-GZ_YimingLi.pptx?dl=0)
 
 * Poisoning-based Backdoor Attacks in Computer Vision, CISPA Helmholtz Center for Information Security (online), 2023/02/17. [[Slides]](https://www.dropbox.com/s/31hwxb8ia4xfyb7/JobTalk_YimingLi_THU.pptx?dl=0)
