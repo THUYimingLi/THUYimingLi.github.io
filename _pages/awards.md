@@ -5,8 +5,8 @@ permalink: /awards/
 redirect_from:
   - /awards
 ---
-* Rising Star in AI, KAUST AI Symposium, 2024.
-* Rising Star Award (<font color='red'>TOP-15</font>), World Artificial Intelligence Conference, 2023.
+* Rising Stars in AI, KAUST AI Symposium, 2024.
+* Rising Stars (<font color='red'>TOP-15</font>), World Artificial Intelligence Conference, 2023.
 * Outstanding Doctoral Graduates (<font color='red'>TOP 5%</font>), Beijing City, 2023.
 * Outstanding Paper Award (<font color='red'>TOP-10</font>), Cybersecurity Conference, The Chinese Institute of Electronics, 2023.
 * Best Paper Award (<font color='red'>TOP-1</font>), The Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2023.
