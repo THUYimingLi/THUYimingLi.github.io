@@ -19,11 +19,12 @@ I am **always looking for highly self-motivated students and research interns** 
 
 
 ## News
+* 12/2023: I will give an invited talk at [KAUST Rising Star Symposium (2024)](https://cemse.kaust.edu.sa/ai/aii-symp-2024).
 * 09/2023: I will give an invited talk about backdoor attacks for dataset copyright protection at [NeurIPS'23 Backdoor Workshop](https://neurips2023-bugs.github.io/). See you in New Orleans！
 * 09/2023: Two papers are accepted by NeurIPS 2023. Their codes will be released soon.
 * 07/2023: Two papers are accepted by ICCV 2023. Their codes have been released.
 * 06/2023: So exciting to receive the Rising Star Award from WAIC'23.
-* 05/2023: So exciting to receive the Best Paper Award from PAKDD'23.
+
 
 
 
