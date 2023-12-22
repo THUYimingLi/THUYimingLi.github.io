@@ -20,7 +20,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   Under Review by IEEE Transactions on Information Forensics and Security (**TIFS**), 2023.<br>
   [[Code]](https://github.com/HanboCai/BadSpeech_SoE)
   
-* [Backdoor Attack with Sparse and Invisible Trigger](https://arxiv.org/pdf/2306.06209.pdf)<br>
+* [Backdoor Attack with Sparse and Invisible Trigger](https://www.researchgate.net/publication/370659402_Backdoor_Attack_with_Sparse_and_Invisible_Trigger)<br>
   Yinghua Gao, **Yiming Li** (co-first author, co-corresponding author), Xueluan Gong, Zhifeng Li, Shu-Tao Xia, Qian Wang.<br>
   Under Review by IEEE Transactions on Information Forensics and Security (**TIFS**), 2023.<br>
   [[Code]](https://github.com/YinghuaGao/SIBA)
