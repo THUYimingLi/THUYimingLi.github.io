@@ -151,6 +151,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 * [Not All Samples Are Born Equal: Towards Effective Clean-Label Backdoor Attacks](https://www.sciencedirect.com/science/article/abs/pii/S0031320323002121)<br>
   Yinghua Gao, **Yiming Li** (co-first author, corresponding author), Linghui Zhu, Dongxian Wu, Yong Jiang, Shu-Tao Xia.<br>
   **Pattern Recognition**, 2023. <br>
+  [[Code]](https://github.com/YinghuaGao/Effective_CLB)
 
 * [Backdoor Learning: A Survey](https://www.researchgate.net/publication/343006441_Backdoor_Learning_A_Survey)<br>
   **Yiming Li**, Yong Jiang, Zhifeng Li, Shu-Tao Xia.<br>
