@@ -30,13 +30,22 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   Under Review by IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2022. (The journal extension of our [AAAI'22 conference paper](https://arxiv.org/pdf/2112.03476.pdf))<br>
   [[Code]](https://github.com/THUYimingLi/MOVE)
 
-* [BaDExpert: Extracting Backdoor Functionality for Accurate Backdoor Input Detection](https://arxiv.org/pdf/2308.12439.pdf)<br>
- Tinghao Xie, Xiangyu Qi, Ping He, **Yiming Li**, Jiachen T. Wang, Prateek Mittal.<br>
- arXiv, 2023.
-
 
 
 ## Selected Conference Papers
+* [Towards Reliable and Efficient Backdoor Trigger Inversion via Decoupling Benign Features](https://openreview.net/forum?id=Tw9wemV6cb)<br>
+  Xiong Xu, Kunzhe Huang, **Yiming Li** (co-corresponding author), Zhan Qin, Kui Ren. <br>
+  International Conference on Learning Representations (**ICLR**), 2024. (<font color='red'><b>Spotlight</b></font>, TOP 5%)<br>
+
+* [Towards Faithful XAI Evaluation via Generalization-Limited Backdoor Watermark](https://openreview.net/forum?id=cObFETcoeW)<br>
+  Mengxi Ya, Yiming Li (co-first author, co-corresponding author), Tao Dai, Bin Wang, Yong Jiang, Shu-Tao Xia. <br>
+  International Conference on Learning Representations (**ICLR**), 2024.<br>
+
+* [BaDExpert: Extracting Backdoor Functionality for Accurate Backdoor Input Detection](https://openreview.net/forum?id=s56xikpD92)<br>
+  Tinghao Xie, Xiangyu Qi, Ping He, **Yiming Li** (co-corresponding author), Jiachen T. Wang, Prateek Mittal.<br>
+  International Conference on Learning Representations (**ICLR**), 2024.<br>
+
+
 * [Domain Watermark: Effective and Harmless Dataset Copyright Protection is Closed at Hand](https://www.researchgate.net/publication/374440504_Domain_Watermark_Effective_and_Harmless_Dataset_Copyright_Protection_is_Closed_at_Hand)<br>
   Junfeng Guo, **Yiming Li** (co-first author, corresponding author), Lixu Wang, Shu-Tao Xia, Heng Huang, Cong Liu, Bo Li.<br>
   Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2023. <br>
