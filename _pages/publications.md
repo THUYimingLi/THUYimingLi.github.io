@@ -34,7 +34,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 ## Selected Conference Papers
 * [Towards Reliable and Efficient Backdoor Trigger Inversion via Decoupling Benign Features](https://openreview.net/forum?id=Tw9wemV6cb)<br>
-  Xiong Xu, Kunzhe Huang, **Yiming Li** (co-corresponding author), Zhan Qin, Kui Ren. <br>
+  Xiong Xu, Kunzhe Huang, **Yiming Li** (co-first author, co-corresponding author), Zhan Qin, Kui Ren. <br>
   International Conference on Learning Representations (**ICLR**), 2024. (<font color='red'><b>Spotlight</b></font>, TOP 5%)<br>
 
 * [Towards Faithful XAI Evaluation via Generalization-Limited Backdoor Watermark](https://openreview.net/forum?id=cObFETcoeW)<br>
