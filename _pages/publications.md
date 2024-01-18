@@ -21,7 +21,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   [[Code]](https://github.com/HanboCai/BadSpeech_SoE)
   
 * [Backdoor Attack with Sparse and Invisible Trigger](https://www.researchgate.net/publication/370659402_Backdoor_Attack_with_Sparse_and_Invisible_Trigger)<br>
-  Yinghua Gao, **Yiming Li** (co-first author, co-corresponding author), Xueluan Gong, Zhifeng Li, Shu-Tao Xia, Qian Wang.<br>
+  Yinghua Gao, **Yiming Li** (co-first author, corresponding author), Xueluan Gong, Zhifeng Li, Shu-Tao Xia, Qian Wang.<br>
   Under Review by IEEE Transactions on Information Forensics and Security (**TIFS**), 2023.<br>
   [[Code]](https://github.com/YinghuaGao/SIBA)
 
@@ -38,7 +38,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   International Conference on Learning Representations (**ICLR**), 2024. (<font color='red'><b>Spotlight</b></font>, TOP 5%)<br>
 
 * [Towards Faithful XAI Evaluation via Generalization-Limited Backdoor Watermark](https://openreview.net/forum?id=cObFETcoeW)<br>
-  Mengxi Ya, Yiming Li (co-first author, co-corresponding author), Tao Dai, Bin Wang, Yong Jiang, Shu-Tao Xia. <br>
+  Mengxi Ya, Yiming Li (co-first author, corresponding author), Tao Dai, Bin Wang, Yong Jiang, Shu-Tao Xia. <br>
   International Conference on Learning Representations (**ICLR**), 2024.<br>
 
 * [BaDExpert: Extracting Backdoor Functionality for Accurate Backdoor Input Detection](https://openreview.net/forum?id=s56xikpD92)<br>
