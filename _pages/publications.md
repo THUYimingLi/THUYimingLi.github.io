@@ -38,7 +38,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   International Conference on Learning Representations (**ICLR**), 2024. (<font color='red'><b>Spotlight</b></font>, TOP 5%)<br>
 
 * [Towards Faithful XAI Evaluation via Generalization-Limited Backdoor Watermark](https://openreview.net/forum?id=cObFETcoeW)<br>
-  Mengxi Ya, Yiming Li (co-first author, corresponding author), Tao Dai, Bin Wang, Yong Jiang, Shu-Tao Xia. <br>
+  Mengxi Ya, **Yiming Li** (co-first author, corresponding author), Tao Dai, Bin Wang, Yong Jiang, Shu-Tao Xia. <br>
   International Conference on Learning Representations (**ICLR**), 2024.<br>
 
 * [BaDExpert: Extracting Backdoor Functionality for Accurate Backdoor Input Detection](https://openreview.net/forum?id=s56xikpD92)<br>
