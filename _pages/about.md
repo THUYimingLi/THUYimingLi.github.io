@@ -19,11 +19,11 @@ I am **always looking for highly self-motivated students and research interns** 
 
 
 ## News
+* 01/2024: So glad to become the Qizhen Outstanding Young Scholar at Zhejiang University.
 * 01/2024: Three papers about backdoor learning (2 backdoor defenses and 1 backdoor for XAI) are accepted by ICLR 2024 (with one Spotlight)! Their codes will be released soon. Congrats to Xiong Xu, Kunzhe Huang, Mengxi Ya, Tinghao Xie, Xiangyu Qi, and all collaborators!
 * 12/2023: So exciting to receive the Rising Star Award from [KAUST AI Symposium](https://cemse.kaust.edu.sa/ai/aii-symp-2024), 2024. 
 * 09/2023: I will give an invited talk about backdoor attacks for dataset copyright protection at [NeurIPS'23 Backdoor Workshop](https://neurips2023-bugs.github.io/). See you in New Orleans！
 * 09/2023: Two papers are accepted by NeurIPS 2023. Their codes will be released soon.
-* 07/2023: Two papers are accepted by ICCV 2023. Their codes have been released.
 
 
 
