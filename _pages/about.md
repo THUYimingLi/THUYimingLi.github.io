@@ -36,8 +36,6 @@ I am **always looking for highly self-motivated students and research interns** 
 [<font color='orange'>Github Repo about Backdoor Learning Resources</font>](https://github.com/THUYimingLi/backdoor-learning-resources)
 
 
-[<font color='orange'>Technical Report about the ATT&CK Matrix of AI Security</font>](https://aisecmatrix.org/en)
-
 
 
 
