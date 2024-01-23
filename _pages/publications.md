@@ -8,7 +8,7 @@ redirect_from:
 
 Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?user=mSW7kU8AAAAJ&hl=zh-CN) for my full paper list. <br>
 
-[Preprints](#selected-preprints) | [Conferences](#selected-conference-papers) | [Journals](#selected-journal-articles) | [Books & Others](#books-and-others) | [Patents](#patents)
+[Preprints](#selected-preprints) | [Conferences](#selected-conference-papers) | [Journals](#selected-journal-articles) | [Books & Technical Reports](#books-and-technical-reports) | [Dissertation](#dissertation) | [Patents](#patents)
 
 ## Selected Preprints
 * [Towards Sample-specific Backdoor Attack with Clean Labels via Attribute Trigger](https://www.researchgate.net/publication/376174078_Towards_Sample-specific_Backdoor_Attack_with_Clean_Labels_via_Attribute_Trigger)<br>
@@ -175,24 +175,25 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 
 
+## Books and Technical Reports
+* [Chapter 4: The Robust and Harmless Model Watermarking](https://link.springer.com/chapter/10.1007/978-981-19-7554-7_4)<br>
+  **Yiming Li**, Linghui Zhu, Yang Bai, Yong Jiang, Shu-Tao Xia.<br>
+  Digital Watermarking for Machine Learning Model: Techniques, Protocols and Applications. Springer, 2023.
 
-## Books and Others
+* [Technical Report: The ATT&CK Matrix of AI Security](https://aisecmatrix.org/en), 2020/09/18. <br>
+  [[Media1]](https://ai.tencent.com/ailab/zh/news/detial/?id=68) [[Media2]](https://www.jiqizhixin.com/articles/2020-09-25-9) [[Media3]](http://tech.sina.com.cn/csj/2020-09-25/doc-iivhuipp6375448.shtml) [[Media4]](https://tech.qq.com/a/20200925/020797.htm) [[Media5]](http://mp.163.com/article/FNCHRG1V0511DSSR.html) [[Media6]](https://www.sohu.com/a/421167914_120765903)
+
+
+## Dissertation
 * [Poisoning-based Backdoor Attacks in Computer Vision](https://www.researchgate.net/publication/370233769_Poisoning-based_Backdoor_Attacks_in_Computer_Vision)<br>
   **Yiming Li**.<br>
   Ph.D. Dissertation, 2023. <br>
   [[Slides]](https://www.dropbox.com/s/577xlvldtppo8rs/DissertationDefense_YimingLi.pptx?dl=0)
 
-* [Chapter 4: The Robust and Harmless Model Watermarking](https://link.springer.com/chapter/10.1007/978-981-19-7554-7_4)<br>
-  **Yiming Li**, Linghui Zhu, Yang Bai, Yong Jiang, Shu-Tao Xia.<br>
-  Digital Watermarking for Machine Learning Model: Techniques, Protocols and Applications. Springer, 2023.
-
 * [Poisoning-based Backdoor Attacks in Computer Vision](https://ojs.aaai.org/index.php/AAAI/article/view/26921)<br>
   **Yiming Li**.<br>
   AAAI Conference on Artificial Intelligence (**AAAI**), 2023. (Doctoral Consortium)<br>
   [[Slides]](https://www.dropbox.com/s/6pj0lzuk9f4gjp9/AAAI23_DC_YimingLi_THU.pptx?dl=0)
-
-* Tencent AI Lab (Baoyuan Wu, Yanbo Fan, Yong Zhang, **Yiming Li** (first and only student author), Zhifeng Li, Wei Liu), Tencent Zhuque Lab (viking, jifengzhu, allenszch, ucasjh, dylan, xunsu). The ATT&CK Matrix of AI Security, 2020/09/18. [[Download]](https://ai.tencent.com/ailab/media/AI%E5%AE%89%E5%85%A8%E7%9A%84%E5%A8%81%E8%83%81%E9%A3%8E%E9%99%A9%E7%9F%A9%E9%98%B5.pdf) [[Website]](https://aisecmatrix.org/en)[[Media1]](https://ai.tencent.com/ailab/zh/news/detial/?id=68) [[Media2]](https://www.jiqizhixin.com/articles/2020-09-25-9) [[Media3]](http://tech.sina.com.cn/csj/2020-09-25/doc-iivhuipp6375448.shtml) [[Media4]](https://tech.qq.com/a/20200925/020797.htm) [[Media5]](http://mp.163.com/article/FNCHRG1V0511DSSR.html) [[Media6]](https://www.sohu.com/a/421167914_120765903)...
-
 
 
 ## Patents
