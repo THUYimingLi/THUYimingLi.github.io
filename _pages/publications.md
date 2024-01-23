@@ -180,7 +180,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   **Yiming Li**, Linghui Zhu, Yang Bai, Yong Jiang, Shu-Tao Xia.<br>
   Digital Watermarking for Machine Learning Model: Techniques, Protocols and Applications. Springer, 2023.
 
-* [The ATT&CK Matrix of AI Security](https://aisecmatrix.org/en). <br>
+* [The ATT&CK Matrix of AI Security](https://aisecmatrix.org/en) <br>
    Technical Report, 2020/09/18. <br>
   [[Media1]](https://ai.tencent.com/ailab/zh/news/detial/?id=68) [[Media2]](https://www.jiqizhixin.com/articles/2020-09-25-9) [[Media3]](http://tech.sina.com.cn/csj/2020-09-25/doc-iivhuipp6375448.shtml) [[Media4]](https://tech.qq.com/a/20200925/020797.htm) [[Media5]](http://mp.163.com/article/FNCHRG1V0511DSSR.html) [[Media6]](https://www.sohu.com/a/421167914_120765903)
 
