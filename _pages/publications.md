@@ -180,8 +180,13 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   **Yiming Li**, Linghui Zhu, Yang Bai, Yong Jiang, Shu-Tao Xia.<br>
   Digital Watermarking for Machine Learning Model: Techniques, Protocols and Applications. Springer, 2023.
 
+* [LLM Safety and Ethics (in Chinese)](https://www.dropbox.com/scl/fi/u9xiq1rierdlwtjrqejav/2024.pdf?rlkey=tgnb2uknogzm02dr7uiyrpdza&dl=0) <br>
+   Technical Report, 2024/01. <br>
+   [Media1](https://mp.weixin.qq.com/s/KCWw9gBwUnzywyNW_K8-4A) [[Media2]](https://finance.sina.cn/stock/relnews/hk/2024-01-25/detail-inaetumy1071697.d.html?from=wap) [[Media3]](https://tech.cnr.cn/techph/20240125/t20240125_526570970.shtml) [[Media4]](https://www.aixinzhijie.com/article/6844666)
+
+
 * [The ATT&CK Matrix of AI Security](https://aisecmatrix.org/en) <br>
-   Technical Report, 2020/09/18. <br>
+   Technical Report, 2020/09. <br>
   [[Media1]](https://ai.tencent.com/ailab/zh/news/detial/?id=68) [[Media2]](https://www.jiqizhixin.com/articles/2020-09-25-9) [[Media3]](http://tech.sina.com.cn/csj/2020-09-25/doc-iivhuipp6375448.shtml) [[Media4]](https://tech.qq.com/a/20200925/020797.htm) [[Media5]](http://mp.163.com/article/FNCHRG1V0511DSSR.html) [[Media6]](https://www.sohu.com/a/421167914_120765903)
 
 
