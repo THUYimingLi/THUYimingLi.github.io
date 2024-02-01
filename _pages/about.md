@@ -15,7 +15,7 @@ I am currently a Research Professor (HIC-ZJU-100 Young Professor, ZJU Qizhen Out
 
 
 ## Annocement
-I am **always looking for highly self-motivated students and research interns** to join exciting research projects on Trustworthy AI in our group. Besides, I am **always willing to work together on interesting projects with external collaborators**. Drop me an email if you are interested! 
+I am **always looking for highly self-motivated students and research interns** to join exciting research projects on Trustworthy ML and Responsible AI in our group. Besides, I am **always willing to work together on interesting projects with external collaborators**. Drop me an email if you are interested! 
 
 
 ## News
