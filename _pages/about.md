@@ -22,7 +22,7 @@ I am **always looking for highly self-motivated students and research interns** 
 * 01/2024: I am invited as an Area Chair of ACM MM 2024. 
 * 01/2024: So glad to become the Qizhen Outstanding Young Scholar at Zhejiang University.
 * 01/2024: Three papers about backdoor learning (2 backdoor defenses and 1 backdoor for XAI) are accepted by ICLR 2024 (with one Spotlight)! Their codes will be released soon. Congrats to Xiong Xu, Kunzhe Huang, Mengxi Ya, Tinghao Xie, Xiangyu Qi, and all collaborators!
-* 12/2023: So exciting to receive the Rising Star Award from [KAUST AI Symposium](https://cemse.kaust.edu.sa/ai/aii-symp-2024), 2024. 
+* 12/2023: So exciting to be selected as one of the KAUST Rising Stars in AI. 
 * 09/2023: Two papers are accepted by NeurIPS 2023. Their codes will be released soon.
 
 
