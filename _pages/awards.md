@@ -5,7 +5,7 @@ permalink: /awards/
 redirect_from:
   - /awards
 ---
-* Rising Stars in AI (<font color='red'>TOP 15%</font>), KAUST, 2024.
+* Rising Stars in AI (<font color='red'>TOP 15%</font>), King Abdullah University of Science and Technology (KAUST), 2024.
 * Rising Stars (<font color='red'>TOP-15</font>), World Artificial Intelligence Conference, 2023.
 * Qizhen Outstanding Young Scholar, Zhejiang University, 2023.
 * Best Paper Award (<font color='red'>TOP-1</font>), The Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2023.
