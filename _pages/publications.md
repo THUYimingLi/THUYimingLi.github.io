@@ -14,11 +14,6 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 * [Towards Sample-specific Backdoor Attack with Clean Labels via Attribute Trigger](https://www.researchgate.net/publication/376174078_Towards_Sample-specific_Backdoor_Attack_with_Clean_Labels_via_Attribute_Trigger)<br>
   **Yiming Li**, Mingyan Zhu, Junfeng Guo, Tao Wei, Shu-Tao Xia, Zhan Qin.<br>
   Under Review by IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2023.<br>
-
-* [Towards Stealthy Backdoor Attacks against Speech Recognition via Elements of Sound](https://www.researchgate.net/publication/372388876_Towards_Stealthy_Backdoor_Attacks_against_Speech_Recognition_via_Elements_of_Sound)<br>
-  Hanbo Cai, Pengcheng Zhang, Hai Dong, Yan Xiao, Stefanos Koffas, **Yiming Li**.<br>
-  Under Review by IEEE Transactions on Information Forensics and Security (**TIFS**), 2023.<br>
-  [[Code]](https://github.com/HanboCai/BadSpeech_SoE)
   
 * [Backdoor Attack with Sparse and Invisible Trigger](https://www.researchgate.net/publication/370659402_Backdoor_Attack_with_Sparse_and_Invisible_Trigger)<br>
   Yinghua Gao, **Yiming Li** (co-first author, corresponding author), Xueluan Gong, Zhifeng Li, Shu-Tao Xia, Qian Wang.<br>
@@ -142,6 +137,11 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 
 ## Selected Journal Articles
+* [Towards Stealthy Backdoor Attacks against Speech Recognition via Elements of Sound](https://www.researchgate.net/publication/372388876_Towards_Stealthy_Backdoor_Attacks_against_Speech_Recognition_via_Elements_of_Sound)<br>
+  Hanbo Cai, Pengcheng Zhang, Hai Dong, Yan Xiao, Stefanos Koffas, **Yiming Li**.<br>
+  IEEE Transactions on Information Forensics and Security (**TIFS**), 2024. (Accept with Minor Revision) <br>
+  [[Code]](https://github.com/HanboCai/BadSpeech_SoE)
+
 * [Black-box Dataset Ownership Verification via Backdoor Watermarking](https://www.researchgate.net/publication/369559541_Black-box_Dataset_Ownership_Verification_via_Backdoor_Watermarking)<br>
   **Yiming Li**, Mingyan Zhu, Xue Yang, Yong Jiang, Tao Wei, Shu-Tao Xia.<br>
   IEEE Transactions on Information Forensics and Security (**TIFS**), 2023. <br>
