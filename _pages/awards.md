@@ -22,8 +22,8 @@ redirect_from:
 * Rhino-bird Elite (<font color='red'>TOP 5%</font>), Tencent, 2021.
 * Top 25% PC Member, AAAI Conference on Artificial Intelligence, 2021. 
 * Excellence Scholarship (<font color='red'>Rank First in our Track, TOP 20%</font>), Tsinghua-Berkeley Shenzhen Institute (TBSI), 2021/2022.
-* 'Future Scholar' Ph.D. Fellowship (<font color='red'>TOP-2</font> in TBSI), Tsinghua University, 2020/2021/2022.
-* Dean's Scholarship, Tsinghua-Berkeley Shenzhen Institute (TBSI), 2020/2021/2022.
+* 'Future Scholar' Ph.D. Fellowship (<font color='red'>TOP-2</font> in TBSI), Tsinghua University, 2020/2021/2022/2023.
+* Dean's Scholarship, Tsinghua-Berkeley Shenzhen Institute (TBSI), 2020/2021/2022/2023.
 * Best Student Research Award, TBSI Workshop on Data Science, 2019.
 * Outstanding Undergraduates (<font color='red'>TOP 1%</font>), Zhejiang Province, 2018.
 * Outstanding Undergraduate Thesis Award (<font color='red'>TOP 5%</font>), Ningbo University, 2018.
