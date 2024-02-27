@@ -19,11 +19,12 @@ I am **always looking for highly self-motivated students and research interns** 
 
 
 ## News
+* 02/2024: Two papers are accepted by CVPR. Congrats to Boheng Li, Sheng Yang, Jiawang Bai and all collaborators!
 * 02/2024: One paper about backdoor attack against speech recognition is accepted by IEEE TIFS. Congrats to Hanbo Cai and all collaborators!
 * 01/2024: I am invited as an Area Chair of ACM MM 2024. 
 * 01/2024: So glad to become the Qizhen Outstanding Young Scholar at Zhejiang University.
 * 01/2024: Three papers about backdoor learning (2 backdoor defenses and 1 backdoor for XAI) are accepted by ICLR 2024 (with one Spotlight)! Their codes will be released soon. Congrats to Xiong Xu, Kunzhe Huang, Mengxi Ya, Tinghao Xie, Xiangyu Qi, and all collaborators!
-* 09/2023: Two papers are accepted by NeurIPS 2023. Their codes will be released soon.
+
 
 
 
