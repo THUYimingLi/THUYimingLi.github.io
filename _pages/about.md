@@ -19,7 +19,7 @@ I am **always looking for highly self-motivated students and research interns** 
 
 
 ## News
-* 02/2024: Two papers are accepted by CVPR. Congrats to Boheng Li, Sheng Yang, Jiawang Bai and all collaborators!
+* 02/2024: Two papers about backdoor learning (1 backdoor attack against ViT and 1 backdoor defense) are accepted by CVPR. Congrats to Boheng Li, Sheng Yang, Jiawang Bai and all collaborators!
 * 02/2024: One paper about backdoor attack against speech recognition is accepted by IEEE TIFS. Congrats to Hanbo Cai and all collaborators!
 * 01/2024: I am invited as an Area Chair of ACM MM 2024. 
 * 01/2024: So glad to become the Qizhen Outstanding Young Scholar at Zhejiang University.
