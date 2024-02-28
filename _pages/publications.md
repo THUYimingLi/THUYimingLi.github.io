@@ -27,7 +27,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 
 
-## Selected Conference Papers
+## Selected Conference Papers (8 ICLR, 3 NeurIPS, 2 CVPR, 3 ICCV, 1 ECCV, 2 AAAI)
 * [Nearest Is Not Dearest: Towards Practical Defense against Quantization-conditioned Backdoor Attacks]()<br>
   Boheng Li, Yishuo Cai, Haowei Li, Feng Xue, Zhifeng Li, **Yiming Li** (corresponding author). <br>
   IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024. (To Appear) <br>
@@ -49,7 +49,6 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 * [BaDExpert: Extracting Backdoor Functionality for Accurate Backdoor Input Detection](https://openreview.net/forum?id=s56xikpD92)<br>
   Tinghao Xie, Xiangyu Qi, Ping He, **Yiming Li** (co-corresponding author), Jiachen T. Wang, Prateek Mittal.<br>
   International Conference on Learning Representations (**ICLR**), 2024.<br>
-
 
 * [Domain Watermark: Effective and Harmless Dataset Copyright Protection is Closed at Hand](https://www.researchgate.net/publication/374440504_Domain_Watermark_Effective_and_Harmless_Dataset_Copyright_Protection_is_Closed_at_Hand)<br>
   Junfeng Guo, **Yiming Li** (co-first author, corresponding author), Lixu Wang, Shu-Tao Xia, Heng Huang, Cong Liu, Bo Li.<br>
@@ -146,7 +145,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 
 
-## Selected Journal Articles
+## Selected Journal Articles (2 TIFS, 3 PR, 1 TNNLS)
 * [Towards Stealthy Backdoor Attacks against Speech Recognition via Elements of Sound](https://www.researchgate.net/publication/372388876_Towards_Stealthy_Backdoor_Attacks_against_Speech_Recognition_via_Elements_of_Sound)<br>
   Hanbo Cai, Pengcheng Zhang, Hai Dong, Yan Xiao, Stefanos Koffas, **Yiming Li**.<br>
   IEEE Transactions on Information Forensics and Security (**TIFS**), 2024. (Accept with Minor Revision) <br>
@@ -177,11 +176,6 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   Jiawang Bai, **Yiming Li** (co-first author), Jiawei Li, Xue Yang, Yong Jiang, Shu-Tao Xia.<br>
   **Pattern Recognition**, 2022. <br>
   [[Code]](https://github.com/jiawangbai/Multinomial-Random-Forest)
-
-* [A Fine-grained Differentially Private Federated Learning against Leakage from Gradients](https://ieeexplore.ieee.org/document/9627872)<br>
-  Linghui Zhu, Xinyi Liu, **Yiming Li**, Xue Yang, Shu-Tao Xia, Rongxing Lu.<br>
-  IEEE Internet of Things Journal (**IoT Journal**), 2022. <br>
-  [[Code]](https://github.com/zlh-thu/DPFL)
 
 
 
