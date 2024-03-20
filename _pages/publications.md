@@ -51,6 +51,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 * [BaDExpert: Extracting Backdoor Functionality for Accurate Backdoor Input Detection](https://openreview.net/forum?id=s56xikpD92)<br>
   Tinghao Xie, Xiangyu Qi, Ping He, **Yiming Li** (co-corresponding author), Jiachen T. Wang, Prateek Mittal.<br>
   International Conference on Learning Representations (**ICLR**), 2024.<br>
+  [[Code]](https://github.com/vtu81/backdoor-toolbox)
 
 * [Domain Watermark: Effective and Harmless Dataset Copyright Protection is Closed at Hand](https://www.researchgate.net/publication/374440504_Domain_Watermark_Effective_and_Harmless_Dataset_Copyright_Protection_is_Closed_at_Hand)<br>
   Junfeng Guo, **Yiming Li** (co-first author, corresponding author), Lixu Wang, Shu-Tao Xia, Heng Huang, Cong Liu, Bo Li.<br>
