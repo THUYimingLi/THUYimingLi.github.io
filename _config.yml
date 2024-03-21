@@ -11,7 +11,7 @@ title                    : "Yiming Li"
 title_separator          : "-"
 name                     : &name "Yiming Li"
 description              : &description "Personal Website"
-url                      : https://THUYimingLi.github.io
+url                      : https://liyiming.tech
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "THUYimingLi/THUYimingLi.github.io"
 teaser                   : "profile_new.png"
