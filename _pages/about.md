@@ -19,11 +19,11 @@ I am **always looking for highly self-motivated students and research interns** 
 
 
 ## News
-* 02/2024: Two papers about backdoor learning (1 backdoor attack against ViT and 1 backdoor defense) are accepted by CVPR. Congrats to Boheng Li, Sheng Yang, Jiawang Bai and all collaborators!
-* 02/2024: One paper about backdoor attack against speech recognition is accepted by IEEE TIFS. Congrats to Hanbo Cai and all collaborators!
+* 02/2024: Two papers about backdoor learning (1 backdoor attack against ViT and 1 backdoor defense) are accepted by CVPR. Congrats and thanks to Boheng Li, Sheng Yang, Jiawang Bai, and all collaborators! Their codes will be released soon.  
+* 02/2024: One paper about backdoor attack against speech recognition is accepted by IEEE TIFS. Congrats and thanks to Hanbo Cai and all collaborators! Its codes will be released soon.  
 * 01/2024: I am invited as an Area Chair of ACM MM 2024. 
 * 01/2024: So glad to become the Qizhen Outstanding Young Scholar at Zhejiang University.
-* 01/2024: Three papers about backdoor learning (2 backdoor defenses and 1 backdoor for XAI) are accepted by ICLR 2024 (with one Spotlight)! Their codes will be released soon. Congrats to Xiong Xu, Kunzhe Huang, Mengxi Ya, Tinghao Xie, Xiangyu Qi, and all collaborators!
+* 01/2024: Three papers about backdoor learning (2 backdoor defenses and 1 backdoor for XAI) are accepted by ICLR 2024 (with one Spotlight)! Their codes have been released. Congrats and thanks to Xiong Xu, Kunzhe Huang, Mengxi Ya, Tinghao Xie, Xiangyu Qi, and all collaborators!
 
 
 
