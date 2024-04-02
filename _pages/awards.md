@@ -5,7 +5,9 @@ permalink: /awards/
 redirect_from:
   - /awards
 ---
+* AInet Fellows (Safety and Security in AI), Deutscher Akademischer Austauschdienst (DAAD), 2024. 
 * Rising Stars in AI (<font color='red'>TOP 15%</font>), King Abdullah University of Science and Technology (KAUST), 2024.
+* Excellent Doctoral Dissertation Award (<font color='red'>TOP 3</font>), Shenzhen City Computer Federation (SZCCF), 2024.
 * Rising Stars (<font color='red'>TOP-15</font>), World Artificial Intelligence Conference, 2023.
 * Qizhen Outstanding Young Scholar, Zhejiang University, 2023.
 * Best Paper Award (<font color='red'>TOP-1</font>), The Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2023.
