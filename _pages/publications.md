@@ -194,7 +194,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 * [LLM Safety and Ethics (in Chinese)](https://www.dropbox.com/scl/fi/u9xiq1rierdlwtjrqejav/2024.pdf?rlkey=tgnb2uknogzm02dr7uiyrpdza&dl=0) <br>
    Technical Report, 2024/01. <br>
-   [Media1](https://mp.weixin.qq.com/s/KCWw9gBwUnzywyNW_K8-4A) [[Media2]](https://finance.sina.cn/stock/relnews/hk/2024-01-25/detail-inaetumy1071697.d.html?from=wap) [[Media3]](https://tech.cnr.cn/techph/20240125/t20240125_526570970.shtml) [[Media4]](https://www.aixinzhijie.com/article/6844666)
+   [[Media1]](https://mp.weixin.qq.com/s/KCWw9gBwUnzywyNW_K8-4A) [[Media2]](https://finance.sina.cn/stock/relnews/hk/2024-01-25/detail-inaetumy1071697.d.html?from=wap) [[Media3]](https://tech.cnr.cn/techph/20240125/t20240125_526570970.shtml) [[Media4]](https://www.aixinzhijie.com/article/6844666)
 
 
 * [The ATT&CK Matrix of AI Security](https://aisecmatrix.org/en) <br>
