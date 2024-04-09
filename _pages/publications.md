@@ -11,6 +11,10 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 [Preprints](#selected-preprints) | [Conferences](#selected-conference-papers) | [Journals](#selected-journal-articles) | [Books & Technical Reports](#books-and-technical-reports) | [Dissertation](#dissertation) | [Patents](#patents)
 
 ## Selected Preprints
+* [Model-agnostic Origin Attribution of Generated Images with Few-shot Examples](https://arxiv.org/pdf/2404.02697)<br>
+  Fengyuan Liu, Haochen Luo, **Yiming Li**, Philip Torr, Jindong Gu<br>
+  arXiv, 2024.
+
 * [Towards Sample-specific Backdoor Attack with Clean Labels via Attribute Trigger](https://www.researchgate.net/publication/376174078_Towards_Sample-specific_Backdoor_Attack_with_Clean_Labels_via_Attribute_Trigger)<br>
   **Yiming Li**, Mingyan Zhu, Junfeng Guo, Tao Wei, Shu-Tao Xia, Zhan Qin.<br>
   Under Review by IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2023.<br>
