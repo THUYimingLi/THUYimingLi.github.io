@@ -11,7 +11,8 @@ redirect_from:
 
 
 ## Invited Talks
-* From Devil to Angel: Backdoor Attacks for AI Copyright Protection and Beyond, MSU-DSE Lab (online), 2024/04/30. [[Slides]](https://www.dropbox.com/scl/fi/62387mczxgi1l7hjtnmm8/MSUTalk_Yiming_0430.pptx?rlkey=xjuvfro4doa71gf2zimwfxxca&st=pqagru4m&dl=0)
+* From Devil to Angel: Backdoor Attacks for AI Copyright Protection and Beyond, Michigan State University Data Science and Engineering Lab (MSU-DSE Lab)
+ (online), 2024/04/30. [[Slides]](https://www.dropbox.com/scl/fi/62387mczxgi1l7hjtnmm8/MSUTalk_Yiming_0430.pptx?rlkey=xjuvfro4doa71gf2zimwfxxca&st=pqagru4m&dl=0)
   
 * Dataset Copyright Protection and Beyond, Huawei Canada (online), 2024/01/02.
   
