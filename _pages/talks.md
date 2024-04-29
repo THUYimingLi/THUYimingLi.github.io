@@ -11,6 +11,8 @@ redirect_from:
 
 
 ## Invited Talks
+* From Devil to Angel: Backdoor Attacks for AI Copyright Protection and Beyond, MSU-DSE Lab (online), 2024/04/30. [[Slides]](https://www.dropbox.com/scl/fi/62387mczxgi1l7hjtnmm8/MSUTalk_Yiming_0430.pptx?rlkey=xjuvfro4doa71gf2zimwfxxca&st=pqagru4m&dl=0)
+  
 * Dataset Copyright Protection and Beyond, Huawei Canada (online), 2024/01/02.
   
 * A Blessing in Disguise: Backdoor Attacks as Watermarks for Dataset Copyright Protection, NeurIPS BUGS Workshop (online), 2023/12/15. [[Slides]](https://www.dropbox.com/scl/fi/2yc7n3lvwbsz7990lykrc/NeurIPSTalk_Yiming.pptx?rlkey=t61y3xte03wezavvvxlwc8c9z&dl=0) [[Video]](https://www.dropbox.com/scl/fi/5g23tbmnzp2gfd3menrhm/NeurIPSTalk_Yiming.mp4?rlkey=fdmi3n245n6gcaq2op1oqchc6&dl=0)
