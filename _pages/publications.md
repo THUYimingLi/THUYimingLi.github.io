@@ -32,7 +32,14 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 
 ## Selected Conference Papers
-**Stats**: 8 ICLR, 3 NeurIPS, 2 CVPR, 3 ICCV, 1 ECCV, 2 AAAI <br>
+**Stats**: 8 ICLR, 3 NeurIPS, 2 ICML, 2 CVPR, 3 ICCV, 1 ECCV, 2 AAAI <br>
+* [IBD-PSC: Input-level Backdoor Detection via Parameter-oriented Scaling Consistency]()<br>
+  Linshan Hou, Ruili Feng, Zhongyun Hua, Wei Luo, Leo Yu Zhang, **Yiming Li** (co-corresponding author). <br>
+  International Conference on Machine Learning (**ICML**), 2024. (To Appear) 
+
+* [Purifying Quantization-conditioned Backdoors via Layer-wise Activation Correction with Distribution Approximation]()<br>
+  Boheng Li, Yishuo Cai, Jisong Cai, **Yiming Li** (corresponding author), Han Qiu, Run Wang, Tianwei Zhang. <br>
+  International Conference on Machine Learning (**ICML**), 2024. (To Appear) 
 
 * [Nearest Is Not Dearest: Towards Practical Defense against Quantization-conditioned Backdoor Attacks]()<br>
   Boheng Li, Yishuo Cai, Haowei Li, Feng Xue, Zhifeng Li, **Yiming Li** (corresponding author). <br>
