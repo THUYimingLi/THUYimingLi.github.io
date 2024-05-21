@@ -50,9 +50,9 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024. (To Appear) <br>
   [[Code]](https://github.com/AntigoneRandy/QuantBackdoor_EFRAP)
 
-* [Not All Prompts Are Secure: A Switchable Backdoor Attack against Pre-trained Models]()<br>
+* [Not All Prompts Are Secure: A Switchable Backdoor Attack against Pre-trained Models](https://arxiv.org/pdf/2405.10612)<br>
   Sheng Yang, Jiawang Bai, Kuofeng Gao, Yong Yang, **Yiming Li** (co-corresponding author), Shu-Tao Xia. <br>
-  IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024. (To Appear) <br>
+  IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024. <br>
   [[Code]](https://github.com/20000yshust/SWARM)
 
 * [Towards Reliable and Efficient Backdoor Trigger Inversion via Decoupling Benign Features](https://openreview.net/forum?id=Tw9wemV6cb)<br>
