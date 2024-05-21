@@ -172,7 +172,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 * [Towards Stealthy Backdoor Attacks against Speech Recognition via Elements of Sound](https://www.researchgate.net/publication/372388876_Towards_Stealthy_Backdoor_Attacks_against_Speech_Recognition_via_Elements_of_Sound)<br>
   Hanbo Cai, Pengcheng Zhang, Hai Dong, Yan Xiao, Stefanos Koffas, **Yiming Li**.<br>
-  IEEE Transactions on Information Forensics and Security (**TIFS**), 2024. (Accept with Minor Revision) <br>
+  IEEE Transactions on Information Forensics and Security (**TIFS**), 2024. <br>
   [[Code]](https://github.com/HanboCai/BadSpeech_SoE)
 
 * [Regional Adversarial Training for Better Robust Generalization]()<br>
