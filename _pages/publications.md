@@ -175,9 +175,9 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   IEEE Transactions on Information Forensics and Security (**TIFS**), 2024. <br>
   [[Code]](https://github.com/HanboCai/BadSpeech_SoE)
 
-* [Regional Adversarial Training for Better Robust Generalization]()<br>
+* [Regional Adversarial Training for Better Robust Generalization](https://link.springer.com/article/10.1007/s11263-024-02103-w)<br>
   Chuanbiao Song, Yanbo Fan, Aoyang Zhou, Baoyuan Wu, **Yiming Li**, Zhifeng Li, Kun He.<br>
-  International Journal of Computer Vision (**IJCV**), 2024. (To Appear)
+  International Journal of Computer Vision (**IJCV**), 2024.
 
 * [Black-box Dataset Ownership Verification via Backdoor Watermarking](https://www.researchgate.net/publication/369559541_Black-box_Dataset_Ownership_Verification_via_Backdoor_Watermarking)<br>
   **Yiming Li**, Mingyan Zhu, Xue Yang, Yong Jiang, Tao Wei, Shu-Tao Xia.<br>
