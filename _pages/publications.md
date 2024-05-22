@@ -45,9 +45,9 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   Boheng Li, Yishuo Cai, Jisong Cai, **Yiming Li** (corresponding author), Han Qiu, Run Wang, Tianwei Zhang. <br>
   International Conference on Machine Learning (**ICML**), 2024. (To Appear) 
 
-* [Nearest Is Not Dearest: Towards Practical Defense against Quantization-conditioned Backdoor Attacks]()<br>
+* [Nearest Is Not Dearest: Towards Practical Defense against Quantization-conditioned Backdoor Attacks](https://arxiv.org/pdf/2405.12725)<br>
   Boheng Li, Yishuo Cai, Haowei Li, Feng Xue, Zhifeng Li, **Yiming Li** (corresponding author). <br>
-  IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024. (To Appear) <br>
+  IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024. <br>
   [[Code]](https://github.com/AntigoneRandy/QuantBackdoor_EFRAP)
 
 * [Not All Prompts Are Secure: A Switchable Backdoor Attack against Pre-trained Models](https://arxiv.org/pdf/2405.10612)<br>
