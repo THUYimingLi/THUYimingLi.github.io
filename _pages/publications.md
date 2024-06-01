@@ -40,12 +40,12 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 * [IBD-PSC: Input-level Backdoor Detection via Parameter-oriented Scaling Consistency]()<br>
   Linshan Hou, Ruili Feng, Zhongyun Hua, Wei Luo, Leo Yu Zhang, **Yiming Li** (co-corresponding author). <br>
   International Conference on Machine Learning (**ICML**), 2024. (To Appear) <br>
-  [Code](https://github.com/THUYimingLi/BackdoorBox) 
+  [[Code]](https://github.com/THUYimingLi/BackdoorBox) 
 
 * [Purifying Quantization-conditioned Backdoors via Layer-wise Activation Correction with Distribution Approximation]()<br>
   Boheng Li, Yishuo Cai, Jisong Cai, **Yiming Li** (corresponding author), Han Qiu, Run Wang, Tianwei Zhang. <br>
   International Conference on Machine Learning (**ICML**), 2024. (To Appear) <br>
-  [Code](https://github.com/AntigoneRandy/QCB-LACPDA) 
+  [[Code]](https://github.com/AntigoneRandy/QCB-LACPDA) 
 
 * [Nearest Is Not Dearest: Towards Practical Defense against Quantization-conditioned Backdoor Attacks](https://arxiv.org/pdf/2405.12725)<br>
   Boheng Li, Yishuo Cai, Haowei Li, Feng Xue, Zhifeng Li, **Yiming Li** (corresponding author). <br>
