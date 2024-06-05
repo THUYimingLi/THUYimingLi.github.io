@@ -22,11 +22,6 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 * [Towards Sample-specific Backdoor Attack with Clean Labels via Attribute Trigger](https://www.researchgate.net/publication/376174078_Towards_Sample-specific_Backdoor_Attack_with_Clean_Labels_via_Attribute_Trigger)<br>
   **Yiming Li**, Mingyan Zhu, Junfeng Guo, Tao Wei, Shu-Tao Xia, Zhan Qin.<br>
   Under Review by IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2023.<br>
-  
-* [Backdoor Attack with Sparse and Invisible Trigger](https://www.researchgate.net/publication/370659402_Backdoor_Attack_with_Sparse_and_Invisible_Trigger)<br>
-  Yinghua Gao, **Yiming Li** (co-first author, corresponding author), Xueluan Gong, Zhifeng Li, Shu-Tao Xia, Qian Wang.<br>
-  Under Review by IEEE Transactions on Information Forensics and Security (**TIFS**), 2023.<br>
-  [[Code]](https://github.com/YinghuaGao/SIBA)
 
 * [MOVE: Effective and Harmless Ownership Verification via Embedded External Features](https://arxiv.org/pdf/2208.02820.pdf)<br>
   **Yiming Li**, Linghui Zhu, Xiaojun Jia, Yang Bai, Yong Jiang, Shu-Tao Xia, Xiaochun Cao.<br>
@@ -170,7 +165,11 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 
 ## Selected Journal Articles
-**Stats**: 2 TIFS, 1 IJCV, 3 PR, 1 TNNLS <br>
+**Stats**: 3 TIFS, 1 IJCV, 3 PR, 1 TNNLS <br>
+* [Backdoor Attack with Sparse and Invisible Trigger](https://www.researchgate.net/publication/370659402_Backdoor_Attack_with_Sparse_and_Invisible_Trigger)<br>
+  Yinghua Gao, **Yiming Li** (co-first author, corresponding author), Xueluan Gong, Zhifeng Li, Shu-Tao Xia, Qian Wang.<br>
+  IEEE Transactions on Information Forensics and Security (**TIFS**), 2024.<br>
+  [[Code]](https://github.com/YinghuaGao/SIBA)
 
 * [Towards Stealthy Backdoor Attacks against Speech Recognition via Elements of Sound](https://www.researchgate.net/publication/372388876_Towards_Stealthy_Backdoor_Attacks_against_Speech_Recognition_via_Elements_of_Sound)<br>
   Hanbo Cai, Pengcheng Zhang, Hai Dong, Yan Xiao, Stefanos Koffas, **Yiming Li**.<br>
