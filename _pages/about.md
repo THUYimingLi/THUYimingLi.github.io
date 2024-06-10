@@ -21,7 +21,7 @@ I am **always looking for highly self-motivated students and research interns** 
 
 
 ## News
-* 06/2024: One paper about backdoor attack is accepted by IEEE TIFS. Congrats and thanks to Yinghua Gao and all collaborators! Its codes will be released soon.  
+* 06/2024: One paper about backdoor attack is accepted by IEEE TIFS. Congrats and thanks to Yinghua Gao and all collaborators! Its codes have been released.  
 * 05/2024: Two papers about backdoor defenses are accepted by ICML. Congrats and thanks to Boheng Li, Linshan Hou, and all collaborators! Their codes will be released soon.  
 * 04/2024: So glad and humble to become the DAAD AInet Fellow (on Safety and Security in AI).
 * 02/2024: Two papers about backdoor learning (1 backdoor attack against ViT and 1 backdoor defense) are accepted by CVPR. Congrats and thanks to Boheng Li, Sheng Yang, Jiawang Bai, and all collaborators! Their codes will be released soon.   
