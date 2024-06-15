@@ -31,7 +31,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 
 ## Selected Conference Papers
-**Stats**: 8 ICLR, 3 NeurIPS, 2 ICML, 2 CVPR, 3 ICCV, 1 ECCV, 2 AAAI <br>
+**Stats**: 8 ICLR, 3 NeurIPS, 2 ICML, 2 CVPR, 3 ICCV, 1 ECCV, 2 AAAI, 1 IJCAI <br>
 * [IBD-PSC: Input-level Backdoor Detection via Parameter-oriented Scaling Consistency](https://arxiv.org/pdf/2405.09786)<br>
   Linshan Hou, Ruili Feng, Zhongyun Hua, Wei Luo, Leo Yu Zhang, **Yiming Li** (co-corresponding author). <br>
   International Conference on Machine Learning (**ICML**), 2024. <br>
