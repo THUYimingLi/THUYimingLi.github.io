@@ -37,9 +37,9 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   International Conference on Machine Learning (**ICML**), 2024. <br>
   [[Code]](https://github.com/THUYimingLi/BackdoorBox) 
 
-* [Purifying Quantization-conditioned Backdoors via Layer-wise Activation Correction with Distribution Approximation]()<br>
+* [Purifying Quantization-conditioned Backdoors via Layer-wise Activation Correction with Distribution Approximation](https://openreview.net/pdf?id=CEfr3h68KU)<br>
   Boheng Li, Yishuo Cai, Jisong Cai, **Yiming Li** (corresponding author), Han Qiu, Run Wang, Tianwei Zhang. <br>
-  International Conference on Machine Learning (**ICML**), 2024. (To Appear) <br>
+  International Conference on Machine Learning (**ICML**), 2024. <br>
   [[Code]](https://github.com/AntigoneRandy/QCB-LACPDA) 
 
 * [Nearest Is Not Dearest: Towards Practical Defense against Quantization-conditioned Backdoor Attacks](https://arxiv.org/pdf/2405.12725)<br>
