@@ -226,7 +226,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 ## Dissertation
 * [Poisoning-based Backdoor Attacks in Computer Vision](https://www.researchgate.net/publication/370233769_Poisoning-based_Backdoor_Attacks_in_Computer_Vision)<br>
   **Yiming Li**.<br>
-  Ph.D. Dissertation, 2023. (<font color='red'><b>SZCCF Outstanding Doctoral Dissertation Award</b></font>) <br>
+  Ph.D. Dissertation, 2023. (<font color='red'><b>Outstanding Doctoral Dissertation Award</b></font>, SZCCF'24) <br>
   [[Slides]](https://www.dropbox.com/s/577xlvldtppo8rs/DissertationDefense_YimingLi.pptx?dl=0)
 
 * [Poisoning-based Backdoor Attacks in Computer Vision](https://ojs.aaai.org/index.php/AAAI/article/view/26921)<br>
