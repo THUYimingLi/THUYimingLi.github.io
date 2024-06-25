@@ -13,7 +13,7 @@ I am currently a Research Fellow at Nanyang Technological University, working wi
 
 **My research mainly focuses on Trustworthy ML and Responsible AI**, especially security assessment & improvement and copyright protection in deep learning. My long-term goal is to **make AI-based methods more secure and copyright-preserving during their full life cycle**. Recently, I focus more on **Trustworthy Generative AI Models** (*e.g.*, GPT and Diffusion Model). I always **chase for simple yet effective methods** with deep insights and theoretical support. 
 
-My research has been published in multiple top-tier conferences  and journals, such as ICLR, NeurIPS, and IEEE TIFS. I served as the Area Chair of ACM MM, the Senior Program Committee Member of AAAI, and the Reviewer of IEEE TPAMI, IEEE TIFS, IEEE TDSC, etc. My research has been featured by major media outlets, such as IEEE Spectrum. I was the recipient of the Best Paper Award at PAKDD (2023), the Rising Star Award at WAIC (2023), and the DAAD AInet Fellowship (2024).
+My research has been published in multiple top-tier conferences  and journals, such as ICLR, NeurIPS, and IEEE TIFS. I served as the Area Chair of ACM MM, the Senior Program Committee Member of AAAI, and the Reviewer of IEEE TPAMI, IEEE TIFS, IEEE TDSC, etc. My research has been featured by major media outlets, such as IEEE Spectrum. I was the recipient of the Best Paper Award at PAKDD (2023), the Rising Star Award at WAIC (2023), KAUST Rising Stars in AI (2024), and the DAAD AInet Fellowship (2024).
 
 
 ## Annocement
