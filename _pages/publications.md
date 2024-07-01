@@ -15,10 +15,6 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   Shuo Shao, **Yiming Li** (co-corresponding author), Hongwei Yao, Yiling He, Zhan Qin, Kui Ren.<br>
   arXiv, 2024.
 
-* [Model-agnostic Origin Attribution of Generated Images with Few-shot Examples](https://arxiv.org/pdf/2404.02697)<br>
-  Fengyuan Liu, Haochen Luo, **Yiming Li**, Philip Torr, Jindong Gu.<br>
-  arXiv, 2024.
-
 * [Towards Sample-specific Backdoor Attack with Clean Labels via Attribute Trigger](https://www.researchgate.net/publication/376174078_Towards_Sample-specific_Backdoor_Attack_with_Clean_Labels_via_Attribute_Trigger)<br>
   **Yiming Li**, Mingyan Zhu, Junfeng Guo, Tao Wei, Shu-Tao Xia, Zhan Qin.<br>
   Under Review by IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2023.<br>
@@ -31,7 +27,11 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 
 ## Selected Conference Papers
-**Stats**: 8 ICLR, 3 NeurIPS, 2 ICML, 2 CVPR, 3 ICCV, 1 ECCV, 2 AAAI, 1 IJCAI <br>
+**Stats**: 8 ICLR, 3 NeurIPS, 2 ICML, 2 CVPR, 3 ICCV, 2 ECCV, 2 AAAI, 1 IJCAI <br>
+* [Model-agnostic Origin Attribution of Generated Images with Few-shot Examples](https://arxiv.org/pdf/2404.02697)<br>
+  Fengyuan Liu, Haochen Luo, **Yiming Li**, Philip Torr, Jindong Gu.<br>
+  European Conference on Computer Vision (**ECCV**), 2024.
+
 * [IBD-PSC: Input-level Backdoor Detection via Parameter-oriented Scaling Consistency](https://arxiv.org/pdf/2405.09786)<br>
   Linshan Hou, Ruili Feng, Zhongyun Hua, Wei Luo, Leo Yu Zhang, **Yiming Li** (co-corresponding author). <br>
   International Conference on Machine Learning (**ICML**), 2024. <br>
