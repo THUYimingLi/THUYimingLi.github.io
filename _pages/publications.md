@@ -11,6 +11,11 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 [Preprints](#selected-preprints) | [Conferences](#selected-conference-papers) | [Journals](#selected-journal-articles) | [Books & Technical Reports](#books-and-technical-reports) | [Dissertation](#dissertation) | [Patents](#patents)
 
 ## Selected Preprints
+* [TAPI: Towards Target-Specific and Adversarial Prompt Injection against Code LLMs](https://arxiv.org/pdf/2407.09164)<br>
+  Yuchen Yang, Hongwei Yao, Bingrun Yang, Yiling He, **Yiming Li** (co-corresponding author), Tianwei Zhang, Zhan Qin, Kui Ren.<br>
+  arXiv, 2024.
+
+  
 * [Explanation as a Watermark: Towards Harmless and Multi-bit Model Ownership Verification via Watermarking Feature Attribution](https://arxiv.org/pdf/2405.04825)<br>
   Shuo Shao, **Yiming Li** (co-corresponding author), Hongwei Yao, Yiling He, Zhan Qin, Kui Ren.<br>
   arXiv, 2024.
