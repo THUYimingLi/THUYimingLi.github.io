@@ -110,7 +110,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 * [Defending Against Backdoor Attacks by Layer-wise Feature Analysis](https://arxiv.org/pdf/2302.12758.pdf)<br>
   Najeeb Moharram Jebreel, Josep Domingo-Ferrer, **Yiming Li**.<br>
   The Pacific-Asia Conference on Knowledge Discovery and Data Mining (**PAKDD**), 2023. (<font color='red'><b>Best Paper Award</b></font>) <br>
-  It is also invited to appear in **IJCAI** 2024 (Sisters Conference Track). <br>
+  It is also invited to appear in **IJCAI** 2024 ([Sisters Conference Track](https://doi.org/10.24963/ijcai.2024/933)). <br>
   [[Code]](https://github.com/NajeebJebreel/DBALFA)
 
 * [Generating Transferable 3D Adversarial Point Cloud via Random Perturbation Factorization](https://ojs.aaai.org/index.php/AAAI/article/view/25154)<br>
