@@ -80,7 +80,6 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 * [Setting the Trap: Capturing and Defeating Backdoor Threats in PLMs through Honeypots](https://arxiv.org/pdf/2310.18633.pdf)<br>
   Ruixiang Tang, Jiayi Yuan, **Yiming Li** (corresponding author), Zirui Liu, Rui Chen, Xia Hu.<br>
   Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2023. <br>
-  [Ruixiang](https://www.ruixiangtang.net/home) is currently busy for seeking faculty job (Contact him if you're interested!). The codes will be released later.
 
 * [One-bit Flip is All You Need: When Bit-flip Attack Meets Model Training](https://www.researchgate.net/publication/373049298_One-bit_Flip_is_All_You_Need_When_Bit-flip_Attack_Meets_Model_Training)<br>
   Jianshuo Dong, Han Qiu, **Yiming Li** (corresponding author), Tianwei Zhang, Yuanjie Li, Zeqi Lai, Chao Zhang, Shu-Tao Xia.<br>
