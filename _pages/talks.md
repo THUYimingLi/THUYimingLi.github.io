@@ -11,6 +11,8 @@ redirect_from:
 
 
 ## Invited Talks
+* Towards Theory-guided Backdoor Learning. International Conference on Mathematical Theory of Deep Learning, 2024/08/07. [[Slides]](https://www.dropbox.com/scl/fi/43dl18ew5my28qzam48em/CASTalk_Yiming.pdf?rlkey=4vfxdrgdasjgella5798jrjp5&st=ufq6la5b&dl=0) [[Video]](https://www.dropbox.com/scl/fi/6h9sqoongx29oozsv9n07/CASTalk.mp4?rlkey=h4eeas0nwmamp8rpkj9jiw49i&st=i81blvgu&dl=0)
+
 * From Devil to Angel: Backdoor Attacks for AI Copyright Protection and Beyond, Michigan State University Data Science and Engineering Lab (MSU-DSE Lab)
  (online), 2024/04/30. [[Slides]](https://www.dropbox.com/scl/fi/62387mczxgi1l7hjtnmm8/MSUTalk_Yiming_0430.pptx?rlkey=xjuvfro4doa71gf2zimwfxxca&st=pqagru4m&dl=0)
   
