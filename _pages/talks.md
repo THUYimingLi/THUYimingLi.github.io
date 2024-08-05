@@ -5,7 +5,9 @@ permalink: /talks/
 redirect_from:
   - /talks
 ---
-## Guest Lectures
+## Guest Lectures and Webinar
+* Towards Copyright-preserving Dataset Sharing via Dataset Ownership Verification. [The Webinar of IEEE Signal Processing Society](https://signalprocessingsociety.org/blog/sps-webinar-towards-copyright-preserving-dataset-sharing-dataset-ownership-verification), 2024/08/08. [[Slides]](https://www.dropbox.com/scl/fi/bmkdenv4ktzl4shk7tal6/IEEETalk_0808.pdf?rlkey=g4r6jlyxdxm2lvspqh1vecrf7&st=bbhgjl2d&dl=0)
+
 
 * The Copyright Protection of Models and Datasets via Ownership Verification in Deep Learning, The Course of 'The Introduction to AI Security', Tsinghua University, 2022/12/02. [[Slides]](https://www.dropbox.com/s/iko1490ldglzi0a/DeepCopyrightProtection_THU.pptx?dl=0)
 
