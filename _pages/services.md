@@ -16,7 +16,7 @@ redirect_from:
 
 
 ## Journal Services
-- **Reviewer**: TPAMI, TIFS, TDSC, TNNLS, TCSVT, TII, TOIS, Pattern Recognition, Neural Networks, Neurocomputing, Computers & Security, etc.
+- **Reviewer**: TPAMI, IJCV, TIFS, TDSC, TNNLS, TCSVT, TII, TOIS, Pattern Recognition, Neural Networks, Neurocomputing, Computers & Security, etc.
 
 ## Competition Services
 * **Competition Co-chair**, [IEEE Trojan Removal Competition](http://www.trojan-removal.com/), 2022.
