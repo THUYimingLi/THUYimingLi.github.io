@@ -13,12 +13,17 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 ## Selected Preprints
 * [TAPI: Towards Target-Specific and Adversarial Prompt Injection against Code LLMs](https://arxiv.org/pdf/2407.09164)<br>
   Yuchen Yang, Hongwei Yao, Bingrun Yang, Yiling He, **Yiming Li** (co-corresponding author), Tianwei Zhang, Zhan Qin, Kui Ren.<br>
-  arXiv, 2024.
+  arXiv, 2024. <br>
 
   
 * [Explanation as a Watermark: Towards Harmless and Multi-bit Model Ownership Verification via Watermarking Feature Attribution](https://arxiv.org/pdf/2405.04825)<br>
   Shuo Shao, **Yiming Li** (co-corresponding author), Hongwei Yao, Yiling He, Zhan Qin, Kui Ren.<br>
-  arXiv, 2024.
+  arXiv, 2024. <br>
+
+* [PointNCBW: Towards Dataset Ownership Verification for Point Clouds via Negative Clean-label Backdoor Watermark](https://arxiv.org/pdf/2408.05500)<br>
+  Cheng Wei, Yang Wang, Kuofeng Gao, Shuo Shao, **Yiming Li** (co-corresponding author), Zhibo Wang, Zhan Qin. <br>
+  Under Review by IEEE Transactions on Information Forensics and Security (**TIFS**), 2024.<br>
+
 
 * [Towards Sample-specific Backdoor Attack with Clean Labels via Attribute Trigger](https://www.researchgate.net/publication/376174078_Towards_Sample-specific_Backdoor_Attack_with_Clean_Labels_via_Attribute_Trigger)<br>
   **Yiming Li**, Mingyan Zhu, Junfeng Guo, Tao Wei, Shu-Tao Xia, Zhan Qin.<br>
