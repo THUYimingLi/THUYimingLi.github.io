@@ -17,6 +17,7 @@ redirect_from:
 * Outstanding Doctoral Graduates (<font color='red'>TOP 5%</font>), Beijing City, 2023.
 * China National Scholarship (Ph.D. Student, <font color='red'>TOP 1%</font>), Ministry of Education of China, 2022.
 * AI Risk Analysis Award, NeurIPS ML Safety Workshop, 2022.
+* Top Reviewers, ICLR, 2022.
 * Scholar Award, NeurIPS, 2022.
 * Top Reviewers, NeurIPS, 2022/2023.
 * Student Scholarship, Association for the Advancement of Artificial Intelligence (AAAI), 2022.
