@@ -39,7 +39,6 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   Network and Distributed System Security Symposium (NDSS), 2025. <br>
   [[Code]](https://github.com/shaoshuo-ss/EaaW)
 
-
 * [Model-agnostic Origin Attribution of Generated Images with Few-shot Examples](https://arxiv.org/pdf/2404.02697)<br>
   Fengyuan Liu, Haochen Luo, **Yiming Li**, Philip Torr, Jindong Gu.<br>
   European Conference on Computer Vision (**ECCV**), 2024.
