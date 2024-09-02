@@ -15,11 +15,6 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   Yuchen Yang, Hongwei Yao, Bingrun Yang, Yiling He, **Yiming Li** (co-corresponding author), Tianwei Zhang, Zhan Qin, Kui Ren.<br>
   arXiv, 2024. <br>
 
-  
-* [Explanation as a Watermark: Towards Harmless and Multi-bit Model Ownership Verification via Watermarking Feature Attribution](https://arxiv.org/pdf/2405.04825)<br>
-  Shuo Shao, **Yiming Li** (co-corresponding author), Hongwei Yao, Yiling He, Zhan Qin, Kui Ren.<br>
-  arXiv, 2024. <br>
-
 * [PointNCBW: Towards Dataset Ownership Verification for Point Clouds via Negative Clean-label Backdoor Watermark](https://arxiv.org/pdf/2408.05500)<br>
   Cheng Wei, Yang Wang, Kuofeng Gao, Shuo Shao, **Yiming Li** (co-corresponding author), Zhibo Wang, Zhan Qin. <br>
   Under Review by IEEE Transactions on Information Forensics and Security (**TIFS**), 2024.<br>
@@ -37,7 +32,14 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 
 ## Selected Conference Papers
-**Stats**: 8 ICLR, 3 NeurIPS, 2 ICML, 2 CVPR, 3 ICCV, 2 ECCV, 2 AAAI, 1 IJCAI <br>
+**Stats**: 1 NDSS, 8 ICLR, 3 NeurIPS, 2 ICML, 2 CVPR, 3 ICCV, 2 ECCV, 2 AAAI, 1 IJCAI <br>
+  
+* [Explanation as a Watermark: Towards Harmless and Multi-bit Model Ownership Verification via Watermarking Feature Attribution](https://arxiv.org/pdf/2405.04825)<br>
+  Shuo Shao, **Yiming Li** (co-first author, co-corresponding author), Hongwei Yao, Yiling He, Zhan Qin, Kui Ren.<br>
+  Network and Distributed System Security Symposium (NDSS), 2025. <br>
+  [[Code]](https://github.com/shaoshuo-ss/EaaW)
+
+
 * [Model-agnostic Origin Attribution of Generated Images with Few-shot Examples](https://arxiv.org/pdf/2404.02697)<br>
   Fengyuan Liu, Haochen Luo, **Yiming Li**, Philip Torr, Jindong Gu.<br>
   European Conference on Computer Vision (**ECCV**), 2024.
