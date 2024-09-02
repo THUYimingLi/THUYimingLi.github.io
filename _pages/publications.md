@@ -41,7 +41,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 * [Model-agnostic Origin Attribution of Generated Images with Few-shot Examples](https://arxiv.org/pdf/2404.02697)<br>
   Fengyuan Liu, Haochen Luo, **Yiming Li**, Philip Torr, Jindong Gu.<br>
-  European Conference on Computer Vision (**ECCV**), 2024.
+  European Conference on Computer Vision (**ECCV**), 2024.<br>
   [[Code]](https://github.com/uwFengyuan/OCC-CLIP)
 
 * [IBD-PSC: Input-level Backdoor Detection via Parameter-oriented Scaling Consistency](https://arxiv.org/pdf/2405.09786)<br>
