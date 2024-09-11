@@ -21,11 +21,11 @@ I am **always looking for highly self-motivated students and research interns** 
 
 
 ## News
+* 09/2024: One paper about data copyright protection in text-to-image diffusion models is accepted by IEEE S&P. Congrats to Boheng Li and thanks to all collaborators! Its codes will be released soon. 
 * 09/2024: One paper about (LLM) copyright protection is accepted by NDSS 2025. Congrats to Shuo Shao and thanks to all collaborators! Its codes will be released soon. 
 * 07/2024: One paper about AIGC attribution is accepted by ECCV. Its codes will be released soon. 
-* 06/2024: One paper about backdoor attack is accepted by IEEE TIFS. Congrats and thanks to Yinghua Gao and all collaborators! Its codes have been released.  
+* 06/2024: One paper about backdoor attack is accepted by IEEE TIFS. Congrats and thanks to Yinghua Gao and all collaborators! Its codes have been released. 
 * 05/2024: Two papers about backdoor defenses are accepted by ICML. Congrats and thanks to Boheng Li, Linshan Hou, and all collaborators! Their codes have been released.  
-* 04/2024: So glad and humble to become the DAAD AInet Fellow (on Safety and Security in AI).
 
 
 
