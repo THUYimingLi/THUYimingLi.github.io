@@ -36,6 +36,7 @@ It is my fortune to work with following brilliant students.
 - [Biao Yi](https://scholar.google.fr/citations?user=qU8fx8IAAAAJ&hl=en&oi=ao), Ph.D. Student @ Nankai University, 2023-
 - [Hanbo Cai](https://scholar.google.fr/citations?user=p-zHfmsAAAAJ&hl=en&oi=ao), Ph.D. Student @ Hohai University, 2023-  
 - Ting Qiao, Ph.D. Student @ North China Electric Power University, 2024-
+- [Boheng Li](https://antigonerandy.github.io/), Undergraduate Student @ Wuhan University, 2023-
 - Kaiying Yan, Undergraduate Student @ Sun Yat-Sen University, 2023-
 - Lingtao Zhou, Undergraduate Student @ Shandong University, 2023-
 - Siying Gu, Undergraduate Student @ Wuhan University of Technology, 2024-
