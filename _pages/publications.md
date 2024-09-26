@@ -32,7 +32,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 
 ## Selected Conference Papers
-**Stats**: 1 S&P, 1 NDSS, 8 ICLR, 3 NeurIPS, 2 ICML, 2 CVPR, 3 ICCV, 2 ECCV, 2 AAAI, 1 IJCAI <br>
+**Stats**: 1 S&P, 1 NDSS, 8 ICLR, 4 NeurIPS, 2 ICML, 2 CVPR, 3 ICCV, 2 ECCV, 2 AAAI, 1 IJCAI <br>
 
 * [Towards Reliable Verification of Unauthorized Data Usage in Personalized Text-to-Image Diffusion Models]()<br>
   Boheng Li, Yanhao Wei, Yankai Fu, Zhenting Wang, **Yiming Li** (co-corresponding author), Jie Zhang, Run Wang, Tianwei Zhang.<br>
@@ -43,6 +43,10 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   Shuo Shao, **Yiming Li** (co-first author, co-corresponding author), Hongwei Yao, Yiling He, Zhan Qin, Kui Ren.<br>
   Network and Distributed System Security Symposium (**NDSS**), 2025. <br>
   [[Code]](https://github.com/shaoshuo-ss/EaaW)
+
+* [ZeroMark: Towards Dataset Ownership Verification without Disclosing Dataset-specified Watermarks]()
+  Junfeng Guo, **Yiming Li** (co-first author, corresponding author), Ruibo Chen, Yihan Wu, Chenxi Liu, Heng Huang. <br>
+  Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2024. <br>
 
 * [Model-agnostic Origin Attribution of Generated Images with Few-shot Examples](https://arxiv.org/pdf/2404.02697)<br>
   Fengyuan Liu, Haochen Luo, **Yiming Li**, Philip Torr, Jindong Gu.<br>
