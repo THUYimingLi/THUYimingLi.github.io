@@ -46,7 +46,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 * [ZeroMark: Towards Dataset Ownership Verification without Disclosing Dataset-specified Watermarks]()
   Junfeng Guo, **Yiming Li** (co-first author, corresponding author), Ruibo Chen, Yihan Wu, Chenxi Liu, Heng Huang. <br>
-  Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2024. <br>
+  Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2024. (To Appear) <br>
 
 * [Model-agnostic Origin Attribution of Generated Images with Few-shot Examples](https://arxiv.org/pdf/2404.02697)<br>
   Fengyuan Liu, Haochen Luo, **Yiming Li**, Philip Torr, Jindong Gu.<br>
