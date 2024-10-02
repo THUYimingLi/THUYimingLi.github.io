@@ -48,7 +48,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   Junfeng Guo, **Yiming Li** (co-first author, corresponding author), Ruibo Chen, Yihan Wu, Chenxi Liu, Heng Huang. <br>
   Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2024. (To Appear) <br>
 
-* [Model-agnostic Origin Attribution of Generated Images with Few-shot Examples](https://arxiv.org/pdf/2404.02697)<br>
+* [Which Model Generated This Image? A Model-Agnostic Approach for Origin Attribution](https://arxiv.org/pdf/2404.02697)<br>
   Fengyuan Liu, Haochen Luo, **Yiming Li**, Philip Torr, Jindong Gu.<br>
   European Conference on Computer Vision (**ECCV**), 2024.<br>
   [[Code]](https://github.com/uwFengyuan/OCC-CLIP)
