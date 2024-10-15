@@ -34,9 +34,10 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 ## Selected Conference Papers
 **Stats**: 1 S&P, 1 NDSS, 8 ICLR, 4 NeurIPS, 2 ICML, 2 CVPR, 3 ICCV, 2 ECCV, 2 AAAI, 1 IJCAI <br>
 
-* [Towards Reliable Verification of Unauthorized Data Usage in Personalized Text-to-Image Diffusion Models]()<br>
+* [Towards Reliable Verification of Unauthorized Data Usage in Personalized Text-to-Image Diffusion Models](https://arxiv.org/pdf/2410.10437)<br>
   Boheng Li, Yanhao Wei, Yankai Fu, Zhenting Wang, **Yiming Li** (co-corresponding author), Jie Zhang, Run Wang, Tianwei Zhang.<br>
-  IEEE Symposium on Security and Privacy (**S&P**), 2025. (To Appear) <br>
+  IEEE Symposium on Security and Privacy (**S&P**), 2025. <br>
+  [[Code]](https://github.com/AntigoneRandy/SIREN)
 
   
 * [Explanation as a Watermark: Towards Harmless and Multi-bit Model Ownership Verification via Watermarking Feature Attribution](https://arxiv.org/pdf/2405.04825)<br>
