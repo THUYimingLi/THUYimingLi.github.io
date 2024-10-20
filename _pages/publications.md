@@ -15,10 +15,6 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   Yuchen Yang, Hongwei Yao, Bingrun Yang, Yiling He, **Yiming Li** (co-corresponding author), Tianwei Zhang, Zhan Qin, Kui Ren.<br>
   arXiv, 2024. <br>
 
-* [PointNCBW: Towards Dataset Ownership Verification for Point Clouds via Negative Clean-label Backdoor Watermark](https://arxiv.org/pdf/2408.05500)<br>
-  Cheng Wei, Yang Wang, Kuofeng Gao, Shuo Shao, **Yiming Li** (co-corresponding author), Zhibo Wang, Zhan Qin. <br>
-  Under Review by IEEE Transactions on Information Forensics and Security (**TIFS**), 2024.<br>
-
 
 * [Towards Sample-specific Backdoor Attack with Clean Labels via Attribute Trigger](https://www.researchgate.net/publication/376174078_Towards_Sample-specific_Backdoor_Attack_with_Clean_Labels_via_Attribute_Trigger)<br>
   **Yiming Li**, Mingyan Zhu, Junfeng Guo, Tao Wei, Shu-Tao Xia, Zhan Qin.<br>
@@ -186,7 +182,13 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 
 ## Selected Journal Articles
-**Stats**: 3 TIFS, 1 IJCV, 3 PR, 1 TNNLS <br>
+**Stats**: 4 TIFS, 1 IJCV, 3 PR, 1 TNNLS <br>
+
+* [PointNCBW: Towards Dataset Ownership Verification for Point Clouds via Negative Clean-label Backdoor Watermark](https://arxiv.org/pdf/2408.05500)<br>
+  Cheng Wei, Yang Wang, Kuofeng Gao, Shuo Shao, **Yiming Li** (co-corresponding author), Zhibo Wang, Zhan Qin. <br>
+  IEEE Transactions on Information Forensics and Security (**TIFS**), 2024. (To Appear) <br>
+
+
 * [Backdoor Attack with Sparse and Invisible Trigger](https://www.researchgate.net/publication/370659402_Backdoor_Attack_with_Sparse_and_Invisible_Trigger)<br>
   Yinghua Gao, **Yiming Li** (co-first author, corresponding author), Xueluan Gong, Zhifeng Li, Shu-Tao Xia, Qian Wang.<br>
   IEEE Transactions on Information Forensics and Security (**TIFS**), 2024.<br>
