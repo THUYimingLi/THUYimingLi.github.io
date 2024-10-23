@@ -41,7 +41,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   Network and Distributed System Security Symposium (**NDSS**), 2025. <br>
   [[Code]](https://github.com/shaoshuo-ss/EaaW)
 
-* [ZeroMark: Towards Dataset Ownership Verification without Disclosing Dataset-specified Watermarks]()<br>
+* [ZeroMark: Towards Dataset Ownership Verification without Disclosing Watermarks]()<br>
   Junfeng Guo, **Yiming Li** (co-first author, corresponding author), Ruibo Chen, Yihan Wu, Chenxi Liu, Heng Huang. <br>
   Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2024. (To Appear) <br>
 
