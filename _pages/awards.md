@@ -5,8 +5,8 @@ permalink: /awards/
 redirect_from:
   - /awards
 ---
-* Runner-Up (with the Team `W0r1d 0ne'), Track II: Backdoor Trigger Recovery for Models, [NeurIPS Competition for LLM and Agent Safety](https://www.llmagentsafetycomp24.com/leaderboards/), 2024.
-* Champion (with the Team `W0r1d 0ne'), Track III: Backdoor Trigger Recovery for Agents, [NeurIPS Competition for LLM and Agent Safety](https://www.llmagentsafetycomp24.com/leaderboards/), 2024.
+* Runner-Up (with the Team 'W0r1d 0ne'), Track II: Backdoor Trigger Recovery for Models, [NeurIPS Competition for LLM and Agent Safety](https://www.llmagentsafetycomp24.com/leaderboards/), 2024.
+* Champion (with the Team 'W0r1d 0ne'), Track III: Backdoor Trigger Recovery for Agents, [NeurIPS Competition for LLM and Agent Safety](https://www.llmagentsafetycomp24.com/leaderboards/), 2024.
 * AInet Fellowship (on Safety and Security in AI), Deutscher Akademischer Austauschdienst (DAAD), 2024. 
 * Rising Stars in AI (<font color='red'>TOP 15%</font>), King Abdullah University of Science and Technology (KAUST), 2024.
 * The Nomination of Outstanding Doctoral Dissertation Award (<font color='red'>TOP-6</font>), ACM SIGSAC China, 2024.
