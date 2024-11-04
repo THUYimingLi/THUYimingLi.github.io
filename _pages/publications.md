@@ -188,6 +188,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 * [PointNCBW: Towards Dataset Ownership Verification for Point Clouds via Negative Clean-label Backdoor Watermark](https://www.researchgate.net/publication/383060790_PointNCBW_Towards_Dataset_Ownership_Verification_for_Point_Clouds_via_Negative_Clean-label_Backdoor_Watermark)<br>
   Cheng Wei, Yang Wang, Kuofeng Gao, Shuo Shao, **Yiming Li** (co-corresponding author), Zhibo Wang, Zhan Qin. <br>
   IEEE Transactions on Information Forensics and Security (**TIFS**), 2024. <br>
+  [[Code]](https://github.com/weic0810/PointNCBW)
 
 
 * [Backdoor Attack with Sparse and Invisible Trigger](https://www.researchgate.net/publication/370659402_Backdoor_Attack_with_Sparse_and_Invisible_Trigger)<br>
