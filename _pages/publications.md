@@ -185,9 +185,9 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 ## Selected Journal Articles
 **Stats**: 4 TIFS, 1 IJCV, 3 PR, 1 TNNLS <br>
 
-* [PointNCBW: Towards Dataset Ownership Verification for Point Clouds via Negative Clean-label Backdoor Watermark](https://arxiv.org/pdf/2408.05500)<br>
+* [PointNCBW: Towards Dataset Ownership Verification for Point Clouds via Negative Clean-label Backdoor Watermark](https://www.researchgate.net/publication/383060790_PointNCBW_Towards_Dataset_Ownership_Verification_for_Point_Clouds_via_Negative_Clean-label_Backdoor_Watermark)<br>
   Cheng Wei, Yang Wang, Kuofeng Gao, Shuo Shao, **Yiming Li** (co-corresponding author), Zhibo Wang, Zhan Qin. <br>
-  IEEE Transactions on Information Forensics and Security (**TIFS**), 2024. (To Appear) <br>
+  IEEE Transactions on Information Forensics and Security (**TIFS**), 2024. <br>
 
 
 * [Backdoor Attack with Sparse and Invisible Trigger](https://www.researchgate.net/publication/370659402_Backdoor_Attack_with_Sparse_and_Invisible_Trigger)<br>
@@ -206,7 +206,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 * [Black-box Dataset Ownership Verification via Backdoor Watermarking](https://www.researchgate.net/publication/369559541_Black-box_Dataset_Ownership_Verification_via_Backdoor_Watermarking)<br>
   **Yiming Li**, Mingyan Zhu, Xue Yang, Yong Jiang, Tao Wei, Shu-Tao Xia.<br>
-  IEEE Transactions on Information Forensics and Security (**TIFS**), 2023. <br>
+  IEEE Transactions on Information Forensics and Security (**TIFS**), 2023. (<font color='red'>TOP-25 Downloaded Paper in IEEE SPS</font>) <br>
   [[Code]](https://github.com/THUYimingLi/DVBW) [[Workshop Version]](https://arxiv.org/abs/2010.05821) [[Media Cover (IEEE Spectrum)]](https://spectrum.ieee.org/watermark-ai) [[News]](https://www.tsinghua.edu.cn/info/1175/104618.htm)
 
 
