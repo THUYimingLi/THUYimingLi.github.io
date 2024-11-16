@@ -41,9 +41,9 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   Network and Distributed System Security Symposium (**NDSS**), 2025. <br>
   [[Code]](https://github.com/shaoshuo-ss/EaaW)
 
-* [ZeroMark: Towards Dataset Ownership Verification without Disclosing Watermarks]()<br>
+* [ZeroMark: Towards Dataset Ownership Verification without Disclosing Watermarks](https://openreview.net/pdf?id=Eyyt3ZmNV6)<br>
   Junfeng Guo, **Yiming Li** (co-first author, corresponding author), Ruibo Chen, Yihan Wu, Chenxi Liu, Heng Huang. <br>
-  Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2024. (To Appear) <br>
+  Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2024. <br>
   [[Code]](https://github.com/JunfengGo/ZeroMark)
 
 * [Which Model Generated This Image? A Model-Agnostic Approach for Origin Attribution](https://arxiv.org/pdf/2404.02697)<br>
