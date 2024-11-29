@@ -13,7 +13,7 @@ redirect_from:
 * The Nomination of Outstanding Doctoral Dissertation Award (<font color='red'>TOP-6</font>), ACM SIGSAC China, 2024.
 * Outstanding Doctoral Dissertation Award (<font color='red'>TOP-3</font>), Shenzhen City Computer Federation (SZCCF), 2024.
 * Rising Stars (<font color='red'>TOP-15</font>), World Artificial Intelligence Conference, 2023.
-* Junior Faculty Award (Qizhen Outstanding Young Scholar), Zhejiang University, 2023.
+* Outstanding Junior Faculty Award (Qizhen Outstanding Young Scholar), Zhejiang University, 2023.
 * Best Paper Award (<font color='red'>TOP-1</font>), The Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2023.
 * Outstanding Paper Award (<font color='red'>TOP-10</font>), Cybersecurity Conference, The Chinese Institute of Electronics, 2023.
 * Rising Star Award (<font color='red'>Rank First, TOP-5</font>), Tsinghua Shenzhen International Graduate School (SIGS), 2023.
