@@ -27,8 +27,8 @@ My research has been published in multiple top-tier conferences  and journals, s
 
 
 
-## Annocement for Potential Students and Collaborators
-**I am always looking for highly self-motivated students and research interns** to join exciting research projects on Trustworthy ML and Responsible AI in our group at Zhejiang University. I will provide responsible and hands-on guidance. Besides, I am **always willing to work together on interesting projects with external collaborators**. Drop me an email if you are interested! 
+## For Potential Students and Collaborators
+I am **always looking for highly self-motivated students and research interns** to join exciting research projects on Trustworthy ML and Responsible AI in our group at Zhejiang University. I will provide responsible and hands-on guidance. Besides, I am **always willing to work together on interesting projects with external collaborators**. Drop me an [email](mailto:liyiming.tech@gmail.com) if you are interested! 
 
 
 ## News
