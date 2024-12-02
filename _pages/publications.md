@@ -11,6 +11,10 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 [Preprints](#selected-preprints) | [Conferences](#selected-conference-papers) | [Journals](#selected-journal-articles) | [Books & Technical Reports](#books-and-technical-reports) | [Dissertation](#dissertation) | [Patents](#patents)
 
 ## Selected Preprints
+* [FLARE: Towards Universal Dataset Purification against Backdoor Attacks](https://arxiv.org/pdf/2411.19479)<br>
+  Linshan Hou, Wei Luo, Zhongyun Hua, Songhua Chen, Leo Yu Zhang, **Yiming Li** (co-corresponding author)<br>
+  arXiv, 2024. <br>
+
 * [TAPI: Towards Target-Specific and Adversarial Prompt Injection against Code LLMs](https://arxiv.org/pdf/2407.09164)<br>
   Yuchen Yang, Hongwei Yao, Bingrun Yang, Yiling He, **Yiming Li** (co-corresponding author), Tianwei Zhang, Zhan Qin, Kui Ren.<br>
   arXiv, 2024. <br>
