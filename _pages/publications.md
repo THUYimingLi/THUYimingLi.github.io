@@ -12,7 +12,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 ## Selected Preprints
 * [FLARE: Towards Universal Dataset Purification against Backdoor Attacks](https://arxiv.org/pdf/2411.19479)<br>
-  Linshan Hou, Wei Luo, Zhongyun Hua, Songhua Chen, Leo Yu Zhang, **Yiming Li** (co-corresponding author)<br>
+  Linshan Hou, Wei Luo, Zhongyun Hua, Songhua Chen, Leo Yu Zhang, **Yiming Li** (co-corresponding author).<br>
   arXiv, 2024. <br>
 
 * [TAPI: Towards Target-Specific and Adversarial Prompt Injection against Code LLMs](https://arxiv.org/pdf/2407.09164)<br>
