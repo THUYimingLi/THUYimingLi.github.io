@@ -13,6 +13,9 @@ redirect_from:
 
 
 ## Invited Talks
+* Protecting the Copyright of Public Datasets via Ownership Verification. Future Artificial
+Intelligence Forum, Beihang University, 2024/12/09. [[Slides]](https://www.dropbox.com/scl/fi/h41jyqs0rr5qz75d2gez7/PublicDatasetProtection_DOV_1209.pdf?rlkey=9s94uf3bemd14krjs914i0475&st=1tvgnqvb&dl=0)
+
 * Towards Theory-guided Backdoor Learning. International Conference on Mathematical Theory of Deep Learning, 2024/08/07. [[Slides]](https://www.dropbox.com/scl/fi/43dl18ew5my28qzam48em/CASTalk_Yiming.pdf?rlkey=4vfxdrgdasjgella5798jrjp5&st=ufq6la5b&dl=0) [[Video]](https://www.dropbox.com/scl/fi/6h9sqoongx29oozsv9n07/CASTalk.mp4?rlkey=h4eeas0nwmamp8rpkj9jiw49i&st=i81blvgu&dl=0)
 
 * From Devil to Angel: Backdoor Attacks for AI Copyright Protection and Beyond, Michigan State University Data Science and Engineering Lab (MSU-DSE Lab)
