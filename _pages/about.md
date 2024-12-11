@@ -23,7 +23,7 @@ My research has been published in multiple top-tier conferences  and journals, s
 - **AI Copyright Protection**
   - **Data Copyright**: [[IEEE S&P'25](https://arxiv.org/pdf/2410.10437), [NeurIPS'24](https://openreview.net/pdf?id=Eyyt3ZmNV6), [TIFS'24](https://www.researchgate.net/publication/383060790_PointNCBW_Towards_Dataset_Ownership_Verification_for_Point_Clouds_via_Negative_Clean-label_Backdoor_Watermark), [TIFS'23](https://www.researchgate.net/publication/369559541_Black-box_Dataset_Ownership_Verification_via_Backdoor_Watermarking), [NeurIPS'23](https://www.researchgate.net/publication/374440504_Domain_Watermark_Effective_and_Harmless_Dataset_Copyright_Protection_is_Closed_at_Hand), [PR'22](https://www.sciencedirect.com/science/article/pii/S0031320321005112), [NeurIPS'22](https://www.researchgate.net/publication/363766436_Untargeted_Backdoor_Watermark_Towards_Harmless_and_Stealthy_Dataset_Copyright_Protection)]
   - **Model Copyright**: [[NDSS'25](https://arxiv.org/pdf/2405.04825), [ECCV'24](https://arxiv.org/pdf/2404.02697), [ICCV'23](https://www.researchgate.net/publication/373367424_Towards_Robust_Model_Watermark_via_Reducing_Parametric_Vulnerability), [AAAI'22](https://arxiv.org/pdf/2112.03476.pdf)]
-
+- **Explainable AI**: [[ICLR'24](Towards Faithful XAI Evaluation via Generalization-Limited Backdoor Watermark), [TIFS'24](https://www.researchgate.net/publication/370659402_Backdoor_Attack_with_Sparse_and_Invisible_Trigger)]
 
 
 
