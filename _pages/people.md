@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-It is my fortune to work with following brilliant students. 
+It is my fortune to work with following brilliant students. We together made many intriguing research projects.
 
 
 ## Ph.D. Students
