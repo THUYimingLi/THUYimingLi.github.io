@@ -32,6 +32,7 @@ I am **always looking for highly self-motivated students and research interns** 
 
 
 ## News
+* 12/2024: Three papers are awarded Outstanding Scientific Papers from Shenzhen Association for Science and Technology. Congrats and thanks to Yinghua Gao, Linshan Hou, Sheng Yang, and all collaborators!
 * 12/2024: I am invited to serve as the SPC for IJCAI 2025.
 * 12/2024: I am invited to serve as an Area Chair for ICML 2025.
 * 10/2024: We won the Champion and the Runner-up at Tracks of Backdoor Trigger Recovery for models and agents of the NeurIPS'24 Competition for LLM and Agent Safety, respectively. Congrats and thanks to Yukun Chen and all team members of 'W0r1d 0ne'!
