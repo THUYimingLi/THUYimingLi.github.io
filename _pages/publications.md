@@ -211,7 +211,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 * [Black-box Dataset Ownership Verification via Backdoor Watermarking](https://www.researchgate.net/publication/369559541_Black-box_Dataset_Ownership_Verification_via_Backdoor_Watermarking)<br>
   **Yiming Li**, Mingyan Zhu, Xue Yang, Yong Jiang, Tao Wei, Shu-Tao Xia.<br>
-  IEEE Transactions on Information Forensics and Security (**TIFS**), 2023. (<font color='red'>TOP-25 Downloaded Paper in IEEE SPS</font>) <br>
+  IEEE Transactions on Information Forensics and Security (**TIFS**), 2023. (<font color='red'><b>TOP-25 Downloaded Paper in IEEE SPS</b></font>) <br>
   [[Code]](https://github.com/THUYimingLi/DVBW) [[Workshop Version]](https://arxiv.org/abs/2010.05821) [[Media Cover (IEEE Spectrum)]](https://spectrum.ieee.org/watermark-ai) [[News]](https://www.tsinghua.edu.cn/info/1175/104618.htm)
 
 
