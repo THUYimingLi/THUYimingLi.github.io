@@ -57,7 +57,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 * [IBD-PSC: Input-level Backdoor Detection via Parameter-oriented Scaling Consistency](https://arxiv.org/pdf/2405.09786)<br>
   Linshan Hou, Ruili Feng, Zhongyun Hua, Wei Luo, Leo Yu Zhang, **Yiming Li** (co-corresponding author). <br>
-  International Conference on Machine Learning (**ICML**), 2024. (<font color='red'><b>Outstanding Scientific Papers</b></font>, Shenzhen Association for Science and Technology) <br>
+  International Conference on Machine Learning (**ICML**), 2024. (<font color='red'><b>Excellent Science & Technology Paper</b></font>, Shenzhen Association for Science and Technology) <br>
   [[Code]](https://github.com/THUYimingLi/BackdoorBox) 
 
 * [Purifying Quantization-conditioned Backdoors via Layer-wise Activation Correction with Distribution Approximation](https://openreview.net/pdf?id=CEfr3h68KU)<br>
@@ -72,7 +72,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 * [Not All Prompts Are Secure: A Switchable Backdoor Attack against Pre-trained Models](https://arxiv.org/pdf/2405.10612)<br>
   Sheng Yang, Jiawang Bai, Kuofeng Gao, Yong Yang, **Yiming Li** (co-corresponding author), Shu-Tao Xia. <br>
-  IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024. (<font color='red'><b>Outstanding Scientific Papers</b></font>, Shenzhen Association for Science and Technology) <br>
+  IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024. (<font color='red'><b>Excellent Science & Technology Paper</b></font>, Shenzhen Association for Science and Technology) <br>
   [[Code]](https://github.com/20000yshust/SWARM)
 
 * [Towards Reliable and Efficient Backdoor Trigger Inversion via Decoupling Benign Features](https://openreview.net/forum?id=Tw9wemV6cb)<br>
@@ -197,7 +197,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 * [Backdoor Attack with Sparse and Invisible Trigger](https://www.researchgate.net/publication/370659402_Backdoor_Attack_with_Sparse_and_Invisible_Trigger)<br>
   Yinghua Gao, **Yiming Li** (co-first author, corresponding author), Xueluan Gong, Zhifeng Li, Shu-Tao Xia, Qian Wang.<br>
-  IEEE Transactions on Information Forensics and Security (**TIFS**), 2024. (<font color='red'><b>Outstanding Scientific Papers</b></font>, Shenzhen Association for Science and Technology)<br>
+  IEEE Transactions on Information Forensics and Security (**TIFS**), 2024. (<font color='red'><b>Excellent Science & Technology Paper</b></font>, Shenzhen Association for Science and Technology)<br>
   [[Code]](https://github.com/YinghuaGao/SIBA)
 
 * [Towards Stealthy Backdoor Attacks against Speech Recognition via Elements of Sound](https://www.researchgate.net/publication/372388876_Towards_Stealthy_Backdoor_Attacks_against_Speech_Recognition_via_Elements_of_Sound)<br>
