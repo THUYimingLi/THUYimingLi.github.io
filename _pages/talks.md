@@ -13,6 +13,8 @@ redirect_from:
 
 
 ## Invited Talks
+* Protecting the Copyright of Public Datasets via Ownership Verification. West Lake Forum on Cyberspace Security, 2025/01/05. [[Slides]](https://www.dropbox.com/scl/fi/rpwoyxn7zmypk6a50h4pd/Talk_YimingLi_20250105.pdf?rlkey=szqn6tle70zfs2o5tzs2egjby&st=mf8ybo0l&dl=0)
+  
 * Protecting the Copyright of Public Datasets via Ownership Verification. Future Artificial
 Intelligence Forum, Beihang University, 2024/12/09. [[Slides]](https://www.dropbox.com/scl/fi/3mtqf8rx9rgclc018ru52/PublicDatasetProtection_DOV_1209.pdf?rlkey=k11gdf9ail849yhj18gv70otk&st=acsde89b&dl=0)
 
