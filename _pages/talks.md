@@ -13,7 +13,7 @@ redirect_from:
 
 
 ## Invited Talks
-* Towards Dataset Copyright Auditing via Ownership Verification. Xi'an Jiaotong University (Online), 2025/01/07. [[Slides]]()
+* Towards Dataset Copyright Auditing via Ownership Verification. Xi'an Jiaotong University (online), 2025/01/07. [[Slides]]()
 
 * Protecting the Copyright of Public Datasets via Ownership Verification. West Lake Forum on Cyberspace Security, 2025/01/05. [[Slides]](https://www.dropbox.com/scl/fi/rpwoyxn7zmypk6a50h4pd/Talk_YimingLi_20250105.pdf?rlkey=szqn6tle70zfs2o5tzs2egjby&st=mf8ybo0l&dl=0)
   
