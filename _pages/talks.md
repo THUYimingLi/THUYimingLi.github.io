@@ -13,6 +13,8 @@ redirect_from:
 
 
 ## Invited Talks
+* Tutorial: From Devil to Angel: Backdoor Attacks for AI Copyright Protection and Beyond. Southwest Jiaotong University, 2025/01/08. [[Slides]](https://www.dropbox.com/scl/fi/g7a4fje33d4r98w0w0ur3/Talk_YimingLi_20250108.pdf?rlkey=qno7yzb3muchlx0aga3yl0sh9&st=jp2vmvka&dl=0)
+
 * Towards Dataset Copyright Auditing via Ownership Verification. Xi'an Jiaotong University (online), 2025/01/07. [[Slides]](https://www.dropbox.com/scl/fi/2iw4w5gn75lzzh6nt3l1y/Talk_YimingLi_20250107.pdf?rlkey=ipi7gpp5ob1cxcqg92h6gsw4x&st=2rnmawkm&dl=0)
 
 * Protecting the Copyright of Public Datasets via Ownership Verification. West Lake Forum on Cyberspace Security, 2025/01/05. [[Slides]](https://www.dropbox.com/scl/fi/rpwoyxn7zmypk6a50h4pd/Talk_YimingLi_20250105.pdf?rlkey=szqn6tle70zfs2o5tzs2egjby&st=mf8ybo0l&dl=0)
@@ -22,7 +24,7 @@ Intelligence Forum, Beihang University, 2024/12/09. [[Slides]](https://www.dropb
 
 * Towards Theory-guided Backdoor Learning. International Conference on Mathematical Theory of Deep Learning, 2024/08/07. [[Slides]](https://www.dropbox.com/scl/fi/43dl18ew5my28qzam48em/CASTalk_Yiming.pdf?rlkey=4vfxdrgdasjgella5798jrjp5&st=ufq6la5b&dl=0) [[Video]](https://www.dropbox.com/scl/fi/6h9sqoongx29oozsv9n07/CASTalk.mp4?rlkey=h4eeas0nwmamp8rpkj9jiw49i&st=i81blvgu&dl=0)
 
-* From Devil to Angel: Backdoor Attacks for AI Copyright Protection and Beyond, Michigan State University Data Science and Engineering Lab (MSU-DSE Lab)
+* From Devil to Angel: Backdoor Attacks for AI Copyright Protection and Beyond. Michigan State University Data Science and Engineering Lab (MSU-DSE Lab)
  (online), 2024/04/30. [[Slides]](https://www.dropbox.com/scl/fi/62387mczxgi1l7hjtnmm8/MSUTalk_Yiming_0430.pptx?rlkey=xjuvfro4doa71gf2zimwfxxca&st=pqagru4m&dl=0)
   
 * Dataset Copyright Protection and Beyond, Huawei Canada (online), 2024/01/02.
