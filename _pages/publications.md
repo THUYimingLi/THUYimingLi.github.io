@@ -15,6 +15,11 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   Linshan Hou, Wei Luo, Zhongyun Hua, Songhua Chen, Leo Yu Zhang, **Yiming Li** (co-corresponding author).<br>
   arXiv, 2024. <br>
 
+* [Understanding the Dark Side of LLMs’ Intrinsic Self-Correction](https://arxiv.org/pdf/2412.14959)
+  Qingjie Zhang, Han Qiu, Di Wang, Haoting Qian, **Yiming Li**, Tianwei Zhang, Minlie Huang.<br>
+  arXiv, 2024. <br>
+  [[Project Website]](https://x-isc.info/) [[Media Cover 1 (MIT Technology Review in Chinese)]](https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA==&mid=2649764768&idx=3&sn=73dfecbdeb23405fd57af1d618b10840&chksm=86b9f7ed75c396cdceab8cb5b40531ccf7ba50110c6e8f463a7a0f6b79c63745d33e7bf6dbb9&scene=0&xtrack=1) [[Media Cover 2 (Sina News in Chinese)]](https://finance.sina.com.cn/tech/roll/2025-01-10/doc-ineenxxw5715519.shtml)
+  
 * [TAPI: Towards Target-Specific and Adversarial Prompt Injection against Code LLMs](https://arxiv.org/pdf/2407.09164)<br>
   Yuchen Yang, Hongwei Yao, Bingrun Yang, Yiling He, **Yiming Li** (co-corresponding author), Tianwei Zhang, Zhan Qin, Kui Ren.<br>
   arXiv, 2024. <br>
