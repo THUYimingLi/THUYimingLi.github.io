@@ -16,6 +16,7 @@ redirect_from:
 
 
 ## Journal Services
+- **Associate Editor**: Pattern Recognition.
 - **Reviewer**: TPAMI, IJCV, TIFS, TDSC, TNNLS, TCSVT, TII, TOIS, Pattern Recognition, Neural Networks, Neurocomputing, Computers & Security, etc.
 - **Leading Guest Editor**: [Special Issue on Security and Privacy in Artificial Intelligence: Technology, Applications, and Challenges](https://www.mdpi.com/journal/applsci/special_issues/BLU6K1M55X), Applied Sciences.
 
