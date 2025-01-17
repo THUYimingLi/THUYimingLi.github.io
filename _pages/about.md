@@ -13,7 +13,7 @@ I am currently a Research Fellow at Nanyang Technological University, working wi
 
 **My research mainly focuses on Trustworthy ML and Responsible AI**, especially AI Risk Management and AI Copyright Protection. My long-term goal is to **make AI-based methods more secure and copyright-preserving during their full life cycle**. Recently, I focus more on **Trustworthy Generative AI** (*e.g.*, LLMs and Diffusion Models). I always **chase for simple yet effective methods** with deep insights and theoretical support. 
 
-My research has been published in multiple top-tier conferences  and journals, such as S&P, ICML, ICLR, NeurIPS, CVPR, and IEEE TIFS. I served as the Area Chair of ICML and ACM MM, the Senior Program Committee Member of AAAI and IJCAI, and the Reviewer of IEEE TPAMI, IEEE TIFS, IEEE TDSC, etc. My research has been featured by major media outlets, such as IEEE Spectrum. I was the recipient of Outstanding Junior Faculty Award at Zhejiang University (2023), the Best Paper Award at PAKDD (2023), the Rising Star Award at WAIC (2023), the KAUST Rising Stars in AI (2024), and the DAAD AInet Fellowship (2024).
+My research has been published in multiple top-tier conferences  and journals, such as S&P, ICML, ICLR, NeurIPS, CVPR, and IEEE TIFS. I served as the Associate Editor of Pattern Recognition, the Area Chair of ICML and ACM MM, the Senior Program Committee Member of AAAI and IJCAI, and the Reviewer of IEEE TPAMI, IEEE TIFS, IEEE TDSC, etc. My research has been featured by major media outlets, such as IEEE Spectrum. I was the recipient of Outstanding Junior Faculty Award at Zhejiang University (2023), the Best Paper Award at PAKDD (2023), the Rising Star Award at WAIC (2023), the KAUST Rising Stars in AI (2024), and the DAAD AInet Fellowship (2024).
 
 
 ## Selected Research
@@ -32,11 +32,11 @@ I am **always looking for highly self-motivated students and research interns** 
 
 
 ## News
+* 01/2025: I will serve as Associate Editor for Pattern Recognition.
 * 12/2024: Three papers are awarded 'Excellent Science & Technology Paper' from Shenzhen Association for Science and Technology. Congrats and thanks to Yinghua Gao, Linshan Hou, Sheng Yang, and all collaborators!
 * 12/2024: I am invited to serve as the SPC for IJCAI 2025.
 * 12/2024: I am invited to serve as an Area Chair for ICML 2025.
 * 10/2024: We won the Champion and the Runner-up at Tracks of Backdoor Trigger Recovery for models and agents of the NeurIPS'24 Competition for LLM and Agent Safety, respectively. Congrats and thanks to Yukun Chen and all team members of 'W0r1d 0ne'!
-* 10/2024: One paper about dataset ownership verification is accepted by IEEE TIFS. Congrats and thanks to Cheng Wei and all collaborators! Its codes have been released. 
 
 
 
