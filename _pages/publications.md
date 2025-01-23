@@ -258,6 +258,11 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 
 ## Books and Technical Reports
+* [AI Data Security (in Chinese)]()<br>
+  Kui Ren, Zhan Qin, Zhibo Wang, Zhongjie Ba, **Yiming Li**. <br>
+  Tsinghua University Press, 2025. (<font color='red'><b>Outstanding Textbook Series, Ministry of Education of China</b></font>) (To Appear) 
+
+
 * [Chapter 4: The Robust and Harmless Model Watermarking](https://link.springer.com/chapter/10.1007/978-981-19-7554-7_4)<br>
   **Yiming Li**, Linghui Zhu, Yang Bai, Yong Jiang, Shu-Tao Xia.<br>
   Digital Watermarking for Machine Learning Model: Techniques, Protocols and Applications. Springer, 2023.
