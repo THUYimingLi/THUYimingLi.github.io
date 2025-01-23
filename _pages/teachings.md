@@ -6,7 +6,7 @@ redirect_from:
   - /teachings
 ---
 
-- Spring, 2022. TA in **Optimization Theory and Machine Learning**, instructed by Prof. [Somayeh Sojoudi](https://people.eecs.berkeley.edu/~sojoudi/).
+- **Co-Lecturer and Core Member of the Curriculum Design Team** in Artificial Intelligence Security (<font color='red'><b>Core Course for Outstanding Engineers of the Ministry of Education of China</b></font>). 2024.
 
-- Spring, 2021. TA in **Optimization Theory and Machine Learning**, instructed by Prof. [Somayeh Sojoudi](https://people.eecs.berkeley.edu/~sojoudi/).
+- **TA** in Optimization Theory and Machine Learning, instructed by Prof. [Somayeh Sojoudi](https://people.eecs.berkeley.edu/~sojoudi/). Spring, 2021/2022. 
 
