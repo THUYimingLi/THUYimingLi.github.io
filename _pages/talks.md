@@ -8,13 +8,13 @@ redirect_from:
 ## Guest Lectures and Webinar
 * Towards Copyright-preserving Dataset Sharing via Dataset Ownership Verification. [The Webinar of IEEE Signal Processing Society](https://signalprocessingsociety.org/blog/sps-webinar-towards-copyright-preserving-dataset-sharing-dataset-ownership-verification) (with [Junfeng Guo](https://scholar.google.fr/citations?user=TqblqYcAAAAJ&hl=en&oi=ao)), 2024/08/08. [[Slides]](https://www.dropbox.com/scl/fi/bmkdenv4ktzl4shk7tal6/IEEETalk_0808.pdf?rlkey=g4r6jlyxdxm2lvspqh1vecrf7&st=bbhgjl2d&dl=0)
 
-
 * The Copyright Protection of Models and Datasets via Ownership Verification in Deep Learning, The Course of 'The Introduction to AI Security', Tsinghua University, 2022/12/02. [[Slides]](https://www.dropbox.com/s/iko1490ldglzi0a/DeepCopyrightProtection_THU.pptx?dl=0)
+
+## Tutorials
+* From Devil to Angel: Backdoor Attacks for AI Copyright Protection and Beyond. Southwest Jiaotong University, 2025/01/08. [[Slides]](https://www.dropbox.com/scl/fi/g7a4fje33d4r98w0w0ur3/Talk_YimingLi_20250108.pdf?rlkey=qno7yzb3muchlx0aga3yl0sh9&st=jp2vmvka&dl=0)
 
 
 ## Invited Talks
-* Tutorial: From Devil to Angel: Backdoor Attacks for AI Copyright Protection and Beyond. Southwest Jiaotong University, 2025/01/08. [[Slides]](https://www.dropbox.com/scl/fi/g7a4fje33d4r98w0w0ur3/Talk_YimingLi_20250108.pdf?rlkey=qno7yzb3muchlx0aga3yl0sh9&st=jp2vmvka&dl=0)
-
 * Towards Dataset Copyright Auditing via Ownership Verification. Xi'an Jiaotong University (online), 2025/01/07. [[Slides]](https://www.dropbox.com/scl/fi/2iw4w5gn75lzzh6nt3l1y/Talk_YimingLi_20250107.pdf?rlkey=ipi7gpp5ob1cxcqg92h6gsw4x&st=2rnmawkm&dl=0)
 
 * Protecting the Copyright of Public Datasets via Ownership Verification. West Lake Forum on Cyberspace Security, 2025/01/05. [[Slides]](https://www.dropbox.com/scl/fi/rpwoyxn7zmypk6a50h4pd/Talk_YimingLi_20250105.pdf?rlkey=szqn6tle70zfs2o5tzs2egjby&st=mf8ybo0l&dl=0)
