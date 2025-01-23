@@ -38,13 +38,12 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 ## Selected Conference Papers
 **Stats**: 1 S&P, 1 NDSS, 12 ICLR, 4 NeurIPS, 2 ICML, 2 CVPR, 3 ICCV, 2 ECCV, 2 AAAI, 1 IJCAI <br>
+*  [REFINE: Inversion-Free Backdoor Defense via Model Reprogramming](https://openreview.net/pdf?id=4IYdCws9fc)<br>
+  Yukun Chen, Shuo Shao, Enhao Huang, Yiming Li (corresponding author), Pin-Yu Chen, Zhan Qin, Kui Ren. <br>
+  International Conference on Learning Representations (**ICLR**), 2025. (To Appear)
 
 *  [Probe before You Talk: Towards Black-box Defense against Backdoor Unalignment for Large Language Models](https://openreview.net/pdf?id=EbxYDBhE3S)<br>
   Biao Yi, Tiansheng Huang, Sishuo Chen, Tong Li, Zheli Liu, Zhixuan Chu, **Yiming Li** (co-corresponding author). <br>
-  International Conference on Learning Representations (**ICLR**), 2025. (To Appear)
-
-*  [REFINE: Inversion-Free Backdoor Defense via Model Reprogramming](https://openreview.net/pdf?id=4IYdCws9fc)<br>
-  Yukun Chen, Shuo Shao, Enhao Huang, Yiming Li (corresponding author), Pin-Yu Chen, Zhan Qin, Kui Ren. <br>
   International Conference on Learning Representations (**ICLR**), 2025. (To Appear)
 
 *  [VideoShield: Regulating Diffusion-based Video Generation Models via Watermarking](https://openreview.net/pdf?id=uzz3qAYy0D)<br>
