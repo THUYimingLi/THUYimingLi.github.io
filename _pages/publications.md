@@ -37,9 +37,25 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 
 ## Selected Conference Papers
-**Stats**: 1 S&P, 1 NDSS, 8 ICLR, 4 NeurIPS, 2 ICML, 2 CVPR, 3 ICCV, 2 ECCV, 2 AAAI, 1 IJCAI <br>
+**Stats**: 1 S&P, 1 NDSS, 12 ICLR, 4 NeurIPS, 2 ICML, 2 CVPR, 3 ICCV, 2 ECCV, 2 AAAI, 1 IJCAI <br>
 
-* [Towards Reliable Verification of Unauthorized Data Usage in Personalized Text-to-Image Diffusion Models](https://arxiv.org/pdf/2410.10437)<br>
+*  [Probe before You Talk: Towards Black-box Defense against Backdoor Unalignment for Large Language Models](https://openreview.net/pdf?id=EbxYDBhE3S)<br>
+  Biao Yi, Tiansheng Huang, Sishuo Chen, Tong Li, Zheli Liu, Zhixuan Chu, **Yiming Li** (co-corresponding author). <br>
+  International Conference on Learning Representations (**ICLR**), 2025. (To Appear)
+
+*  [REFINE: Inversion-Free Backdoor Defense via Model Reprogramming](https://openreview.net/pdf?id=4IYdCws9fc)<br>
+  Yukun Chen, Shuo Shao, Enhao Huang, Yiming Li (corresponding author), Pin-Yu Chen, Zhan Qin, Kui Ren. <br>
+  International Conference on Learning Representations (**ICLR**), 2025. (To Appear)
+
+*  [VideoShield: Regulating Diffusion-based Video Generation Models via Watermarking](https://openreview.net/pdf?id=uzz3qAYy0D)<br>
+  Runyi Hu, Jie Zhang, **Yiming Li**, Jiwei Li, Qing Guo, Han Qiu, Tianwei Zhang. <br>
+  International Conference on Learning Representations (**ICLR**), 2025. (To Appear)
+
+*  [A Benchmark for Semantic Sensitive Information in LLMs Outputs](https://openreview.net/pdf?id=p3mxzKmuZy)<br>
+  Qingjie Zhang, Han Qiu, Di Wang, **Yiming Li**, Tianwei Zhang, Wenyu Zhu, Haiqin Weng, Liu Yan, Chao Zhang. <br>
+  International Conference on Learning Representations (**ICLR**), 2025. (To Appear)
+
+*  [Towards Reliable Verification of Unauthorized Data Usage in Personalized Text-to-Image Diffusion Models](https://arxiv.org/pdf/2410.10437)<br>
   Boheng Li, Yanhao Wei, Yankai Fu, Zhenting Wang, **Yiming Li** (co-corresponding author), Jie Zhang, Run Wang, Tianwei Zhang.<br>
   IEEE Symposium on Security and Privacy (**S&P**), 2025. <br>
   [[Code]](https://github.com/AntigoneRandy/SIREN)
