@@ -32,10 +32,10 @@ I am **always looking for highly self-motivated students and research interns** 
 
 
 ## News
+* 01/2025: One paper about membership inference attack is accepted to USENIX Security 2025. Congrats and thanks to Yu He and all collaborators!
 * 01/2025: Four papers about GenAI Security, GenAI Copyright, and Backdoor Defenses are accepted to ICLR 2025. Congrats and thanks to Yukun Chen, Biao Yi, Qingjie Zhang, Runyi Hu, and all collaborators!
 * 01/2025: I will serve as Associate Editor for Pattern Recognition.
 * 12/2024: Three papers are awarded 'Excellent Science & Technology Paper' from Shenzhen Association for Science and Technology. Congrats and thanks to Yinghua Gao, Linshan Hou, Sheng Yang, and all collaborators!
-* 12/2024: I am invited to serve as the SPC for IJCAI 2025.
 * 12/2024: I am invited to serve as an Area Chair for ICML 2025.
 
 
