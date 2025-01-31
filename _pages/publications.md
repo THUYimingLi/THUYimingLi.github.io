@@ -11,6 +11,10 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 [Preprints](#selected-preprints) | [Conferences](#selected-conference-papers) | [Journals](#selected-journal-articles) | [Books & Technical Reports](#books-and-technical-reports) | [Dissertation](#dissertation) | [Patents](#patents)
 
 ## Selected Preprints
+* [FIT-Print: Towards False-claim-resistant Model Ownership Verification via Targeted Fingerprint](https://arxiv.org/pdf/2501.15509)<br>
+  Shuo Shao, Haozhe Zhu, Hongwei Yao, **Yiming Li** (co-corresponding author), Tianwei Zhang, Zhan Qin, Kui Ren.<br>
+  arXiv, 2025. <br>
+
 * [FLARE: Towards Universal Dataset Purification against Backdoor Attacks](https://arxiv.org/pdf/2411.19479)<br>
   Linshan Hou, Wei Luo, Zhongyun Hua, Songhua Chen, Leo Yu Zhang, **Yiming Li** (co-corresponding author).<br>
   arXiv, 2024. <br>
@@ -40,7 +44,9 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 **Stats**: 1 S&P, 1 USENIX Security, 1 NDSS, 12 ICLR, 4 NeurIPS, 2 ICML, 2 CVPR, 3 ICCV, 2 ECCV, 2 AAAI, 1 IJCAI <br>
 * [Towards Label-Only Membership Inference Attack against Pre-trained Large Language Models]()<br>
   Yu He, Boheng Li, Liu Liu, Zhongjie Ba, Wei Dong, **Yiming Li** (corresponding author), Zhan Qin, Kui Ren, Chun Chen. <br>
-  **USENIX Security**, 2025. (To Appear)
+  **USENIX Security**, 2025. (To Appear) <br>
+  [[Code]](https://zenodo.org/records/14725819)
+  
 
 * [REFINE: Inversion-Free Backdoor Defense via Model Reprogramming](https://openreview.net/pdf?id=4IYdCws9fc)<br>
   Yukun Chen, Shuo Shao, Enhao Huang, **Yiming Li** (corresponding author), Pin-Yu Chen, Zhan Qin, Kui Ren. <br>
