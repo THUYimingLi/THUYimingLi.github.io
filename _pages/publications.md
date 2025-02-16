@@ -11,6 +11,10 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 [Preprints](#selected-preprints) | [Conferences](#selected-conference-papers) | [Journals](#selected-journal-articles) | [Books & Technical Reports](#books-and-technical-reports) | [Dissertation](#dissertation) | [Patents](#patents)
 
 ## Selected Preprints
+* [Towards Copyright Protection for Knowledge Bases of Retrieval-augmented Language Models via Ownership Verification with Reasoning](https://www.researchgate.net/publication/389033760_Towards_Copyright_Protection_for_Knowledge_Bases_of_Retrieval-augmented_Language_Models_via_Ownership_Verification_with_Reasoning)<br>
+  Junfeng Guo, **Yiming Li** (co-first author), Ruibo Chen, Yihan Wu, Chenxi Liu, Yanshuo Chen, Heng Huang.<br>
+  arXiv, 2025. <br>
+
 * [FIT-Print: Towards False-claim-resistant Model Ownership Verification via Targeted Fingerprint](https://arxiv.org/pdf/2501.15509)<br>
   Shuo Shao, Haozhe Zhu, Hongwei Yao, **Yiming Li** (co-corresponding author), Tianwei Zhang, Zhan Qin, Kui Ren.<br>
   arXiv, 2025. <br>
@@ -270,7 +274,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 ## Books and Technical Reports
 * [AI Data Security (in Chinese)]()<br>
   Kui Ren, Zhan Qin, Zhibo Wang, Zhongjie Ba, **Yiming Li**. <br>
-  Tsinghua University Press, 2025. (To Appear, <font color='red'><b>Outstanding Textbook Series, Ministry of Education of China</b></font>)
+  Tsinghua University Press, 2025. (<font color='red'><b>Outstanding Textbook Series, Ministry of Education of China</b></font>)
 
 
 * [Chapter 4: The Robust and Harmless Model Watermarking](https://link.springer.com/chapter/10.1007/978-981-19-7554-7_4)<br>
@@ -280,7 +284,6 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 * [LLM Safety and Ethics (in Chinese)](https://www.dropbox.com/scl/fi/u9xiq1rierdlwtjrqejav/2024.pdf?rlkey=tgnb2uknogzm02dr7uiyrpdza&dl=0) <br>
    Technical Report, 2024/01. <br>
    [[Media1]](https://mp.weixin.qq.com/s/KCWw9gBwUnzywyNW_K8-4A) [[Media2]](https://finance.sina.cn/stock/relnews/hk/2024-01-25/detail-inaetumy1071697.d.html?from=wap) [[Media3]](https://tech.cnr.cn/techph/20240125/t20240125_526570970.shtml) [[Media4]](https://www.aixinzhijie.com/article/6844666)
-
 
 * [The ATT&CK Matrix of AI Security](https://aisecmatrix.org/en) <br>
    Technical Report, 2020/09. <br>
