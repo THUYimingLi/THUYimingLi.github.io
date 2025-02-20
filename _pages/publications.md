@@ -54,7 +54,9 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 * [REFINE: Inversion-Free Backdoor Defense via Model Reprogramming](https://openreview.net/pdf?id=4IYdCws9fc)<br>
   Yukun Chen, Shuo Shao, Enhao Huang, **Yiming Li** (corresponding author), Pin-Yu Chen, Zhan Qin, Kui Ren. <br>
-  International Conference on Learning Representations (**ICLR**), 2025. (To Appear)
+  International Conference on Learning Representations (**ICLR**), 2025. <br>
+  [[Code (BackdoorBox)]](https://github.com/THUYimingLi/BackdoorBox) [[Code (GitHub)]](https://github.com/WhitolfChen/REFINE) 
+  
 
 *  [Probe before You Talk: Towards Black-box Defense against Backdoor Unalignment for Large Language Models](https://openreview.net/pdf?id=EbxYDBhE3S)<br>
   Biao Yi, Tiansheng Huang, Sishuo Chen, Tong Li, Zheli Liu, Zhixuan Chu, **Yiming Li** (co-corresponding author). <br>
@@ -66,7 +68,8 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 *  [A Benchmark for Semantic Sensitive Information in LLMs Outputs](https://openreview.net/pdf?id=p3mxzKmuZy)<br>
   Qingjie Zhang, Han Qiu, Di Wang, **Yiming Li**, Tianwei Zhang, Wenyu Zhu, Haiqin Weng, Liu Yan, Chao Zhang. <br>
-  International Conference on Learning Representations (**ICLR**), 2025. (To Appear)
+  International Conference on Learning Representations (**ICLR**), 2025. <br>
+  [[Project Website]](https://semsi-project.github.io/) [[Code]](https://anonymous.4open.science/r/SemSI-BC69)
 
 *  [Towards Reliable Verification of Unauthorized Data Usage in Personalized Text-to-Image Diffusion Models](https://arxiv.org/pdf/2410.10437)<br>
   Boheng Li, Yanhao Wei, Yankai Fu, Zhenting Wang, **Yiming Li** (co-corresponding author), Jie Zhang, Run Wang, Tianwei Zhang.<br>
