@@ -37,11 +37,6 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   **Yiming Li**, Mingyan Zhu, Junfeng Guo, Tao Wei, Shu-Tao Xia, Zhan Qin.<br>
   Under Review by IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2023.<br>
 
-* [MOVE: Effective and Harmless Ownership Verification via Embedded External Features](https://arxiv.org/pdf/2208.02820.pdf)<br>
-  **Yiming Li**, Linghui Zhu, Xiaojun Jia, Yang Bai, Yong Jiang, Shu-Tao Xia, Xiaochun Cao.<br>
-  Under Review by IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2022. (The journal extension of our [AAAI'22 conference paper](https://arxiv.org/pdf/2112.03476.pdf))<br>
-  [[Code]](https://github.com/THUYimingLi/MOVE)
-
 
 
 ## Selected Conference Papers
@@ -224,7 +219,13 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 
 ## Selected Journal Articles
-**Stats**: 4 TIFS, 1 IJCV, 3 PR, 1 TNNLS <br>
+**Stats**: 1 TPAMI, 4 TIFS, 1 IJCV, 3 PR, 1 TNNLS <br>
+
+* [MOVE: Effective and Harmless Ownership Verification via Embedded External Features](https://arxiv.org/pdf/2208.02820.pdf)<br>
+  **Yiming Li**, Linghui Zhu, Xiaojun Jia, Yang Bai, Yong Jiang, Shu-Tao Xia, Xiaochun Cao, Kui Ren.<br>
+  IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2025. (The journal extension of our [AAAI'22 conference paper](https://arxiv.org/pdf/2112.03476.pdf))<br>
+  [[Code]](https://github.com/THUYimingLi/MOVE)
+
 
 * [PointNCBW: Towards Dataset Ownership Verification for Point Clouds via Negative Clean-label Backdoor Watermark](https://www.researchgate.net/publication/383060790_PointNCBW_Towards_Dataset_Ownership_Verification_for_Point_Clouds_via_Negative_Clean-label_Backdoor_Watermark)<br>
   Cheng Wei, Yang Wang, Kuofeng Gao, Shuo Shao, **Yiming Li** (co-corresponding author), Zhibo Wang, Zhan Qin. <br>
