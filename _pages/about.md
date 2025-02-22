@@ -32,11 +32,11 @@ I am **always looking for highly self-motivated students and research interns** 
 
 
 ## News
+* 02/2025: Our paper about model ownership verification is accepted by IEEE TPAMI.
 * 02/2025: I am invited to serve as an Area Chair for ACM MM 2025.
 * 01/2025: One paper about membership inference attack is accepted to USENIX Security 2025. Congrats and thanks to Yu He and all collaborators!
 * 01/2025: Four papers about GenAI Security, GenAI Copyright, and Backdoor Defenses are accepted to ICLR 2025. Congrats and thanks to Yukun Chen, Biao Yi, Qingjie Zhang, Runyi Hu, and all collaborators!
 * 01/2025: I will serve as Associate Editor for Pattern Recognition.
-* 12/2024: I am invited to serve as an Area Chair for ICML 2025.
 
 
 
