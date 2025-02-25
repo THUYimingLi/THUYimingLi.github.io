@@ -59,7 +59,8 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 *  [VideoShield: Regulating Diffusion-based Video Generation Models via Watermarking](https://openreview.net/pdf?id=uzz3qAYy0D)<br>
   Runyi Hu, Jie Zhang, **Yiming Li**, Jiwei Li, Qing Guo, Han Qiu, Tianwei Zhang. <br>
-  International Conference on Learning Representations (**ICLR**), 2025. (To Appear)
+  International Conference on Learning Representations (**ICLR**), 2025. <br>
+  [[Code]](https://github.com/hurunyi/VideoShield)
 
 *  [A Benchmark for Semantic Sensitive Information in LLMs Outputs](https://openreview.net/pdf?id=p3mxzKmuZy)<br>
   Qingjie Zhang, Han Qiu, Di Wang, **Yiming Li**, Tianwei Zhang, Wenyu Zhu, Haiqin Weng, Liu Yan, Chao Zhang. <br>
@@ -71,7 +72,6 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   IEEE Symposium on Security and Privacy (**S&P**), 2025. <br>
   [[Code]](https://github.com/AntigoneRandy/SIREN)
 
-  
 * [Explanation as a Watermark: Towards Harmless and Multi-bit Model Ownership Verification via Watermarking Feature Attribution](https://arxiv.org/pdf/2405.04825)<br>
   Shuo Shao, **Yiming Li** (co-first author, co-corresponding author), Hongwei Yao, Yiling He, Zhan Qin, Kui Ren.<br>
   Network and Distributed System Security Symposium (**NDSS**), 2025. <br>
@@ -279,7 +279,6 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 * [AI Data Security (in Chinese)]()<br>
   Kui Ren, Zhan Qin, Zhibo Wang, Zhongjie Ba, **Yiming Li**. <br>
   Tsinghua University Press, 2025. (<font color='red'><b>Outstanding Textbook Series, Ministry of Education of China</b></font>)
-
 
 * [Chapter 4: The Robust and Harmless Model Watermarking](https://link.springer.com/chapter/10.1007/978-981-19-7554-7_4)<br>
   **Yiming Li**, Linghui Zhu, Yang Bai, Yong Jiang, Shu-Tao Xia.<br>
