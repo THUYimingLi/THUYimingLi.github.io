@@ -53,9 +53,10 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   [[Code (BackdoorBox)]](https://github.com/THUYimingLi/BackdoorBox) [[Code (GitHub)]](https://github.com/WhitolfChen/REFINE) 
   
 
-*  [Probe before You Talk: Towards Black-box Defense against Backdoor Unalignment for Large Language Models](https://openreview.net/pdf?id=EbxYDBhE3S)<br>
+* [Probe before You Talk: Towards Black-box Defense against Backdoor Unalignment for Large Language Models](https://openreview.net/pdf?id=EbxYDBhE3S)<br>
   Biao Yi, Tiansheng Huang, Sishuo Chen, Tong Li, Zheli Liu, Zhixuan Chu, **Yiming Li** (co-corresponding author). <br>
-  International Conference on Learning Representations (**ICLR**), 2025. (To Appear)
+  International Conference on Learning Representations (**ICLR**), 2025.<br>
+  [[Code]](https://github.com/clearloveclearlove/BEAT)
 
 *  [VideoShield: Regulating Diffusion-based Video Generation Models via Watermarking](https://openreview.net/pdf?id=uzz3qAYy0D)<br>
   Runyi Hu, Jie Zhang, **Yiming Li**, Jiwei Li, Qing Guo, Han Qiu, Tianwei Zhang. <br>
