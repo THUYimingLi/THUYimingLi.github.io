@@ -32,20 +32,22 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   Yuchen Yang, Hongwei Yao, Bingrun Yang, Yiling He, **Yiming Li** (co-corresponding author), Tianwei Zhang, Zhan Qin.<br>
   arXiv, 2024. <br>
 
-
 * [Towards Sample-specific Backdoor Attack with Clean Labels via Attribute Trigger](https://www.researchgate.net/publication/376174078_Towards_Sample-specific_Backdoor_Attack_with_Clean_Labels_via_Attribute_Trigger)<br>
   **Yiming Li**, Mingyan Zhu, Junfeng Guo, Tao Wei, Shu-Tao Xia, Zhan Qin.<br>
   Under Review by IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2023.<br>
 
 
-
 ## Selected Conference Papers
-**Stats**: 1 S&P, 1 USENIX Security, 1 NDSS, 12 ICLR, 4 NeurIPS, 2 ICML, 2 CVPR, 3 ICCV, 2 ECCV, 2 AAAI, 1 IJCAI <br>
+**Stats**: 1 S&P, 1 USENIX Security, 1 NDSS, 12 ICLR, 4 NeurIPS, 2 ICML, 3 CVPR, 3 ICCV, 2 ECCV, 2 AAAI, 1 IJCAI <br>
 * [Towards Label-Only Membership Inference Attack against Pre-trained Large Language Models]()<br>
   Yu He, Boheng Li, Liu Liu, Zhongjie Ba, Wei Dong, **Yiming Li** (corresponding author), Zhan Qin, Kui Ren, Chun Chen. <br>
   **USENIX Security**, 2025. (To Appear) <br>
   [[Code]](https://zenodo.org/records/14725819)
   
+* [SleeperMark: Towards Robust Watermark against Fine-Tuning Text-to-image Diffusion Models]()<br>
+  Zilan Wang, Junfeng Guo, Jiacheng Zhu, **Yiming Li** (co-corresponding author), Heng Huang, Muhao Chen, Zhengzhong Tu. <br>
+  IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025. (To Appear)
+
 
 * [REFINE: Inversion-Free Backdoor Defense via Model Reprogramming](https://openreview.net/pdf?id=4IYdCws9fc)<br>
   Yukun Chen, Shuo Shao, Enhao Huang, **Yiming Li** (corresponding author), Pin-Yu Chen, Zhan Qin, Kui Ren. <br>
