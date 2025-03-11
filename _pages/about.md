@@ -19,10 +19,10 @@ My research has been published in multiple top-tier conferences  and journals, s
 ## Selected Research
 - **AI Safety**
   - **Training Phrase**: [[ICLR'25(a)](https://openreview.net/pdf?id=4IYdCws9fc), [ICLR'25(b)](https://openreview.net/pdf?id=EbxYDBhE3S), [TIFS'24(a)](https://www.researchgate.net/publication/370659402_Backdoor_Attack_with_Sparse_and_Invisible_Trigger), [TIFS'24(b)](https://www.researchgate.net/publication/372388876_Towards_Stealthy_Backdoor_Attacks_against_Speech_Recognition_via_Elements_of_Sound), [ICML'24(a)](https://arxiv.org/pdf/2405.09786), [ICML'24(b)](https://openreview.net/pdf?id=CEfr3h68KU), [CVPR'24(a)](https://arxiv.org/pdf/2405.12725), [CVPR'24(b)](https://arxiv.org/pdf/2405.10612), [ICLR'24(a)](https://openreview.net/forum?id=Tw9wemV6cb), [ICLR'24(b)](https://openreview.net/forum?id=s56xikpD92), [PR'23](https://www.sciencedirect.com/science/article/abs/pii/S0031320323002121), [NeurIPS'23](https://arxiv.org/pdf/2310.18633.pdf), [ICCV'23](https://www.researchgate.net/publication/373049298_One-bit_Flip_is_All_You_Need_When_Bit-flip_Attack_Meets_Model_Training), [ICLR'23(a)](https://openreview.net/pdf?id=o0LFPcoFKnr), [ICLR'23(b)](https://openreview.net/pdf?id=_wSHsgrVali), [TNNLS'22](https://www.researchgate.net/publication/343006441_Backdoor_Learning_A_Survey), [ICLR'22(a)](https://openreview.net/pdf?id=qSV5CuSaK_a), [ICLR'22(b)](https://openreview.net/pdf?id=TySnJ-0RdKI), [ICCV'21](https://arxiv.org/pdf/2012.03816.pdf), [ICLR'21](https://arxiv.org/pdf/2102.10496.pdf)]
-  - **Inference Phrase**: [[USENIX Security'25](), [ICLR'25](https://openreview.net/pdf?id=p3mxzKmuZy), [IJCV'24](https://link.springer.com/article/10.1007/s11263-024-02103-w), [AAAI'23](https://ojs.aaai.org/index.php/AAAI/article/view/25154), [PR'22](https://www.sciencedirect.com/science/article/abs/pii/S0031320321006488), [ECCV'20](https://arxiv.org/abs/2004.07955)]
+  - **Inference Phrase**: [[S&P'25](), [USENIX Security'25](), [ICLR'25](https://openreview.net/pdf?id=p3mxzKmuZy), [IJCV'24](https://link.springer.com/article/10.1007/s11263-024-02103-w), [AAAI'23](https://ojs.aaai.org/index.php/AAAI/article/view/25154), [PR'22](https://www.sciencedirect.com/science/article/abs/pii/S0031320321006488), [ECCV'20](https://arxiv.org/abs/2004.07955)]
 - **AI Copyright Protection**
   - **Data Copyright**: [[IEEE S&P'25](https://arxiv.org/pdf/2410.10437), [ICLR'25](https://openreview.net/pdf?id=uzz3qAYy0D), [NeurIPS'24](https://openreview.net/pdf?id=Eyyt3ZmNV6), [TIFS'24](https://www.researchgate.net/publication/383060790_PointNCBW_Towards_Dataset_Ownership_Verification_for_Point_Clouds_via_Negative_Clean-label_Backdoor_Watermark), [TIFS'23](https://www.researchgate.net/publication/369559541_Black-box_Dataset_Ownership_Verification_via_Backdoor_Watermarking), [NeurIPS'23](https://www.researchgate.net/publication/374440504_Domain_Watermark_Effective_and_Harmless_Dataset_Copyright_Protection_is_Closed_at_Hand), [PR'22](https://www.sciencedirect.com/science/article/pii/S0031320321005112), [NeurIPS'22](https://www.researchgate.net/publication/363766436_Untargeted_Backdoor_Watermark_Towards_Harmless_and_Stealthy_Dataset_Copyright_Protection)]
-  - **Model Copyright**: [[TPAMI'25](https://arxiv.org/pdf/2208.02820.pdf), [NDSS'25](https://arxiv.org/pdf/2405.04825), [ECCV'24](https://arxiv.org/pdf/2404.02697), [ICCV'23](https://www.researchgate.net/publication/373367424_Towards_Robust_Model_Watermark_via_Reducing_Parametric_Vulnerability), [AAAI'22](https://arxiv.org/pdf/2112.03476.pdf)]
+  - **Model Copyright**: [[TPAMI'25](https://arxiv.org/pdf/2208.02820.pdf), [NDSS'25](https://arxiv.org/pdf/2405.04825), [CVPR'25](), [ECCV'24](https://arxiv.org/pdf/2404.02697), [ICCV'23](https://www.researchgate.net/publication/373367424_Towards_Robust_Model_Watermark_via_Reducing_Parametric_Vulnerability), [AAAI'22](https://arxiv.org/pdf/2112.03476.pdf)]
 - **Explainable AI**: [[ICLR'24](https://openreview.net/forum?id=Tw9wemV6cb), [TIFS'24](https://www.researchgate.net/publication/370659402_Backdoor_Attack_with_Sparse_and_Invisible_Trigger)]
 
 
@@ -32,10 +32,10 @@ I am **always looking for highly self-motivated students and research interns** 
 
 
 ## News
+* 03/2025: One paper about prompt inversion attack is accepted to IEEE S&P 2025. 
 * 02/2025: One paper about T2I model watermarking is accepted by CVPR 2025.
 * 02/2025: Our paper about model ownership verification is accepted by IEEE TPAMI.
-* 02/2025: I am invited to serve as an Area Chair for ACM MM 2025.
-* 01/2025: One paper about membership inference attack is accepted to USENIX Security 2025. Congrats and thanks to Yu He and all collaborators!
+* 01/2025: One paper about membership inference attack is accepted to USENIX Security 2025. 
 * 01/2025: Four papers about GenAI Security, GenAI Copyright, and Backdoor Defenses are accepted to ICLR 2025. Congrats and thanks to Yukun Chen, Biao Yi, Qingjie Zhang, Runyi Hu, and all collaborators!
 
 
