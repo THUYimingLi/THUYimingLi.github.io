@@ -11,6 +11,15 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 [Preprints](#selected-preprints) | [Conferences](#selected-conference-papers) | [Journals](#selected-journal-articles) | [Books & Technical Reports](#books-and-technical-reports) | [Dissertation](#dissertation) | [Patents](#patents)
 
 ## Selected Preprints
+* [CBW: Towards Dataset Ownership Verification for Speaker Verification via Clustering-based Backdoor Watermarking](https://arxiv.org/pdf/2503.05794)<br>
+  **Yiming Li**, Kaiying Yan, Shuo Shao, Tongqing Zhai, Shu-Tao Xia, Zhan Qin, Dacheng Tao. <br>
+  Under Review by IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2025. <br>
+  [[Code]](https://github.com/Radiant0726/CBW)
+
+* [TPIA: Towards Target-specific Prompt Injection Attack against Code-oriented Large Language Models](https://arxiv.org/pdf/2407.09164)<br>
+  Yuchen Yang, Hongwei Yao, Bingrun Yang, Yiling He, **Yiming Li** (co-corresponding author), Tianwei Zhang, Zhan Qin.<br>
+  Under Review by IEEE Transactions on Information Forensics and Security (**TIFS**), 2025. <br>
+
 * [Towards Copyright Protection for Knowledge Bases of Retrieval-augmented Language Models via Ownership Verification with Reasoning](https://www.researchgate.net/publication/389033760_Towards_Copyright_Protection_for_Knowledge_Bases_of_Retrieval-augmented_Language_Models_via_Ownership_Verification_with_Reasoning)<br>
   Junfeng Guo, **Yiming Li** (co-first author), Ruibo Chen, Yihan Wu, Chenxi Liu, Yanshuo Chen, Heng Huang.<br>
   arXiv, 2025. <br>
@@ -21,16 +30,12 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 * [FLARE: Towards Universal Dataset Purification against Backdoor Attacks](https://arxiv.org/pdf/2411.19479)<br>
   Linshan Hou, Wei Luo, Zhongyun Hua, Songhua Chen, Leo Yu Zhang, **Yiming Li** (co-corresponding author).<br>
-  arXiv, 2024. <br>
+  Under Review by IEEE Transactions on Information Forensics and Security (**TIFS**), 2024.<br>
 
 * [Understanding the Dark Side of LLMs’ Intrinsic Self-Correction](https://arxiv.org/pdf/2412.14959)<br>
   Qingjie Zhang, Han Qiu, Di Wang, Haoting Qian, **Yiming Li**, Tianwei Zhang, Minlie Huang.<br>
   arXiv, 2024. <br>
   [[Project Website]](https://x-isc.info/) [[Media Cover 1 (MIT Technology Review in Chinese)]](https://www.mittrchina.com/news/detail/14276) [[Media Cover 2 (Sina News in Chinese)]](https://finance.sina.com.cn/tech/roll/2025-01-10/doc-ineenxxw5715519.shtml)
-  
-* [TPIA: Towards Target-specific Prompt Injection Attack against Code-oriented Large Language Models](https://arxiv.org/pdf/2407.09164)<br>
-  Yuchen Yang, Hongwei Yao, Bingrun Yang, Yiling He, **Yiming Li** (co-corresponding author), Tianwei Zhang, Zhan Qin.<br>
-  arXiv, 2024. <br>
 
 * [Towards Sample-specific Backdoor Attack with Clean Labels via Attribute Trigger](https://www.researchgate.net/publication/376174078_Towards_Sample-specific_Backdoor_Attack_with_Clean_Labels_via_Attribute_Trigger)<br>
   **Yiming Li**, Mingyan Zhu, Junfeng Guo, Tao Wei, Shu-Tao Xia, Zhan Qin.<br>
@@ -38,7 +43,12 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 
 ## Selected Conference Papers
-**Stats**: 1 S&P, 1 USENIX Security, 1 NDSS, 12 ICLR, 4 NeurIPS, 2 ICML, 3 CVPR, 3 ICCV, 2 ECCV, 2 AAAI, 1 IJCAI <br>
+**Stats**: 2 S&P, 1 USENIX Security, 1 NDSS, 12 ICLR, 4 NeurIPS, 2 ICML, 3 CVPR, 3 ICCV, 2 ECCV, 2 AAAI, 1 IJCAI <br>
+
+* [Prompt Inversion Attack against Collaborative Inference of Large Language Models]()<br>
+  Wenjie Qu, Yuguang Zhou, Yongji Wu, Tingsong Xiao, Binhang Yuan, **Yiming Li** (co-corresponding author), Jiaheng Zhang. <br>
+  IEEE Symposium on Security and Privacy (**S&P**), 2025. (To Appear) <br>
+
 * [Towards Label-Only Membership Inference Attack against Pre-trained Large Language Models](https://arxiv.org/pdf/2502.18943)<br>
   Yu He, Boheng Li, Liu Liu, Zhongjie Ba, Wei Dong, **Yiming Li** (corresponding author), Zhan Qin, Kui Ren, Chun Chen. <br>
   USENIX Security Symposium (**USENIX Security**), 2025. <br>
