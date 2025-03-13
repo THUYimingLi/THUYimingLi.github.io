@@ -37,16 +37,11 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   arXiv, 2024. <br>
   [[Project Website]](https://x-isc.info/) [[Media Cover 1 (MIT Technology Review in Chinese)]](https://www.mittrchina.com/news/detail/14276) [[Media Cover 2 (Sina News in Chinese)]](https://finance.sina.com.cn/tech/roll/2025-01-10/doc-ineenxxw5715519.shtml)
 
-* [Towards Sample-specific Backdoor Attack with Clean Labels via Attribute Trigger](https://www.researchgate.net/publication/376174078_Towards_Sample-specific_Backdoor_Attack_with_Clean_Labels_via_Attribute_Trigger)<br>
-  **Yiming Li**, Mingyan Zhu, Junfeng Guo, Tao Wei, Shu-Tao Xia, Zhan Qin.<br>
-  Under Review by IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2023.<br>
-
-
 ## Selected Conference Papers
 **Stats**: 2 S&P, 1 USENIX Security, 1 NDSS, 12 ICLR, 4 NeurIPS, 2 ICML, 3 CVPR, 3 ICCV, 2 ECCV, 2 AAAI, 1 IJCAI <br>
 
-* [Prompt Inversion Attack against Collaborative Inference of Large Language Models]()<br>
-  Wenjie Qu, Yuguang Zhou, Yongji Wu, Tingsong Xiao, Binhang Yuan, **Yiming Li** (co-corresponding author), Jiaheng Zhang. <br>
+* [Prompt Inversion Attack against Collaborative Inference of Large Language Models](https://arxiv.org/pdf/2503.09022)<br>
+  Wenjie Qu, Yuguang Zhou, Yongji Wu, Tingsong Xiao, Binhang Yuan, **Yiming Li** (corresponding author), Jiaheng Zhang. <br>
   IEEE Symposium on Security and Privacy (**S&P**), 2025. (To Appear) <br>
 
 * [Towards Label-Only Membership Inference Attack against Pre-trained Large Language Models](https://arxiv.org/pdf/2502.18943)<br>
@@ -232,12 +227,16 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 
 ## Selected Journal Articles
-**Stats**: 1 TPAMI, 4 TIFS, 1 IJCV, 3 PR, 1 TNNLS <br>
+**Stats**: 1 TPAMI, 4 TIFS, 1 TDSC, 1 IJCV, 3 PR, 1 TNNLS <br>
 
 * [MOVE: Effective and Harmless Ownership Verification via Embedded External Features](https://arxiv.org/pdf/2208.02820.pdf)<br>
   **Yiming Li**, Linghui Zhu, Xiaojun Jia, Yang Bai, Yong Jiang, Shu-Tao Xia, Xiaochun Cao, Kui Ren.<br>
   IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2025. (The journal extension of our [AAAI'22 conference paper](https://arxiv.org/pdf/2112.03476.pdf))<br>
   [[Code]](https://github.com/THUYimingLi/MOVE)
+
+* [Towards Sample-specific Backdoor Attack with Clean Labels via Attribute Trigger](https://www.researchgate.net/publication/376174078_Towards_Sample-specific_Backdoor_Attack_with_Clean_Labels_via_Attribute_Trigger)<br>
+  Mingyan Zhu, **Yiming Li** (co-first author, corresponding author), Junfeng Guo, Tao Wei, Shu-Tao Xia, Zhan Qin.<br>
+  IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2025. <br>
 
 
 * [PointNCBW: Towards Dataset Ownership Verification for Point Clouds via Negative Clean-label Backdoor Watermark](https://www.researchgate.net/publication/383060790_PointNCBW_Towards_Dataset_Ownership_Verification_for_Point_Clouds_via_Negative_Clean-label_Backdoor_Watermark)<br>
