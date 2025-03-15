@@ -48,11 +48,10 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   Yu He, Boheng Li, Liu Liu, Zhongjie Ba, Wei Dong, **Yiming Li** (corresponding author), Zhan Qin, Kui Ren, Chun Chen. <br>
   USENIX Security Symposium (**USENIX Security**), 2025. <br>
   [[Code]](https://zenodo.org/records/14725819)
-  
+
 * [SleeperMark: Towards Robust Watermark against Fine-Tuning Text-to-image Diffusion Models]()<br>
   Zilan Wang, Junfeng Guo, Jiacheng Zhu, **Yiming Li** (co-corresponding author), Heng Huang, Muhao Chen, Zhengzhong Tu. <br>
   IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025. (To Appear)
-
 
 * [REFINE: Inversion-Free Backdoor Defense via Model Reprogramming](https://openreview.net/pdf?id=4IYdCws9fc)<br>
   Yukun Chen, Shuo Shao, Enhao Huang, **Yiming Li** (corresponding author), Pin-Yu Chen, Zhan Qin, Kui Ren. <br>
@@ -288,7 +287,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 
 ## Books and Technical Reports
-* [AI Data Security (in Chinese)]()<br>
+* [AI Data Security (in Chinese)](http://www.tup.tsinghua.edu.cn/bookscenter/book_10671901.html)<br>
   Kui Ren, Zhan Qin, Zhibo Wang, Zhongjie Ba, **Yiming Li**. <br>
   Tsinghua University Press, 2025. (<font color='red'><b>Outstanding Textbook Series, Ministry of Education of China</b></font>)
 
