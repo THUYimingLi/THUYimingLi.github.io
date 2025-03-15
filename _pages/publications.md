@@ -41,7 +41,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 **Stats**: 2 S&P, 1 USENIX Security, 1 NDSS, 12 ICLR, 4 NeurIPS, 2 ICML, 3 CVPR, 3 ICCV, 2 ECCV, 2 AAAI, 1 IJCAI <br>
 
 * [Prompt Inversion Attack against Collaborative Inference of Large Language Models](https://arxiv.org/pdf/2503.09022)<br>
-  Wenjie Qu, Yuguang Zhou, Yongji Wu, Tingsong Xiao, Binhang Yuan, **Yiming Li** (corresponding author), Jiaheng Zhang. <br>
+  Wenjie Qu, Yuguang Zhou, Yongji Wu, Tingsong Xiao, Binhang Yuan, **Yiming Li**, Jiaheng Zhang. <br>
   IEEE Symposium on Security and Privacy (**S&P**), 2025. (To Appear) <br>
 
 * [Towards Label-Only Membership Inference Attack against Pre-trained Large Language Models](https://arxiv.org/pdf/2502.18943)<br>
