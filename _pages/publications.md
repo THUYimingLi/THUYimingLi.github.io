@@ -40,14 +40,19 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 ## Selected Conference Papers
 **Stats**: 2 S&P, 1 USENIX Security, 1 NDSS, 12 ICLR, 4 NeurIPS, 2 ICML, 3 CVPR, 3 ICCV, 2 ECCV, 2 AAAI, 1 IJCAI <br>
 
-* [Prompt Inversion Attack against Collaborative Inference of Large Language Models](https://arxiv.org/pdf/2503.09022)<br>
-  Wenjie Qu, Yuguang Zhou, Yongji Wu, Tingsong Xiao, Binhang Yuan, **Yiming Li**, Jiaheng Zhang. <br>
-  IEEE Symposium on Security and Privacy (**S&P**), 2025. (To Appear) <br>
-
 * [Towards Label-Only Membership Inference Attack against Pre-trained Large Language Models](https://arxiv.org/pdf/2502.18943)<br>
   Yu He, Boheng Li, Liu Liu, Zhongjie Ba, Wei Dong, **Yiming Li** (corresponding author), Zhan Qin, Kui Ren, Chun Chen. <br>
   USENIX Security Symposium (**USENIX Security**), 2025. <br>
   [[Code]](https://zenodo.org/records/14725819)
+
+*  [Towards Reliable Verification of Unauthorized Data Usage in Personalized Text-to-Image Diffusion Models](https://arxiv.org/pdf/2410.10437)<br>
+  Boheng Li, Yanhao Wei, Yankai Fu, Zhenting Wang, **Yiming Li** (co-corresponding author), Jie Zhang, Run Wang, Tianwei Zhang.<br>
+  IEEE Symposium on Security and Privacy (**S&P**), 2025. <br>
+  [[Code]](https://github.com/AntigoneRandy/SIREN)
+
+* [Prompt Inversion Attack against Collaborative Inference of Large Language Models](https://arxiv.org/pdf/2503.09022)<br>
+  Wenjie Qu, Yuguang Zhou, Yongji Wu, Tingsong Xiao, Binhang Yuan, **Yiming Li**, Jiaheng Zhang. <br>
+  IEEE Symposium on Security and Privacy (**S&P**), 2025. (To Appear) <br>
 
 * [SleeperMark: Towards Robust Watermark against Fine-Tuning Text-to-image Diffusion Models]()<br>
   Zilan Wang, Junfeng Guo, Jiacheng Zhu, **Yiming Li** (co-corresponding author), Heng Huang, Muhao Chen, Zhengzhong Tu. <br>
@@ -58,7 +63,6 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   International Conference on Learning Representations (**ICLR**), 2025. <br>
   [[Code (BackdoorBox)]](https://github.com/THUYimingLi/BackdoorBox) [[Code (GitHub)]](https://github.com/WhitolfChen/REFINE) 
   
-
 * [Probe before You Talk: Towards Black-box Defense against Backdoor Unalignment for Large Language Models](https://openreview.net/pdf?id=EbxYDBhE3S)<br>
   Biao Yi, Tiansheng Huang, Sishuo Chen, Tong Li, Zheli Liu, Zhixuan Chu, **Yiming Li** (co-corresponding author). <br>
   International Conference on Learning Representations (**ICLR**), 2025.<br>
@@ -73,11 +77,6 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   Qingjie Zhang, Han Qiu, Di Wang, **Yiming Li**, Tianwei Zhang, Wenyu Zhu, Haiqin Weng, Liu Yan, Chao Zhang. <br>
   International Conference on Learning Representations (**ICLR**), 2025. <br>
   [[Project Website]](https://semsi-project.github.io/) [[Code]](https://anonymous.4open.science/r/SemSI-BC69)
-
-*  [Towards Reliable Verification of Unauthorized Data Usage in Personalized Text-to-Image Diffusion Models](https://arxiv.org/pdf/2410.10437)<br>
-  Boheng Li, Yanhao Wei, Yankai Fu, Zhenting Wang, **Yiming Li** (co-corresponding author), Jie Zhang, Run Wang, Tianwei Zhang.<br>
-  IEEE Symposium on Security and Privacy (**S&P**), 2025. <br>
-  [[Code]](https://github.com/AntigoneRandy/SIREN)
 
 * [Explanation as a Watermark: Towards Harmless and Multi-bit Model Ownership Verification via Watermarking Feature Attribution](https://arxiv.org/pdf/2405.04825)<br>
   Shuo Shao, **Yiming Li** (co-first author, co-corresponding author), Hongwei Yao, Yiling He, Zhan Qin, Kui Ren.<br>
