@@ -30,7 +30,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 * [FLARE: Towards Universal Dataset Purification against Backdoor Attacks](https://arxiv.org/pdf/2411.19479)<br>
   Linshan Hou, Wei Luo, Zhongyun Hua, Songhua Chen, Leo Yu Zhang, **Yiming Li** (co-corresponding author).<br>
-  Under Review by IEEE Transactions on Information Forensics and Security (**TIFS**), 2024.<br>
+  Under Review by IEEE Transactions on Information Forensics and Security (**TIFS**), 2024. (Under Major Revision) <br>
 
 * [Understanding the Dark Side of LLMs’ Intrinsic Self-Correction](https://arxiv.org/pdf/2412.14959)<br>
   Qingjie Zhang, Han Qiu, Di Wang, Haoting Qian, **Yiming Li**, Tianwei Zhang, Minlie Huang.<br>
