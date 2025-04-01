@@ -9,9 +9,9 @@ redirect_from:
 
 
 ## Conference Services
-* **Area Chair**: ICML'25, ACM MM'24.
-* **Senior Program Committee Member**: IJCAI'25, AAAI'22.
-* **Member of Program Committee Board**: IJCAI'22-24.
+* **Area Chair**: ICML 2025, ACM MM (2024, 2025).
+* **Senior Program Committee Member**: IJCAI 2025, AAAI 2022.
+* **Member of Program Committee Board**: IJCAI (2022-2024).
 * **Program Committee Member**: ICLR, NeurIPS, ICML, CVPR, ICCV, ECCV, AAAI, IJCAI, AISTATS, ICASSP, ICONIP, etc.
 
 
