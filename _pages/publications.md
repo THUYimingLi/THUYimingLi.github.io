@@ -31,11 +31,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 * [FLARE: Towards Universal Dataset Purification against Backdoor Attacks](https://arxiv.org/pdf/2411.19479)<br>
   Linshan Hou, Wei Luo, Zhongyun Hua, Songhua Chen, Leo Yu Zhang, **Yiming Li** (co-corresponding author).<br>
   Under Review by IEEE Transactions on Information Forensics and Security (**TIFS**), 2024. (Under Major Revision) <br>
-
-* [Understanding the Dark Side of LLMs’ Intrinsic Self-Correction](https://arxiv.org/pdf/2412.14959)<br>
-  Qingjie Zhang, Han Qiu, Di Wang, Haoting Qian, **Yiming Li**, Tianwei Zhang, Minlie Huang.<br>
-  arXiv, 2024. <br>
-  [[Project Website]](https://x-isc.info/) [[Media Cover 1 (MIT Technology Review in Chinese)]](https://www.mittrchina.com/news/detail/14276) [[Media Cover 2 (Sina News in Chinese)]](https://finance.sina.com.cn/tech/roll/2025-01-10/doc-ineenxxw5715519.shtml)
+  
 
 ## Selected Conference Papers
 **Stats**: 2 S&P, 1 USENIX Security, 1 NDSS, 12 ICLR, 4 NeurIPS, 2 ICML, 3 CVPR, 3 ICCV, 2 ECCV, 2 AAAI, 1 IJCAI <br>
@@ -44,6 +40,11 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   Yu He, Boheng Li, Liu Liu, Zhongjie Ba, Wei Dong, **Yiming Li** (corresponding author), Zhan Qin, Kui Ren, Chun Chen. <br>
   USENIX Security Symposium (**USENIX Security**), 2025. <br>
   [[Code]](https://zenodo.org/records/14725819)
+
+* [Explanation as a Watermark: Towards Harmless and Multi-bit Model Ownership Verification via Watermarking Feature Attribution](https://arxiv.org/pdf/2405.04825)<br>
+  Shuo Shao, **Yiming Li** (co-first author, co-corresponding author), Hongwei Yao, Yiling He, Zhan Qin, Kui Ren.<br>
+  Network and Distributed System Security Symposium (**NDSS**), 2025. <br>
+  [[Code]](https://github.com/shaoshuo-ss/EaaW)
 
 *  [Towards Reliable Verification of Unauthorized Data Usage in Personalized Text-to-Image Diffusion Models](https://arxiv.org/pdf/2410.10437)<br>
   Boheng Li, Yanhao Wei, Yankai Fu, Zhenting Wang, **Yiming Li** (co-corresponding author), Jie Zhang, Run Wang, Tianwei Zhang.<br>
@@ -78,10 +79,10 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   International Conference on Learning Representations (**ICLR**), 2025. <br>
   [[Project Website]](https://semsi-project.github.io/) [[Code]](https://anonymous.4open.science/r/SemSI-BC69)
 
-* [Explanation as a Watermark: Towards Harmless and Multi-bit Model Ownership Verification via Watermarking Feature Attribution](https://arxiv.org/pdf/2405.04825)<br>
-  Shuo Shao, **Yiming Li** (co-first author, co-corresponding author), Hongwei Yao, Yiling He, Zhan Qin, Kui Ren.<br>
-  Network and Distributed System Security Symposium (**NDSS**), 2025. <br>
-  [[Code]](https://github.com/shaoshuo-ss/EaaW)
+* [Understanding the Dark Side of LLMs’ Intrinsic Self-Correction](https://arxiv.org/pdf/2412.14959)<br>
+  Qingjie Zhang, Han Qiu, Di Wang, Haoting Qian, **Yiming Li**, Tianwei Zhang, Minlie Huang.<br>
+  Annual Meeting of the Association for Computational Linguistics (**ACL**), 2024. <br>
+  [[Project Website]](https://x-isc.info/) [[Media Cover 1 (MIT Technology Review in Chinese)]](https://www.mittrchina.com/news/detail/14276) [[Media Cover 2 (Sina News in Chinese)]](https://finance.sina.com.cn/tech/roll/2025-01-10/doc-ineenxxw5715519.shtml)
 
 * [ZeroMark: Towards Dataset Ownership Verification without Disclosing Watermarks](https://openreview.net/pdf?id=Eyyt3ZmNV6)<br>
   Junfeng Guo, **Yiming Li** (co-first author, corresponding author), Ruibo Chen, Yihan Wu, Chenxi Liu, Heng Huang. <br>
