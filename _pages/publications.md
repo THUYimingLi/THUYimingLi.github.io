@@ -53,11 +53,11 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 * [Prompt Inversion Attack against Collaborative Inference of Large Language Models](https://arxiv.org/pdf/2503.09022)<br>
   Wenjie Qu, Yuguang Zhou, Yongji Wu, Tingsong Xiao, Binhang Yuan, **Yiming Li**, Jiaheng Zhang. <br>
-  IEEE Symposium on Security and Privacy (**S&P**), 2025. (To Appear) <br>
+  IEEE Symposium on Security and Privacy (**S&P**), 2025. <br>
 
 * [SleeperMark: Towards Robust Watermark against Fine-Tuning Text-to-image Diffusion Models]()<br>
   Zilan Wang, Junfeng Guo, Jiacheng Zhu, **Yiming Li** (co-corresponding author), Heng Huang, Muhao Chen, Zhengzhong Tu. <br>
-  IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025. (To Appear)
+  IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025.
 
 * [REFINE: Inversion-Free Backdoor Defense via Model Reprogramming](https://openreview.net/pdf?id=4IYdCws9fc)<br>
   Yukun Chen, Shuo Shao, Enhao Huang, **Yiming Li** (corresponding author), Pin-Yu Chen, Zhan Qin, Kui Ren. <br>
@@ -79,9 +79,13 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   International Conference on Learning Representations (**ICLR**), 2025. <br>
   [[Project Website]](https://semsi-project.github.io/) [[Code]](https://anonymous.4open.science/r/SemSI-BC69)
 
-* [Understanding the Dark Side of LLMs’ Intrinsic Self-Correction](https://arxiv.org/pdf/2412.14959)<br>
+* [When Backdoors Speak: Understanding LLM Backdoor Attacks Through Model-Generated Explanations](https://arxiv.org/pdf/2411.12701)<br>
+  Huaizhi Ge, **Yiming Li**, Qifan Wang, Yongfeng Zhang, Ruixiang Tang. <br>
+  Annual Meeting of the Association for Computational Linguistics (**ACL**), 2025. <br>
+
+* [Understanding the Dark Side of LLMs' Intrinsic Self-Correction](https://arxiv.org/pdf/2412.14959)<br>
   Qingjie Zhang, Han Qiu, Di Wang, Haoting Qian, **Yiming Li**, Tianwei Zhang, Minlie Huang.<br>
-  Annual Meeting of the Association for Computational Linguistics (**ACL**), 2024. <br>
+  Annual Meeting of the Association for Computational Linguistics (**ACL**), 2025. <br>
   [[Project Website]](https://x-isc.info/) [[Media Cover 1 (MIT Technology Review in Chinese)]](https://www.mittrchina.com/news/detail/14276) [[Media Cover 2 (Sina News in Chinese)]](https://finance.sina.com.cn/tech/roll/2025-01-10/doc-ineenxxw5715519.shtml)
 
 * [ZeroMark: Towards Dataset Ownership Verification without Disclosing Watermarks](https://openreview.net/pdf?id=Eyyt3ZmNV6)<br>
