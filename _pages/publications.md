@@ -34,7 +34,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   
 
 ## Selected Conference Papers
-**Stats**: 2 S&P, 1 USENIX Security, 1 NDSS, 12 ICLR, 4 NeurIPS, 2 ICML, 3 CVPR, 3 ICCV, 2 ECCV, 2 AAAI, 1 IJCAI <br>
+**Stats**: 2 S&P, 1 USENIX Security, 1 NDSS, 12 ICLR, 4 NeurIPS, 2 ICML, 3 CVPR, 3 ICCV, 2 ECCV, 2 ACL, 2 AAAI, 1 IJCAI <br>
 
 * [Towards Label-Only Membership Inference Attack against Pre-trained Large Language Models](https://arxiv.org/pdf/2502.18943)<br>
   Yu He, Boheng Li, Liu Liu, Zhongjie Ba, Wei Dong, **Yiming Li** (corresponding author), Zhan Qin, Kui Ren, Chun Chen. <br>
