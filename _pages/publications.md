@@ -55,7 +55,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   Wenjie Qu, Yuguang Zhou, Yongji Wu, Tingsong Xiao, Binhang Yuan, **Yiming Li**, Jiaheng Zhang. <br>
   IEEE Symposium on Security and Privacy (**S&P**), 2025. <br>
 
-* [SleeperMark: Towards Robust Watermark against Fine-Tuning Text-to-image Diffusion Models]()<br>
+* [SleeperMark: Towards Robust Watermark against Fine-Tuning Text-to-image Diffusion Models](https://arxiv.org/pdf/2412.04852)<br>
   Zilan Wang, Junfeng Guo, Jiacheng Zhu, **Yiming Li** (co-corresponding author), Heng Huang, Muhao Chen, Zhengzhong Tu. <br>
   IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025.
 
