@@ -18,13 +18,13 @@ My research has been published in multiple top-tier conferences  and journals, s
 
 ## Selected Research
 - **AI Security and Safety**
-  - **Risk Assessment**: 
-  - **Risk Mitigation**:
-  - **Risk Attribution**: 
+  - **Risk Assessment** 
+  - **Risk Mitigation**
+  - **Risk Attribution** 
 - **AI Copyright**
-  - **Data(set) Copyright**:
-  - **Model Copyright**:
-  - **AIGC Copyright**: 
+  - **Data(set) Copyright**
+  - **Model Copyright**
+  - **AIGC Copyright** 
 
 
 
