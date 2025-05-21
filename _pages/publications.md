@@ -79,7 +79,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   International Conference on Learning Representations (**ICLR**), 2025. <br>
   [[Project Website]](https://semsi-project.github.io/) [[Code]](https://anonymous.4open.science/r/SemSI-BC69)
 
-* [Cowpox: Towards the Immunity of VLM-based Multi-Agent Systems]()
+* [Cowpox: Towards the Immunity of VLM-based Multi-Agent Systems]()<br>
   Yutong Wu, Jie Zhang, **Yiming Li**, Chao Zhang, Qing Guo, Han Qiu, Nils Lukas, Tianwei Zhang. <br>
   International Conference on Machine Learning (**ICML**), 2025. (To Appear)
 
