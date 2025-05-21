@@ -21,7 +21,7 @@ My research has been published in multiple top-tier conferences  and journals, s
   - **Risk Assessment** 
   - **Risk Mitigation**
   - **Risk Attribution** 
-- **AI Copyright**
+- **AI Copyright Protection**
   - **Data(set) Copyright**
   - **Model Copyright**
   - **AIGC Copyright** 
