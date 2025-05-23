@@ -20,7 +20,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   Yuchen Yang, Hongwei Yao, Bingrun Yang, Yiling He, **Yiming Li** (co-corresponding author), Tianwei Zhang, Zhan Qin.<br>
   Under Review by IEEE Transactions on Information Forensics and Security (**TIFS**), 2025. <br>
 
-* [Towards Copyright Protection for Knowledge Bases of Retrieval-augmented Language Models via Ownership Verification with Reasoning](https://www.researchgate.net/publication/389033760_Towards_Copyright_Protection_for_Knowledge_Bases_of_Retrieval-augmented_Language_Models_via_Ownership_Verification_with_Reasoning)<br>
+* [Towards Copyright Protection for Knowledge Bases of Retrieval-augmented Language Models via Reasoning](https://www.researchgate.net/publication/389033760_Towards_Copyright_Protection_for_Knowledge_Bases_of_Retrieval-augmented_Language_Models_via_Ownership_Verification_with_Reasoning)<br>
   Junfeng Guo, **Yiming Li** (co-first author), Ruibo Chen, Yihan Wu, Chenxi Liu, Yanshuo Chen, Heng Huang.<br>
   arXiv, 2025. <br>
 
