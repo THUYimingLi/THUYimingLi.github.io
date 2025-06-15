@@ -27,10 +27,6 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 * [FIT-Print: Towards False-claim-resistant Model Ownership Verification via Targeted Fingerprint](https://arxiv.org/pdf/2501.15509)<br>
   Shuo Shao, Haozhe Zhu, Hongwei Yao, **Yiming Li** (co-corresponding author), Tianwei Zhang, Zhan Qin, Kui Ren.<br>
   arXiv, 2025. <br>
-
-* [FLARE: Towards Universal Dataset Purification against Backdoor Attacks](https://arxiv.org/pdf/2411.19479)<br>
-  Linshan Hou, Wei Luo, Zhongyun Hua, Songhua Chen, Leo Yu Zhang, **Yiming Li** (co-corresponding author).<br>
-  Under Review by IEEE Transactions on Information Forensics and Security (**TIFS**), 2024. (Under Major Revision) <br>
   
 
 ## Selected Conference Papers
@@ -235,12 +231,16 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 
 ## Selected Journal Articles
-**Stats**: 1 TPAMI, 4 TIFS, 1 TDSC, 1 IJCV, 3 PR, 1 TNNLS <br>
+**Stats**: 1 TPAMI, 5 TIFS, 1 TDSC, 1 IJCV, 3 PR, 1 TNNLS <br>
 
 * [MOVE: Effective and Harmless Ownership Verification via Embedded External Features](https://arxiv.org/pdf/2208.02820.pdf)<br>
   **Yiming Li**, Linghui Zhu, Xiaojun Jia, Yang Bai, Yong Jiang, Shu-Tao Xia, Xiaochun Cao, Kui Ren.<br>
   IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2025. (The journal extension of our [AAAI'22 conference paper](https://arxiv.org/pdf/2112.03476.pdf))<br>
   [[Code]](https://github.com/THUYimingLi/MOVE)
+
+* [FLARE: Towards Universal Dataset Purification against Backdoor Attacks](https://arxiv.org/pdf/2411.19479)<br>
+  Linshan Hou, Wei Luo, Zhongyun Hua, Songhua Chen, Leo Yu Zhang, **Yiming Li** (co-corresponding author).<br>
+  IEEE Transactions on Information Forensics and Security (**TIFS**), 2025. (To Appear) <br>
 
 * [Towards Sample-specific Backdoor Attack with Clean Labels via Attribute Trigger](https://www.researchgate.net/publication/376174078_Towards_Sample-specific_Backdoor_Attack_with_Clean_Labels_via_Attribute_Trigger)<br>
   Mingyan Zhu, **Yiming Li** (co-first author, corresponding author), Junfeng Guo, Tao Wei, Shu-Tao Xia, Zhan Qin.<br>
