@@ -241,6 +241,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 * [FLARE: Towards Universal Dataset Purification against Backdoor Attacks](https://arxiv.org/pdf/2411.19479)<br>
   Linshan Hou, Wei Luo, Zhongyun Hua, Songhua Chen, Leo Yu Zhang, **Yiming Li** (co-corresponding author).<br>
   IEEE Transactions on Information Forensics and Security (**TIFS**), 2025. (To Appear) <br>
+  [[Code (BackdoorBox)]](https://github.com/THUYimingLi/BackdoorBox) [[Code (backdoor-toolbox)]](https://github.com/vtu81/backdoor-toolbox)
 
 * [Towards Sample-specific Backdoor Attack with Clean Labels via Attribute Trigger](https://www.researchgate.net/publication/376174078_Towards_Sample-specific_Backdoor_Attack_with_Clean_Labels_via_Attribute_Trigger)<br>
   Mingyan Zhu, **Yiming Li** (co-first author, corresponding author), Junfeng Guo, Tao Wei, Shu-Tao Xia, Zhan Qin.<br>
