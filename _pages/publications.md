@@ -42,7 +42,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   Network and Distributed System Security Symposium (**NDSS**), 2025. <br>
   [[Code]](https://github.com/shaoshuo-ss/EaaW)
 
-*  [Towards Reliable Verification of Unauthorized Data Usage in Personalized Text-to-Image Diffusion Models](https://arxiv.org/pdf/2410.10437)<br>
+* [Towards Reliable Verification of Unauthorized Data Usage in Personalized Text-to-Image Diffusion Models](https://arxiv.org/pdf/2410.10437)<br>
   Boheng Li, Yanhao Wei, Yankai Fu, Zhenting Wang, **Yiming Li**^, Jie Zhang^, Run Wang, Tianwei Zhang.<br>
   IEEE Symposium on Security and Privacy (**S&P**), 2025. <br>
   [[Code]](https://github.com/AntigoneRandy/SIREN)
@@ -53,7 +53,8 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 * [SleeperMark: Towards Robust Watermark against Fine-Tuning Text-to-image Diffusion Models](https://arxiv.org/pdf/2412.04852)<br>
   Zilan Wang, Junfeng Guo, Jiacheng Zhu, **Yiming Li**^, Heng Huang, Muhao Chen, Zhengzhong Tu^. <br>
-  IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025.
+  IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025. <br>
+  [[Code]](https://github.com/taco-group/SleeperMark)
 
 * [REFINE: Inversion-Free Backdoor Defense via Model Reprogramming](https://openreview.net/pdf?id=4IYdCws9fc)<br>
   Yukun Chen, Shuo Shao, Enhao Huang, **Yiming Li**^, Pin-Yu Chen, Zhan Qin, Kui Ren. <br>
