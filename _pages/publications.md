@@ -30,8 +30,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   
 
 ## Selected Conference Papers
-**'*'** indicates co-first author
-**'^'** indicates (co-)corresponding author/project leader
+**'*'** indicates co-first author; **'^'** indicates (co-)corresponding author/project leader
 
 * [Towards Label-Only Membership Inference Attack against Pre-trained Large Language Models](https://arxiv.org/pdf/2502.18943)<br>
   Yu He, Boheng Li, Liu Liu, Zhongjie Ba, Wei Dong, **Yiming Li**^, Zhan Qin, Kui Ren, Chun Chen. <br>
