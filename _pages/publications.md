@@ -76,14 +76,14 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   International Conference on Learning Representations (**ICLR**), 2025. <br>
   [[Project Website]](https://semsi-project.github.io/) [[Code]](https://anonymous.4open.science/r/SemSI-BC69)
 
-* [Cowpox: Towards the Immunity of VLM-based Multi-Agent Systems]()<br>
+* [Cowpox: Towards the Immunity of VLM-based Multi-Agent Systems](https://openreview.net/pdf?id=5KszXnnkG5)<br>
   Yutong Wu, Jie Zhang, **Yiming Li**, Chao Zhang, Qing Guo, Han Qiu, Nils Lukas, Tianwei Zhang. <br>
-  International Conference on Machine Learning (**ICML**), 2025. (To Appear)
-
+  International Conference on Machine Learning (**ICML**), 2025. <br>
+  [[Code]](https://github.com/WU-YU-TONG/Cowpox)
 
 * [When Backdoors Speak: Understanding LLM Backdoor Attacks Through Model-Generated Explanations](https://arxiv.org/pdf/2411.12701)<br>
   Huaizhi Ge, **Yiming Li**, Qifan Wang, Yongfeng Zhang, Ruixiang Tang. <br>
-  Annual Meeting of the Association for Computational Linguistics (**ACL**), 2025. <br>
+  Annual Meeting of the Association for Computational Linguistics (**ACL**), 2025. (To Appear) <br>
 
 * [Understanding the Dark Side of LLMs' Intrinsic Self-Correction](https://arxiv.org/pdf/2412.14959)<br>
   Qingjie Zhang, Han Qiu, Di Wang, Haoting Qian, **Yiming Li**, Tianwei Zhang, Minlie Huang.<br>
