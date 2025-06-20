@@ -17,20 +17,20 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   [[Code]](https://github.com/Radiant0726/CBW)
 
 * [TPIA: Towards Target-specific Prompt Injection Attack against Code-oriented Large Language Models](https://arxiv.org/pdf/2407.09164)<br>
-  Yuchen Yang, Hongwei Yao, Bingrun Yang, Yiling He, **Yiming Li** (co-corresponding author), Tianwei Zhang, Zhan Qin.<br>
+  Yuchen Yang, Hongwei Yao, Bingrun Yang, Yiling He, **Yiming Li**^, Tianwei Zhang, Zhan Qin.<br>
   Under Review by IEEE Transactions on Information Forensics and Security (**TIFS**), 2025. <br>
 
 * [Towards Copyright Protection for Knowledge Bases of Retrieval-augmented Language Models via Reasoning](https://www.researchgate.net/publication/389033760_Towards_Copyright_Protection_for_Knowledge_Bases_of_Retrieval-augmented_Language_Models_via_Ownership_Verification_with_Reasoning)<br>
-  Junfeng Guo, **Yiming Li** (co-first author), Ruibo Chen, Yihan Wu, Chenxi Liu, Yanshuo Chen, Heng Huang.<br>
+  Junfeng Guo\*, **Yiming Li**\*, Ruibo Chen, Yihan Wu, Chenxi Liu, Yanshuo Chen, Heng Huang.<br>
   arXiv, 2025. <br>
 
 * [FIT-Print: Towards False-claim-resistant Model Ownership Verification via Targeted Fingerprint](https://arxiv.org/pdf/2501.15509)<br>
-  Shuo Shao, Haozhe Zhu, Hongwei Yao, **Yiming Li** (co-corresponding author), Tianwei Zhang, Zhan Qin, Kui Ren.<br>
+  Shuo Shao, Haozhe Zhu, Hongwei Yao, **Yiming Li**^, Tianwei Zhang, Zhan Qin, Kui Ren.<br>
   arXiv, 2025. <br>
   
 
 ## Selected Conference Papers
-**'*'** indicates co-first author; **'^'** indicates (co-)corresponding author/project leader
+**\`*'** indicates co-first author; **\`^'** indicates (co-)corresponding author/project leader
 
 * [Towards Label-Only Membership Inference Attack against Pre-trained Large Language Models](https://arxiv.org/pdf/2502.18943)<br>
   Yu He, Boheng Li, Liu Liu, Zhongjie Ba, Wei Dong, **Yiming Li**^, Zhan Qin, Kui Ren, Chun Chen. <br>
@@ -38,7 +38,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   [[Code]](https://zenodo.org/records/14725819)
 
 * [Explanation as a Watermark: Towards Harmless and Multi-bit Model Ownership Verification via Watermarking Feature Attribution](https://arxiv.org/pdf/2405.04825)<br>
-  Shuo Shao*, **Yiming Li***^, Hongwei Yao, Yiling He, Zhan Qin^, Kui Ren.<br>
+  Shuo Shao\*, **Yiming Li**\*^, Hongwei Yao, Yiling He, Zhan Qin^, Kui Ren.<br>
   Network and Distributed System Security Symposium (**NDSS**), 2025. <br>
   [[Code]](https://github.com/shaoshuo-ss/EaaW)
 
@@ -91,7 +91,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   [[Project Website]](https://x-isc.info/) [[Media Cover 1 (MIT Technology Review in Chinese)]](https://www.mittrchina.com/news/detail/14276) [[Media Cover 2 (Sina News in Chinese)]](https://finance.sina.com.cn/tech/roll/2025-01-10/doc-ineenxxw5715519.shtml)
 
 * [ZeroMark: Towards Dataset Ownership Verification without Disclosing Watermarks](https://openreview.net/pdf?id=Eyyt3ZmNV6)<br>
-  Junfeng Guo*, **Yiming Li***^, Ruibo Chen, Yihan Wu, Chenxi Liu, Heng Huang. <br>
+  Junfeng Guo\*, **Yiming Li**\*^, Ruibo Chen, Yihan Wu, Chenxi Liu, Heng Huang. <br>
   Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2024. <br>
   [[Code]](https://github.com/JunfengGo/ZeroMark)
 
@@ -121,12 +121,12 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   [[Code]](https://github.com/20000yshust/SWARM)
 
 * [Towards Reliable and Efficient Backdoor Trigger Inversion via Decoupling Benign Features](https://openreview.net/forum?id=Tw9wemV6cb)<br>
-  Xiong Xu*, Kunzhe Huang*, **Yiming Li***^, Zhan Qin^, Kui Ren. <br>
+  Xiong Xu\*, Kunzhe Huang\*, **Yiming Li**\*^, Zhan Qin^, Kui Ren. <br>
   International Conference on Learning Representations (**ICLR**), 2024. (<font color='red'><b>Spotlight</b></font>, TOP 5%)<br>
   [[Code]](https://github.com/xuxiong0214/BTIDBF)
 
 * [Towards Faithful XAI Evaluation via Generalization-Limited Backdoor Watermark](https://openreview.net/forum?id=cObFETcoeW)<br>
-  Mengxi Ya*, **Yiming Li***^, Tao Dai, Bin Wang, Yong Jiang, Shu-Tao Xia. <br>
+  Mengxi Ya\*, **Yiming Li**\*^, Tao Dai, Bin Wang, Yong Jiang, Shu-Tao Xia. <br>
   International Conference on Learning Representations (**ICLR**), 2024.<br>
   [[Code]](https://github.com/yamengxi/GLBW)
 
@@ -136,7 +136,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   [[Code]](https://github.com/vtu81/backdoor-toolbox)
 
 * [Domain Watermark: Effective and Harmless Dataset Copyright Protection is Closed at Hand](https://www.researchgate.net/publication/374440504_Domain_Watermark_Effective_and_Harmless_Dataset_Copyright_Protection_is_Closed_at_Hand)<br>
-  Junfeng Guo*, **Yiming Li***^, Lixu Wang, Shu-Tao Xia, Heng Huang, Cong Liu, Bo Li.<br>
+  Junfeng Guo\*, **Yiming Li**\*^, Lixu Wang, Shu-Tao Xia, Heng Huang, Cong Liu, Bo Li.<br>
   Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2023. <br>
   [[Code]](https://github.com/JunfengGo/Domain-Watermark)
 
@@ -160,7 +160,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   [[Code]](https://github.com/THUYimingLi/BackdoorBox) [[Slides]](https://www.dropbox.com/s/7vvto9w1k5trdue/BackdoorBox_ICLRW.pptx?dl=0) [[Video]](https://www.dropbox.com/s/vkvj0i9jiwf8h46/BackdoorBox_ICLRW.mp4?dl=0)
 
 * [SCALE-UP: An Efficient Black-box Input-level Backdoor Detection via Analyzing Scaled Prediction Consistency](https://openreview.net/pdf?id=o0LFPcoFKnr)<br>
-  Junfeng Guo*, **Yiming Li***, Xun Chen, Hanqing Guo, Lichao Sun, Cong Liu.<br>
+  Junfeng Guo\*, **Yiming Li**\*, Xun Chen, Hanqing Guo, Lichao Sun, Cong Liu.<br>
   International Conference on Learning Representations (**ICLR**), 2023. <br>
   [[Code]](https://github.com/JunfengGo/SCALE-UP)
   
@@ -202,7 +202,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 
 * [Backdoor Attack against Speaker Verification](https://arxiv.org/pdf/2010.11607.pdf)<br>
-  Tongqing Zhai*, **Yiming Li***^, Ziqi Zhang, Baoyuan Wu, Yong Jiang, Shu-Tao Xia^.<br>
+  Tongqing Zhai\*, **Yiming Li**\*^, Ziqi Zhang, Baoyuan Wu, Yong Jiang, Shu-Tao Xia^.<br>
   International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2021. <br>
   [[Code]](https://github.com/zhaitongqing233/Backdoor-attack-against-speaker-verification) [[Poster]](https://www.dropbox.com/s/jd9z8eer749ffgh/BackdoorSpeakerVerification_poster.pdf?dl=0) [[Slides]](https://www.dropbox.com/s/ox2h6wicc9v88a3/BackdoorSpeakerVerification_slides.pptx?dl=0) [[Video]](https://www.dropbox.com/s/0f7effif8itgsow/BackdoorSpeakerVerification_video.mp4?dl=0)
 
@@ -225,7 +225,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 
 * [Targeted Attack for Deep Hashing based Retrieval](https://arxiv.org/abs/2004.07955)<br>
-  Jiawang Bai*, Bin Chen*, **Yiming Li***, Dongxian Wu, Weiwei Guo, Shu-Tao Xia, Enhui Yang.<br>
+  Jiawang Bai\*, Bin Chen\*, **Yiming Li**\*, Dongxian Wu, Weiwei Guo, Shu-Tao Xia, Enhui Yang.<br>
   European Conference on Computer Vision (**ECCV**), 2020. (<font color='red'><b>Oral</b></font>, TOP 2%) <br>
   [[Code]](https://github.com/jiawangbai/DHTA-master) [[Slides]](https://www.dropbox.com/s/7a1vvopt8z0jxvl/targeted_attack_slides.pptx?dl=0)
 
@@ -244,7 +244,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   [[Code (BackdoorBox)]](https://github.com/THUYimingLi/BackdoorBox) [[Code (backdoor-toolbox)]](https://github.com/vtu81/backdoor-toolbox)
 
 * [Towards Sample-specific Backdoor Attack with Clean Labels via Attribute Trigger](https://www.researchgate.net/publication/376174078_Towards_Sample-specific_Backdoor_Attack_with_Clean_Labels_via_Attribute_Trigger)<br>
-  Mingyan Zhu*, **Yiming Li***^, Junfeng Guo, Tao Wei, Shu-Tao Xia, Zhan Qin.<br>
+  Mingyan Zhu\*, **Yiming Li**\*^, Junfeng Guo, Tao Wei, Shu-Tao Xia, Zhan Qin.<br>
   IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2025. <br>
 
 
@@ -255,7 +255,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 
 * [Backdoor Attack with Sparse and Invisible Trigger](https://www.researchgate.net/publication/370659402_Backdoor_Attack_with_Sparse_and_Invisible_Trigger)<br>
-  Yinghua Gao*, **Yiming Li***^, Xueluan Gong, Zhifeng Li, Shu-Tao Xia, Qian Wang.<br>
+  Yinghua Gao\*, **Yiming Li**\*^, Xueluan Gong, Zhifeng Li, Shu-Tao Xia, Qian Wang.<br>
   IEEE Transactions on Information Forensics and Security (**TIFS**), 2024. (<font color='red'><b>Excellent Science & Technology Paper</b></font>, Shenzhen Association for Science and Technology)<br>
   [[Code]](https://github.com/YinghuaGao/SIBA)
 
@@ -275,7 +275,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 
 * [Not All Samples Are Born Equal: Towards Effective Clean-Label Backdoor Attacks](https://www.sciencedirect.com/science/article/abs/pii/S0031320323002121)<br>
-  Yinghua Gao*, **Yiming Li***^, Linghui Zhu, Dongxian Wu, Yong Jiang, Shu-Tao Xia.<br>
+  Yinghua Gao\*, **Yiming Li**\*^, Linghui Zhu, Dongxian Wu, Yong Jiang, Shu-Tao Xia.<br>
   **Pattern Recognition**, 2023. <br>
   [[Code]](https://github.com/YinghuaGao/Effective_CLB)
 
@@ -290,7 +290,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   [[Code]](https://github.com/THUYimingLi/Semi-supervised_Robust_Training)
 
 * [Multinomial Random Forest](https://www.sciencedirect.com/science/article/pii/S0031320321005112)<br>
-  Jiawang Bai*, **Yiming Li***, Jiawei Li, Xue Yang, Yong Jiang, Shu-Tao Xia.<br>
+  Jiawang Bai\*, **Yiming Li**\*, Jiawei Li, Xue Yang, Yong Jiang, Shu-Tao Xia.<br>
   **Pattern Recognition**, 2022. <br>
   [[Code]](https://github.com/jiawangbai/Multinomial-Random-Forest)
 
