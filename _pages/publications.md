@@ -11,6 +11,11 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 [Preprints](#selected-preprints) | [Conferences](#selected-conference-papers) | [Journals](#selected-journal-articles) | [Books & Technical Reports](#books-and-technical-reports) | [Dissertation](#dissertation) | [Patents](#patents)
 
 ## Selected Preprints
+* [CertDW: Towards Certified Dataset Ownership Verification via Conformal Prediction](https://arxiv.org/pdf/2506.13160)<br>
+  Ting Qiao\*, **Yiming Li**\*^, Jianbin Li^, Yingjia Wang, Leyi Qi, Junfeng Guo, Ruili Feng, Dacheng Tao.<br>
+  Under Review by IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2025.<br>
+  [[Code]](https://github.com/NcepuQiaoTing/CertDW)
+  
 * [CBW: Towards Dataset Ownership Verification for Speaker Verification via Clustering-based Backdoor Watermarking](https://arxiv.org/pdf/2503.05794)<br>
   **Yiming Li**, Kaiying Yan, Shuo Shao, Tongqing Zhai, Shu-Tao Xia, Zhan Qin, Dacheng Tao. <br>
   Under Review by IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2025. (The journal extension of our [ICASSP'21 conference paper](https://arxiv.org/pdf/2010.11607.pdf))<br>
