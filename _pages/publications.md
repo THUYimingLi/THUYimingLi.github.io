@@ -243,7 +243,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2025. (The journal extension of our [AAAI'22 conference paper](https://arxiv.org/pdf/2112.03476.pdf))<br>
   [[Code]](https://github.com/THUYimingLi/MOVE)
 
-* [FLARE: Towards Universal Dataset Purification against Backdoor Attacks](https://arxiv.org/pdf/2411.19479)<br>
+* [FLARE: Toward Universal Dataset Purification against Backdoor Attacks](https://arxiv.org/pdf/2411.19479)<br>
   Linshan Hou, Wei Luo, Zhongyun Hua^, Songhua Chen, Leo Yu Zhang, **Yiming Li**^.<br>
   IEEE Transactions on Information Forensics and Security (**TIFS**), 2025. <br>
   [[Code (BackdoorBox)]](https://github.com/THUYimingLi/BackdoorBox) [[Code (backdoor-toolbox)]](https://github.com/vtu81/backdoor-toolbox)
