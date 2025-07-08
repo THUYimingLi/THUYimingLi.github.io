@@ -11,6 +11,10 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 [Preprints](#selected-preprints) | [Conferences](#selected-conference-papers) | [Journals](#selected-journal-articles) | [Books & Technical Reports](#books-and-technical-reports) | [Dissertation](#dissertation) | [Patents](#patents)
 
 ## Selected Preprints
+* [Rethinking Data Protection in the (Generative) Artificial Intelligence Era](https://arxiv.org/abs/2507.03034)<br>
+  **Yiming Li**, Shuo Shao, Yu He, Junfeng Guo, Tianwei Zhang, Zhan Qin, Pin-Yu Chen, Michael Backes, Philip Torr, Dacheng Tao, Kui Ren. <br>
+  arXiv, 2025.<br>
+
 * [CertDW: Towards Certified Dataset Ownership Verification via Conformal Prediction](https://arxiv.org/pdf/2506.13160)<br>
   Ting Qiao\*, **Yiming Li**\*^, Jianbin Li^, Yingjia Wang, Leyi Qi, Junfeng Guo, Ruili Feng, Dacheng Tao.<br>
   Under Review by IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2025.<br>
