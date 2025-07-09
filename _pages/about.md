@@ -50,6 +50,8 @@ I am **always looking for highly self-motivated students and research interns** 
 
 [<font color='orange'>Rethinking Data Protection in the (Generative) Artificial Intelligence Era</font>](http://arxiv.org/abs/2507.03034)
 
+[<font color='orange'>Toolbox and Benchmark for Dataset Auditing</font>](https://arxiv.org/abs/2507.05622)
+
 [<font color='orange'>BackdoorBox: A Python Toolbox for Backdoor Attacks and Defenses</font>](https://github.com/THUYimingLi/BackdoorBox)
 
 [<font color='orange'>Github Repo about Backdoor Learning Resources</font>](https://github.com/THUYimingLi/backdoor-learning-resources)
