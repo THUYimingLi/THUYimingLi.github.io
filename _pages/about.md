@@ -33,10 +33,10 @@ I am **always looking for highly self-motivated students and research interns** 
 
 
 ## News
+* 07/2025: One paper about backdoor defense is accepted by IEEE TIFS. 
 * 05/2025: Two papers about LLM Safety and Security are accepted by ACL (Main Track) 2025.
 * 04/2025: I am invited to serve as the Area Chair of NeurIPS 2025.
-* 03/2025: One paper about backdoor attack is accepted by IEEE TDSC 2025. 
-* 03/2025: One paper about prompt inversion attack is accepted by IEEE S&P 2025. 
+* 03/2025: One paper about backdoor attack is accepted by IEEE TDSC.
 * 02/2025: Our paper about model ownership verification is accepted by IEEE TPAMI.
 
 
