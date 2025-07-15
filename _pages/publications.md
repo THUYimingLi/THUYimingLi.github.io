@@ -11,6 +11,8 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 [Preprints](#selected-preprints) | [Conferences](#selected-conference-papers) | [Journals](#selected-journal-articles) | [Books & Technical Reports](#books-and-technical-reports) | [Dissertation](#dissertation) | [Patents](#patents)
 
 ## Selected Preprints
+**\`*'** indicates co-first author; **\`^'** indicates (co-)project leader/corresponding author
+
 * [Rethinking Data Protection in the (Generative) Artificial Intelligence Era](https://arxiv.org/abs/2507.03034)<br>
   **Yiming Li**^, Shuo Shao, Yu He, Junfeng Guo, Tianwei Zhang, Zhan Qin^, Pin-Yu Chen, Michael Backes, Philip Torr, Dacheng Tao, Kui Ren. <br>
   arXiv, 2025.<br>
@@ -30,6 +32,11 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   Under Review by IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2025. (The journal extension of our [ICASSP'21 conference paper](https://arxiv.org/pdf/2010.11607.pdf))<br>
   [[Code]](https://github.com/Radiant0726/CBW)
 
+* [Cert-SSB: Toward Certified Sample-Specific Backdoor Defense](https://www.arxiv.org/pdf/2504.21730)<br>
+  Ting Qiao, Yingjia Wang, Xing Liu, Sixing Wu, Jianbing Li^, **Yiming Li**^. <br>
+  Under Review by IEEE Transactions on Information Forensics and Security (**TIFS**), 2025. <br>
+  [[Code]](https://github.com/NcepuQiaoTing/Cert-SSB)
+
 * [TPIA: Towards Target-specific Prompt Injection Attack against Code-oriented Large Language Models](https://arxiv.org/pdf/2407.09164)<br>
   Yuchen Yang, Hongwei Yao, Bingrun Yang, Yiling He, **Yiming Li**^, Tianwei Zhang, Zhan Qin.<br>
   Under Review by IEEE Transactions on Information Forensics and Security (**TIFS**), 2025. <br>
@@ -44,7 +51,6 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   
 
 ## Selected Conference Papers
-**\`*'** indicates co-first author; **\`^'** indicates (co-)corresponding author/project leader
 
 * [Towards Label-Only Membership Inference Attack against Pre-trained Large Language Models](https://arxiv.org/pdf/2502.18943)<br>
   Yu He, Boheng Li, Liu Liu, Zhongjie Ba, Wei Dong, **Yiming Li**^, Zhan Qin, Kui Ren, Chun Chen. <br>
