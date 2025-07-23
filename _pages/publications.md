@@ -31,6 +31,18 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   Boheng Li, Renjie Gu, Junjie Wang, Leyi Qi, **Yiming Li**^, Run Wang, Zhan Qin, Tianwei Zhang. <br>
   arXiv, 2025.<br>
 
+* [ShadowCode: Towards (Automatic) External Prompt Injection Attack against Code LLMs](https://arxiv.org/pdf/2407.09164)<br>
+  Yuchen Yang, **Yiming Li**^, Hongwei Yao, Bingrun Yang, Yiling He, Tianwei Zhang, Dacheng Tao, Zhan Qin.<br>
+  Under Review by IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2025. <br>
+
+* [Towards Copyright Protection for Knowledge Bases of Retrieval-augmented Language Models via Reasoning](https://www.researchgate.net/publication/389033760_Towards_Copyright_Protection_for_Knowledge_Bases_of_Retrieval-augmented_Language_Models_via_Ownership_Verification_with_Reasoning)<br>
+  Junfeng Guo\*, **Yiming Li**\*, Ruibo Chen, Yihan Wu, Chenxi Liu, Yanshuo Chen, Heng Huang.<br>
+  arXiv, 2025. <br>
+
+* [FIT-Print: Towards False-claim-resistant Model Ownership Verification via Targeted Fingerprint](https://arxiv.org/pdf/2501.15509)<br>
+  Shuo Shao, Haozhe Zhu, Hongwei Yao, **Yiming Li**^, Tianwei Zhang, Zhan Qin, Kui Ren.<br>
+  arXiv, 2025. <br>
+
 * [CertDW: Towards Certified Dataset Ownership Verification via Conformal Prediction](https://arxiv.org/pdf/2506.13160)<br>
   Ting Qiao\*, **Yiming Li**\*^, Jianbin Li^, Yingjia Wang, Leyi Qi, Junfeng Guo, Ruili Feng, Dacheng Tao.<br>
   Under Review by IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2025.<br>
@@ -46,17 +58,6 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   Under Review by IEEE Transactions on Information Forensics and Security (**TIFS**), 2025. <br>
   [[Code]](https://github.com/NcepuQiaoTing/Cert-SSB)
 
-* [TPIA: Towards Target-specific Prompt Injection Attack against Code-oriented Large Language Models](https://arxiv.org/pdf/2407.09164)<br>
-  Yuchen Yang, Hongwei Yao, Bingrun Yang, Yiling He, **Yiming Li**^, Tianwei Zhang, Zhan Qin.<br>
-  Under Review by IEEE Transactions on Information Forensics and Security (**TIFS**), 2025. <br>
-
-* [Towards Copyright Protection for Knowledge Bases of Retrieval-augmented Language Models via Reasoning](https://www.researchgate.net/publication/389033760_Towards_Copyright_Protection_for_Knowledge_Bases_of_Retrieval-augmented_Language_Models_via_Ownership_Verification_with_Reasoning)<br>
-  Junfeng Guo\*, **Yiming Li**\*, Ruibo Chen, Yihan Wu, Chenxi Liu, Yanshuo Chen, Heng Huang.<br>
-  arXiv, 2025. <br>
-
-* [FIT-Print: Towards False-claim-resistant Model Ownership Verification via Targeted Fingerprint](https://arxiv.org/pdf/2501.15509)<br>
-  Shuo Shao, Haozhe Zhu, Hongwei Yao, **Yiming Li**^, Tianwei Zhang, Zhan Qin, Kui Ren.<br>
-  arXiv, 2025. <br>
   
 
 ## Selected Conference Papers
