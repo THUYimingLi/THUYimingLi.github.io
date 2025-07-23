@@ -23,6 +23,14 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   arXiv, 2025.<br>
   [[Code]](https://github.com/shaoshuo-ss/DATABench)
 
+* [DREAM: Scalable Red Teaming for Text-to-Image Generative Systems via Distribution Modeling](https://arxiv.org/pdf/2507.16329)<br>
+  Boheng Li, Junjie Wang, **Yiming Li**^, Zhiyang Hu, Leyi Qi, Jianshuo Dong, Run Wang, Han Qiu, Zhan Qin, Tianwei Zhang. <br>
+  arXiv, 2025.<br>
+
+* [Towards Resilient Safety-driven Unlearning for Diffusion Models against Downstream Fine-tuning](https://arxiv.org/pdf/2507.16302)<br>
+  Boheng Li, Renjie Gu, Junjie Wang, Leyi Qi, **Yiming Li**^, Run Wang, Zhan Qin, Tianwei Zhang. <br>
+  arXiv, 2025.<br>
+
 * [CertDW: Towards Certified Dataset Ownership Verification via Conformal Prediction](https://arxiv.org/pdf/2506.13160)<br>
   Ting Qiao\*, **Yiming Li**\*^, Jianbin Li^, Yingjia Wang, Leyi Qi, Junfeng Guo, Ruili Feng, Dacheng Tao.<br>
   Under Review by IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2025.<br>
