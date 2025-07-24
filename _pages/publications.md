@@ -16,7 +16,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 * [Rethinking Data Protection in the (Generative) Artificial Intelligence Era](https://arxiv.org/abs/2507.03034)<br>
   **Yiming Li**^, Shuo Shao, Yu He, Junfeng Guo, Tianwei Zhang, Zhan Qin^, Pin-Yu Chen, Michael Backes, Philip Torr, Dacheng Tao, Kui Ren. <br>
   arXiv, 2025.<br>
-  [[Media Cover 1 (in Chinese)]](https://www.jiqizhixin.com/articles/2025-07-19-4) [[Media Cover 2 (in Chinese)]](https://finance.sina.com.cn/tech/roll/2025-07-19/doc-inffysvw5324248.shtml)
+  [[Media Cover 1 (in Chinese)]](https://www.mittrchina.com/news/detail/15053) [[Media Cover 2 (in Chinese)]](https://www.jiqizhixin.com/articles/2025-07-19-4) [[Media Cover 3 (in Chinese)]](https://finance.sina.com.cn/tech/roll/2025-07-19/doc-inffysvw5324248.shtml)
 
 * [DATABench: Evaluating Dataset Auditing in Deep Learning from an Adversarial Perspective](https://arxiv.org/abs/2507.05622)<br>
   Shuo Shao, **Yiming Li**^, Mengren Zheng, Zhiyang Hu, Yukun Chen, Boheng Li, Yu He, Junfeng Guo, Tianwei Zhang, Dacheng Tao, Zhan Qin. <br>
