@@ -228,14 +228,25 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2025. (The journal extension of our [AAAI'22 conference paper](https://arxiv.org/pdf/2112.03476.pdf))<br>
   [[Code]](https://github.com/THUYimingLi/MOVE)
 
+* [Towards Sample-specific Backdoor Attack with Clean Labels via Attribute Trigger](https://www.researchgate.net/publication/376174078_Towards_Sample-specific_Backdoor_Attack_with_Clean_Labels_via_Attribute_Trigger)<br>
+  Mingyan Zhu\*, **Yiming Li**\*^, Junfeng Guo, Tao Wei, Shu-Tao Xia, Zhan Qin.<br>
+  IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2025. <br>
+
 * [FLARE: Toward Universal Dataset Purification against Backdoor Attacks](https://arxiv.org/pdf/2411.19479)<br>
   Linshan Hou, Wei Luo, Zhongyun Hua^, Songhua Chen, Leo Yu Zhang, **Yiming Li**^.<br>
   IEEE Transactions on Information Forensics and Security (**TIFS**), 2025. <br>
   [[Code (BackdoorBox)]](https://github.com/THUYimingLi/BackdoorBox) [[Code (backdoor-toolbox)]](https://github.com/vtu81/backdoor-toolbox)
 
-* [Towards Sample-specific Backdoor Attack with Clean Labels via Attribute Trigger](https://www.researchgate.net/publication/376174078_Towards_Sample-specific_Backdoor_Attack_with_Clean_Labels_via_Attribute_Trigger)<br>
-  Mingyan Zhu\*, **Yiming Li**\*^, Junfeng Guo, Tao Wei, Shu-Tao Xia, Zhan Qin.<br>
-  IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2025. <br>
+* [Backdoor Learning: A Survey](https://www.researchgate.net/publication/343006441_Backdoor_Learning_A_Survey)<br>
+  **Yiming Li**, Yong Jiang, Zhifeng Li, Shu-Tao Xia.<br>
+  IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2024. (<font color='red'><b>ESI Highly Cited Papers</b></font>) <br>
+  [[Github Resources]](https://github.com/THUYimingLi/backdoor-learning-resources)
+
+
+* [Backdoor Attack with Sparse and Invisible Trigger](https://www.researchgate.net/publication/370659402_Backdoor_Attack_with_Sparse_and_Invisible_Trigger)<br>
+  Yinghua Gao\*, **Yiming Li**\*^, Xueluan Gong, Zhifeng Li, Shu-Tao Xia, Qian Wang.<br>
+  IEEE Transactions on Information Forensics and Security (**TIFS**), 2024. (<font color='red'><b>Excellent Science & Technology Paper</b></font>, Shenzhen Association for Science and Technology)<br>
+  [[Code]](https://github.com/YinghuaGao/SIBA)
 
 
 * [PointNCBW: Towards Dataset Ownership Verification for Point Clouds via Negative Clean-label Backdoor Watermark](https://www.researchgate.net/publication/383060790_PointNCBW_Towards_Dataset_Ownership_Verification_for_Point_Clouds_via_Negative_Clean-label_Backdoor_Watermark)<br>
@@ -243,11 +254,6 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   IEEE Transactions on Information Forensics and Security (**TIFS**), 2024. <br>
   [[Code]](https://github.com/weic0810/PointNCBW)
 
-
-* [Backdoor Attack with Sparse and Invisible Trigger](https://www.researchgate.net/publication/370659402_Backdoor_Attack_with_Sparse_and_Invisible_Trigger)<br>
-  Yinghua Gao\*, **Yiming Li**\*^, Xueluan Gong, Zhifeng Li, Shu-Tao Xia, Qian Wang.<br>
-  IEEE Transactions on Information Forensics and Security (**TIFS**), 2024. (<font color='red'><b>Excellent Science & Technology Paper</b></font>, Shenzhen Association for Science and Technology)<br>
-  [[Code]](https://github.com/YinghuaGao/SIBA)
 
 * [Towards Stealthy Backdoor Attacks against Speech Recognition via Elements of Sound](https://www.researchgate.net/publication/372388876_Towards_Stealthy_Backdoor_Attacks_against_Speech_Recognition_via_Elements_of_Sound)<br>
   Hanbo Cai, Pengcheng Zhang, Hai Dong, Yan Xiao, Stefanos Koffas, **Yiming Li**.<br>
@@ -264,11 +270,6 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   Yinghua Gao\*, **Yiming Li**\*^, Linghui Zhu, Dongxian Wu, Yong Jiang, Shu-Tao Xia.<br>
   **Pattern Recognition**, 2023. <br>
   [[Code]](https://github.com/YinghuaGao/Effective_CLB)
-
-* [Backdoor Learning: A Survey](https://www.researchgate.net/publication/343006441_Backdoor_Learning_A_Survey)<br>
-  **Yiming Li**, Yong Jiang, Zhifeng Li, Shu-Tao Xia.<br>
-  IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2022. (<font color='red'><b>ESI Highly Cited Papers</b></font>) <br>
-  [[Github Resources]](https://github.com/THUYimingLi/backdoor-learning-resources)
 
 * [Semi-supervised Robust Training with Generalized Perturbed Neighborhood](https://www.sciencedirect.com/science/article/abs/pii/S0031320321006488)<br>
   **Yiming Li**, Baoyuan Wu, Yan Feng, Yanbo Fan, Yong Jiang, Zhifeng Li, Shu-Tao Xia.<br>
