@@ -10,8 +10,8 @@ redirect_from:
 
 ## Conference Services
 * **Area Chair**: ICML 2025, NeurIPS 2025, ACM MM (2024, 2025).
-* **Senior Program Committee Member**: IJCAI 2025, AAAI 2022.
-* **Technical Program Committee**: IEEE SaTML 2026.
+* **Senior Program Committee Member**: IJCAI 2025, AAAI (2022, 2026).
+* **Technical Program Committee**: EuroS&P 2026, IEEE SaTML 2026.
 * **Member of Program Committee Board**: IJCAI (2022-2024).
 * **Program Committee Member**: ICLR, NeurIPS, ICML, CVPR, ICCV, ECCV, AAAI, IJCAI, AISTATS, ICASSP, ICONIP, etc.
 
