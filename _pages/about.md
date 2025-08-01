@@ -45,13 +45,11 @@ I am **always looking for highly self-motivated students and research interns** 
 
 ## Useful Resources
 
-[<font color='orange'>Rethinking Data Protection in the (Generative) Artificial Intelligence Era</font>](http://arxiv.org/abs/2507.03034)
+[<font color='orange'>Perspective: Rethinking Data Protection in the (Generative) Artificial Intelligence Era</font>](http://arxiv.org/abs/2507.03034)
 
 [<font color='orange'>Toolbox and Benchmark for Dataset Auditing</font>](https://arxiv.org/abs/2507.05622)
 
-[<font color='orange'>BackdoorBox: A Python Toolbox for Backdoor Attacks and Defenses</font>](https://github.com/THUYimingLi/BackdoorBox)
-
-[<font color='orange'>Github Repo about Backdoor Learning Resources</font>](https://github.com/THUYimingLi/backdoor-learning-resources)
+[<font color='orange'>Survey</font>](https://www.researchgate.net/publication/343006441_Backdoor_Learning_A_Survey), [<font color='orange'>Toolbox</font>](https://github.com/THUYimingLi/BackdoorBox), and [<font color='orange'>Github Repo</font>](https://github.com/THUYimingLi/backdoor-learning-resources) about Backdoor Learning Resources.
 
 
 [**A Brief Bio**](): Dr. Yiming Li is currently a Research Fellow at Nanyang Technological University. Prior to this, he was a Research Professor at Zhejiang University, where he received the Outstanding Junior Faculty Award and held appointments at both the State Key Laboratory of Blockchain and Data Security and HIC-ZJU. He obtained his Ph.D. in Computer Science and Technology (with honors) from Tsinghua University and his B.S. in Mathematics (with honors) from Ningbo University. His research centers on Trustworthy Machine Learning and Responsible Artificial Intelligence, with a particular focus on AI Safety, AI Security, and AI Copyright Protection. His work has been published in leading venues, such as IEEE S&P, USENIX Security, NDSS, ICML, NeurIPS, ICLR, CVPR, ICCV, IEEE TPAMI, and IEEE TIFS. Dr. Li serves as an Associate Editor of Pattern Recognition, Area Chair for ICML, NeurIPS, and ACM Multimedia, and Senior Program Committee Member for AAAI and IJCAI. He also regularly reviews for leading journals such as IEEE TPAMI, IJCV, IEEE TIFS, and IEEE TDSC. His research has been featured in major media outlets, including IEEE Spectrum and MIT Technology Review. He is the recipient of several prestigious honors, such as the Best Paper Award at PAKDD, the Rising Star Award at WAIC, the KAUST Rising Stars in AI, and the DAAD AInet Fellowship.
