@@ -66,15 +66,15 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   USENIX Security Symposium (**USENIX Security**), 2025. <br>
   [[Code]](https://zenodo.org/records/14725819)
 
-* [Towards Reliable Verification of Unauthorized Data Usage in Personalized Text-to-Image Diffusion Models](https://arxiv.org/pdf/2410.10437)<br>
-  Boheng Li, Yanhao Wei, Yankai Fu, Zhenting Wang, **Yiming Li**^, Jie Zhang^, Run Wang, Tianwei Zhang.<br>
-  IEEE Symposium on Security and Privacy (**S&P**), 2025. <br>
-  [[Code]](https://github.com/AntigoneRandy/SIREN)
-
 * [REFINE: Inversion-Free Backdoor Defense via Model Reprogramming](https://openreview.net/pdf?id=4IYdCws9fc)<br>
   Yukun Chen, Shuo Shao, Enhao Huang, **Yiming Li**^, Pin-Yu Chen, Zhan Qin, Kui Ren. <br>
   International Conference on Learning Representations (**ICLR**), 2025. <br>
   [[Code (BackdoorBox)]](https://github.com/THUYimingLi/BackdoorBox) [[Code (GitHub)]](https://github.com/WhitolfChen/REFINE) 
+
+* [Towards Reliable Verification of Unauthorized Data Usage in Personalized Text-to-Image Diffusion Models](https://arxiv.org/pdf/2410.10437)<br>
+  Boheng Li, Yanhao Wei, Yankai Fu, Zhenting Wang, **Yiming Li**^, Jie Zhang^, Run Wang, Tianwei Zhang.<br>
+  IEEE Symposium on Security and Privacy (**S&P**), 2025. <br>
+  [[Code]](https://github.com/AntigoneRandy/SIREN)
 
 * [SleeperMark: Towards Robust Watermark against Fine-Tuning Text-to-image Diffusion Models](https://arxiv.org/pdf/2412.04852)<br>
   Zilan Wang, Junfeng Guo, Jiacheng Zhu, **Yiming Li**^, Heng Huang, Muhao Chen, Zhengzhong Tu^. <br>
