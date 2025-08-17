@@ -40,7 +40,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   arXiv, 2025. <br>
 
 * [FIT-Print: Towards False-claim-resistant Model Ownership Verification via Targeted Fingerprint](https://arxiv.org/pdf/2501.15509)<br>
-  Shuo Shao, Haozhe Zhu, Hongwei Yao, **Yiming Li**^, Tianwei Zhang, Zhan Qin, Kui Ren.<br>
+  Shuo Shao, Haozhe Zhu, **Yiming Li**^, Hongwei Yao, Tianwei Zhang, Zhan Qin, Kui Ren.<br>
   arXiv, 2025. <br>
 
 * [CertDW: Towards Certified Dataset Ownership Verification via Conformal Prediction](https://arxiv.org/pdf/2506.13160)<br>
