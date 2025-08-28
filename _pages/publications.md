@@ -222,6 +222,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 * [Towards Sample-specific Backdoor Attack with Clean Labels via Attribute Trigger](https://www.researchgate.net/publication/376174078_Towards_Sample-specific_Backdoor_Attack_with_Clean_Labels_via_Attribute_Trigger)<br>
   Mingyan Zhu\*, **Yiming Li**\*^, Junfeng Guo, Tao Wei, Shu-Tao Xia, Zhan Qin.<br>
   IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2025. <br>
+  [[Code]](https://github.com/THUYimingLi/BackdoorBox/blob/main/tests/test_BAAT.py)
 
 * [FLARE: Toward Universal Dataset Purification against Backdoor Attacks](https://arxiv.org/pdf/2411.19479)<br>
   Linshan Hou, Wei Luo, Zhongyun Hua^, Songhua Chen, Leo Yu Zhang, **Yiming Li**^.<br>
