@@ -21,7 +21,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 * [SoK: Large Language Model Copyright Auditing via Fingerprinting](https://arxiv.org/pdf/2508.19843)<br>
   Shuo Shao, **Yiming Li**^, Yu He, Hongwei Yao, Wenyuan Yang, Dacheng Tao, Zhan Qin. <br>
   arXiv, 2025.<br>
-  [[Code]](https://github.com/shaoshuo-ss/LeaFBench)
+  [[Code]](https://github.com/shaoshuo-ss/LeaFBench) [[GitHub Resources Repo]](https://github.com/shaoshuo-ss/Awesome-LLM-Fingerprinting)
 
 * [DATABench: Evaluating Dataset Auditing in Deep Learning from an Adversarial Perspective](https://arxiv.org/pdf/2507.05622)<br>
   Shuo Shao, **Yiming Li**^, Mengren Zheng, Zhiyang Hu, Yukun Chen, Boheng Li, Yu He, Junfeng Guo, Tianwei Zhang, Dacheng Tao, Zhan Qin. <br>
@@ -237,7 +237,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 * [Backdoor Learning: A Survey](https://www.researchgate.net/publication/343006441_Backdoor_Learning_A_Survey)<br>
   **Yiming Li**^, Yong Jiang, Zhifeng Li, Shu-Tao Xia^.<br>
   IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2024. (<font color='red'><b>ESI Highly Cited Papers</b></font>) <br>
-  [[Github Resources]](https://github.com/THUYimingLi/backdoor-learning-resources)
+  [[Github Resources Repo]](https://github.com/THUYimingLi/backdoor-learning-resources)
 
 * [Backdoor Attack with Sparse and Invisible Trigger](https://www.researchgate.net/publication/370659402_Backdoor_Attack_with_Sparse_and_Invisible_Trigger)<br>
   Yinghua Gao\*, **Yiming Li**\*^, Xueluan Gong, Zhifeng Li, Shu-Tao Xia, Qian Wang.<br>
