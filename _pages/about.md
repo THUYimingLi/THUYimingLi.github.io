@@ -45,7 +45,7 @@ I am **always looking for highly self-motivated students and research interns** 
 
 [<font color='orange'>Perspective: Rethinking Data Protection in the (Generative) Artificial Intelligence Era</font>](http://arxiv.org/abs/2507.03034)
 
-[<font color='orange'>Survey and Benchmark for LLM Fingerprinting-based Auditing</font>](https://arxiv.org/pdf/2508.19843), as well as its [<font color='orange'>Toolbox</font>](https://github.com/shaoshuo-ss/LeaFBench)
+[<font color='orange'>Survey and Benchmark for Fingerprinting-based LLM's Copyright Auditing</font>](https://arxiv.org/pdf/2508.19843), as well as its [<font color='orange'>Toolbox</font>](https://github.com/shaoshuo-ss/LeaFBench)
 
 [<font color='orange'>Survey and Benchmark for for Dataset Auditing</font>](https://arxiv.org/pdf/2507.05622), as well as its [<font color='orange'>Toolbox</font>](https://github.com/shaoshuo-ss/DATABench)
 
