@@ -30,11 +30,11 @@ I am currently a Research Fellow at Nanyang Technological University, working wi
 
 
 ## News
+* 09/2025: I am invited to serve as the Area Chair for CVPR 2026.
 * 08/2025: I am invited to serve as the Area Chair for ICLR 2026.
 * 08/2025: I will serve as the Consulting Area Editor for IEEE TIFS.
 * 07/2025: One paper about backdoor defense is accepted by IEEE TIFS. 
 * 05/2025: Two papers about LLM Safety and Security are accepted by ACL (Main Track) 2025.
-* 04/2025: I am invited to serve as the Area Chair for NeurIPS 2025.
 
 
 
@@ -50,7 +50,7 @@ I am currently a Research Fellow at Nanyang Technological University, working wi
 [<font color='orange'>Survey</font>](https://www.researchgate.net/publication/343006441_Backdoor_Learning_A_Survey), [<font color='orange'>Toolbox</font>](https://github.com/THUYimingLi/BackdoorBox), and [<font color='orange'>GitHub Resources Repo</font>](https://github.com/THUYimingLi/backdoor-learning-resources) about Backdoor Learning.
 
 
-[**A Brief Bio**](): Dr. Yiming Li is currently a Research Fellow at Nanyang Technological University. Prior to this, he was a Research Professor at Zhejiang University, where he received the Outstanding Junior Faculty Award and held appointments at both the State Key Laboratory of Blockchain and Data Security and HIC-ZJU. He obtained his Ph.D. in Computer Science and Technology (with honors) from Tsinghua University and his B.S. in Mathematics (with honors) from Ningbo University. His research centers on Trustworthy Machine Learning and Responsible Artificial Intelligence, with a particular focus on AI Safety, AI Security, and AI Copyright Protection. His work has been published in leading venues, such as IEEE S&P, USENIX Security, NDSS, ICML, NeurIPS, ICLR, CVPR, ICCV, IEEE TPAMI, and IEEE TIFS. Dr. Li serves as an Associate Editor for Pattern Recognition, Consulting Area Editor for IEEE TIFS, Area Chair for ICLR, NeurIPS, ICML, and ACM Multimedia, and Senior Program Committee Member for AAAI and IJCAI. He also regularly reviews for leading journals such as IEEE TPAMI, IJCV, IEEE TIFS, and IEEE TDSC. His research has been featured in major media outlets, including IEEE Spectrum and MIT Technology Review. He is the recipient of several prestigious honors, such as the Best Paper Award at PAKDD, the Rising Star Award at WAIC, the KAUST Rising Stars in AI, and the DAAD AInet Fellowship.
+[**A Brief Bio**](): Dr. Yiming Li is currently a Research Fellow at Nanyang Technological University. Prior to this, he was a Research Professor at Zhejiang University, where he received the Outstanding Junior Faculty Award and held appointments at both the State Key Laboratory of Blockchain and Data Security and HIC-ZJU. He obtained his Ph.D. in Computer Science and Technology (with honors) from Tsinghua University and his B.S. in Mathematics (with honors) from Ningbo University. His research centers on Trustworthy Machine Learning and Responsible Artificial Intelligence, with a particular focus on AI Safety, AI Security, and AI Copyright Protection. His work has been published in leading venues, such as IEEE S&P, USENIX Security, NDSS, ICML, NeurIPS, ICLR, CVPR, ICCV, IEEE TPAMI, and IEEE TIFS. Dr. Li serves as an Associate Editor for Pattern Recognition, Consulting Area Editor for IEEE TIFS, Area Chair for CVPR, ICLR, NeurIPS, ICML, and ACM Multimedia, and Senior Program Committee Member for AAAI and IJCAI. He also regularly reviews for leading journals such as IEEE TPAMI, IJCV, IEEE TIFS, and IEEE TDSC. His research has been featured in major media outlets, including IEEE Spectrum and MIT Technology Review. He is the recipient of several prestigious honors, such as the Best Paper Award at PAKDD, the Rising Star Award at WAIC, the KAUST Rising Stars in AI, and the DAAD AInet Fellowship.
 
 
 
