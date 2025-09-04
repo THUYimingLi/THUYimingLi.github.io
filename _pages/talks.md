@@ -16,7 +16,7 @@ redirect_from:
 
 ## Invited Talks
 * From Devil to Angel: Backdoor Attacks for Data Copyright Protection. Zhejiang Gongshang University (online), 2025/09/05. [[Slides]](https://www.dropbox.com/scl/fi/cm3410iv14d97qfzfyrbz/Talk_YimingLi_20250905.pdf?rlkey=ksn6tihi87so63et75ykpzx51&st=o6w70p03&dl=0)
-* 
+
 * Towards Dataset Copyright Auditing via Ownership Verification. Xi'an Jiaotong University (online), 2025/01/07. [[Slides]](https://www.dropbox.com/scl/fi/2iw4w5gn75lzzh6nt3l1y/Talk_YimingLi_20250107.pdf?rlkey=ipi7gpp5ob1cxcqg92h6gsw4x&st=2rnmawkm&dl=0)
 
 * Protecting the Copyright of Public Datasets via Ownership Verification. West Lake Forum on Cyberspace Security, 2025/01/05. [[Slides]](https://www.dropbox.com/scl/fi/rpwoyxn7zmypk6a50h4pd/Talk_YimingLi_20250105.pdf?rlkey=szqn6tle70zfs2o5tzs2egjby&st=mf8ybo0l&dl=0)
