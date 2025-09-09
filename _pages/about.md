@@ -30,11 +30,11 @@ I am currently a Research Fellow at Nanyang Technological University, working wi
 
 
 ## News
+* 10/2025: One papers about Red Teaming T2I Diffusion Models is accepted by IEEE S&P 2026.
 * 09/2025: I am invited to serve as the Area Chair for CVPR 2026.
 * 08/2025: I am invited to serve as the Area Chair for ICLR 2026.
 * 08/2025: I will serve as the Consulting Area Editor for IEEE TIFS.
 * 07/2025: One paper about backdoor defense is accepted by IEEE TIFS. 
-* 05/2025: Two papers about LLM Safety and Security are accepted by ACL (Main Track) 2025.
 
 
 
