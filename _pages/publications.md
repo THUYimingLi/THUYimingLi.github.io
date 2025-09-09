@@ -69,7 +69,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 * [DREAM: Scalable Red Teaming for Text-to-Image Generative Systems via Distribution Modeling](https://arxiv.org/pdf/2507.16329)<br>
   Boheng Li, Junjie Wang, **Yiming Li**^, Zhiyang Hu, Leyi Qi, Jianshuo Dong, Run Wang, Han Qiu, Zhan Qin, Tianwei Zhang. <br>
-  IEEE Symposium on Security and Privacy (**S&P**), 2026. <br>
+  IEEE Symposium on Security and Privacy (**S&P**), 2026. (To Appear) <br>
 
 * [Towards Label-only Membership Inference Attack against Pre-trained Large Language Models](https://arxiv.org/pdf/2502.18943)<br>
   Yu He, Boheng Li, Liu Liu, Zhongjie Ba, Wei Dong, **Yiming Li**^, Zhan Qin, Kui Ren, Chun Chen. <br>
