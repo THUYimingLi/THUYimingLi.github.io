@@ -33,11 +33,6 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   arXiv, 2025.<br>
   [[Code]](https://github.com/Shiqian-Zhao996/inception-T2I-system)
 
-
-* [DREAM: Scalable Red Teaming for Text-to-Image Generative Systems via Distribution Modeling](https://arxiv.org/pdf/2507.16329)<br>
-  Boheng Li, Junjie Wang, **Yiming Li**^, Zhiyang Hu, Leyi Qi, Jianshuo Dong, Run Wang, Han Qiu, Zhan Qin, Tianwei Zhang. <br>
-  arXiv, 2025.<br>
-
 * [Towards Resilient Safety-driven Unlearning for Diffusion Models against Downstream Fine-tuning](https://arxiv.org/pdf/2507.16302)<br>
   Boheng Li, Renjie Gu, Junjie Wang, Leyi Qi, **Yiming Li**^, Run Wang, Zhan Qin, Tianwei Zhang. <br>
   arXiv, 2025.<br>
@@ -71,6 +66,10 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   Shuo Shao\*, **Yiming Li**\*^, Hongwei Yao, Yiling He, Zhan Qin^, Kui Ren.<br>
   Network and Distributed System Security Symposium (**NDSS**), 2025. <br>
   [[Code]](https://github.com/shaoshuo-ss/EaaW)
+
+* [DREAM: Scalable Red Teaming for Text-to-Image Generative Systems via Distribution Modeling](https://arxiv.org/pdf/2507.16329)<br>
+  Boheng Li, Junjie Wang, **Yiming Li**^, Zhiyang Hu, Leyi Qi, Jianshuo Dong, Run Wang, Han Qiu, Zhan Qin, Tianwei Zhang. <br>
+  IEEE Symposium on Security and Privacy (**S&P**), 2026. <br>
 
 * [Towards Label-only Membership Inference Attack against Pre-trained Large Language Models](https://arxiv.org/pdf/2502.18943)<br>
   Yu He, Boheng Li, Liu Liu, Zhongjie Ba, Wei Dong, **Yiming Li**^, Zhan Qin, Kui Ren, Chun Chen. <br>
