@@ -64,6 +64,11 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   Under Review by IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2025. (The journal extension of our [ICASSP'21 conference paper](https://arxiv.org/pdf/2010.11607.pdf))<br>
   [[Code]](https://github.com/Radiant0726/CBW)
 
+* [Cert-SSB:TowardCertifiedSample-Specific BackdoorDefense](https://arxiv.org/pdf/2504.21730)<br>
+  Ting Qiao, Yingjia Wang, Xing Liu, Sixing Wu, Jianbing Li^, **Yiming Li**^. <br>
+  Under Review by IEEE Transactions on Information Forensics and Security (**TIFS**), 2025.<br>
+  [[Code]](https://github.com/NcepuQiaoTing/Cert-SSB)
+
   
 
 ## Selected Conference Papers
