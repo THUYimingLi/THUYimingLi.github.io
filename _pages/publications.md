@@ -52,7 +52,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 * [FIT-Print: Towards False-claim-resistant Model Ownership Verification via Targeted Fingerprint](https://arxiv.org/pdf/2501.15509)<br>
   Shuo Shao, Haozhe Zhu, **Yiming Li**^, Hongwei Yao, Tianwei Zhang, Zhan Qin, Kui Ren.<br>
-  arXiv, 2025. <br>
+  Under Review by IEEE Transactions on Information Forensics and Security (**TIFS**), 2025.<br>
 
 * [CertDW: Towards Certified Dataset Ownership Verification via Conformal Prediction](https://arxiv.org/pdf/2506.13160)<br>
   Ting Qiao\*, **Yiming Li**\*^, Jianbin Li^, Yingjia Wang, Leyi Qi, Junfeng Guo, Ruili Feng, Dacheng Tao.<br>
