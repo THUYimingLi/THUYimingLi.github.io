@@ -28,6 +28,11 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   arXiv, 2025.<br>
   [[Code]](https://github.com/shaoshuo-ss/DATABench)
 
+* [PromptCOS: Towards System Prompt Copyright Auditing for LLMs via Content-level Output Similarity](https://arxiv.org/pdf/2509.03117)<br>
+  Yuchen Yang, **Yiming Li**^, Hongwei Yao, Enhao Huang, Shuo Shao, Bingrun Yang, Zhibo Wang, Dacheng Tao, Zhan Qin.
+  arXiv, 2025.<br>
+  [[Code]](https://github.com/LianPing-cyber/PromptCOS)
+
 * [When Memory Becomes a Vulnerability: Towards Multi-turn Jailbreak Attacks against Text-to-Image Generation Systems](https://arxiv.org/pdf/2504.20376)<br>
   Shiqian Zhao, Jiayang Liu, **Yiming Li**^, Runyi Hu, Xiaojun Jia, Wenshu Fan, Xinfeng Li, Jie Zhang, Wei Dong, Tianwei Zhang, Luu Anh Tuan. <br>
   arXiv, 2025.<br>
