@@ -32,19 +32,20 @@ I am currently a Research Fellow at Nanyang Technological University, working wi
 ## News
 <div style="max-height: 250px; overflow-y: auto;">
 <ul>
-  <li>10/2025: One papers about Red Teaming T2I Diffusion Models is accepted by IEEE S&P 2026.</li>
+  <li>09/2025: Four papers about MLLM Security, Conditional Backdoor Attack, and Safety-driven Unlearning for T2I Diffusion Models are accepted by NeurIPS 2025.</li>
+  <li>09/2025: One paper about Backdoor Defense is accepted by IEEE TIFS.</li>
+  <li>09/2025: One paper about Red Teaming T2I Diffusion Models is accepted by IEEE S&P 2026.</li>
   <li>09/2025: I am invited to serve as the Area Chair for CVPR 2026.</li>
   <li>08/2025: I am invited to serve as the Area Chair for ICLR 2026.</li>
   <li>08/2025: I will serve as the Consulting Area Editor for IEEE TIFS.</li>
-  <li>07/2025: One paper about backdoor defense is accepted by IEEE TIFS.</li>
-  <li>05/2025: Two papers about LLM Safety and Security are accepted by ACL (Main Track) 2025.</li>
+  <li>07/2025: One paper about Backdoor Defense is accepted by IEEE TIFS.</li>
   <li>05/2025: Two papers about LLM Safety and Security are accepted by ACL (Main Track) 2025.</li>
   <li>04/2025: I am invited to serve as the Area Chair for NeurIPS 2025.</li>
-  <li>03/2025: One paper about backdoor attack is accepted by IEEE TDSC.</li>
-  <li>03/2025: One paper about prompt inversion attack is accepted by IEEE S&P 2025.</li>
-  <li>02/2025: One paper about T2I model watermarking is accepted by CVPR 2025.</li>
-  <li>02/2025: Our paper about model ownership verification is accepted by IEEE TPAMI.</li>
-  <li>01/2025: One paper about membership inference attack is accepted to USENIX Security 2025.</li>
+  <li>03/2025: One paper about Backdoor Attack is accepted by IEEE TDSC.</li>
+  <li>03/2025: One paper about Prompt Inversion Attack is accepted by IEEE S&P 2025.</li>
+  <li>02/2025: One paper about T2I Model Watermarking is accepted by CVPR 2025.</li>
+  <li>02/2025: Our paper about Model Ownership Verification is accepted by IEEE TPAMI.</li>
+  <li>01/2025: One paper about Membership Inference Attack is accepted to USENIX Security 2025.</li>
   <li>01/2025: Four papers about GenAI Security, GenAI Copyright, and Backdoor Defenses are accepted to ICLR 2025.</li>
   <li>01/2025: I will serve as Associate Editor for Pattern Recognition.</li>
 </ul>
