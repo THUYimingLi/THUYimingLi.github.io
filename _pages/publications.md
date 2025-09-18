@@ -64,7 +64,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   Under Review by IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2025. (The journal extension of our [ICASSP'21 conference paper](https://arxiv.org/pdf/2010.11607.pdf))<br>
   [[Code]](https://github.com/Radiant0726/CBW)
 
-* [Cert-SSB:TowardCertifiedSample-Specific BackdoorDefense](https://arxiv.org/pdf/2504.21730)<br>
+* [Cert-SSB:Toward Certified Sample-Specific Backdoor Defense](https://arxiv.org/pdf/2504.21730)<br>
   Ting Qiao, Yingjia Wang, Xing Liu, Sixing Wu, Jianbing Li^, **Yiming Li**^. <br>
   Under Review by IEEE Transactions on Information Forensics and Security (**TIFS**), 2025.<br>
   [[Code]](https://github.com/NcepuQiaoTing/Cert-SSB)
@@ -86,6 +86,14 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   Yu He, Boheng Li, Liu Liu, Zhongjie Ba, Wei Dong, **Yiming Li**^, Zhan Qin, Kui Ren, Chun Chen. <br>
   USENIX Security Symposium (**USENIX Security**), 2025. <br>
   [[Code]](https://zenodo.org/records/14725819)
+
+* [Taught Well Learned Ill: Towards Distillation-conditional Backdoor Attack]()
+  Yukun Chen\*, Boheng Li\*, Yu Yuan\*, Leyi Qi, **Yiming Li**^, Tianwei Zhang, Zhan Qin, Kui Ren. <br>
+  Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2025. (To Appear) <br>
+  
+* [Towards Resilient Safety-driven Unlearning for Diffusion Models against Downstream Fine-tuning]()
+  Boheng Li, Renjie Gu, Junjie Wang, Leyi Qi, **Yiming Li**^, Run Wang, Zhan Qin, Tianwei Zhang. <br>
+  Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2025. (To Appear) <br>
 
 * [REFINE: Inversion-Free Backdoor Defense via Model Reprogramming](https://openreview.net/pdf?id=4IYdCws9fc)<br>
   Yukun Chen\*, Shuo Shao\*, Enhao Huang, **Yiming Li**^, Pin-Yu Chen, Zhan Qin, Kui Ren. <br>
