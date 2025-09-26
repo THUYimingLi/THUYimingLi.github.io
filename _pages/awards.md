@@ -5,6 +5,7 @@ permalink: /awards/
 redirect_from:
   - /awards
 ---
+* Elsevier-Stanford World's Top 2% Scientists in 2025.
 * Notable Reviewer, International Conference on Learning Representations (ICLR), 2025.
 * Excellent Science & Technology Papers (<font color='red'>3/100</font>), Shenzhen Association for Science and Technology, 2024. 
 * Champion (with the Team 'W0r1d 0ne'), Track III: Backdoor Trigger Recovery for Agents, [NeurIPS Competition for LLM and Agent Safety](https://www.llmagentsafetycomp24.com/leaderboards/), 2024.
