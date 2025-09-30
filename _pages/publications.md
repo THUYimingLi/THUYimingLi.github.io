@@ -91,7 +91,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   Yukun Chen\*, Boheng Li\*, Yu Yuan\*, Leyi Qi, **Yiming Li**^, Tianwei Zhang, Zhan Qin, Kui Ren. <br>
   Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2025. (To Appear) <br>
   
-* [Towards Resilient Safety-driven Unlearning for Diffusion Models against Downstream Fine-tuning]()
+* [Towards Resilient Safety-driven Unlearning for Diffusion Models against Downstream Fine-tuning](https://arxiv.org/pdf/2507.16302)<br>
   Boheng Li, Renjie Gu, Junjie Wang, Leyi Qi, **Yiming Li**^, Run Wang, Zhan Qin, Tianwei Zhang. <br>
   Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2025. (To Appear) <br>
 
