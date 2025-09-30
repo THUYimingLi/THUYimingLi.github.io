@@ -32,6 +32,7 @@ I am currently a Research Fellow at Nanyang Technological University, working wi
 ## News
 <div style="max-height: 250px; overflow-y: auto;">
 <ul>
+  <li>09/2025: I am invited to serve as the Program Committee for CCS 2026.</li>
   <li>09/2025: I was recognized in the 2025 Elsevier–Stanford World’s Top 2% Scientists list.</li>
   <li>09/2025: Four papers about MLLM Security, Conditional Backdoor Attack, and Safety-driven Unlearning for T2I Diffusion Models are accepted by NeurIPS 2025.</li>
   <li>09/2025: One paper about Backdoor Defense is accepted by IEEE TIFS.</li>
