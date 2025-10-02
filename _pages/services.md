@@ -17,8 +17,8 @@ redirect_from:
 
 
 ## Journal Services
-- **Associate Editor**: Pattern Recognition (2025-).
-- **Consulting Area Editor**: IEEE Transactions on Information Forensics and Security (2025-).
+- **Associate Editor**: [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition/about/editorial-board) (2025-).
+- **Consulting Area Editor**: [IEEE Transactions on Information Forensics and Security](https://signalprocessingsociety.org/publications-resources/ieee-transactions-information-forensics-and-security/editorial-board) (2025-).
 - **Reviewer**: TPAMI, IJCV, TIFS, TDSC, TNNLS, TCSVT, TII, TOIS, Pattern Recognition, Neural Networks, Neurocomputing, Computers & Security, etc.
 - **Leading Guest Editor**: [Special Issue on Security and Privacy in Artificial Intelligence: Technology, Applications, and Challenges](https://www.mdpi.com/journal/applsci/special_issues/BLU6K1M55X), Applied Sciences.
 
