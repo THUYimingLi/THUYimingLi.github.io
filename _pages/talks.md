@@ -7,9 +7,9 @@ redirect_from:
 ---
 ## Guest Lectures
 
-* From Devil to Angel: Backdoor Attacks for Data Copyright Protection [Guest Lecture], University of Georgia, 2025/10/26. [[Slides]](https://www.dropbox.com/scl/fi/k78dipgrdpbx9z3dvyeny/Talk_YimingLi_20251028.pdf?rlkey=5a5vo6qo9e080llxnjxzxaja1&st=3f05ijuk&dl=0)
+* From Devil to Angel: Backdoor Attacks for Data Copyright Protection, University of Georgia, 2025/10/26. [[Slides]](https://www.dropbox.com/scl/fi/k78dipgrdpbx9z3dvyeny/Talk_YimingLi_20251028.pdf?rlkey=5a5vo6qo9e080llxnjxzxaja1&st=3f05ijuk&dl=0)
 
-* The Copyright Protection of Models and Datasets via Ownership Verification in Deep Learning [Guest Lecture], The Course of 'The Introduction to AI Security', Tsinghua University, 2023/12/02. [[Slides]](https://www.dropbox.com/s/iko1490ldglzi0a/DeepCopyrightProtection_THU.pptx?dl=0)
+* The Copyright Protection of Models and Datasets via Ownership Verification in Deep Learning, The Course of 'The Introduction to AI Security', Tsinghua University, 2023/12/02. [[Slides]](https://www.dropbox.com/s/iko1490ldglzi0a/DeepCopyrightProtection_THU.pptx?dl=0)
 
 ## Tutorials and Webinar
 * From Devil to Angel: Backdoor Attacks for AI Copyright Protection and Beyond. Southwest Jiaotong University, 2025/01/08. [[Slides]](https://www.dropbox.com/scl/fi/g7a4fje33d4r98w0w0ur3/Talk_YimingLi_20250108.pdf?rlkey=qno7yzb3muchlx0aga3yl0sh9&st=jp2vmvka&dl=0)
