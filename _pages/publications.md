@@ -13,6 +13,10 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 ## Selected Preprints
 **\`*'** indicates co-first author; **\`^'** indicates (co-)project leader/corresponding author
   
+* [SWAP: Towards Copyright Auditing of Soft Prompts via Sequential Watermarking](https://arxiv.org/pdf/2511.04711)<br>
+  Wenyuan Yang, Yichen Sun, Changzheng Chen, Zhixuan Chu, Jiaheng Zhang, **Yiming Li**^, Dacheng Tao. <br>
+  Under Review by International Journal of Computer Vision (IJCV), 2025. <br>
+  
 * [CBW: Towards Dataset Ownership Verification for Speaker Verification via Clustering-based Backdoor Watermarking](https://arxiv.org/pdf/2503.05794)<br>
   **Yiming Li**, Kaiying Yan, Shuo Shao, Tongqing Zhai, Shu-Tao Xia, Zhan Qin, Dacheng Tao. <br>
   Under Review by IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2025. (The journal extension of our [ICASSP'21 conference paper](https://arxiv.org/pdf/2010.11607.pdf))<br>
