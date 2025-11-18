@@ -27,6 +27,10 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   Wenyuan Yang, Yichen Sun, Changzheng Chen, Zhixuan Chu, Jiaheng Zhang, **Yiming Li**^, Dacheng Tao. <br>
   Under Review by International Journal of Computer Vision (**IJCV**), 2025. <br>
 
+* [Coward: Toward Practical Proactive Federated Backdoor Defense via Collision-based Watermark](https://arxiv.org/pdf/2508.02115)<br>
+  Wenjie Li, Siying Gu, **Yiming Li**^, Kangjie Chen, Zhili Chen, Tianwei Zhang, Shu-Tao Xia, Dacheng Tao. <br>
+  Under Review by IEEE Transactions on Information Forensics and Security (**TIFS**), 2025.<br>
+
 * [SoK: Large Language Model Copyright Auditing via Fingerprinting](https://arxiv.org/pdf/2508.19843)<br>
   Shuo Shao, **Yiming Li**^, Yu He, Hongwei Yao, Wenyuan Yang, Dacheng Tao, Zhan Qin. <br>
   arXiv, 2025.<br>
