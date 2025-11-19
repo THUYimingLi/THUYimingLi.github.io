@@ -12,7 +12,17 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 ## Selected Preprints
 **\`*'** indicates co-first author; **\`^'** indicates (co-)project leader/corresponding author
-  
+
+* [Rethinking Data Protection in the (Generative) Artificial Intelligence Era](https://arxiv.org/abs/2507.03034)<br>
+  **Yiming Li**^, Shuo Shao, Yu He, Junfeng Guo, Tianwei Zhang, Zhan Qin^, Pin-Yu Chen, Michael Backes, Philip Torr, Dacheng Tao, Kui Ren. <br>
+  arXiv, 2025.<br>
+  [[Media Cover 1 (in Chinese)]](https://www.mittrchina.com/news/detail/15053) [[Media Cover 2 (in Chinese)]](https://www.jiqizhixin.com/articles/2025-07-19-4) [[Media Cover 3 (in Chinese)]](https://finance.sina.com.cn/tech/roll/2025-07-19/doc-inffysvw5324248.shtml)
+
+* [SoK: Large Language Model Copyright Auditing via Fingerprinting](https://arxiv.org/pdf/2508.19843)<br>
+  Shuo Shao, **Yiming Li**^, Yu He, Hongwei Yao, Wenyuan Yang, Dacheng Tao, Zhan Qin. <br>
+  arXiv, 2025.<br>
+  [[Code]](https://github.com/shaoshuo-ss/LeaFBench) [[GitHub Resources Repo]](https://github.com/shaoshuo-ss/Awesome-LLM-Fingerprinting)
+
 * [CBW: Towards Dataset Ownership Verification for Speaker Verification via Clustering-based Backdoor Watermarking](https://arxiv.org/pdf/2503.05794)<br>
   **Yiming Li**, Kaiying Yan, Shuo Shao, Tongqing Zhai, Shu-Tao Xia, Zhan Qin, Dacheng Tao. <br>
   Under Review by IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2025. (The journal extension of our [ICASSP'21 conference paper](https://arxiv.org/pdf/2010.11607.pdf))<br>
@@ -32,20 +42,14 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   Under Review by IEEE Transactions on Information Forensics and Security (**TIFS**), 2025.<br>
   [[Code]](https://github.com/still2009/cowardFL)
 
-* [SoK: Large Language Model Copyright Auditing via Fingerprinting](https://arxiv.org/pdf/2508.19843)<br>
-  Shuo Shao, **Yiming Li**^, Yu He, Hongwei Yao, Wenyuan Yang, Dacheng Tao, Zhan Qin. <br>
-  arXiv, 2025.<br>
-  [[Code]](https://github.com/shaoshuo-ss/LeaFBench) [[GitHub Resources Repo]](https://github.com/shaoshuo-ss/Awesome-LLM-Fingerprinting)
+* [External Data Extraction Attacks against Retrieval-Augmented Large Language Models](https://arxiv.org/pdf/2510.02964)<br>
+  Yu He, Yifei Chen, **Yiming Li**^, Shuo Shao, Leyi Qi, Boheng Li, Dacheng Tao, Zhan Qi. <br>
+  Under Review by IEEE Transactions on Information Forensics and Security (**TIFS**), 2025.<br>
 
 * [DATABench: Evaluating Dataset Auditing in Deep Learning from an Adversarial Perspective](https://arxiv.org/pdf/2507.05622)<br>
   Shuo Shao, **Yiming Li**^, Mengren Zheng, Zhiyang Hu, Yukun Chen, Boheng Li, Yu He, Junfeng Guo, Dacheng Tao, Zhan Qin. <br>
   arXiv, 2025.<br>
   [[Code]](https://github.com/shaoshuo-ss/DATABench)
-
-* [Rethinking Data Protection in the (Generative) Artificial Intelligence Era](https://arxiv.org/abs/2507.03034)<br>
-  **Yiming Li**^, Shuo Shao, Yu He, Junfeng Guo, Tianwei Zhang, Zhan Qin^, Pin-Yu Chen, Michael Backes, Philip Torr, Dacheng Tao, Kui Ren. <br>
-  arXiv, 2025.<br>
-  [[Media Cover 1 (in Chinese)]](https://www.mittrchina.com/news/detail/15053) [[Media Cover 2 (in Chinese)]](https://www.jiqizhixin.com/articles/2025-07-19-4) [[Media Cover 3 (in Chinese)]](https://finance.sina.com.cn/tech/roll/2025-07-19/doc-inffysvw5324248.shtml)
 
 * [PromptCOS: Towards System Prompt Copyright Auditing for LLMs via Content-level Output Similarity](https://arxiv.org/pdf/2509.03117)<br>
   Yuchen Yang, **Yiming Li**^, Hongwei Yao, Enhao Huang, Shuo Shao, Bingrun Yang, Zhibo Wang, Dacheng Tao, Zhan Qin.
