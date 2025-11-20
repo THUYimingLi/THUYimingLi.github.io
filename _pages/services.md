@@ -9,7 +9,7 @@ redirect_from:
 
 
 ## Conference Services
-* **Area Chair**: CVPR 2026, ICLR 2026, NeurIPS 2025, ICML 2025, ACM MM (2024, 2025), ICASSP 2026.
+* **Area Chair**: CVPR 2026, ICLR 2026, NeurIPS 2025, ICML (2025, 2026), ACM Multimedia (2024, 2025), ICASSP 2026.
 * **Senior Program Committee Member**: IJCAI 2025, AAAI (2022, 2026).
 * **Technical Program Committee Member**: CCS 2026, EuroS&P 2026, IEEE SaTML 2026.
 * **Program Committee Member**: ICLR, NeurIPS, ICML, CVPR, ICCV, ECCV, AAAI, IJCAI, AISTATS, ICASSP, ICONIP, etc.
