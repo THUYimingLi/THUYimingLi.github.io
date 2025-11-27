@@ -86,6 +86,10 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   Boheng Li, Junjie Wang, **Yiming Li**^, Zhiyang Hu, Leyi Qi, Jianshuo Dong, Run Wang, Han Qiu, Zhan Qin, Tianwei Zhang. <br>
   IEEE Symposium on Security and Privacy (**S&P**), 2026. (To Appear) <br>
 
+* [Towards Effective Prompt Stealing Attack against Text-to-Image Diffusion Models](https://arxiv.org/pdf/2508.06837)<br>
+  Shiqian Zhao, Chong Wang, **Yiming Li**, Yihao Huang, Wenjie Qu, Siew-Kei Lam, Yi Xie, Kangjie Chen, Jie Zhang, Tianwei Zhang. <br>
+  Network and Distributed System Security Symposium (**NDSS**), 2026. (To Appear) <br>
+
 * [Explanation as a Watermark: Towards Harmless and Multi-bit Model Ownership Verification via Watermarking Feature Attribution](https://arxiv.org/pdf/2405.04825)<br>
   Shuo Shao\*, **Yiming Li**\*^, Hongwei Yao, Yiling He, Zhan Qin^, Kui Ren.<br>
   Network and Distributed System Security Symposium (**NDSS**), 2025. <br>
