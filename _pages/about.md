@@ -32,6 +32,7 @@ I am currently a Research Fellow at Nanyang Technological University, working wi
 ## News
 <div style="max-height: 250px; overflow-y: auto;">
 <ul>
+  <li>11/2025: One paper about T2I Prompt Stealing Attack is accepted by NDSS 2026.</li>
   <li>11/2025: One paper about T2I Dataset Ownership Verification is accepted by IEEE TIFS.</li>
   <li>11/2025: One paper about MLLM Backdoor Defense is accepted by AAAI 2026.</li>
   <li>09/2025: I am invited to serve as the Program Committee for CCS 2026.</li>
