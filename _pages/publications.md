@@ -51,7 +51,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   arXiv, 2025.<br>
   [[Code]](https://github.com/shaoshuo-ss/DATABench)
 
-* [PromptCOS: Towards System Prompt Copyright Auditing for LLMs via Content-level Output Similarity](https://arxiv.org/pdf/2509.03117)<br>
+* [PromptCOS: Towards Content-only System Prompt Copyright Auditing for LLMs](https://arxiv.org/pdf/2509.03117)<br>
   Yuchen Yang, **Yiming Li**^, Hongwei Yao, Enhao Huang, Shuo Shao, Yuyi Wang, Zhibo Wang, Dacheng Tao, Zhan Qin. <br>
   arXiv, 2025.<br>
   [[Code]](https://github.com/LianPing-cyber/PromptCOS)
