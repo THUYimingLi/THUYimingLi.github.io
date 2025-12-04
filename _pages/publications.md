@@ -106,11 +106,13 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 * [Taught Well Learned Ill: Towards Distillation-conditional Backdoor Attack](https://arxiv.org/pdf/2509.23871)<br>
   Yukun Chen\*, Boheng Li\*, Yu Yuan\*, Leyi Qi, **Yiming Li**^, Tianwei Zhang, Zhan Qin, Kui Ren. <br>
-  Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2025. (To Appear) <br>
+  Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2025. <br>
+  [[Code]](https://github.com/WhitolfChen/SCAR)
   
 * [Towards Resilient Safety-driven Unlearning for Diffusion Models against Downstream Fine-tuning](https://arxiv.org/pdf/2507.16302)<br>
   Boheng Li, Renjie Gu, Junjie Wang, Leyi Qi, **Yiming Li**^, Run Wang, Zhan Qin, Tianwei Zhang. <br>
-  Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2025. (To Appear) <br>
+  Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2025. <br>
+  [[Code]]()(To Appear Very Soon)
 
 * [REFINE: Inversion-Free Backdoor Defense via Model Reprogramming](https://openreview.net/pdf?id=4IYdCws9fc)<br>
   Yukun Chen\*, Shuo Shao\*, Enhao Huang, **Yiming Li**^, Pin-Yu Chen, Zhan Qin, Kui Ren. <br>
