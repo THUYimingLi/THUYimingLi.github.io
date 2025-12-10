@@ -85,7 +85,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 * [DREAM: Scalable Red Teaming for Text-to-Image Generative Systems via Distribution Modeling](https://arxiv.org/pdf/2507.16329)<br>
   Boheng Li, Junjie Wang, **Yiming Li**^, Zhiyang Hu, Leyi Qi, Jianshuo Dong, Run Wang, Han Qiu, Zhan Qin, Tianwei Zhang. <br>
   IEEE Symposium on Security and Privacy (**S&P**), 2026. (To Appear) <br>
-  [Code](https://github.com/AntigoneRandy/DREAM)
+  [[Code]](https://github.com/AntigoneRandy/DREAM)
 
 * [Odysseus: Jailbreaking Commercial Multimodal LLM-integrated Systems via Dual Steganography]()<br>
   Songze Li, Jiameng Cheng, **Yiming Li**^, Xiaojun Jia, Dacheng Tao. <br>
