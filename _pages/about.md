@@ -17,7 +17,13 @@ I am currently a Research Fellow at Nanyang Technological University, working wi
 
 
 ## Selected Research
-(Generative) AI has achieved remarkable progress and widespread adoption, yet ensuring its *sustainable development* remains a critical challenge. This calls for integrating risk management to enable trustworthy large-scale deployment and copyright protection to promote innovation and fair competition. In general, my research advances a *sustainable AI ecosystem* by systematically unifying these two dimensions, as outlined below:
+
+<div style="text-align: center;">
+    <img src="/images/ResearchOverview.png" alt="Research Overview" width="70%">
+</div>
+
+(Generative) AI continues to advance rapidly, yet its *sustainable development* depends on addressing two foundational challenges: ensuring trustworthy large-scale deployment and supporting innovation through accountable use. My research advances a unified framework for a *sustainable AI ecosystem* by integrating **AI Risk Management** and **AI Copyright Protection** across the entire AI lifecycle (as outlined below). The first dimension focuses on proactive risk sensing and effective mitigation in both specialized and generative models, enabling secure and resilient operation under real-world conditions. The second dimension establishes a basis for fair competition and responsible innovation through model and data copyright protection. Together, these pillars reinforce security, reliability, and fairness, thereby supporting the trustworthy and long-term advancement of modern AI technologies.
+
 
 - **AI Risk Management**
   - **Risk Sensing**: [[S&P'26](https://arxiv.org/pdf/2507.16329), [USENIX Security'25](https://arxiv.org/pdf/2502.18943), [S&P'25](https://arxiv.org/pdf/2503.09022), [NeurIPS'25](https://arxiv.org/pdf/2509.23871), [ICLR'25](https://openreview.net/pdf?id=p3mxzKmuZy), [TIFS'25](https://arxiv.org/pdf/2411.19479), [TDSC'25](https://www.researchgate.net/publication/376174078_Towards_Sample-specific_Backdoor_Attack_with_Clean_Labels_via_Attribute_Trigger), [CVPR'24](https://arxiv.org/pdf/2405.10612), [TIFS'24 (a)](https://www.researchgate.net/publication/370659402_Backdoor_Attack_with_Sparse_and_Invisible_Trigger), [ICCV'23](https://www.researchgate.net/publication/373049298_One-bit_Flip_is_All_You_Need_When_Bit-flip_Attack_Meets_Model_Training), [TIFS'24 (b)](https://www.researchgate.net/publication/372388876_Towards_Stealthy_Backdoor_Attacks_against_Speech_Recognition_via_Elements_of_Sound), [ICLR'23](https://openreview.net/pdf?id=_wSHsgrVali), [AAAI'23](https://ojs.aaai.org/index.php/AAAI/article/view/25154), [PR'23](https://www.sciencedirect.com/science/article/abs/pii/S0031320323002121), [ICLR'22](https://openreview.net/pdf?id=qSV5CuSaK_a), [ICASSP'21](https://arxiv.org/pdf/2010.11607.pdf), [ICCV'21](https://arxiv.org/pdf/2012.03816.pdf), [ICLR'21](https://arxiv.org/pdf/2102.10496.pdf), [ECCV'20 (Oral)](https://arxiv.org/abs/2004.07955)] 
