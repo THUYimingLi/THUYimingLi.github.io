@@ -85,6 +85,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 * [DREAM: Scalable Red Teaming for Text-to-Image Generative Systems via Distribution Modeling](https://arxiv.org/pdf/2507.16329)<br>
   Boheng Li, Junjie Wang, **Yiming Li**^, Zhiyang Hu, Leyi Qi, Jianshuo Dong, Run Wang, Han Qiu, Zhan Qin, Tianwei Zhang. <br>
   IEEE Symposium on Security and Privacy (**S&P**), 2026. (To Appear) <br>
+  [Code](https://github.com/AntigoneRandy/DREAM)
 
 * [Odysseus: Jailbreaking Commercial Multimodal LLM-integrated Systems via Dual Steganography]()<br>
   Songze Li, Jiameng Cheng, **Yiming Li**^, Xiaojun Jia, Dacheng Tao. <br>
@@ -93,6 +94,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 * [Towards Effective Prompt Stealing Attack against Text-to-Image Diffusion Models](https://arxiv.org/pdf/2508.06837)<br>
   Shiqian Zhao, Chong Wang, **Yiming Li**, Yihao Huang, Wenjie Qu, Siew-Kei Lam, Yi Xie, Kangjie Chen, Jie Zhang, Tianwei Zhang. <br>
   Network and Distributed System Security Symposium (**NDSS**), 2026. (To Appear) <br>
+  [[Code]](https://github.com/Shiqian-Zhao996/Prometheus)
 
 * [Explanation as a Watermark: Towards Harmless and Multi-bit Model Ownership Verification via Watermarking Feature Attribution](https://arxiv.org/pdf/2405.04825)<br>
   Shuo Shao\*, **Yiming Li**\*^, Hongwei Yao, Yiling He, Zhan Qin^, Kui Ren.<br>
@@ -112,7 +114,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 * [Towards Resilient Safety-driven Unlearning for Diffusion Models against Downstream Fine-tuning](https://arxiv.org/pdf/2507.16302)<br>
   Boheng Li, Renjie Gu, Junjie Wang, Leyi Qi, **Yiming Li**^, Run Wang, Zhan Qin, Tianwei Zhang. <br>
   Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2025. <br>
-  [[Code]]()(To Appear Very Soon)
+  [[Code]](https://github.com/AntigoneRandy/ResAlign)
 
 * [REFINE: Inversion-Free Backdoor Defense via Model Reprogramming](https://openreview.net/pdf?id=4IYdCws9fc)<br>
   Yukun Chen\*, Shuo Shao\*, Enhao Huang, **Yiming Li**^, Pin-Yu Chen, Zhan Qin, Kui Ren. <br>
