@@ -22,7 +22,7 @@ I am currently a Research Fellow at Nanyang Technological University, working wi
     <img src="/images/ResearchOverview_long.png" alt="Research Overview" width="80%">
 </div>
 
-
+<br>
 
 (Generative) AI continues to advance rapidly, yet its *sustainable development* depends on addressing two foundational challenges: ensuring trustworthy large-scale deployment and supporting innovation through accountable use. My research advances a unified framework for a **sustainable AI ecosystem** by integrating **AI Risk Management** and **AI Copyright Protection** across the entire AI lifecycle (as outlined below). The first dimension focuses on *proactive risk sensing* and *effective mitigation* in both specialized and generative models, enabling secure and resilient operation under real-world conditions. The second dimension establishes a basis for fair competition and responsible innovation through *model copyright protection* and *data copyright protection*. Together, these pillars reinforce security, reliability, and fairness, thereby supporting the trustworthy and long-term advancement of modern AI technologies.
 
