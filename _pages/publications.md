@@ -13,38 +13,10 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 ## Selected Preprints
 **\`*'** indicates co-first author; **\`^'** indicates (co-)project leader/corresponding author
 
-* [Rethinking Data Protection in the (Generative) Artificial Intelligence Era](https://arxiv.org/abs/2507.03034)<br>
-  **Yiming Li**^, Shuo Shao, Yu He, Junfeng Guo, Tianwei Zhang, Zhan Qin^, Pin-Yu Chen, Michael Backes, Philip Torr, Dacheng Tao, Kui Ren. <br>
-  arXiv, 2025.<br>
-  [[Media Cover 1 (in Chinese)]](https://www.mittrchina.com/news/detail/15053) [[Media Cover 2 (in Chinese)]](https://www.jiqizhixin.com/articles/2025-07-19-4) [[Media Cover 3 (in Chinese)]](https://finance.sina.com.cn/tech/roll/2025-07-19/doc-inffysvw5324248.shtml)
-
 * [SoK: Large Language Model Copyright Auditing via Fingerprinting](https://arxiv.org/pdf/2508.19843)<br>
   Shuo Shao, **Yiming Li**^, Yu He, Hongwei Yao, Wenyuan Yang, Dacheng Tao, Zhan Qin. <br>
   arXiv, 2025.<br>
   [[Code]](https://github.com/shaoshuo-ss/LeaFBench) [[GitHub Resources Repo]](https://github.com/shaoshuo-ss/Awesome-LLM-Fingerprinting)
-
-* [CBW: Towards Dataset Ownership Verification for Speaker Verification via Clustering-based Backdoor Watermarking](https://arxiv.org/pdf/2503.05794)<br>
-  **Yiming Li**, Kaiying Yan, Shuo Shao, Tongqing Zhai, Shu-Tao Xia, Zhan Qin, Dacheng Tao. <br>
-  Under Review by IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2025. (The journal extension of our [ICASSP'21 conference paper](https://arxiv.org/pdf/2010.11607.pdf))<br>
-  [[Code]](https://github.com/Radiant0726/CBW)
-  
-* [CertDW: Towards Certified Dataset Ownership Verification via Conformal Prediction](https://arxiv.org/pdf/2506.13160)<br>
-  Ting Qiao\*, **Yiming Li**\*^, Jianbin Li^, Yingjia Wang, Leyi Qi, Junfeng Guo, Ruili Feng, Dacheng Tao.<br>
-  Under Review by IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2025.<br>
-  [[Code]](https://github.com/NcepuQiaoTing/CertDW)
-  
-* [SWAP: Towards Copyright Auditing of Soft Prompts via Sequential Watermarking](https://arxiv.org/pdf/2511.04711)<br>
-  Wenyuan Yang, Yichen Sun, Changzheng Chen, Zhixuan Chu, Jiaheng Zhang, **Yiming Li**^, Dacheng Tao. <br>
-  Under Review by International Journal of Computer Vision (**IJCV**), 2025. <br>
-
-* [Coward: Toward Practical Proactive Federated Backdoor Defense via Collision-based Watermark](https://arxiv.org/pdf/2508.02115)<br>
-  Wenjie Li, Siying Gu, **Yiming Li**^, Kangjie Chen, Zhili Chen, Tianwei Zhang, Shu-Tao Xia, Dacheng Tao. <br>
-  Under Review by IEEE Transactions on Information Forensics and Security (**TIFS**), 2025.<br>
-  [[Code]](https://github.com/still2009/cowardFL)
-
-* [External Data Extraction Attacks against Retrieval-Augmented Large Language Models](https://arxiv.org/pdf/2510.02964)<br>
-  Yu He, Yifei Chen, **Yiming Li**^, Shuo Shao, Leyi Qi, Boheng Li, Dacheng Tao, Zhan Qi. <br>
-  Under Review by IEEE Transactions on Information Forensics and Security (**TIFS**), 2025.<br>
 
 * [DATABench: Evaluating Dataset Auditing in Deep Learning from an Adversarial Perspective](https://arxiv.org/pdf/2507.05622)<br>
   Shuo Shao, **Yiming Li**^, Mengren Zheng, Zhiyang Hu, Yukun Chen, Boheng Li, Yu He, Junfeng Guo, Dacheng Tao, Zhan Qin. <br>
@@ -56,29 +28,56 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   arXiv, 2025.<br>
   [[Code]](https://github.com/LianPing-cyber/PromptCOS)
 
+* [ShadowCode: Towards (Automatic) External Prompt Injection Attack against Code LLMs](https://arxiv.org/pdf/2407.09164)<br>
+  Yuchen Yang, **Yiming Li**^, Hongwei Yao, Bingrun Yang, Yiling He, Tianwei Zhang, Dacheng Tao, Zhan Qin.<br>
+  Under Review by IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2025. <br>
+
 * [When Memory Becomes a Vulnerability: Towards Multi-turn Jailbreak Attacks against Text-to-Image Generation Systems](https://arxiv.org/pdf/2504.20376)<br>
   Shiqian Zhao, Jiayang Liu, **Yiming Li**^, Runyi Hu, Xiaojun Jia, Wenshu Fan, Xinfeng Li, Jie Zhang, Wei Dong, Tianwei Zhang, Luu Anh Tuan. <br>
   arXiv, 2025.<br>
   [[Code]](https://github.com/Shiqian-Zhao996/inception-T2I-system)
 
-* [ShadowCode: Towards (Automatic) External Prompt Injection Attack against Code LLMs](https://arxiv.org/pdf/2407.09164)<br>
-  Yuchen Yang, **Yiming Li**^, Hongwei Yao, Bingrun Yang, Yiling He, Tianwei Zhang, Dacheng Tao, Zhan Qin.<br>
-  Under Review by IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2025. <br>
-
-* [Towards Copyright Protection for Knowledge Bases of Retrieval-augmented Language Models via Reasoning](https://www.researchgate.net/publication/389033760_Towards_Copyright_Protection_for_Knowledge_Bases_of_Retrieval-augmented_Language_Models_via_Ownership_Verification_with_Reasoning)<br>
-  Junfeng Guo\*, **Yiming Li**\*, Ruibo Chen, Yihan Wu, Chenxi Liu, Yanshuo Chen, Heng Huang.<br>
-  arXiv, 2025. <br>
+* [External Data Extraction Attacks against Retrieval-Augmented Large Language Models](https://arxiv.org/pdf/2510.02964)<br>
+  Yu He, Yifei Chen, **Yiming Li**^, Shuo Shao, Leyi Qi, Boheng Li, Dacheng Tao, Zhan Qi. <br>
+  Under Review by IEEE Transactions on Information Forensics and Security (**TIFS**), 2025.<br>
 
 * [FIT-Print: Towards False-claim-resistant Model Ownership Verification via Targeted Fingerprint](https://arxiv.org/pdf/2501.15509)<br>
   Shuo Shao, Haozhe Zhu, **Yiming Li**^, Hongwei Yao, Tianwei Zhang, Zhan Qin, Kui Ren.<br>
   Under Review by IEEE Transactions on Information Forensics and Security (**TIFS**), 2025.<br>
+
+* [SWAP: Towards Copyright Auditing of Soft Prompts via Sequential Watermarking](https://arxiv.org/pdf/2511.04711)<br>
+  Wenyuan Yang, Yichen Sun, Changzheng Chen, Zhixuan Chu, Jiaheng Zhang, **Yiming Li**^, Dacheng Tao. <br>
+  Under Review by International Journal of Computer Vision (**IJCV**), 2025. <br>
+
+* [Coward: Toward Practical Proactive Federated Backdoor Defense via Collision-based Watermark](https://arxiv.org/pdf/2508.02115)<br>
+  Wenjie Li, Siying Gu, **Yiming Li**^, Kangjie Chen, Zhili Chen, Tianwei Zhang, Shu-Tao Xia, Dacheng Tao. <br>
+  Under Review by IEEE Transactions on Information Forensics and Security (**TIFS**), 2025.<br>
+  [[Code]](https://github.com/still2009/cowardFL)  
+
+* [CBW: Towards Dataset Ownership Verification for Speaker Verification via Clustering-based Backdoor Watermarking](https://arxiv.org/pdf/2503.05794)<br>
+  **Yiming Li**, Kaiying Yan, Shuo Shao, Tongqing Zhai, Shu-Tao Xia, Zhan Qin, Dacheng Tao. <br>
+  Under Review by IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2025. (The journal extension of our [ICASSP'21 conference paper](https://arxiv.org/pdf/2010.11607.pdf))<br>
+  [[Code]](https://github.com/Radiant0726/CBW)
+
+* [Rethinking Data Protection in the (Generative) Artificial Intelligence Era](https://arxiv.org/abs/2507.03034)<br>
+  **Yiming Li**^, Shuo Shao, Yu He, Junfeng Guo, Tianwei Zhang, Zhan Qin^, Pin-Yu Chen, Michael Backes, Philip Torr, Dacheng Tao, Kui Ren. <br>
+  arXiv, 2025.<br>
+  [[Media Cover 1 (in Chinese)]](https://www.mittrchina.com/news/detail/15053) [[Media Cover 2 (in Chinese)]](https://www.jiqizhixin.com/articles/2025-07-19-4) [[Media Cover 3 (in Chinese)]](https://finance.sina.com.cn/tech/roll/2025-07-19/doc-inffysvw5324248.shtml)
+
+* [CertDW: Towards Certified Dataset Ownership Verification via Conformal Prediction](https://arxiv.org/pdf/2506.13160)<br>
+  Ting Qiao\*, **Yiming Li**\*^, Jianbin Li^, Yingjia Wang, Leyi Qi, Junfeng Guo, Ruili Feng, Dacheng Tao.<br>
+  Under Review by IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2025.<br>
+  [[Code]](https://github.com/NcepuQiaoTing/CertDW)
 
 * [Cert-SSB:Toward Certified Sample-Specific Backdoor Defense](https://arxiv.org/pdf/2504.21730)<br>
   Ting Qiao, Yingjia Wang, Xing Liu, Sixing Wu, Jianbing Li^, **Yiming Li**^. <br>
   Under Review by IEEE Transactions on Information Forensics and Security (**TIFS**), 2025.<br>
   [[Code]](https://github.com/NcepuQiaoTing/Cert-SSB)
 
-  
+* [Towards Copyright Protection for Knowledge Bases of Retrieval-augmented Language Models via Reasoning](https://www.researchgate.net/publication/389033760_Towards_Copyright_Protection_for_Knowledge_Bases_of_Retrieval-augmented_Language_Models_via_Ownership_Verification_with_Reasoning)<br>
+  Junfeng Guo\*, **Yiming Li**\*, Ruibo Chen, Yihan Wu, Chenxi Liu, Yanshuo Chen, Heng Huang.<br>
+  arXiv, 2025. <br>
+
 
 ## Selected Conference Papers
 
