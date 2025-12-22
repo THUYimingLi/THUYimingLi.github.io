@@ -32,11 +32,6 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   Yuchen Yang, **Yiming Li**^, Hongwei Yao, Bingrun Yang, Yiling He, Tianwei Zhang, Dacheng Tao, Zhan Qin.<br>
   Under Review by IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2025. <br>
 
-* [When Memory Becomes a Vulnerability: Towards Multi-turn Jailbreak Attacks against Text-to-Image Generation Systems](https://arxiv.org/pdf/2504.20376)<br>
-  Shiqian Zhao, Jiayang Liu, **Yiming Li**^, Runyi Hu, Xiaojun Jia, Wenshu Fan, Xinfeng Li, Jie Zhang, Wei Dong, Tianwei Zhang, Luu Anh Tuan. <br>
-  arXiv, 2025.<br>
-  [[Code]](https://github.com/Shiqian-Zhao996/inception-T2I-system)
-
 * [External Data Extraction Attacks against Retrieval-Augmented Large Language Models](https://arxiv.org/pdf/2510.02964)<br>
   Yu He, Yifei Chen, **Yiming Li**^, Shuo Shao, Leyi Qi, Boheng Li, Dacheng Tao, Zhan Qi. <br>
   Under Review by IEEE Transactions on Information Forensics and Security (**TIFS**), 2025.<br>
@@ -89,6 +84,11 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 * [Odysseus: Jailbreaking Commercial Multimodal LLM-integrated Systems via Dual Steganography]()<br>
   Songze Li, Jiameng Cheng, **Yiming Li**^, Xiaojun Jia, Dacheng Tao. <br>
   Network and Distributed System Security Symposium (**NDSS**), 2026. (To Appear) <br>
+
+* [When Memory Becomes a Vulnerability: Towards Multi-turn Jailbreak Attacks against Text-to-Image Generation Systems](https://arxiv.org/pdf/2504.20376)<br>
+  Shiqian Zhao, Jiayang Liu, **Yiming Li**^, Runyi Hu, Xiaojun Jia, Wenshu Fan, Xinfeng Li, Jie Zhang, Wei Dong, Tianwei Zhang, Luu Anh Tuan. <br>
+  USENIX Security Symposium (**USENIX Security**), 2026. <br>
+  [[Code]](https://github.com/Shiqian-Zhao996/inception-T2I-system)
 
 * [Towards Effective Prompt Stealing Attack against Text-to-Image Diffusion Models](https://arxiv.org/pdf/2508.06837)<br>
   Shiqian Zhao, Chong Wang, **Yiming Li**, Yihao Huang, Wenjie Qu, Siew-Kei Lam, Yi Xie, Kangjie Chen, Jie Zhang, Tianwei Zhang. <br>
