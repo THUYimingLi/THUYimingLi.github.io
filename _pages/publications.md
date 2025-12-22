@@ -87,7 +87,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 * [When Memory Becomes a Vulnerability: Towards Multi-turn Jailbreak Attacks against Text-to-Image Generation Systems](https://arxiv.org/pdf/2504.20376)<br>
   Shiqian Zhao, Jiayang Liu, **Yiming Li**^, Runyi Hu, Xiaojun Jia, Wenshu Fan, Xinfeng Li, Jie Zhang, Wei Dong, Tianwei Zhang, Luu Anh Tuan. <br>
-  USENIX Security Symposium (**USENIX Security**), 2026. <br>
+  USENIX Security Symposium (**USENIX Security**), 2026. (To Appear) <br>
   [[Code]](https://github.com/Shiqian-Zhao996/inception-T2I-system)
 
 * [Towards Effective Prompt Stealing Attack against Text-to-Image Diffusion Models](https://arxiv.org/pdf/2508.06837)<br>
@@ -263,6 +263,11 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   Mingyan Zhu\*, **Yiming Li**\*^, Junfeng Guo, Tao Wei, Shu-Tao Xia, Zhan Qin.<br>
   IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2025. <br>
   [[Code]](https://github.com/THUYimingLi/BackdoorBox/blob/main/tests/test_BAAT.py)
+
+* [Towards Dataset Copyright Evasion Attack against Personalized Text-to-Image Diffusion Models](https://arxiv.org/pdf/2505.02824)
+  Kuofeng Gao, Yufei Zhu, **Yiming Li**\*^, Jiawang Bai^, Yong Yang, Zhifeng Li, Shu-Tao Xia.<br>
+  IEEE Transactions on Information Forensics and Security (**TIFS**), 2025. (To Appear) <br>
+  [[Code]](https://github.com/csyufei/CEAT2I)
 
 * [FLARE: Toward Universal Dataset Purification against Backdoor Attacks](https://arxiv.org/pdf/2411.19479)<br>
   Linshan Hou, Wei Luo, Zhongyun Hua^, Songhua Chen, Leo Yu Zhang, **Yiming Li**^.<br>
