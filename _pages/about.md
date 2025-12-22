@@ -41,6 +41,7 @@ I am currently a Research Fellow at Nanyang Technological University, working wi
 ## News
 <div style="max-height: 250px; overflow-y: auto;">
 <ul>
+  <li>12/2025: One paper about Multi-turn Jailbreak Attack against Commercial T2I Systems is accepted by USENIX Security 2026.</li>
   <li>12/2025: One paper about Jailbreaking Commercial MLLM is accepted by NDSS 2026.</li>
   <li>11/2025: One paper about T2I Prompt Stealing Attack is accepted by NDSS 2026.</li>
   <li>11/2025: One paper about T2I Dataset Ownership Verification is accepted by IEEE TIFS.</li>
