@@ -264,7 +264,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2025. <br>
   [[Code]](https://github.com/THUYimingLi/BackdoorBox/blob/main/tests/test_BAAT.py)
 
-* [Towards Dataset Copyright Evasion Attack against Personalized Text-to-Image Diffusion Models](https://arxiv.org/pdf/2505.02824)
+* [Towards Dataset Copyright Evasion Attack against Personalized Text-to-Image Diffusion Models](https://arxiv.org/pdf/2505.02824) <br>
   Kuofeng Gao, Yufei Zhu, **Yiming Li**\*^, Jiawang Bai^, Yong Yang, Zhifeng Li, Shu-Tao Xia.<br>
   IEEE Transactions on Information Forensics and Security (**TIFS**), 2025. (To Appear) <br>
   [[Code]](https://github.com/csyufei/CEAT2I)
