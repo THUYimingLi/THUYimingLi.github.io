@@ -81,7 +81,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   IEEE Symposium on Security and Privacy (**S&P**), 2026. (To Appear) <br>
   [[Code]](https://github.com/AntigoneRandy/DREAM)
 
-* [Odysseus: Jailbreaking Commercial Multimodal LLM-integrated Systems via Dual Steganography]()<br>
+* [Odysseus: Jailbreaking Commercial Multimodal LLM-integrated Systems via Dual Steganography](https://arxiv.org/pdf/2512.20168)<br>
   Songze Li, Jiameng Cheng, **Yiming Li**^, Xiaojun Jia, Dacheng Tao. <br>
   Network and Distributed System Security Symposium (**NDSS**), 2026. (To Appear) <br>
 
