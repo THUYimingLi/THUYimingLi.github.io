@@ -90,10 +90,23 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   USENIX Security Symposium (**USENIX Security**), 2026. (To Appear) <br>
   [[Code]](https://github.com/Shiqian-Zhao996/inception-T2I-system)
 
+* [Reading Between the Lines: Towards Reliable Black-box LLM Fingerprinting via Zeroth-order Gradient Estimation](https://arxiv.org/pdf/2510.06605)<br>
+  Shuo Shao, **Yiming Li**^, Hongwei Yao, Yifei Chen, Yuchen Yang, Zhan Qin. <br>
+  The ACM Web Conference (**WWW**), 2026. (To Appear) <br>
+
+* [DSSmoothing: Toward Certified Dataset Ownership Verification for Pre-trained Language Models via Dual-Space Smoothing](https://arxiv.org/pdf/2510.15303)<br>
+  Ting Qiao, Xing Liu, Wenke Huang, Jianbin Li^, Zhaoxin Fan, **Yiming Li**^. <br>
+  The ACM Web Conference (**WWW**), 2026. (To Appear) <br>
+
+* [DualMind: Towards Understanding Cognitive-Affective Cascades in Public Opinion Dissemination via Multi-Agent Simulation]()<br>
+  Enhao Huang, Tongtong Pan, Shuhuai Zhang, Qishu Jin, Liheng Zhen, Kaichun Hu, **Yiming Li**^, Zhan Qin and Kui Ren. <br>
+  Demo Track of The ACM Web Conference (**WWW**), 2026. (To Appear) <br> 
+
 * [Towards Effective Prompt Stealing Attack against Text-to-Image Diffusion Models](https://arxiv.org/pdf/2508.06837)<br>
   Shiqian Zhao, Chong Wang, **Yiming Li**, Yihao Huang, Wenjie Qu, Siew-Kei Lam, Yi Xie, Kangjie Chen, Jie Zhang, Tianwei Zhang. <br>
   Network and Distributed System Security Symposium (**NDSS**), 2026. (To Appear) <br>
   [[Code]](https://github.com/Shiqian-Zhao996/Prometheus)
+
 
 * [Towards Label-only Membership Inference Attack against Pre-trained Large Language Models](https://arxiv.org/pdf/2502.18943)<br>
   Yu He, Boheng Li, Liu Liu, Zhongjie Ba, Wei Dong, **Yiming Li**^, Zhan Qin, Kui Ren, Chun Chen. <br>
