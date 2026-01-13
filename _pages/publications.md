@@ -41,7 +41,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   Under Review by IEEE Transactions on Information Forensics and Security (**TIFS**), 2025.<br>
 
 * [SWAP: Towards Copyright Auditing of Soft Prompts via Sequential Watermarking](https://arxiv.org/pdf/2511.04711)<br>
-  Wenyuan Yang, Yichen Sun, Changzheng Chen, Zhixuan Chu, Jiaheng Zhang, **Yiming Li**^, Dacheng Tao. <br>
+  Wenyuan Yang\*, Yichen Sun\*, Changzheng Chen, Zhixuan Chu, Jiaheng Zhang, **Yiming Li**^, Dacheng Tao. <br>
   Under Review by International Journal of Computer Vision (**IJCV**), 2025. <br>
 
 * [Coward: Toward Practical Proactive Federated Backdoor Defense via Collision-based Watermark](https://arxiv.org/pdf/2508.02115)<br>
@@ -55,7 +55,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   [[Code]](https://github.com/Radiant0726/CBW)
 
 * [Rethinking Data Protection in the (Generative) Artificial Intelligence Era](https://arxiv.org/abs/2507.03034)<br>
-  **Yiming Li**^, Shuo Shao, Yu He, Junfeng Guo, Tianwei Zhang, Zhan Qin^, Pin-Yu Chen, Michael Backes, Philip Torr, Dacheng Tao, Kui Ren. <br>
+  **Yiming Li**\*^, Shuo Shao\*, Yu He, Junfeng Guo, Tianwei Zhang, Zhan Qin^, Pin-Yu Chen, Michael Backes, Philip Torr, Dacheng Tao, Kui Ren. <br>
   arXiv, 2025.<br>
   [[Media Cover 1 (in Chinese)]](https://www.mittrchina.com/news/detail/15053) [[Media Cover 2 (in Chinese)]](https://www.jiqizhixin.com/articles/2025-07-19-4) [[Media Cover 3 (in Chinese)]](https://finance.sina.com.cn/tech/roll/2025-07-19/doc-inffysvw5324248.shtml)
 
@@ -75,7 +75,6 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 
 ## Selected Conference Papers
-
 * [DREAM: Scalable Red Teaming for Text-to-Image Generative Systems via Distribution Modeling](https://arxiv.org/pdf/2507.16329)<br>
   Boheng Li, Junjie Wang, **Yiming Li**^, Zhiyang Hu, Leyi Qi, Jianshuo Dong, Run Wang, Han Qiu, Zhan Qin, Tianwei Zhang. <br>
   IEEE Symposium on Security and Privacy (**S&P**), 2026. (To Appear) <br>
@@ -99,14 +98,13 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   The ACM Web Conference (**WWW**), 2026. (To Appear) <br>
 
 * [DualMind: Towards Understanding Cognitive-Affective Cascades in Public Opinion Dissemination via Multi-Agent Simulation]()<br>
-  Enhao Huang, Tongtong Pan, Shuhuai Zhang, Qishu Jin, Liheng Zhen, Kaichun Hu, **Yiming Li**^, Zhan Qin and Kui Ren. <br>
+  Enhao Huang\*, Tongtong Pan\*, Shuhuai Zhang\*, Qishu Jin, Liheng Zhen, Kaichun Hu, **Yiming Li**^, Zhan Qin and Kui Ren. <br>
   Demo Track of The ACM Web Conference (**WWW**), 2026. (To Appear) <br> 
 
 * [Towards Effective Prompt Stealing Attack against Text-to-Image Diffusion Models](https://arxiv.org/pdf/2508.06837)<br>
   Shiqian Zhao, Chong Wang, **Yiming Li**, Yihao Huang, Wenjie Qu, Siew-Kei Lam, Yi Xie, Kangjie Chen, Jie Zhang, Tianwei Zhang. <br>
   Network and Distributed System Security Symposium (**NDSS**), 2026. (To Appear) <br>
   [[Code]](https://github.com/Shiqian-Zhao996/Prometheus)
-
 
 * [Towards Label-only Membership Inference Attack against Pre-trained Large Language Models](https://arxiv.org/pdf/2502.18943)<br>
   Yu He, Boheng Li, Liu Liu, Zhongjie Ba, Wei Dong, **Yiming Li**^, Zhan Qin, Kui Ren, Chun Chen. <br>
