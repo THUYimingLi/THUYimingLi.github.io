@@ -97,6 +97,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 * [DSSmoothing: Toward Certified Dataset Ownership Verification for Pre-trained Language Models via Dual-Space Smoothing](https://arxiv.org/pdf/2510.15303)<br>
   Ting Qiao, Xing Liu, Wenke Huang, Jianbin Li^, Zhaoxin Fan, **Yiming Li**^. <br>
   The ACM Web Conference (**WWW**), 2026. (To Appear) <br>
+  [[Code]](https://github.com/NcepuQiaoTing/DSSmoothing)
 
 * [DualMind: Towards Understanding Cognitive-Affective Cascades in Public Opinion Dissemination via Multi-Agent Simulation]()<br>
   Enhao Huang\*, Tongtong Pan\*, Shuhuai Zhang\*, Qishu Jin, Liheng Zhen, Kaichun Hu, **Yiming Li**^, Zhan Qin and Kui Ren. <br>
