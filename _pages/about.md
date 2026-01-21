@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+
+<font color='red'>I am on the academic job market for the 2025-2026 cycle. Would greatly appreciate it if you'd like to discuss any potential opportunities!</font>
+
+
 ## Biography
 I am currently a Research Fellow at Nanyang Technological University, working with Prof. [Dacheng Tao](https://scholar.google.fr/citations?user=RwlJNLcAAAAJ&hl=en&oi=ao) and (previously) with Prof. [Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/). Prior to this, I was a Research Professor (tenure-track) at Zhejiang University, where I received the Outstanding Junior Faculty Award (Qizhen Outstanding Young Scholar) and held appointments at both the State Key Laboratory of Blockchain and Data Security and HIC-ZJU. I received my Ph.D. degree with honors in Computer Science and Technology from Tsinghua University, advised by Prof. [Yong Jiang](https://www.sigs.tsinghua.edu.cn/jy/main.htm) and Prof. [Shu-Tao Xia](https://www.sigs.tsinghua.edu.cn/xst/main.htm), and my B.S. degree with honors in Applied Mathematics from Ningbo University (Yangming Innovation Class), where I was advised by Prof. [Lifeng Xi](http://math.nbu.edu.cn/info/1046/1098.htm). I also collaborated closely with Dr. [Zhifeng Li](https://scholar.google.fr/citations?user=VTrRNN4AAAAJ&hl=zh-CN) (at Tencent) and Prof. [Bo Li](https://scholar.google.com/citations?user=K8vJkTcAAAAJ&hl=en) (at UIUC) during my Ph.D. journey.
 
