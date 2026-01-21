@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-<font color='red'>I am on the academic job market for the 2025-2026 cycle. Would greatly appreciate it if you'd like to discuss any potential opportunities!</font>
+<strong><font color='red'>I am on the academic job market for the 2025-2026 cycle. Would greatly appreciate it if you'd like to discuss any potential opportunities!</font><strong/>
 
 
 ## Biography
