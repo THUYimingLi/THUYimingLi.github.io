@@ -14,7 +14,7 @@ description              : &description "Personal Website"
 url                      : https://liyiming.tech
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "THUYimingLi/THUYimingLi.github.io"
-teaser                   : "profile_new.png"
+teaser                   : "profile.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "Yiming Li"
-  avatar           : "profile_new.png"
+  avatar           : "profile.png"
   bio              : "Research Fellow, NTU"
   location         : "Singapore"
   employer         :
