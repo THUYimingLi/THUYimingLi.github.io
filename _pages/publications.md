@@ -102,7 +102,8 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 * [DualMind: Towards Understanding Cognitive-Affective Cascades in Public Opinion Dissemination via Multi-Agent Simulation]()<br>
   Enhao Huang\*, Tongtong Pan\*, Shuhuai Zhang\*, Qishu Jin, Liheng Zhen, Kaichun Hu, **Yiming Li**^, Zhan Qin and Kui Ren. <br>
-  Demo Track of The ACM Web Conference (**WWW**), 2026. (To Appear) <br> 
+  Demo Track of The ACM Web Conference (**WWW**), 2026. (To Appear) <br>
+  [[Code]](https://github.com/EonHao/DualMind)
 
 * [Towards Effective Prompt Stealing Attack against Text-to-Image Diffusion Models](https://arxiv.org/pdf/2508.06837)<br>
   Shiqian Zhao, Chong Wang, **Yiming Li**, Yihao Huang, Wenjie Qu, Siew-Kei Lam, Yi Xie, Kangjie Chen, Jie Zhang, Tianwei Zhang. <br>
@@ -152,6 +153,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 * [Prompt Inversion Attack against Collaborative Inference of Large Language Models](https://arxiv.org/pdf/2503.09022)<br>
   Wenjie Qu\*, Yuguang Zhou\*, Yongji Wu\*, Tingsong Xiao, Binhang Yuan, **Yiming Li**, Jiaheng Zhang. <br>
   IEEE Symposium on Security and Privacy (**S&P**), 2025. <br>
+  [[Code]](https://github.com/ygZhou02/DEML)
 
 * [Nearest Is Not Dearest: Towards Practical Defense against Quantization-conditioned Backdoor Attacks](https://arxiv.org/pdf/2405.12725)<br>
   Boheng Li, Yishuo Cai, Haowei Li, Feng Xue, Zhifeng Li, **Yiming Li**^. <br>
