@@ -15,7 +15,7 @@ redirect_from:
 * Conference on Neural Information Processing Systems (**NeurIPS**): 2021-2024, 2025 (Area Chair).
 * International Conference on Machine Learning (**ICML**): 2021-2024, 2025-2026 (Area Chair).
 * International Conference on Learning Representations (**ICLR**): 2021-2025, 2026 (Area Chair).
-* * The ACM Conference on Computer and Communications Security (**CCS**): 2026.
+* The ACM Conference on Computer and Communications Security (**CCS**): 2026.
 * European Symposium on Security and Privacy (**EuroS&P**): 2026.
 * IEEE Conference on Secure and Trustworthy Machine Learning (**SaTML**): 2026.
 * Annual AAAI Conference on Artificial Intelligence (**AAAI**): 2019-2021, 2022 (Senior PC), 2026 (Senior PC).
