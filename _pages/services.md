@@ -9,7 +9,6 @@ redirect_from:
 
 ## Organization Committee
 * **Competition Co-chair**, [IEEE Trojan Removal Competition](http://www.trojan-removal.com/): 2022.
-* **Executive Co-chair**, TBSI Workshop on Data Science (TBSI-WODS), 2019.
 
 
 ## Technical Program Committee
