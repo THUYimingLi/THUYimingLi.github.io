@@ -65,8 +65,8 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   [[Code]](https://github.com/NcepuQiaoTing/CertDW)
 
 * [Cert-SSB:Toward Certified Sample-Specific Backdoor Defense](https://arxiv.org/pdf/2504.21730)<br>
-  Ting Qiao, Yingjia Wang, Xing Liu, Sixing Wu, Jianbing Li^, **Yiming Li**^. <br>
-  Under Review by IEEE Transactions on Information Forensics and Security (**TIFS**), 2025.<br>
+  Ting Qiao, Yingjia Wang, Xing Liu, Sixing Wu, Jianbin Li^, **Yiming Li**^. <br>
+  Under Review by IEEE Transactions on Information Forensics and Security (**TIFS**), 2025. (Under Minor Revision) <br>
   [[Code]](https://github.com/NcepuQiaoTing/Cert-SSB)
 
 * [Towards Copyright Protection for Knowledge Bases of Retrieval-augmented Language Models via Reasoning](https://www.researchgate.net/publication/389033760_Towards_Copyright_Protection_for_Knowledge_Bases_of_Retrieval-augmented_Language_Models_via_Ownership_Verification_with_Reasoning)<br>
