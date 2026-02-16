@@ -45,11 +45,12 @@ I am currently a Research Fellow at Nanyang Technological University, working wi
 ## News
 <div style="max-height: 250px; overflow-y: auto;">
 <ul>
+  <li>02/2026: One paper about Certified Backdoor Defense is accepted by IEEE TIFS.</li>
   <li>01/2026: Two papers about (M)LLM Security is accepted by ICLR 2026.</li>
   <li>01/2026: Three papers about LLM Copyright and Agent for Social Simulation is accepted by WWW 2026.</li>
   <li>12/2025: One paper about Multi-turn Jailbreak Attack against Commercial T2I Systems is accepted by USENIX Security 2026.</li>
   <li>12/2025: One paper about Jailbreaking Commercial MLLM is accepted by NDSS 2026.</li>
-  <li>11/2025: One paper about Unlearnable Examples is accepted by IEEE TPAMI 2025.</li>
+  <li>11/2025: One paper about Unlearnable Examples is accepted by IEEE TPAMI.</li>
   <li>11/2025: One paper about T2I Prompt Stealing Attack is accepted by NDSS 2026.</li>
   <li>11/2025: One paper about T2I Dataset Ownership Verification is accepted by IEEE TIFS.</li>
   <li>11/2025: One paper about MLLM Backdoor Defense is accepted by AAAI 2026.</li>
