@@ -64,11 +64,6 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   Under Review by IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2025.<br>
   [[Code]](https://github.com/NcepuQiaoTing/CertDW)
 
-* [Cert-SSB:Toward Certified Sample-Specific Backdoor Defense](https://arxiv.org/pdf/2504.21730)<br>
-  Ting Qiao, Yingjia Wang, Xing Liu, Sixing Wu, Jianbin Li^, **Yiming Li**^. <br>
-  Under Review by IEEE Transactions on Information Forensics and Security (**TIFS**), 2025. (Under Minor Revision) <br>
-  [[Code]](https://github.com/NcepuQiaoTing/Cert-SSB)
-
 * [Towards Copyright Protection for Knowledge Bases of Retrieval-augmented Language Models via Reasoning](https://www.researchgate.net/publication/389033760_Towards_Copyright_Protection_for_Knowledge_Bases_of_Retrieval-augmented_Language_Models_via_Ownership_Verification_with_Reasoning)<br>
   Junfeng Guo\*, **Yiming Li**\*, Ruibo Chen, Yihan Wu, Chenxi Liu, Yanshuo Chen, Heng Huang.<br>
   arXiv, 2025. <br>
@@ -269,6 +264,10 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 
 ## Selected Journal Articles
+* [Cert-SSB:Toward Certified Sample-Specific Backdoor Defense](https://arxiv.org/pdf/2504.21730)<br>
+  Ting Qiao, Yingjia Wang, Xing Liu, Sixing Wu, Jianbin Li^, **Yiming Li**^. <br>
+  Under Review by IEEE Transactions on Information Forensics and Security (**TIFS**), 2027. (To Appear) <br>
+  [[Code]](https://github.com/NcepuQiaoTing/Cert-SSB)
 
 * [MOVE: Effective and Harmless Ownership Verification via Embedded External Features](https://arxiv.org/pdf/2208.02820.pdf)<br>
   **Yiming Li**, Linghui Zhu, Xiaojun Jia^, Yang Bai, Yong Jiang, Shu-Tao Xia^, Xiaochun Cao, Kui Ren.<br>
