@@ -32,6 +32,7 @@ redirect_from:
 
 ## Editorial Board
 - **Associate Editor**, [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition/about/editorial-board): 2025-present.
+- **Action Editor**, [Transactions on Machine Learning Research](https://jmlr.org/tmlr/editorial-board.html): 2026-present.
 - **Consulting Area Editor**, [IEEE Transactions on Information Forensics and Security](https://signalprocessingsociety.org/publications-resources/ieee-transactions-information-forensics-and-security/editorial-board): 2025-present.
 - **Leading Guest Editor**, [Special Issue on Security and Privacy in Artificial Intelligence: Technology, Applications, and Challenges](https://www.mdpi.com/journal/applsci/special_issues/BLU6K1M55X), Applied Sciences: 2024. 
 
