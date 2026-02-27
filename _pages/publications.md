@@ -266,7 +266,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 ## Selected Journal Articles
 * [Cert-SSB:Toward Certified Sample-Specific Backdoor Defense](https://arxiv.org/pdf/2504.21730)<br>
   Ting Qiao, Yingjia Wang, Xing Liu, Sixing Wu, Jianbin Li^, **Yiming Li**^. <br>
-  Under Review by IEEE Transactions on Information Forensics and Security (**TIFS**), 2027. (To Appear) <br>
+  Under Review by IEEE Transactions on Information Forensics and Security (**TIFS**), 2026. (To Appear) <br>
   [[Code]](https://github.com/NcepuQiaoTing/Cert-SSB)
 
 * [MOVE: Effective and Harmless Ownership Verification via Embedded External Features](https://arxiv.org/pdf/2208.02820.pdf)<br>
