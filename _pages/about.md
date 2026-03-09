@@ -45,6 +45,7 @@ I am currently a Research Fellow at Nanyang Technological University, working wi
 ## News
 <div style="max-height: 250px; overflow-y: auto;">
 <ul>
+  <li>03/2026: One paper about Copyright Auditing of System Prompts is accepted by IEEE S&P 2026.</li>
   <li>02/2026: One paper about Certified Backdoor Defense is accepted by IEEE TIFS.</li>
   <li>01/2026: Two papers about (M)LLM Security is accepted by ICLR 2026.</li>
   <li>01/2026: Three papers about LLM Copyright and Agent for Social Simulation is accepted by WWW 2026.</li>
