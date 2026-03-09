@@ -23,11 +23,6 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   arXiv, 2025.<br>
   [[Code]](https://github.com/shaoshuo-ss/DATABench)
 
-* [PromptCOS: Towards Content-only System Prompt Copyright Auditing for LLMs](https://arxiv.org/pdf/2509.03117)<br>
-  Yuchen Yang, **Yiming Li**^, Hongwei Yao, Enhao Huang, Shuo Shao, Yuyi Wang, Zhibo Wang, Dacheng Tao, Zhan Qin. <br>
-  arXiv, 2025.<br>
-  [[Code]](https://github.com/LianPing-cyber/PromptCOS)
-
 * [ShadowCode: Towards (Automatic) External Prompt Injection Attack against Code LLMs](https://arxiv.org/pdf/2407.09164)<br>
   Yuchen Yang, **Yiming Li**^, Hongwei Yao, Bingrun Yang, Yiling He, Tianwei Zhang, Dacheng Tao, Zhan Qin.<br>
   Under Review by IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2025. <br>
@@ -70,6 +65,11 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 
 ## Selected Conference Papers
+* [PromptCOS: Towards Content-only System Prompt Copyright Auditing for LLMs](https://arxiv.org/pdf/2509.03117)<br>
+  Yuchen Yang, **Yiming Li**^, Hongwei Yao, Enhao Huang, Shuo Shao, Yuyi Wang, Zhibo Wang, Dacheng Tao, Zhan Qin. <br>
+  IEEE Symposium on Security and Privacy (**S&P**), 2026. (To Appear) <br>
+  [[Code]](https://github.com/LianPing-cyber/PromptCOS)
+
 * [DREAM: Scalable Red Teaming for Text-to-Image Generative Systems via Distribution Modeling](https://arxiv.org/pdf/2507.16329)<br>
   Boheng Li, Junjie Wang, **Yiming Li**^, Zhiyang Hu, Leyi Qi, Jianshuo Dong, Run Wang, Han Qiu, Zhan Qin, Tianwei Zhang. <br>
   IEEE Symposium on Security and Privacy (**S&P**), 2026. (To Appear) <br>
