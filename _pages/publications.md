@@ -274,7 +274,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2025. (The journal extension of our [AAAI'22 conference paper](https://arxiv.org/pdf/2112.03476.pdf))<br>
   [[Code]](https://github.com/THUYimingLi/MOVE)
 
-* [ARMOR: Shielding Unlearnable Examples against Data Augmentation]()<br>
+* [ARMOR: Shielding Unlearnable Examples against Data Augmentation](https://ieeexplore.ieee.org/abstract/document/11345171)<br>
   Xueluan Gong, Yuji Wang, Yanjiao Chen, Haocheng Dong, **Yiming Li**^, Mengyuan Sun, Shuaike Li, Qian Wang.<br>
   IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2025. (To Appear)
 
