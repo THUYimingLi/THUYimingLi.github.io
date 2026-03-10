@@ -8,7 +8,8 @@ redirect_from:
 
 
 ## Organization Committee
-* **Competition Co-chair**, [IEEE Trojan Removal Competition](http://www.trojan-removal.com/): 2022.
+* **Tutorial Chair**, [International Conference on Image and Graphics (ICIG)](), 2026.
+* **Competition Co-chair**, [IEEE Trojan Removal Competition](http://www.trojan-removal.com/), 2022.
 
 
 ## Technical Program Committee
@@ -18,12 +19,13 @@ redirect_from:
 * The ACM Conference on Computer and Communications Security (**CCS**): 2026.
 * European Symposium on Security and Privacy (**EuroS&P**): 2026.
 * IEEE Conference on Secure and Trustworthy Machine Learning (**SaTML**): 2026.
-* Annual AAAI Conference on Artificial Intelligence (**AAAI**): 2019-2021, 2022 (Senior PC), 2026 (Senior PC).
-* International Joint Conferences on Artificial Intelligence (**IJCAI**): 2021-2023, 2025-2026 (Senior PC).
 * Conference on Computer Vision and Pattern Recognition (**CVPR**): 2022-2024, 2026 (Area Chair).
-* ACM Multimedia (**MM**): 2024-2026 (Area Chair).
 * International Conference on Computer Vision (**ICCV**): 2021.
 * European Conference on Computer Vision (**ECCV**): 2022, 2024.
+* ACM Multimedia (**MM**): 2024-2026 (Area Chair).
+* ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**): 2026 (Area Chair, Datasets and Benchmark Track Cycle 2)
+* Annual AAAI Conference on Artificial Intelligence (**AAAI**): 2019-2021, 2022 (Senior PC), 2026 (Senior PC).
+* International Joint Conferences on Artificial Intelligence (**IJCAI**): 2021-2023, 2025-2026 (Senior PC).
 * International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**): 2021-2022, 2024, 2026 (Area Chair).
 * International Conference on Artificial Intelligence and Statistics (**AISTATS**): 2021.
 * International Conference on Neural Information Processing (**ICONIP**): 2020-2022.
