@@ -269,14 +269,15 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   Under Review by IEEE Transactions on Information Forensics and Security (**TIFS**), 2026. (To Appear) <br>
   [[Code]](https://github.com/NcepuQiaoTing/Cert-SSB)
 
+* [ARMOR: Shielding Unlearnable Examples against Data Augmentation](https://ieeexplore.ieee.org/abstract/document/11345171)<br>
+  Xueluan Gong, Yuji Wang, Yanjiao Chen, Haocheng Dong, **Yiming Li**^, Mengyuan Sun, Shuaike Li, Qian Wang.<br>
+  IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2026.<br>
+  [[Code is available upon request]]()
+
 * [MOVE: Effective and Harmless Ownership Verification via Embedded External Features](https://arxiv.org/pdf/2208.02820.pdf)<br>
   **Yiming Li**, Linghui Zhu, Xiaojun Jia^, Yang Bai, Yong Jiang, Shu-Tao Xia^, Xiaochun Cao, Kui Ren.<br>
   IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2025. (The journal extension of our [AAAI'22 conference paper](https://arxiv.org/pdf/2112.03476.pdf))<br>
   [[Code]](https://github.com/THUYimingLi/MOVE)
-
-* [ARMOR: Shielding Unlearnable Examples against Data Augmentation](https://ieeexplore.ieee.org/abstract/document/11345171)<br>
-  Xueluan Gong, Yuji Wang, Yanjiao Chen, Haocheng Dong, **Yiming Li**^, Mengyuan Sun, Shuaike Li, Qian Wang.<br>
-  IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2025. (To Appear)
 
 * [Towards Sample-specific Backdoor Attack with Clean Labels via Attribute Trigger](https://www.researchgate.net/publication/376174078_Towards_Sample-specific_Backdoor_Attack_with_Clean_Labels_via_Attribute_Trigger)<br>
   Mingyan Zhu\*, **Yiming Li**\*^, Junfeng Guo, Tao Wei, Shu-Tao Xia, Zhan Qin.<br>
