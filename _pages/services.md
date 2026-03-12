@@ -23,7 +23,7 @@ redirect_from:
 * International Conference on Computer Vision (**ICCV**): 2021.
 * European Conference on Computer Vision (**ECCV**): 2022, 2024.
 * ACM Multimedia (**MM**): 2024-2026 (Area Chair).
-* ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**): 2026 (Area Chair, Datasets and Benchmark Track Cycle 2)
+* ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**): 2026 (Area Chair, Datasets and Benchmark Track Cycle 2).
 * Annual AAAI Conference on Artificial Intelligence (**AAAI**): 2019-2021, 2022 (Senior PC), 2026 (Senior PC).
 * International Joint Conferences on Artificial Intelligence (**IJCAI**): 2021-2023, 2025-2026 (Senior PC).
 * International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**): 2021-2022, 2024, 2026 (Area Chair).
