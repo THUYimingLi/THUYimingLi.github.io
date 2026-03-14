@@ -8,7 +8,7 @@ redirect_from:
 
 
 ## Organization Committee
-* **Tutorial Chair**, [International Conference on Image and Graphics (ICIG)](), 2026.
+* **Tutorial Co-chair**, [International Conference on Image and Graphics (ICIG)](), 2026.
 * **Competition Co-chair**, [IEEE Trojan Removal Competition](http://www.trojan-removal.com/), 2022.
 
 
