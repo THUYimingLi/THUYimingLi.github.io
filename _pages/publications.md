@@ -13,6 +13,10 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 ## Selected Preprints
 **\`*'** indicates co-first author; **\`^'** indicates (co-)project leader/corresponding author
 
+* [Position: AI Agents Are Not (Yet) a Panacea for Social Simulation](https://arxiv.org/pdf/2603.00113)<br>
+  **Yiming Li**, Dacheng Tao. <br>
+  arXiv, 2026.<br>
+
 * [SoK: Large Language Model Copyright Auditing via Fingerprinting](https://arxiv.org/pdf/2508.19843)<br>
   Shuo Shao, **Yiming Li**^, Yu He, Hongwei Yao, Wenyuan Yang, Dacheng Tao, Zhan Qin. <br>
   arXiv, 2025.<br>
