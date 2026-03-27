@@ -45,6 +45,7 @@ I am currently a Research Fellow at Nanyang Technological University, working wi
 ## News
 <div style="max-height: 250px; overflow-y: auto;">
 <ul>
+  <li>03/2026: I am invited to serve as the Technical Program Committee for IEEE S&P 2027.</li>
   <li>03/2026: I am invited to join the Organizing Committee of ICIG 2026, serving as Tutorial Co-chair.</li>
   <li>03/2026: One paper about Copyright Auditing of System Prompts is accepted by IEEE S&P 2026.</li>
   <li>09/2026: I am invited to serve as the Area Chair for KDD 2026 (Datasets and Benchmark Track).</li>
@@ -57,7 +58,7 @@ I am currently a Research Fellow at Nanyang Technological University, working wi
   <li>11/2025: One paper about T2I Prompt Stealing Attack is accepted by NDSS 2026.</li>
   <li>11/2025: One paper about T2I Dataset Ownership Verification is accepted by IEEE TIFS.</li>
   <li>11/2025: One paper about MLLM Backdoor Defense is accepted by AAAI 2026.</li>
-  <li>09/2025: I am invited to serve as the Program Committee for CCS 2026.</li>
+  <li>09/2025: I am invited to serve as the Technical Program Committee for CCS 2026.</li>
   <li>09/2025: I was recognized in the 2025 Elsevier–Stanford World’s Top 2% Scientists list.</li>
   <li>09/2025: Four papers about MLLM Security, Conditional Backdoor Attack, and Safety-driven Unlearning for T2I Diffusion Models are accepted by NeurIPS 2025.</li>
   <li>09/2025: One paper about Backdoor Defense is accepted by IEEE TIFS.</li>
