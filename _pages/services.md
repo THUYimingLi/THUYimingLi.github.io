@@ -13,19 +13,26 @@ redirect_from:
 
 
 ## Technical Program Committee
+* International Conference on Learning Representations (**ICLR**): 2021-2025, 2026 (Area Chair).
 * Conference on Neural Information Processing Systems (**NeurIPS**): 2021-2024, 2025 (Area Chair).
 * International Conference on Machine Learning (**ICML**): 2021-2024, 2025-2026 (Area Chair).
-* International Conference on Learning Representations (**ICLR**): 2021-2025, 2026 (Area Chair).
+
+* IEEE Symposium on Security and Privacy (**S&P**): 2027.
 * The ACM Conference on Computer and Communications Security (**CCS**): 2026.
 * European Symposium on Security and Privacy (**EuroS&P**): 2026.
 * IEEE Conference on Secure and Trustworthy Machine Learning (**SaTML**): 2026.
+
 * Conference on Computer Vision and Pattern Recognition (**CVPR**): 2022-2024, 2026 (Area Chair).
 * International Conference on Computer Vision (**ICCV**): 2021.
 * European Conference on Computer Vision (**ECCV**): 2022, 2024.
+
 * ACM Multimedia (**MM**): 2024-2026 (Area Chair).
+
 * ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**): 2026 (Area Chair, Datasets and Benchmark Track Cycle 2).
+
 * Annual AAAI Conference on Artificial Intelligence (**AAAI**): 2019-2021, 2022 (Senior PC), 2026 (Senior PC).
 * International Joint Conferences on Artificial Intelligence (**IJCAI**): 2021-2023, 2025-2026 (Senior PC).
+
 * International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**): 2021-2022, 2024, 2026 (Area Chair).
 * International Conference on Artificial Intelligence and Statistics (**AISTATS**): 2021.
 * International Conference on Neural Information Processing (**ICONIP**): 2020-2022.
