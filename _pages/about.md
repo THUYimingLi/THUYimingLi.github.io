@@ -17,9 +17,6 @@ I am currently a Research Fellow at Nanyang Technological University, working wi
 
 **My research centers on Responsible and Sustainable AI**, especially AI Risk Management and AI Copyright Protection. My long-term goal is to **advance responsible and sustainable development of AI models and systems, ultimately benefiting both society and humanity**. Recently, I focus more on **Trustworthy Generative AI** (*e.g.*, LLMs, Diffusion Models, AI Agents, Embodied AI) and **Technical AI Governace** (*e.g.*, technical foundations for AI governance and AI-driven social simulation). I always **chase for simple yet effective methods** with deep insights and theoretical support. 
 
-<strong><font color='blue'>For Potential Students and Collaborators</font></strong>: I am **always looking for highly self-motivated students and research interns** to join exciting research projects on Trustworthy ML and Responsible AI in our group. I will provide responsible and hands-on guidance. Besides, I am **always willing to work together on interesting projects with external collaborators**. Drop me an [email](mailto:liyiming.tech@gmail.com) if you are interested! 
-
-
 ## Selected Research
 
 <div style="text-align: center;">
