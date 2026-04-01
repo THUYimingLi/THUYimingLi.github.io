@@ -268,6 +268,11 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 
 ## Selected Journal Articles
+* [Rethinking the Trigger of Backdoor Attacks: Towards Physical Backdoor Threats]()<br>
+  **Yiming Li**, Mingyan Zhu, Shu-Tao Xia, Zhifeng Li, Zhan Qin, Dacheng Tao. <br>
+  **Pattern Recognition**, 2026. (To Appear) <br>
+  [[Code]](https://github.com/THUYimingLi/BackdoorBox/blob/main/core/attacks/PhysicalBA.py)
+
 * [Cert-SSB:Toward Certified Sample-Specific Backdoor Defense](https://arxiv.org/pdf/2504.21730)<br>
   Ting Qiao, Yingjia Wang, Xing Liu, Sixing Wu, Jianbin Li^, **Yiming Li**^. <br>
   Under Review by IEEE Transactions on Information Forensics and Security (**TIFS**), 2026. (To Appear) <br>
