@@ -91,7 +91,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 * [Reading Between the Lines: Towards Reliable Black-box LLM Fingerprinting via Zeroth-order Gradient Estimation](https://arxiv.org/pdf/2510.06605)<br>
   Shuo Shao, **Yiming Li**^, Hongwei Yao, Yifei Chen, Yuchen Yang, Zhan Qin. <br>
-  The ACM Web Conference (**WWW**), 2026. (To Appear) <br>
+  The ACM Web Conference (**WWW**), 2026. (<font color='red'><b>Oral</b></font>, TOP 10%) <br>
   [[Code]](https://github.com/shaoshuo-ss/ZeroPrint)
 
 * [DSSmoothing: Toward Certified Dataset Ownership Verification for Pre-trained Language Models via Dual-Space Smoothing](https://arxiv.org/pdf/2510.15303)<br>
