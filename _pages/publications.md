@@ -275,7 +275,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 * [Cert-SSB:Toward Certified Sample-Specific Backdoor Defense](https://arxiv.org/pdf/2504.21730)<br>
   Ting Qiao, Yingjia Wang, Xing Liu, Sixing Wu, Jianbin Li^, **Yiming Li**^. <br>
-  Under Review by IEEE Transactions on Information Forensics and Security (**TIFS**), 2026. (To Appear) <br>
+  IEEE Transactions on Information Forensics and Security (**TIFS**), 2026. (To Appear) <br>
   [[Code]](https://github.com/NcepuQiaoTing/Cert-SSB)
 
 * [ARMOR: Shielding Unlearnable Examples against Data Augmentation](https://ieeexplore.ieee.org/abstract/document/11345171)<br>
