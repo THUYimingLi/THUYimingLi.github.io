@@ -106,7 +106,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 * [Towards Effective Prompt Stealing Attack against Text-to-Image Diffusion Models](https://arxiv.org/pdf/2508.06837)<br>
   Shiqian Zhao, Chong Wang, **Yiming Li**, Yihao Huang, Wenjie Qu, Siew-Kei Lam, Yi Xie, Kangjie Chen, Jie Zhang, Tianwei Zhang. <br>
-  Network and Distributed System Security Symposium (**NDSS**), 2026. (To Appear) <br>
+  Network and Distributed System Security Symposium (**NDSS**), 2026. <br>
   [[Code]](https://github.com/Shiqian-Zhao996/Prometheus)
 
 * [Towards Label-only Membership Inference Attack against Pre-trained Large Language Models](https://arxiv.org/pdf/2502.18943)<br>
@@ -275,7 +275,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 * [ARMOR: Shielding Unlearnable Examples against Data Augmentation](https://ieeexplore.ieee.org/abstract/document/11345171)<br>
   Xueluan Gong, Yuji Wang, Yanjiao Chen, Haocheng Dong, **Yiming Li**^, Mengyuan Sun, Shuaike Li, Qian Wang.<br>
-  IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2026.<br>
+  IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2026. (To Appear) <br>
   [[Code is available upon request]]()
 
 * [MOVE: Effective and Harmless Ownership Verification via Embedded External Features](https://arxiv.org/pdf/2208.02820.pdf)<br>
