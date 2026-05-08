@@ -13,7 +13,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 ## Selected Preprints
 **\`*'** indicates co-first author; **\`^'** indicates (co-)project leader/corresponding author
 
-* [Position: AI Agents Are Not (Yet) a Panacea for Social Simulation](https://arxiv.org/pdf/2603.00113)<br>
+* [AI Agents Alone Are Not (Yet) Sufficient for Social Simulation](https://arxiv.org/pdf/2603.00113)<br>
   **Yiming Li**, Dacheng Tao. <br>
   arXiv, 2026.<br>
 
