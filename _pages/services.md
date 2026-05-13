@@ -14,7 +14,7 @@ redirect_from:
 
 ## Technical Program Committee
 * International Conference on Learning Representations (**ICLR**): 2021-2025, 2026 (Area Chair).
-* Conference on Neural Information Processing Systems (**NeurIPS**): 2021-2024, 2025 (Area Chair).
+* Conference on Neural Information Processing Systems (**NeurIPS**): 2021-2024, 2025-2026 (Area Chair).
 * International Conference on Machine Learning (**ICML**): 2021-2024, 2025-2026 (Area Chair).
 
 * IEEE Symposium on Security and Privacy (**S&P**): 2027.
