@@ -265,18 +265,18 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 * [Rethinking the Trigger of Backdoor Attacks: Towards Physical Backdoor Threats](https://www.sciencedirect.com/science/article/abs/pii/S0031320326006308)<br>
   **Yiming Li**, Mingyan Zhu, Shu-Tao Xia, Zhifeng Li, Zhan Qin, Dacheng Tao. <br>
-  **Pattern Recognition**, 2026. (To Appear) <br>
+  **Pattern Recognition**, 2026. <br>
   [[Code]](https://github.com/THUYimingLi/BackdoorBox/blob/main/core/attacks/PhysicalBA.py)
 
 * [Cert-SSB:Toward Certified Sample-Specific Backdoor Defense](https://arxiv.org/pdf/2504.21730)<br>
   Ting Qiao, Yingjia Wang, Xing Liu, Sixing Wu, Jianbin Li^, **Yiming Li**^. <br>
-  IEEE Transactions on Information Forensics and Security (**TIFS**), 2026. (To Appear) <br>
+  IEEE Transactions on Information Forensics and Security (**TIFS**), 2026. <br>
   [[Code]](https://github.com/NcepuQiaoTing/Cert-SSB)
 
 * [ARMOR: Shielding Unlearnable Examples against Data Augmentation](https://ieeexplore.ieee.org/abstract/document/11345171)<br>
   Xueluan Gong, Yuji Wang, Yanjiao Chen, Haocheng Dong, **Yiming Li**^, Mengyuan Sun, Shuaike Li, Qian Wang.<br>
   IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2026. (To Appear) <br>
-  [[Code is available upon request]]()
+  [[Code is available upon request]](mailto:liyiming.tech@gmail.com)
 
 * [MOVE: Effective and Harmless Ownership Verification via Embedded External Features](https://arxiv.org/pdf/2208.02820.pdf)<br>
   **Yiming Li**, Linghui Zhu, Xiaojun Jia^, Yang Bai, Yong Jiang, Shu-Tao Xia^, Xiaochun Cao, Kui Ren.<br>
