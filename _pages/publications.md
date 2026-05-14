@@ -39,10 +39,6 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   Shuo Shao, Haozhe Zhu, **Yiming Li**^, Hongwei Yao, Tianwei Zhang, Zhan Qin, Kui Ren.<br>
   Under Review by IEEE Transactions on Information Forensics and Security (**TIFS**), 2025.<br>
 
-* [SWAP: Towards Copyright Auditing of Soft Prompts via Sequential Watermarking](https://arxiv.org/pdf/2511.04711)<br>
-  Wenyuan Yang\*, Yichen Sun\*, Changzheng Chen, Zhixuan Chu, Jiaheng Zhang, **Yiming Li**^, Dacheng Tao. <br>
-  Under Review by International Journal of Computer Vision (**IJCV**), 2025. <br>
-
 * [Coward: Toward Practical Proactive Federated Backdoor Defense via Collision-based Watermark](https://arxiv.org/pdf/2508.02115)<br>
   Wenjie Li, Siying Gu, **Yiming Li**^, Kangjie Chen, Zhili Chen, Tianwei Zhang, Shu-Tao Xia, Dacheng Tao. <br>
   Under Review by IEEE Transactions on Information Forensics and Security (**TIFS**), 2025.<br>
@@ -263,6 +259,10 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 
 ## Selected Journal Articles
+* [SWAP: Towards Copyright Auditing of Soft Prompts via Sequential Watermarking](https://arxiv.org/pdf/2511.04711)<br>
+  Wenyuan Yang\*, Yichen Sun\*, Changzheng Chen, Zhixuan Chu, Jiaheng Zhang, **Yiming Li**^, Dacheng Tao. <br>
+  International Journal of Computer Vision (**IJCV**), 2026. (To Appear) <br>
+
 * [Rethinking the Trigger of Backdoor Attacks: Towards Physical Backdoor Threats](https://www.sciencedirect.com/science/article/abs/pii/S0031320326006308)<br>
   **Yiming Li**, Mingyan Zhu, Shu-Tao Xia, Zhifeng Li, Zhan Qin, Dacheng Tao. <br>
   **Pattern Recognition**, 2026. (To Appear) <br>
