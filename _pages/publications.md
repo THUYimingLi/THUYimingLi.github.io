@@ -268,7 +268,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   **Pattern Recognition**, 2026. <br>
   [[Code]](https://github.com/THUYimingLi/BackdoorBox/blob/main/core/attacks/PhysicalBA.py)
 
-* [Cert-SSB:Toward Certified Sample-Specific Backdoor Defense](https://arxiv.org/pdf/2504.21730)<br>
+* [Cert-SSBD: Certified Backdoor Defense with Sample-Specific Smoothing Noises](https://arxiv.org/pdf/2504.21730)<br>
   Ting Qiao, Yingjia Wang, Xing Liu, Sixing Wu, Jianbin Li^, **Yiming Li**^. <br>
   IEEE Transactions on Information Forensics and Security (**TIFS**), 2026. <br>
   [[Code]](https://github.com/NcepuQiaoTing/Cert-SSB)
