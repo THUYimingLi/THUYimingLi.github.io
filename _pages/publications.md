@@ -290,7 +290,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 * [Towards Dataset Copyright Evasion Attack against Personalized Text-to-Image Diffusion Models](https://arxiv.org/pdf/2505.02824) <br>
   Kuofeng Gao, Yufei Zhu, **Yiming Li**\*^, Jiawang Bai^, Yong Yang, Zhifeng Li, Shu-Tao Xia.<br>
-  IEEE Transactions on Information Forensics and Security (**TIFS**), 2025. (To Appear) <br>
+  IEEE Transactions on Information Forensics and Security (**TIFS**), 2025. <br>
   [[Code]](https://github.com/csyufei/CEAT2I)
 
 * [FLARE: Toward Universal Dataset Purification against Backdoor Attacks](https://arxiv.org/pdf/2411.19479)<br>
