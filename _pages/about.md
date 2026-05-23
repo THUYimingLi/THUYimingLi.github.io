@@ -42,9 +42,10 @@ I am currently a Research Fellow at Nanyang Technological University, working wi
 ## News
 <div style="max-height: 250px; overflow-y: auto;">
 <ul>
-  <li>05/2026: One paper about VLM copyright protection is accepted by IJCV.</li>
-  <li>04/2026: One paper about physical backdoor attack is accepted by Pattern Recognition.</li>
-  <li>04/2026: Our paper on LLM copyright protection has been accepted for Oral presentation at WWW 2026.</li>
+  <li>05/2026: One paper about VLM Copyright Protection is accepted by IJCV.</li>
+  <li>05/2026: Three papers about T2I & LLM Copyright Protection and Backdoor Defense are accepted by ICML 2026.</li>
+  <li>04/2026: One paper about Physical Backdoor Attack is accepted by Pattern Recognition.</li>
+  <li>04/2026: Our paper on LLM Copyright Protection has been accepted for Oral presentation at WWW 2026.</li>
   <li>03/2026: I am invited to serve as the Technical Program Committee for IEEE S&P 2027.</li>
   <li>03/2026: I am invited to join the Organizing Committee of ICIG 2026, serving as Tutorial Co-chair.</li>
   <li>03/2026: One paper about Copyright Auditing of System Prompts is accepted by IEEE S&P 2026.</li>
