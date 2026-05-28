@@ -65,6 +65,11 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 
 ## Selected Conference Papers
+* [Cert-LAS: Toward Certified Model Ownership Verification for Text-to-Image Diffusion Models via Layer-Adaptive Smoothing]()<br>
+  Leyi Qi, **Yiming Li**^, Siyuan Liang, Zhengzhong Tu, Dacheng Tao^. <br>
+  International Conference on Machine Learning (**ICML**), 2026. (To Appear) <br>
+  [[Code]](https://github.com/Leyi-Qi/Cert-LAS)
+
 * [PromptCOS: Towards Content-only System Prompt Copyright Auditing for LLMs](https://arxiv.org/pdf/2509.03117)<br>
   Yuchen Yang, **Yiming Li**^, Hongwei Yao, Enhao Huang, Shuo Shao, Yuyi Wang, Zhibo Wang, Dacheng Tao, Zhan Qin. <br>
   IEEE Symposium on Security and Privacy (**S&P**), 2026. (To Appear) <br>
