@@ -100,11 +100,6 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   The ACM Web Conference (**WWW**), 2026. <br>
   [[Code]](https://github.com/NcepuQiaoTing/DSSmoothing)
 
-* [DualMind: Towards Understanding Cognitive-Affective Cascades in Public Opinion Dissemination via Multi-Agent Simulation]()<br>
-  Enhao Huang\*, Tongtong Pan\*, Shuhuai Zhang\*, Qishu Jin, Liheng Zhen, Kaichun Hu, **Yiming Li**^, Zhan Qin and Kui Ren. <br>
-  Demo Track of The ACM Web Conference (**WWW**), 2026. <br>
-  [[Code]](https://github.com/EonHao/DualMind)
-
 * [Towards Effective Prompt Stealing Attack against Text-to-Image Diffusion Models](https://arxiv.org/pdf/2508.06837)<br>
   Shiqian Zhao, Chong Wang, **Yiming Li**, Yihao Huang, Wenjie Qu, Siew-Kei Lam, Yi Xie, Kangjie Chen, Jie Zhang, Tianwei Zhang. <br>
   Network and Distributed System Security Symposium (**NDSS**), 2026. <br>
