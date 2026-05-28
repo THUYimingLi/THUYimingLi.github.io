@@ -72,22 +72,22 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 * [PromptCOS: Towards Content-only System Prompt Copyright Auditing for LLMs](https://arxiv.org/pdf/2509.03117)<br>
   Yuchen Yang, **Yiming Li**^, Hongwei Yao, Enhao Huang, Shuo Shao, Yuyi Wang, Zhibo Wang, Dacheng Tao, Zhan Qin. <br>
-  IEEE Symposium on Security and Privacy (**S&P**), 2026. (To Appear) <br>
+  IEEE Symposium on Security and Privacy (**S&P**), 2026. <br>
   [[Code]](https://github.com/LianPing-cyber/PromptCOS)
 
 * [DREAM: Scalable Red Teaming for Text-to-Image Generative Systems via Distribution Modeling](https://arxiv.org/pdf/2507.16329)<br>
   Boheng Li, Junjie Wang, **Yiming Li**^, Zhiyang Hu, Leyi Qi, Jianshuo Dong, Run Wang, Han Qiu, Zhan Qin, Tianwei Zhang. <br>
-  IEEE Symposium on Security and Privacy (**S&P**), 2026. (To Appear) <br>
+  IEEE Symposium on Security and Privacy (**S&P**), 2026. <br>
   [[Code]](https://github.com/AntigoneRandy/DREAM)
 
 * [Odysseus: Jailbreaking Commercial Multimodal LLM-integrated Systems via Dual Steganography](https://arxiv.org/pdf/2512.20168)<br>
   Songze Li, Jiameng Cheng, **Yiming Li**^, Xiaojun Jia, Dacheng Tao. <br>
-  Network and Distributed System Security Symposium (**NDSS**), 2026. (To Appear) <br>
+  Network and Distributed System Security Symposium (**NDSS**), 2026. <br>
   [[Code]](https://github.com/S3IC-Lab/Odysseus)
 
 * [When Memory Becomes a Vulnerability: Towards Multi-turn Jailbreak Attacks against Text-to-Image Generation Systems](https://arxiv.org/pdf/2504.20376)<br>
   Shiqian Zhao, Jiayang Liu, **Yiming Li**^, Runyi Hu, Xiaojun Jia, Wenshu Fan, Xinfeng Li, Jie Zhang, Wei Dong, Tianwei Zhang, Luu Anh Tuan. <br>
-  USENIX Security Symposium (**USENIX Security**), 2026. (To Appear) <br>
+  USENIX Security Symposium (**USENIX Security**), 2026. <br>
   [[Code]](https://github.com/Shiqian-Zhao996/inception-T2I-system)
 
 * [Reading Between the Lines: Towards Reliable Black-box LLM Fingerprinting via Zeroth-order Gradient Estimation](https://arxiv.org/pdf/2510.06605)<br>
