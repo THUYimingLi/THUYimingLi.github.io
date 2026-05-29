@@ -42,6 +42,7 @@ I am currently a Research Fellow at Nanyang Technological University, working wi
 ## News
 <div style="max-height: 250px; overflow-y: auto;">
 <ul>
+  <li>05/2026: Our research in Responsible AI was recognized on the [Forbes 30 Under 30 Asia List](https://www.forbes.com/profile/li-yiming/?list=30under30-asia-healthcare-science/) in the Healthcare & Science category.</li>
   <li>05/2026: One paper about VLM Copyright Protection is accepted by IJCV.</li>
   <li>05/2026: Three papers about T2I & LLM Copyright Protection and Backdoor Defense are accepted by ICML 2026.</li>
   <li>04/2026: One paper about Physical Backdoor Attack is accepted by Pattern Recognition.</li>
