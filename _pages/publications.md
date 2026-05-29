@@ -65,7 +65,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 
 ## Selected Conference Papers
-* [Cert-LAS: Toward Certified Model Ownership Verification for Text-to-Image Diffusion Models via Layer-Adaptive Smoothing]()<br>
+* [Cert-LAS: Toward Certified Model Ownership Verification for Text-to-Image Diffusion Models via Layer-Adaptive Smoothing](https://arxiv.org/pdf/2605.29809)<br>
   Leyi Qi, **Yiming Li**^, Siyuan Liang, Zhengzhong Tu, Dacheng Tao^. <br>
   International Conference on Machine Learning (**ICML**), 2026. (To Appear) <br>
   [[Code]](https://github.com/Leyi-Qi/Cert-LAS)
