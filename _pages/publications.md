@@ -269,6 +269,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 * [FIT-Print: Towards False-claim-resistant Model Ownership Verification via Targeted Fingerprint](https://arxiv.org/pdf/2501.15509)<br>
   Shuo Shao, Haozhe Zhu, **Yiming Li**^, Hongwei Yao, Tianwei Zhang, Zhan Qin, Kui Ren.<br>
   IEEE Transactions on Information Forensics and Security (**TIFS**), 2026. (To Appear)<br>
+  [[Code is available upon request]](mailto:liyiming.tech@gmail.com)
 
 * [Cert-SSBD: Certified Backdoor Defense with Sample-Specific Smoothing Noises](https://arxiv.org/pdf/2504.21730)<br>
   Ting Qiao, Yingjia Wang, Xing Liu, Sixing Wu, Jianbin Li^, **Yiming Li**^. <br>
