@@ -260,6 +260,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 * [SWAP: Towards Copyright Auditing of Soft Prompts via Sequential Watermarking](https://arxiv.org/pdf/2511.04711)<br>
   Wenyuan Yang\*, Yichen Sun\*, Changzheng Chen, Zhixuan Chu, Jiaheng Zhang, **Yiming Li**^, Dacheng Tao. <br>
   International Journal of Computer Vision (**IJCV**), 2026. (To Appear) <br>
+  [[Code]](https://github.com/TempterCyn/SWAP)
 
 * [ShadowCode: Towards (Automatic) External Prompt Injection Attack against Code LLMs](https://arxiv.org/pdf/2407.09164)<br>
   Yuchen Yang, **Yiming Li**^, Hongwei Yao, Bingrun Yang, Yiling He, Tianwei Zhang, Dacheng Tao, Zhan Qin.<br>
