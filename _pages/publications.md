@@ -27,11 +27,6 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   arXiv, 2025.<br>
   [[Code]](https://github.com/shaoshuo-ss/DATABench)
 
-
-* [External Data Extraction Attacks against Retrieval-Augmented Large Language Models](https://arxiv.org/pdf/2510.02964)<br>
-  Yu He, Yifei Chen, **Yiming Li**^, Shuo Shao, Leyi Qi, Boheng Li, Dacheng Tao, Zhan Qi. <br>
-  Under Review by IEEE Transactions on Information Forensics and Security (**TIFS**), 2025.<br>
-
 * [Coward: Toward Practical Proactive Federated Backdoor Defense via Collision-based Watermark](https://arxiv.org/pdf/2508.02115)<br>
   Wenjie Li, Siying Gu, **Yiming Li**^, Kangjie Chen, Zhili Chen, Tianwei Zhang, Shu-Tao Xia, Dacheng Tao. <br>
   Under Review by IEEE Transactions on Information Forensics and Security (**TIFS**), 2025.<br>
@@ -265,6 +260,10 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 * [ShadowCode: Towards (Automatic) External Prompt Injection Attack against Code LLMs](https://arxiv.org/pdf/2407.09164)<br>
   Yuchen Yang, **Yiming Li**^, Hongwei Yao, Bingrun Yang, Yiling He, Tianwei Zhang, Dacheng Tao, Zhan Qin.<br>
   IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2026. (To Appear) <br>
+
+* [External Data Extraction Attacks against Retrieval-Augmented Large Language Models](https://arxiv.org/pdf/2510.02964)<br>
+  Yu He, Yifei Chen, **Yiming Li**^, Shuo Shao, Leyi Qi, Boheng Li, Dacheng Tao, Zhan Qin. <br>
+  IEEE Transactions on Information Forensics and Security (**TIFS**), 2026. (To Appear) <br>  
 
 * [FIT-Print: Towards False-claim-resistant Model Ownership Verification via Targeted Fingerprint](https://arxiv.org/pdf/2501.15509)<br>
   Shuo Shao, Haozhe Zhu, **Yiming Li**^, Hongwei Yao, Tianwei Zhang, Zhan Qin, Kui Ren.<br>
