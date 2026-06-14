@@ -17,6 +17,12 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   **Yiming Li**, Dacheng Tao. <br>
   arXiv, 2026.<br>
 
+* [Who Pays the Price? Stakeholder-Centric Prompt Injection Benchmarking for Real-world Web Agents](https://arxiv.org/pdf/2606.13385)<br>
+  Zihao Wang, **Yiming Li**^, Yutong Wu, Zheyu Liu, Kangjie Chen, Fok Kar Wai, Pin-Yu Chen, Vrizlynn L. L. Thing, Bo Li, Dacheng Tao, Tianwei Zhang. <br>
+  arXiv, 2026.<br>
+  [[Benchmark & Code & Intro Video]](https://github.com/StakeBench/SBC)
+
+
 * [SoK: Large Language Model Copyright Auditing via Fingerprinting](https://arxiv.org/pdf/2508.19843)<br>
   Shuo Shao, **Yiming Li**^, Yu He, Hongwei Yao, Wenyuan Yang, Dacheng Tao, Zhan Qin. <br>
   arXiv, 2025.<br>
