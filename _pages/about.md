@@ -85,6 +85,7 @@ I am currently a Research Fellow at Nanyang Technological University, working wi
 
 
 ## Useful Resources
+[<font color='orange'>Stakeholder-Centric Prompt Injection Benchmark for Real-world Web Agents</font>](https://arxiv.org/pdf/2606.13385), as well as its [<font color='orange'>Toolbox</font>](https://github.com/StakeBench/SBC)
 
 [<font color='orange'>Perspective: Rethinking Data Protection in the (Generative) Artificial Intelligence Era</font>](http://arxiv.org/abs/2507.03034)
 
