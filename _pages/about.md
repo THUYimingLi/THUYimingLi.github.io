@@ -40,7 +40,7 @@ I am currently a Research Fellow at Nanyang Technological University, working wi
 <div style="max-height: 250px; overflow-y: auto;">
 <ul>
   <li>06/2026: I am invited to serve as the Technical Program Committee for USENIX Security 2027.</li>
-  <li>06/2026: One paper about LLM RAG Extraction is accepted by IEEE TIFS.</li>
+  <li>06/2026: One paper about LLM Privacy Extraction is accepted by IEEE TIFS.</li>
   <li>06/2026: One paper about Code LLM/Agent Security is accepted by IEEE TDSC.</li>
   <li>06/2026: One paper about LLM Copyright Protection is accepted by IEEE TIFS.</li>
   <li>05/2026: Our research in Responsible AI was recognized on the <a href="https://www.forbes.com/profile/li-yiming/?list=30under30-asia-healthcare-science/">Forbes 30 Under 30 Asia List</a> in the Healthcare & Science category.</li>
