@@ -9,8 +9,6 @@ redirect_from:
 ---
 
 
-<strong><font color='red'>I'm currently on the academic job market, and I'd very much welcome the chance to discuss any potential opportunities!</font><strong/>
-
 
 ## Biography
 I am currently a Research Fellow at Nanyang Technological University, working with Prof. [Dacheng Tao](https://scholar.google.fr/citations?user=RwlJNLcAAAAJ&hl=en&oi=ao) and (previously) with Prof. [Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/). Prior to this, I served as a Tenure-track Research Professor (equivalent to Assistant Professor in the US system) at Zhejiang University, where I received the Outstanding Junior Faculty Award (Qizhen Outstanding Young Scholar). I received my Ph.D. degree with honors in Computer Science and Technology from Tsinghua University, advised by Prof. [Yong Jiang](https://www.sigs.tsinghua.edu.cn/jy/main.htm) and Prof. [Shu-Tao Xia](https://www.sigs.tsinghua.edu.cn/xst/main.htm), and my B.S. degree with honors in Applied Mathematics from Ningbo University (Yangming Innovation Class), where I was advised by Prof. [Lifeng Xi](http://math.nbu.edu.cn/info/1046/1098.htm). I also collaborated closely with Dr. [Zhifeng Li](https://scholar.google.fr/citations?user=VTrRNN4AAAAJ&hl=zh-CN) (at Tencent) and Prof. [Bo Li](https://scholar.google.com/citations?user=K8vJkTcAAAAJ&hl=en) (at UIUC) during my Ph.D. journey.
