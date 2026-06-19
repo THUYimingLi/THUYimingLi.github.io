@@ -10,11 +10,16 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 ## Representative Works
 **\`*'** indicates co-first author; **\`^'** indicates (co-)project leader/corresponding author
-  
-* [Rethinking the Trigger of Backdoor Attacks: Towards Physical Backdoor Threats](https://www.sciencedirect.com/science/article/abs/pii/S0031320326006308)<br>
-  **Yiming Li**, Mingyan Zhu, Shu-Tao Xia, Zhifeng Li, Zhan Qin, Dacheng Tao. <br>
-  **Pattern Recognition**, 2026. <br>
-  [[Code]](https://github.com/THUYimingLi/BackdoorBox/blob/main/core/attacks/PhysicalBA.py)
+
+* [Odysseus: Jailbreaking Commercial Multimodal LLM-integrated Systems via Dual Steganography](https://arxiv.org/pdf/2512.20168)<br>
+  Songze Li, Jiameng Cheng, **Yiming Li**^, Xiaojun Jia, Dacheng Tao. <br>
+  Network and Distributed System Security Symposium (**NDSS**), 2026. <br>
+  [[Code]](https://github.com/S3IC-Lab/Odysseus)
+
+* [DREAM: Scalable Red Teaming for Text-to-Image Generative Systems via Distribution Modeling](https://arxiv.org/pdf/2507.16329)<br>
+  Boheng Li, Junjie Wang, **Yiming Li**^, Zhiyang Hu, Leyi Qi, Jianshuo Dong, Run Wang, Han Qiu, Zhan Qin, Tianwei Zhang. <br>
+  IEEE Symposium on Security and Privacy (**S&P**), 2026. <br>
+  [[Code]](https://github.com/AntigoneRandy/DREAM)
 
 * [Few-Shot Backdoor Attacks on Visual Object Tracking](https://openreview.net/pdf?id=qSV5CuSaK_a)<br>
   **Yiming Li**\*, Haoxiang Zhong\*, Xingjun Ma, Yong Jiang, Shu-Tao Xia.<br>
