@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Selected Publications and Preprints"
+title: "Publications"
 permalink: /publications/
 redirect_from:
   - /publications
