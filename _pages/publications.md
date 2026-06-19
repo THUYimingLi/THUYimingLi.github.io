@@ -10,36 +10,16 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
 
 ## Representative Works
 **\`*'** indicates co-first author; **\`^'** indicates (co-)project leader/corresponding author
-
-* [Odysseus: Jailbreaking Commercial Multimodal LLM-integrated Systems via Dual Steganography](https://arxiv.org/pdf/2512.20168)<br>
-  Songze Li, Jiameng Cheng, **Yiming Li**^, Xiaojun Jia, Dacheng Tao. <br>
-  Network and Distributed System Security Symposium (**NDSS**), 2026. <br>
-  [[Code]](https://github.com/S3IC-Lab/Odysseus)
   
 * [Rethinking the Trigger of Backdoor Attacks: Towards Physical Backdoor Threats](https://www.sciencedirect.com/science/article/abs/pii/S0031320326006308)<br>
   **Yiming Li**, Mingyan Zhu, Shu-Tao Xia, Zhifeng Li, Zhan Qin, Dacheng Tao. <br>
   **Pattern Recognition**, 2026. <br>
   [[Code]](https://github.com/THUYimingLi/BackdoorBox/blob/main/core/attacks/PhysicalBA.py)
 
-* [Towards Reliable and Efficient Backdoor Trigger Inversion via Decoupling Benign Features](https://openreview.net/forum?id=Tw9wemV6cb)<br>
-  Xiong Xu\*, Kunzhe Huang\*, **Yiming Li**\*^, Zhan Qin^, Kui Ren. <br>
-  International Conference on Learning Representations (**ICLR**), 2024. (<font color='red'><b>Spotlight</b></font>, TOP 5%)<br>
-  [[Code]](https://github.com/xuxiong0214/BTIDBF)
-
 * [Few-Shot Backdoor Attacks on Visual Object Tracking](https://openreview.net/pdf?id=qSV5CuSaK_a)<br>
   **Yiming Li**\*, Haoxiang Zhong\*, Xingjun Ma, Yong Jiang, Shu-Tao Xia.<br>
   International Conference on Learning Representations (**ICLR**), 2022. <br>
   [[Code]](https://github.com/HXZhong1997/FSBA) [[Poster]](https://www.dropbox.com/s/4nmzwvkwfbktnqs/BackdoorVOT_ICLR22_poster.pdf?dl=0) [[Slides]](https://www.dropbox.com/s/rn3h0xr7eflo3a7/BackdoorVOT_ICLR22.pptx?dl=0) [[Video]](https://recorder-v3.slideslive.com/#/share?share=61825&s=d28384c4-297b-4a75-b5e7-3c9dba75f6df) [[News]](https://www.tsinghua.edu.cn/info/1175/91555.htm)
-
-* [Probe before You Talk: Towards Black-box Defense against Backdoor Unalignment for Large Language Models](https://openreview.net/pdf?id=EbxYDBhE3S)<br>
-  Biao Yi, Tiansheng Huang, Sishuo Chen, Tong Li^, Zheli Liu, Zhixuan Chu, **Yiming Li**^. <br>
-  International Conference on Learning Representations (**ICLR**), 2025.<br>
-  [[Code]](https://github.com/clearloveclearlove/BEAT)
-
-* [Backdoor Defense via Decoupling the Training Process](https://openreview.net/pdf?id=TySnJ-0RdKI)<br>
-  Kunzhe Huang\*, **Yiming Li**\*, Baoyuan Wu, Zhan Qin, Kui Ren.<br>
-  International Conference on Learning Representations (**ICLR**), 2022. <br>
-  [[Code]](https://github.com/SCLBD/DBD) [[Poster]](https://www.dropbox.com/s/i6m6rcsoe7xd6tr/DBD_ICLR22_poster.pdf?dl=0) [[Slides]](https://www.dropbox.com/s/2ved7swqsp8x02y/DBD_ICLR22.pptx?dl=0) [[Video]](https://recorder-v3.slideslive.com/#/share?share=62074&s=60f4eeae-3910-42b7-b91a-b1b4f3861ecc)
 
 * [Black-box Dataset Ownership Verification via Backdoor Watermarking](https://www.researchgate.net/publication/369559541_Black-box_Dataset_Ownership_Verification_via_Backdoor_Watermarking)<br>
   **Yiming Li**, Mingyan Zhu, Xue Yang^, Yong Jiang, Tao Wei, Shu-Tao Xia^.<br>
@@ -56,10 +36,6 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2022. (<font color='red'><b>Oral</b></font>, TOP 2%)<br>
   [[Code]](https://github.com/THUYimingLi/Untargeted_Backdoor_Watermark) [[Poster]](https://www.dropbox.com/s/6wmhw3ahc1ofncw/UBW_NeurIPS22_Poster.pdf?dl=0) [[Slides]](https://www.dropbox.com/s/08ve3bgnr7yhhc5/UBW_NeurIPS2022_Final.pptx?dl=0) [[Video]](https://recorder-v3.slideslive.com/#/share?share=72431&s=0a3f4d39-ae7c-4416-90d8-8d6c9ec4bd51) [[News]](https://www.tsinghua.edu.cn/info/1175/104618.htm)
 
-* [PromptCOS: Towards Content-only System Prompt Copyright Auditing for LLMs](https://arxiv.org/pdf/2509.03117)<br>
-  Yuchen Yang, **Yiming Li**^, Hongwei Yao, Enhao Huang, Shuo Shao, Yuyi Wang, Zhibo Wang, Dacheng Tao, Zhan Qin. <br>
-  IEEE Symposium on Security and Privacy (**S&P**), 2026. <br>
-  [[Code]](https://github.com/LianPing-cyber/PromptCOS)
 
 
 ## Books and Technical Reports
