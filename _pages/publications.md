@@ -8,344 +8,58 @@ redirect_from:
 
 Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?user=mSW7kU8AAAAJ&hl=zh-CN) for my full paper list. <br>
 
-[Preprints](#selected-preprints) | [Conferences](#selected-conference-papers) | [Journals](#selected-journal-articles) | [Books & Technical Reports](#books-and-technical-reports) | [Dissertation](#dissertation) | [Patents](#patents)
-
-## Selected Preprints
+## Representative Works
 **\`*'** indicates co-first author; **\`^'** indicates (co-)project leader/corresponding author
-
-* [AI Agents Alone Are Not (Yet) Sufficient for Social Simulation](https://arxiv.org/pdf/2603.00113)<br>
-  **Yiming Li**, Dacheng Tao. <br>
-  arXiv, 2026.<br>
-
-* [Who Pays the Price? Stakeholder-Centric Prompt Injection Benchmarking for Real-world Web Agents](https://arxiv.org/pdf/2606.13385)<br>
-  Zihao Wang, **Yiming Li**^, Yutong Wu, Zheyu Liu, Kangjie Chen, Fok Kar Wai, Pin-Yu Chen, Vrizlynn L. L. Thing, Bo Li, Dacheng Tao, Tianwei Zhang. <br>
-  arXiv, 2026.<br>
-  [[Benchmark & Code & Intro Video]](https://github.com/StakeBench/SBC)
-
-
-* [SoK: Large Language Model Copyright Auditing via Fingerprinting](https://arxiv.org/pdf/2508.19843)<br>
-  Shuo Shao, **Yiming Li**^, Yu He, Hongwei Yao, Wenyuan Yang, Dacheng Tao, Zhan Qin. <br>
-  arXiv, 2025.<br>
-  [[Code]](https://github.com/shaoshuo-ss/LeaFBench) [[GitHub Resources Repo]](https://github.com/shaoshuo-ss/Awesome-LLM-Fingerprinting)
-
-* [DATABench: Evaluating Dataset Auditing in Deep Learning from an Adversarial Perspective](https://arxiv.org/pdf/2507.05622)<br>
-  Shuo Shao, **Yiming Li**^, Mengren Zheng, Zhiyang Hu, Yukun Chen, Boheng Li, Yu He, Junfeng Guo, Dacheng Tao, Zhan Qin. <br>
-  arXiv, 2025.<br>
-  [[Code]](https://github.com/shaoshuo-ss/DATABench)
-
-* [Coward: Toward Practical Proactive Federated Backdoor Defense via Collision-based Watermark](https://arxiv.org/pdf/2508.02115)<br>
-  Wenjie Li, Siying Gu, **Yiming Li**^, Kangjie Chen, Zhili Chen, Tianwei Zhang, Shu-Tao Xia, Dacheng Tao. <br>
-  Under Review by IEEE Transactions on Information Forensics and Security (**TIFS**), 2025.<br>
-  [[Code]](https://github.com/still2009/cowardFL)  
-
-* [CBW: Towards Dataset Ownership Verification for Speaker Verification via Clustering-based Backdoor Watermarking](https://arxiv.org/pdf/2503.05794)<br>
-  **Yiming Li**, Kaiying Yan, Shuo Shao, Tongqing Zhai, Shu-Tao Xia, Zhan Qin, Dacheng Tao. <br>
-  Under Review by IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2025. (The journal extension of our [ICASSP'21 conference paper](https://arxiv.org/pdf/2010.11607.pdf))<br>
-  [[Code]](https://github.com/Radiant0726/CBW)
-
-* [Rethinking Data Protection in the (Generative) Artificial Intelligence Era](https://arxiv.org/abs/2507.03034)<br>
-  **Yiming Li**\*^, Shuo Shao\*, Yu He, Junfeng Guo, Tianwei Zhang, Zhan Qin^, Pin-Yu Chen, Michael Backes, Philip Torr, Dacheng Tao, Kui Ren. <br>
-  arXiv, 2025.<br>
-  [[Media Cover 1 (in Chinese)]](https://www.mittrchina.com/news/detail/15053) [[Media Cover 2 (in Chinese)]](https://www.jiqizhixin.com/articles/2025-07-19-4) [[Media Cover 3 (in Chinese)]](https://finance.sina.com.cn/tech/roll/2025-07-19/doc-inffysvw5324248.shtml)
-
-* [CertDW: Towards Certified Dataset Ownership Verification via Conformal Prediction](https://arxiv.org/pdf/2506.13160)<br>
-  Ting Qiao\*, **Yiming Li**\*^, Jianbin Li^, Yingjia Wang, Leyi Qi, Junfeng Guo, Ruili Feng, Dacheng Tao.<br>
-  Under Review by IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2025.<br>
-  [[Code]](https://github.com/NcepuQiaoTing/CertDW)
-
-* [Towards Copyright Protection for Knowledge Bases of Retrieval-augmented Language Models via Reasoning](https://www.researchgate.net/publication/389033760_Towards_Copyright_Protection_for_Knowledge_Bases_of_Retrieval-augmented_Language_Models_via_Ownership_Verification_with_Reasoning)<br>
-  Junfeng Guo\*, **Yiming Li**\*, Ruibo Chen, Yihan Wu, Chenxi Liu, Yanshuo Chen, Heng Huang.<br>
-  arXiv, 2025. <br>
-
-
-## Selected Conference Papers
-* [Cert-LAS: Toward Certified Model Ownership Verification for Text-to-Image Diffusion Models via Layer-Adaptive Smoothing](https://arxiv.org/pdf/2605.29809)<br>
-  Leyi Qi, **Yiming Li**^, Siyuan Liang, Zhengzhong Tu, Dacheng Tao^. <br>
-  International Conference on Machine Learning (**ICML**), 2026. (To Appear) <br>
-  [[Code]](https://github.com/Leyi-Qi/Cert-LAS)
-
-* [PromptCOS: Towards Content-only System Prompt Copyright Auditing for LLMs](https://arxiv.org/pdf/2509.03117)<br>
-  Yuchen Yang, **Yiming Li**^, Hongwei Yao, Enhao Huang, Shuo Shao, Yuyi Wang, Zhibo Wang, Dacheng Tao, Zhan Qin. <br>
-  IEEE Symposium on Security and Privacy (**S&P**), 2026. <br>
-  [[Code]](https://github.com/LianPing-cyber/PromptCOS)
-
-* [DREAM: Scalable Red Teaming for Text-to-Image Generative Systems via Distribution Modeling](https://arxiv.org/pdf/2507.16329)<br>
-  Boheng Li, Junjie Wang, **Yiming Li**^, Zhiyang Hu, Leyi Qi, Jianshuo Dong, Run Wang, Han Qiu, Zhan Qin, Tianwei Zhang. <br>
-  IEEE Symposium on Security and Privacy (**S&P**), 2026. <br>
-  [[Code]](https://github.com/AntigoneRandy/DREAM)
 
 * [Odysseus: Jailbreaking Commercial Multimodal LLM-integrated Systems via Dual Steganography](https://arxiv.org/pdf/2512.20168)<br>
   Songze Li, Jiameng Cheng, **Yiming Li**^, Xiaojun Jia, Dacheng Tao. <br>
   Network and Distributed System Security Symposium (**NDSS**), 2026. <br>
   [[Code]](https://github.com/S3IC-Lab/Odysseus)
-
-* [When Memory Becomes a Vulnerability: Towards Multi-turn Jailbreak Attacks against Text-to-Image Generation Systems](https://arxiv.org/pdf/2504.20376)<br>
-  Shiqian Zhao, Jiayang Liu, **Yiming Li**^, Runyi Hu, Xiaojun Jia, Wenshu Fan, Xinfeng Li, Jie Zhang, Wei Dong, Tianwei Zhang, Luu Anh Tuan. <br>
-  USENIX Security Symposium (**USENIX Security**), 2026. <br>
-  [[Code]](https://github.com/Shiqian-Zhao996/inception-T2I-system)
-
-* [Reading Between the Lines: Towards Reliable Black-box LLM Fingerprinting via Zeroth-order Gradient Estimation](https://arxiv.org/pdf/2510.06605)<br>
-  Shuo Shao, **Yiming Li**^, Hongwei Yao, Yifei Chen, Yuchen Yang, Zhan Qin. <br>
-  The ACM Web Conference (**WWW**), 2026. (<font color='red'><b>Oral</b></font>, TOP 10%) <br>
-  [[Code]](https://github.com/shaoshuo-ss/ZeroPrint)
-
-* [DSSmoothing: Toward Certified Dataset Ownership Verification for Pre-trained Language Models via Dual-Space Smoothing](https://arxiv.org/pdf/2510.15303)<br>
-  Ting Qiao, Xing Liu, Wenke Huang, Jianbin Li^, Zhaoxin Fan, **Yiming Li**^. <br>
-  The ACM Web Conference (**WWW**), 2026. <br>
-  [[Code]](https://github.com/NcepuQiaoTing/DSSmoothing)
-
-* [Towards Effective Prompt Stealing Attack against Text-to-Image Diffusion Models](https://arxiv.org/pdf/2508.06837)<br>
-  Shiqian Zhao, Chong Wang, **Yiming Li**, Yihao Huang, Wenjie Qu, Siew-Kei Lam, Yi Xie, Kangjie Chen, Jie Zhang, Tianwei Zhang. <br>
-  Network and Distributed System Security Symposium (**NDSS**), 2026. <br>
-  [[Code]](https://github.com/Shiqian-Zhao996/Prometheus)
-
-* [Towards Label-only Membership Inference Attack against Pre-trained Large Language Models](https://arxiv.org/pdf/2502.18943)<br>
-  Yu He, Boheng Li, Liu Liu, Zhongjie Ba, Wei Dong, **Yiming Li**^, Zhan Qin, Kui Ren, Chun Chen. <br>
-  USENIX Security Symposium (**USENIX Security**), 2025. <br>
-  [[Code]](https://zenodo.org/records/14725819)
-
-* [Taught Well Learned Ill: Towards Distillation-conditional Backdoor Attack](https://arxiv.org/pdf/2509.23871)<br>
-  Yukun Chen\*, Boheng Li\*, Yu Yuan\*, Leyi Qi, **Yiming Li**^, Tianwei Zhang, Zhan Qin, Kui Ren. <br>
-  Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2025. <br>
-  [[Code]](https://github.com/WhitolfChen/SCAR)
   
-* [Towards Resilient Safety-driven Unlearning for Diffusion Models against Downstream Fine-tuning](https://arxiv.org/pdf/2507.16302)<br>
-  Boheng Li, Renjie Gu, Junjie Wang, Leyi Qi, **Yiming Li**^, Run Wang, Zhan Qin, Tianwei Zhang. <br>
-  Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2025. <br>
-  [[Code]](https://github.com/AntigoneRandy/ResAlign)
-
-* [REFINE: Inversion-Free Backdoor Defense via Model Reprogramming](https://openreview.net/pdf?id=4IYdCws9fc)<br>
-  Yukun Chen\*, Shuo Shao\*, Enhao Huang, **Yiming Li**^, Pin-Yu Chen, Zhan Qin, Kui Ren. <br>
-  International Conference on Learning Representations (**ICLR**), 2025. <br>
-  [[Code (BackdoorBox)]](https://github.com/THUYimingLi/BackdoorBox) [[Code (GitHub)]](https://github.com/WhitolfChen/REFINE) 
-
-* [Towards Reliable Verification of Unauthorized Data Usage in Personalized Text-to-Image Diffusion Models](https://arxiv.org/pdf/2410.10437)<br>
-  Boheng Li, Yanhao Wei, Yankai Fu, Zhenting Wang, **Yiming Li**^, Jie Zhang^, Run Wang, Tianwei Zhang.<br>
-  IEEE Symposium on Security and Privacy (**S&P**), 2025. <br>
-  [[Code]](https://github.com/AntigoneRandy/SIREN)
-
-* [Explanation as a Watermark: Towards Harmless and Multi-bit Model Ownership Verification via Watermarking Feature Attribution](https://arxiv.org/pdf/2405.04825)<br>
-  Shuo Shao\*, **Yiming Li**\*^, Hongwei Yao, Yiling He, Zhan Qin^, Kui Ren.<br>
-  Network and Distributed System Security Symposium (**NDSS**), 2025. <br>
-  [[Code]](https://github.com/shaoshuo-ss/EaaW)
-
-* [SleeperMark: Towards Robust Watermark against Fine-Tuning Text-to-image Diffusion Models](https://arxiv.org/pdf/2412.04852)<br>
-  Zilan Wang, Junfeng Guo, Jiacheng Zhu, **Yiming Li**^, Heng Huang, Muhao Chen, Zhengzhong Tu^. <br>
-  IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025. <br>
-  [[Code]](https://github.com/taco-group/SleeperMark)
-  
-* [Probe before You Talk: Towards Black-box Defense against Backdoor Unalignment for Large Language Models](https://openreview.net/pdf?id=EbxYDBhE3S)<br>
-  Biao Yi, Tiansheng Huang, Sishuo Chen, Tong Li^, Zheli Liu, Zhixuan Chu, **Yiming Li**^. <br>
-  International Conference on Learning Representations (**ICLR**), 2025.<br>
-  [[Code]](https://github.com/clearloveclearlove/BEAT)
-
-* [Prompt Inversion Attack against Collaborative Inference of Large Language Models](https://arxiv.org/pdf/2503.09022)<br>
-  Wenjie Qu\*, Yuguang Zhou\*, Yongji Wu\*, Tingsong Xiao, Binhang Yuan, **Yiming Li**, Jiaheng Zhang. <br>
-  IEEE Symposium on Security and Privacy (**S&P**), 2025. <br>
-  [[Code]](https://github.com/ygZhou02/DEML)
-
-* [Nearest Is Not Dearest: Towards Practical Defense against Quantization-conditioned Backdoor Attacks](https://arxiv.org/pdf/2405.12725)<br>
-  Boheng Li, Yishuo Cai, Haowei Li, Feng Xue, Zhifeng Li, **Yiming Li**^. <br>
-  IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024. <br>
-  [[Code]](https://github.com/AntigoneRandy/QuantBackdoor_EFRAP)
-
-* [Towards Faithful XAI Evaluation via Generalization-Limited Backdoor Watermark](https://openreview.net/forum?id=cObFETcoeW)<br>
-  Mengxi Ya\*, **Yiming Li**\*^, Tao Dai, Bin Wang, Yong Jiang, Shu-Tao Xia. <br>
-  International Conference on Learning Representations (**ICLR**), 2024.<br>
-  [[Code]](https://github.com/yamengxi/GLBW)
-
-* [ZeroMark: Towards Dataset Ownership Verification without Disclosing Watermarks](https://openreview.net/pdf?id=Eyyt3ZmNV6)<br>
-  Junfeng Guo\*, **Yiming Li**\*^, Ruibo Chen, Yihan Wu, Chenxi Liu, Heng Huang. <br>
-  Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2024. <br>
-  [[Code]](https://github.com/JunfengGo/ZeroMark)
-
-* [Purifying Quantization-conditioned Backdoors via Layer-wise Activation Correction with Distribution Approximation](https://openreview.net/pdf?id=CEfr3h68KU)<br>
-  Boheng Li\*, Yishuo Cai\*, Jisong Cai, **Yiming Li**^, Han Qiu, Run Wang, Tianwei Zhang. <br>
-  International Conference on Machine Learning (**ICML**), 2024. <br>
-  [[Code]](https://github.com/AntigoneRandy/QCB-LACPDA) 
+* [Rethinking the Trigger of Backdoor Attacks: Towards Physical Backdoor Threats](https://www.sciencedirect.com/science/article/abs/pii/S0031320326006308)<br>
+  **Yiming Li**, Mingyan Zhu, Shu-Tao Xia, Zhifeng Li, Zhan Qin, Dacheng Tao. <br>
+  **Pattern Recognition**, 2026. <br>
+  [[Code]](https://github.com/THUYimingLi/BackdoorBox/blob/main/core/attacks/PhysicalBA.py)
 
 * [Towards Reliable and Efficient Backdoor Trigger Inversion via Decoupling Benign Features](https://openreview.net/forum?id=Tw9wemV6cb)<br>
   Xiong Xu\*, Kunzhe Huang\*, **Yiming Li**\*^, Zhan Qin^, Kui Ren. <br>
   International Conference on Learning Representations (**ICLR**), 2024. (<font color='red'><b>Spotlight</b></font>, TOP 5%)<br>
   [[Code]](https://github.com/xuxiong0214/BTIDBF)
 
-* [IBD-PSC: Input-level Backdoor Detection via Parameter-oriented Scaling Consistency](https://arxiv.org/pdf/2405.09786)<br>
-  Linshan Hou, Ruili Feng, Zhongyun Hua^, Wei Luo, Leo Yu Zhang, **Yiming Li**^. <br>
-  International Conference on Machine Learning (**ICML**), 2024. (<font color='red'><b>Excellent Science & Technology Paper</b></font>, Shenzhen Association for Science and Technology) <br>
-  [[Code]](https://github.com/THUYimingLi/BackdoorBox) 
-
-* [Not All Prompts Are Secure: A Switchable Backdoor Attack against Pre-trained Models](https://arxiv.org/pdf/2405.10612)<br>
-  Sheng Yang\*, Jiawang Bai\*, Kuofeng Gao, Yong Yang, **Yiming Li**^, Shu-Tao Xia^. <br>
-  IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024. (<font color='red'><b>Excellent Science & Technology Paper</b></font>, Shenzhen Association for Science and Technology) <br>
-  [[Code]](https://github.com/20000yshust/SWARM)
-
-
-* [Domain Watermark: Effective and Harmless Dataset Copyright Protection is Closed at Hand](https://www.researchgate.net/publication/374440504_Domain_Watermark_Effective_and_Harmless_Dataset_Copyright_Protection_is_Closed_at_Hand)<br>
-  Junfeng Guo\*, **Yiming Li**\*^, Lixu Wang, Shu-Tao Xia, Heng Huang, Cong Liu, Bo Li.<br>
-  Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2023. <br>
-  [[Code]](https://github.com/JunfengGo/Domain-Watermark)
-
-* [Setting the Trap: Capturing and Defeating Backdoor Threats in PLMs through Honeypots](https://arxiv.org/pdf/2310.18633.pdf)<br>
-  Ruixiang Tang, Jiayi Yuan, **Yiming Li**^, Zirui Liu, Rui Chen, Xia Hu.<br>
-  Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2023. <br>
-
-* [One-bit Flip is All You Need: When Bit-flip Attack Meets Model Training](https://www.researchgate.net/publication/373049298_One-bit_Flip_is_All_You_Need_When_Bit-flip_Attack_Meets_Model_Training)<br>
-  Jianshuo Dong, Han Qiu, **Yiming Li**^, Tianwei Zhang, Yuanjie Li, Zeqi Lai, Chao Zhang, Shu-Tao Xia.<br>
-  International Conference on Computer Vision (**ICCV**), 2023. <br>
-  [[Code]](https://github.com/jianshuod/TBA)
-
-* [SCALE-UP: An Efficient Black-box Input-level Backdoor Detection via Analyzing Scaled Prediction Consistency](https://openreview.net/pdf?id=o0LFPcoFKnr)<br>
-  Junfeng Guo\*, **Yiming Li**\*, Xun Chen^, Hanqing Guo, Lichao Sun, Cong Liu.<br>
-  International Conference on Learning Representations (**ICLR**), 2023. <br>
-  [[Code]](https://github.com/JunfengGo/SCALE-UP)
-
-* [Revisiting the Assumption of Latent Separability for Backdoor Defenses](https://openreview.net/pdf?id=_wSHsgrVali)<br>
-  Xiangyu Qi\*^, Tinghao Xie\*^, **Yiming Li**^, Saeed Mahloujifar, Prateek Mittal^.<br>
-  International Conference on Learning Representations (**ICLR**), 2023. <br>
-  [[Code]](https://github.com/Unispac/Circumventing-Backdoor-Defenses)
-
-* [Defending Against Backdoor Attacks by Layer-wise Feature Analysis](https://arxiv.org/pdf/2302.12758.pdf)<br>
-  Najeeb Moharram Jebreel^, Josep Domingo-Ferrer, **Yiming Li**.<br>
-  The Pacific-Asia Conference on Knowledge Discovery and Data Mining (**PAKDD**), 2023. (<font color='red'><b>Best Paper Award</b></font>) <br>
-  It is also invited to appear in **IJCAI** 2024 ([Sisters Conference Track](https://doi.org/10.24963/ijcai.2024/933)). <br>
-  [[Code]](https://github.com/NajeebJebreel/DBALFA)
-
-* [Towards Robust Model Watermark via Reducing Parametric Vulnerability](https://www.researchgate.net/publication/373367424_Towards_Robust_Model_Watermark_via_Reducing_Parametric_Vulnerability)<br>
-  Guanhao Gan, **Yiming Li**, Dongxian Wu^, Shu-Tao Xia^.<br>
-  International Conference on Computer Vision (**ICCV**), 2023. <br>
-  [[Code]](https://github.com/GuanhaoGan/robust-model-watermarking)
-
-* [Untargeted Backdoor Watermark: Towards Harmless and Stealthy Dataset Copyright Protection](https://www.researchgate.net/publication/363766436_Untargeted_Backdoor_Watermark_Towards_Harmless_and_Stealthy_Dataset_Copyright_Protection)<br>
-  **Yiming Li**\*, Yang Bai\*^, Yong Jiang, Yong Yang, Shu-Tao Xia^, Bo Li.<br>
-  Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2022. (<font color='red'><b>Oral</b></font>, TOP 2%)<br>
-  [[Code]](https://github.com/THUYimingLi/Untargeted_Backdoor_Watermark) [[Poster]](https://www.dropbox.com/s/6wmhw3ahc1ofncw/UBW_NeurIPS22_Poster.pdf?dl=0) [[Slides]](https://www.dropbox.com/s/08ve3bgnr7yhhc5/UBW_NeurIPS2022_Final.pptx?dl=0) [[Video]](https://recorder-v3.slideslive.com/#/share?share=72431&s=0a3f4d39-ae7c-4416-90d8-8d6c9ec4bd51) [[News]](https://www.tsinghua.edu.cn/info/1175/104618.htm)
-
 * [Few-Shot Backdoor Attacks on Visual Object Tracking](https://openreview.net/pdf?id=qSV5CuSaK_a)<br>
-  **Yiming Li**\*, Haoxiang Zhong\*, Xingjun Ma^, Yong Jiang, Shu-Tao Xia^.<br>
+  **Yiming Li**\*, Haoxiang Zhong\*, Xingjun Ma, Yong Jiang, Shu-Tao Xia.<br>
   International Conference on Learning Representations (**ICLR**), 2022. <br>
   [[Code]](https://github.com/HXZhong1997/FSBA) [[Poster]](https://www.dropbox.com/s/4nmzwvkwfbktnqs/BackdoorVOT_ICLR22_poster.pdf?dl=0) [[Slides]](https://www.dropbox.com/s/rn3h0xr7eflo3a7/BackdoorVOT_ICLR22.pptx?dl=0) [[Video]](https://recorder-v3.slideslive.com/#/share?share=61825&s=d28384c4-297b-4a75-b5e7-3c9dba75f6df) [[News]](https://www.tsinghua.edu.cn/info/1175/91555.htm)
 
-* [Defending against Model Stealing via Verifying Embedded External Features](https://arxiv.org/pdf/2112.03476.pdf)<br>
-  **Yiming Li**\*, Linghui Zhu\*, Xiaojun Jia, Yong Jiang, Shu-Tao Xia^, Xiaochun Cao.<br>
-  AAAI Conference on Artificial Intelligence (**AAAI**), 2022. (<font color='red'><b>Best Paper of Adversarial for Good Award</b></font>, ICML'21 AdvML Workshop) <br>
-  [[Code]](https://github.com/zlh-thu/StealingVerification) [[Poster]](https://www.dropbox.com/s/v95s1u7gl97f46u/StealingVerification_AAAI_poster.pdf?dl=0) [[Slides]](https://www.dropbox.com/s/rpx4wrr5upqrdw9/StealingVerification_AAAI22_slides.pptx?dl=0) [[Video]](https://recorder-v3.slideslive.com/?share=56906&s=2ea1c02a-3d17-4981-85b9-1f294505043c) [[Workshop Version]](https://openreview.net/forum?id=g6zfnWUg8A1)
+* [Probe before You Talk: Towards Black-box Defense against Backdoor Unalignment for Large Language Models](https://openreview.net/pdf?id=EbxYDBhE3S)<br>
+  Biao Yi, Tiansheng Huang, Sishuo Chen, Tong Li^, Zheli Liu, Zhixuan Chu, **Yiming Li**^. <br>
+  International Conference on Learning Representations (**ICLR**), 2025.<br>
+  [[Code]](https://github.com/clearloveclearlove/BEAT)
 
 * [Backdoor Defense via Decoupling the Training Process](https://openreview.net/pdf?id=TySnJ-0RdKI)<br>
-  Kunzhe Huang\*, **Yiming Li**\*, Baoyuan Wu^, Zhan Qin^, Kui Ren.<br>
+  Kunzhe Huang\*, **Yiming Li**\*, Baoyuan Wu, Zhan Qin, Kui Ren.<br>
   International Conference on Learning Representations (**ICLR**), 2022. <br>
   [[Code]](https://github.com/SCLBD/DBD) [[Poster]](https://www.dropbox.com/s/i6m6rcsoe7xd6tr/DBD_ICLR22_poster.pdf?dl=0) [[Slides]](https://www.dropbox.com/s/2ved7swqsp8x02y/DBD_ICLR22.pptx?dl=0) [[Video]](https://recorder-v3.slideslive.com/#/share?share=62074&s=60f4eeae-3910-42b7-b91a-b1b4f3861ecc)
-
-* [Backdoor Attack against Speaker Verification](https://arxiv.org/pdf/2010.11607.pdf)<br>
-  Tongqing Zhai\*, **Yiming Li**\*, Ziqi Zhang, Baoyuan Wu, Yong Jiang, Shu-Tao Xia^.<br>
-  International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2021. <br>
-  [[Code]](https://github.com/zhaitongqing233/Backdoor-attack-against-speaker-verification) [[Poster]](https://www.dropbox.com/s/jd9z8eer749ffgh/BackdoorSpeakerVerification_poster.pdf?dl=0) [[Slides]](https://www.dropbox.com/s/ox2h6wicc9v88a3/BackdoorSpeakerVerification_slides.pptx?dl=0) [[Video]](https://www.dropbox.com/s/0f7effif8itgsow/BackdoorSpeakerVerification_video.mp4?dl=0)
-
-* [Invisible Backdoor Attack with Sample-Specific Triggers](https://arxiv.org/pdf/2012.03816.pdf)<br>
-  Yuezun Li, **Yiming Li**, Baoyuan Wu^, Longkang Li, Ran He, Siwei Lyu.<br>
-  International Conference on Computer Vision (**ICCV**), 2021. <br>
-  [[Code]](https://github.com/yuezunli/ISSBA)
-
-* [Targeted Attack for Deep Hashing based Retrieval](https://arxiv.org/abs/2004.07955)<br>
-  Jiawang Bai\*, Bin Chen\*^, **Yiming Li**\*, Dongxian Wu, Weiwei Guo, Shu-Tao Xia, Enhui Yang.<br>
-  European Conference on Computer Vision (**ECCV**), 2020. (<font color='red'><b>Oral</b></font>, TOP 2%) <br>
-  [[Code]](https://github.com/jiawangbai/DHTA-master) [[Slides]](https://www.dropbox.com/s/7a1vvopt8z0jxvl/targeted_attack_slides.pptx?dl=0)
-
-
-
-## Selected Journal Articles
-* [Rethinking the Trigger of Backdoor Attacks: Towards Physical Backdoor Threats](https://www.sciencedirect.com/science/article/abs/pii/S0031320326006308)<br>
-  **Yiming Li**, Mingyan Zhu, Shu-Tao Xia, Zhifeng Li, Zhan Qin, Dacheng Tao. <br>
-  **Pattern Recognition**, 2026. <br>
-  [[Code]](https://github.com/THUYimingLi/BackdoorBox/blob/main/core/attacks/PhysicalBA.py)
-
-* [SWAP: Towards Copyright Auditing of Soft Prompts via Sequential Watermarking](https://arxiv.org/pdf/2511.04711)<br>
-  Wenyuan Yang\*, Yichen Sun\*, Changzheng Chen, Zhixuan Chu, Jiaheng Zhang, **Yiming Li**^, Dacheng Tao. <br>
-  International Journal of Computer Vision (**IJCV**), 2026. (To Appear) <br>
-  [[Code]](https://github.com/TempterCyn/SWAP)
-
-* [ShadowCode: Towards (Automatic) External Prompt Injection Attack against Code LLMs](https://arxiv.org/pdf/2407.09164)<br>
-  Yuchen Yang, **Yiming Li**^, Hongwei Yao, Bingrun Yang, Yiling He, Tianwei Zhang, Dacheng Tao, Zhan Qin.<br>
-  IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2026. (To Appear) <br>
-
-* [External Data Extraction Attacks against Retrieval-Augmented Large Language Models](https://arxiv.org/pdf/2510.02964)<br>
-  Yu He, Yifei Chen, **Yiming Li**^, Shuo Shao, Leyi Qi, Boheng Li, Dacheng Tao, Zhan Qin. <br>
-  IEEE Transactions on Information Forensics and Security (**TIFS**), 2026. (To Appear) <br>  
-
-* [FIT-Print: Towards False-claim-resistant Model Ownership Verification via Targeted Fingerprint](https://arxiv.org/pdf/2501.15509)<br>
-  Shuo Shao, Haozhe Zhu, **Yiming Li**^, Hongwei Yao, Tianwei Zhang, Zhan Qin, Kui Ren.<br>
-  IEEE Transactions on Information Forensics and Security (**TIFS**), 2026. (To Appear)<br>
-  [[Code is available upon request]](mailto:liyiming.tech@gmail.com)
-
-* [Cert-SSBD: Certified Backdoor Defense with Sample-Specific Smoothing Noises](https://arxiv.org/pdf/2504.21730)<br>
-  Ting Qiao, Yingjia Wang, Xing Liu, Sixing Wu, Jianbin Li^, **Yiming Li**^. <br>
-  IEEE Transactions on Information Forensics and Security (**TIFS**), 2026. <br>
-  [[Code]](https://github.com/NcepuQiaoTing/Cert-SSB)
-
-* [ARMOR: Shielding Unlearnable Examples against Data Augmentation](https://ieeexplore.ieee.org/abstract/document/11345171)<br>
-  Xueluan Gong, Yuji Wang, Yanjiao Chen, Haocheng Dong, **Yiming Li**^, Mengyuan Sun, Shuaike Li, Qian Wang.<br>
-  IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2026. (To Appear) <br>
-  [[Code is available upon request]](mailto:liyiming.tech@gmail.com)
-
-* [MOVE: Effective and Harmless Ownership Verification via Embedded External Features](https://arxiv.org/pdf/2208.02820.pdf)<br>
-  **Yiming Li**, Linghui Zhu, Xiaojun Jia^, Yang Bai, Yong Jiang, Shu-Tao Xia^, Xiaochun Cao, Kui Ren.<br>
-  IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2025. (The journal extension of our [AAAI'22 conference paper](https://arxiv.org/pdf/2112.03476.pdf))<br>
-  [[Code]](https://github.com/THUYimingLi/MOVE)
-
-* [Towards Sample-specific Backdoor Attack with Clean Labels via Attribute Trigger](https://www.researchgate.net/publication/376174078_Towards_Sample-specific_Backdoor_Attack_with_Clean_Labels_via_Attribute_Trigger)<br>
-  Mingyan Zhu\*, **Yiming Li**\*^, Junfeng Guo, Tao Wei, Shu-Tao Xia, Zhan Qin.<br>
-  IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2025. <br>
-  [[Code]](https://github.com/THUYimingLi/BackdoorBox/blob/main/tests/test_BAAT.py)
-
-* [Towards Dataset Copyright Evasion Attack against Personalized Text-to-Image Diffusion Models](https://arxiv.org/pdf/2505.02824) <br>
-  Kuofeng Gao, Yufei Zhu, **Yiming Li**\*^, Jiawang Bai^, Yong Yang, Zhifeng Li, Shu-Tao Xia.<br>
-  IEEE Transactions on Information Forensics and Security (**TIFS**), 2025. <br>
-  [[Code]](https://github.com/csyufei/CEAT2I)
-
-* [FLARE: Toward Universal Dataset Purification against Backdoor Attacks](https://arxiv.org/pdf/2411.19479)<br>
-  Linshan Hou, Wei Luo, Zhongyun Hua^, Songhua Chen, Leo Yu Zhang, **Yiming Li**^.<br>
-  IEEE Transactions on Information Forensics and Security (**TIFS**), 2025. <br>
-  [[Code (BackdoorBox)]](https://github.com/THUYimingLi/BackdoorBox) [[Code (backdoor-toolbox)]](https://github.com/vtu81/backdoor-toolbox)
-
-* [Backdoor Learning: A Survey](https://www.researchgate.net/publication/343006441_Backdoor_Learning_A_Survey)<br>
-  **Yiming Li**^, Yong Jiang, Zhifeng Li, Shu-Tao Xia^.<br>
-  IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2024. (<font color='red'><b>ESI Highly Cited Papers</b></font>) <br>
-  [[Github Resources Repo]](https://github.com/THUYimingLi/backdoor-learning-resources)
-
-* [Backdoor Attack with Sparse and Invisible Trigger](https://www.researchgate.net/publication/370659402_Backdoor_Attack_with_Sparse_and_Invisible_Trigger)<br>
-  Yinghua Gao\*, **Yiming Li**\*^, Xueluan Gong, Zhifeng Li, Shu-Tao Xia, Qian Wang.<br>
-  IEEE Transactions on Information Forensics and Security (**TIFS**), 2024. (<font color='red'><b>Excellent Science & Technology Paper</b></font>, Shenzhen Association for Science and Technology)<br>
-  [[Code]](https://github.com/YinghuaGao/SIBA)
-
-
-* [PointNCBW: Towards Dataset Ownership Verification for Point Clouds via Negative Clean-label Backdoor Watermark](https://www.researchgate.net/publication/383060790_PointNCBW_Towards_Dataset_Ownership_Verification_for_Point_Clouds_via_Negative_Clean-label_Backdoor_Watermark)<br>
-  Cheng Wei, Yang Wang, Kuofeng Gao, Shuo Shao, **Yiming Li**^, Zhibo Wang, Zhan Qin^. <br>
-  IEEE Transactions on Information Forensics and Security (**TIFS**), 2024. <br>
-  [[Code]](https://github.com/weic0810/PointNCBW)
-
-* [Towards Stealthy Backdoor Attacks against Speech Recognition via Elements of Sound](https://www.researchgate.net/publication/372388876_Towards_Stealthy_Backdoor_Attacks_against_Speech_Recognition_via_Elements_of_Sound)<br>
-  Hanbo Cai, Pengcheng Zhang, Hai Dong, Yan Xiao, Stefanos Koffas, **Yiming Li**.<br>
-  IEEE Transactions on Information Forensics and Security (**TIFS**), 2024. <br>
-  [[Code]](https://github.com/HanboCai/BadSpeech_SoE)
 
 * [Black-box Dataset Ownership Verification via Backdoor Watermarking](https://www.researchgate.net/publication/369559541_Black-box_Dataset_Ownership_Verification_via_Backdoor_Watermarking)<br>
   **Yiming Li**, Mingyan Zhu, Xue Yang^, Yong Jiang, Tao Wei, Shu-Tao Xia^.<br>
   IEEE Transactions on Information Forensics and Security (**TIFS**), 2023. (<font color='red'><b>TOP-25 Downloaded Paper in IEEE SPS</b></font>) <br>
   [[Code]](https://github.com/THUYimingLi/DVBW) [[Workshop Version]](https://arxiv.org/abs/2010.05821) [[Media Cover (IEEE Spectrum)]](https://spectrum.ieee.org/watermark-ai) [[News]](https://www.tsinghua.edu.cn/info/1175/104618.htm)
 
-* [Not All Samples Are Born Equal: Towards Effective Clean-Label Backdoor Attacks](https://www.sciencedirect.com/science/article/abs/pii/S0031320323002121)<br>
-  Yinghua Gao\*, **Yiming Li**\*^, Linghui Zhu, Dongxian Wu, Yong Jiang, Shu-Tao Xia.<br>
-  **Pattern Recognition**, 2023. <br>
-  [[Code]](https://github.com/YinghuaGao/Effective_CLB)
+* [MOVE: Effective and Harmless Ownership Verification via Embedded External Features](https://arxiv.org/pdf/2208.02820.pdf)<br>
+  **Yiming Li**, Linghui Zhu, Xiaojun Jia, Yang Bai, Yong Jiang, Shu-Tao Xia, Xiaochun Cao, Kui Ren.<br>
+  IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2025. (The journal extension of our [AAAI'22 conference paper](https://arxiv.org/pdf/2112.03476.pdf))<br>
+  [[Code]](https://github.com/THUYimingLi/MOVE)
 
-* [Semi-supervised Robust Training with Generalized Perturbed Neighborhood](https://www.sciencedirect.com/science/article/abs/pii/S0031320321006488)<br>
-  **Yiming Li**, Baoyuan Wu^, Yan Feng, Yanbo Fan, Yong Jiang, Zhifeng Li, Shu-Tao Xia^.<br>
-  **Pattern Recognition**, 2022. (<font color='red'><b>Best Student Research Award</b></font>, TBSI-WODS'19) <br>
-  [[Code]](https://github.com/THUYimingLi/Semi-supervised_Robust_Training)
+* [Untargeted Backdoor Watermark: Towards Harmless and Stealthy Dataset Copyright Protection](https://www.researchgate.net/publication/363766436_Untargeted_Backdoor_Watermark_Towards_Harmless_and_Stealthy_Dataset_Copyright_Protection)<br>
+  **Yiming Li**\*, Yang Bai\*, Yong Jiang, Yong Yang, Shu-Tao Xia, Bo Li.<br>
+  Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2022. (<font color='red'><b>Oral</b></font>, TOP 2%)<br>
+  [[Code]](https://github.com/THUYimingLi/Untargeted_Backdoor_Watermark) [[Poster]](https://www.dropbox.com/s/6wmhw3ahc1ofncw/UBW_NeurIPS22_Poster.pdf?dl=0) [[Slides]](https://www.dropbox.com/s/08ve3bgnr7yhhc5/UBW_NeurIPS2022_Final.pptx?dl=0) [[Video]](https://recorder-v3.slideslive.com/#/share?share=72431&s=0a3f4d39-ae7c-4416-90d8-8d6c9ec4bd51) [[News]](https://www.tsinghua.edu.cn/info/1175/104618.htm)
 
-* [Multinomial Random Forest](https://www.sciencedirect.com/science/article/pii/S0031320321005112)<br>
-  Jiawang Bai\*, **Yiming Li**\*, Jiawei Li, Xue Yang^, Yong Jiang, Shu-Tao Xia^.<br>
-  **Pattern Recognition**, 2022. <br>
-  [[Code]](https://github.com/jiawangbai/Multinomial-Random-Forest)
+* [PromptCOS: Towards Content-only System Prompt Copyright Auditing for LLMs](https://arxiv.org/pdf/2509.03117)<br>
+  Yuchen Yang, **Yiming Li**^, Hongwei Yao, Enhao Huang, Shuo Shao, Yuyi Wang, Zhibo Wang, Dacheng Tao, Zhan Qin. <br>
+  IEEE Symposium on Security and Privacy (**S&P**), 2026. <br>
+  [[Code]](https://github.com/LianPing-cyber/PromptCOS)
 
 
 ## Books and Technical Reports
@@ -372,21 +86,3 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   Ph.D. Dissertation, 2023. (<font color='red'><b>Outstanding Doctoral Dissertation Award</b></font>, SZCCF'24; <font color='red'><b>Outstanding Doctoral Dissertation Award (Nomination)</b></font>, ACM SIGSAC China'25) <br>
   [[Slides]](https://www.dropbox.com/s/577xlvldtppo8rs/DissertationDefense_YimingLi.pptx?dl=0) [[AAAI'23 Doctoral Consortium]](https://ojs.aaai.org/index.php/AAAI/article/view/26921)
 
-
-## Patents
-* 邵硕, **李一鸣**, 秦湛, 任奎, 王宏韬, 马杏可, 冯振源. 一种基于非决策域方法的模型水印方法及装置. (发明专利, **已授权**, CN202410553090.0)
-* 邵硕, **李一鸣**, 秦湛, 任奎, 王宏韬, 马杏可, 冯振源. 一种基于非决策域方法的模型指纹方法及装置. (发明专利, 已进入实质审查, CN202410664418.6)
-* **李一鸣**, 邵硕, 秦湛, 任奎, 王宏韬, 马杏可, 冯振源. 一种基于非决策域方法的数据集版权认证方法及装置. (发明专利, 已进入实质审查, CN202410664413.3)
-* **李一鸣**, 陈禹坤, 顾金东, 秦湛, 任奎. 一种生成内容来源判断方法、装置和存储介质. (发明专利，已进入实质审查，CN202410013254.0)
-* **李一鸣**, 刘焱, 翁海琴, 江勇, 夏树涛. 一种模型的所有权验证方法、装置、存储介质及电子设备. (发明专利，已进入实质审查，CN202211146432.4)
-* **李一鸣**, 刘焱, 钟昊翔, 翁海琴, 江勇, 夏树涛. 一种模型所有权验证方法、装置、存储介质及设备. (发明专利，已进入实质审查，CN202211145984.3)
-* **李一鸣**, 刘焱, 朱玲慧, 翁海琴, 江勇, 夏树涛. 一种模型的所有权验证方法、装置、存储介质及设备. (发明专利，已进入实质审查，CN202211146420.1)
-* **李一鸣**, 白杨, 杨勇, 江勇, 夏树涛. 一种数据处理方法、装置、设备及可读取存储介质. (发明专利，**已授权**，CN202211102363.7)
-* **李一鸣**, 白杨, 杨勇, 江勇, 夏树涛. 分类模型的训练方法、数据分类方法、装置、设备及介质. (发明专利，已进入实质审查，CN202211138734.7)
-* **李一鸣**, 邱伟峰, 薛峰, 江勇, 夏树涛. 针对模型解释工具的评测方法和装置. (发明专利, **已授权**, CN202111600136.2)
-* **李一鸣**, 朱玲慧, 邱伟峰, 江勇, 夏树涛. 基于外源特征进行模型所有权验证的方法和装置. (发明专利, **已授权**, CN202111417245.0)
-* **李一鸣**, 张子琪, 邱伟峰, 江勇, 夏树涛. 用于数据集的所有权验证方法和装置. (发明专利, 已进入实质审查, CN202111407783.1)
-* **李一鸣**, 刘沛东, 邱伟峰, 江勇, 夏树涛. 用于保护图像样本集的隐私信息的方法和装置. (发明专利, **已授权**, CN202111415199.0)
-* **李一鸣**, 吴保元, 张勇, 樊艳波, 李志锋, 刘威, 冯岩, 江勇, 夏树涛. 一种图像识别模型的训练方法、图像识别的方法及装置. (发明专利, **已授权**, CN202010182180.5, HKS202989-CN)
-* **李一鸣**, 吴保元, 江勇, 李志锋, 夏树涛, 刘威. 图像分类模型后门攻击的防御方法、装置、设备及介质. (发明专利, **已授权**, CN202011122124.9)
-* 林佳滢, **李一鸣**, 翁海琴. 用于图像保护的主动防御方法和装置.  (发明专利, 已进入实质审查, CN202111583667.5)
