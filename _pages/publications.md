@@ -22,7 +22,7 @@ Please refer to the [Google Scholar](https://scholar.google.com.sg/citations?use
   [[Code]](https://github.com/HXZhong1997/FSBA) [[Poster]](https://www.dropbox.com/s/4nmzwvkwfbktnqs/BackdoorVOT_ICLR22_poster.pdf?dl=0) [[Slides]](https://www.dropbox.com/s/rn3h0xr7eflo3a7/BackdoorVOT_ICLR22.pptx?dl=0) [[Video]](https://recorder-v3.slideslive.com/#/share?share=61825&s=d28384c4-297b-4a75-b5e7-3c9dba75f6df) [[News]](https://www.tsinghua.edu.cn/info/1175/91555.htm)
 
 * [Black-box Dataset Ownership Verification via Backdoor Watermarking](https://www.researchgate.net/publication/369559541_Black-box_Dataset_Ownership_Verification_via_Backdoor_Watermarking)<br>
-  **Yiming Li**, Mingyan Zhu, Xue Yang^, Yong Jiang, Tao Wei, Shu-Tao Xia^.<br>
+  **Yiming Li**, Mingyan Zhu, Xue Yang, Yong Jiang, Tao Wei, Shu-Tao Xia.<br>
   IEEE Transactions on Information Forensics and Security (**TIFS**), 2023. (<font color='red'><b>TOP-25 Downloaded Paper in IEEE SPS</b></font>) <br>
   [[Code]](https://github.com/THUYimingLi/DVBW) [[Workshop Version]](https://arxiv.org/abs/2010.05821) [[Media Cover (IEEE Spectrum)]](https://spectrum.ieee.org/watermark-ai) [[News]](https://www.tsinghua.edu.cn/info/1175/104618.htm)
 
