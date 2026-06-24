@@ -6,6 +6,7 @@ redirect_from:
   - /awards
 ---
 * Forbes 30 Under 30 Asia, 2026.
+* Outstanding Area Chairs, CVPR, 2026.
 * Elsevier-Stanford World's Top 2% Scientists, 2025.
 * Notable Reviewer, International Conference on Learning Representations (ICLR), 2025.
 * Excellent Science & Technology Papers (<font color='red'>3/100</font>), Shenzhen Association for Science and Technology, 2024. 
@@ -16,7 +17,7 @@ redirect_from:
 * Outstanding Junior Faculty Award (Qizhen Outstanding Young Scholar), Zhejiang University, 2024.
 * The Nomination of Outstanding Doctoral Dissertation Award, ACM SIGSAC China, 2024.
 * Outstanding Doctoral Dissertation Award, Shenzhen City Computer Federation (SZCCF), 2024.
-* Outstanding Area Chair, ACM Multimedia, 2024.
+* Outstanding Area Chairs, ACM Multimedia, 2024.
 * Rising Stars, World Artificial Intelligence Conference, 2023.
 * Best Paper Award, The Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2023.
 * Outstanding Paper Award, Cybersecurity Conference, The Chinese Institute of Electronics, 2023.
