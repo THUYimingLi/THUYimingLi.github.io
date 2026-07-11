@@ -39,7 +39,7 @@ I am currently a Research Fellow at Nanyang Technological University, working wi
 ## News
 <div style="max-height: 250px; overflow-y: auto;">
 <ul>
-  <li>07/2026: One paper about Bit-flip Inference Cost Attack against LLMs is accepted by ICCAD.</li>
+  <li>07/2026: One paper about Bit-flip Inference Cost Attack against LLMs is accepted by ICCAD 2026.</li>
   <li>06/2026: I am invited to serve as the Technical Program Committee for USENIX Security 2027.</li>
   <li>06/2026: One paper about LLM Privacy Extraction is accepted by IEEE TIFS.</li>
   <li>06/2026: One paper about Code LLM/Agent Security is accepted by IEEE TDSC.</li>
