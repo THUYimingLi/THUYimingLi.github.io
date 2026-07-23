@@ -18,7 +18,7 @@ redirect_from:
 * International Conference on Machine Learning (**ICML**): 2021-2024, 2025-2026 (Area Chair).
 
 * IEEE Symposium on Security and Privacy (**S&P**): 2027.
-* USENIX Security: 2027.
+* USENIX Security Symposium (**USENIX Security**): 2027.
 * The ACM Conference on Computer and Communications Security (**CCS**): 2026.
 * European Symposium on Security and Privacy (**EuroS&P**): 2026.
 * IEEE Conference on Secure and Trustworthy Machine Learning (**SaTML**): 2026.
