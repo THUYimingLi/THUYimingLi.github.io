@@ -6,13 +6,13 @@ redirect_from:
   - /awards
 ---
 * Forbes 30 Under 30 Asia, 2026.
-* Champion (with the Team 'KVeil'), [ECCV Competition for Unlearnable Videos against Diffusion-based Customization](https://www.codabench.org/competitions/16817/#/results-tab), 2026.
+* Champion (with the Team 'KVeil'), [ECCV Competition for Unlearnable Videos against Diffusion-based Customization](https://github.com/tmllab/ECCV26_LifeGenIP_starting_kit), 2026.
 * Outstanding Area Chairs, CVPR, 2026.
 * Elsevier-Stanford World's Top 2% Scientists, 2025.
 * Notable Reviewer, International Conference on Learning Representations (ICLR), 2025.
 * Excellent Science & Technology Papers (<font color='red'>3/100</font>), Shenzhen Association for Science and Technology, 2024. 
-* Champion (with the Team 'W0r1d 0ne'), Track III: Backdoor Trigger Recovery for Agents, [NeurIPS Competition for LLM and Agent Safety](https://www.llmagentsafetycomp24.com/leaderboards/), 2024.
-* Runner-Up (with the Team 'W0r1d 0ne'), Track II: Backdoor Trigger Recovery for Models, [NeurIPS Competition for LLM and Agent Safety](https://www.llmagentsafetycomp24.com/leaderboards/), 2024.
+* Champion (with the Team 'W0r1d 0ne'), Track III: Backdoor Trigger Recovery for Agents, [NeurIPS Competition for LLM and Agent Safety](https://openreview.net/forum?id=GIDw94AlZK), 2024.
+* Runner-Up (with the Team 'W0r1d 0ne'), Track II: Backdoor Trigger Recovery for Models, [NeurIPS Competition for LLM and Agent Safety](https://openreview.net/forum?id=GIDw94AlZK), 2024.
 * Rising Stars in AI, King Abdullah University of Science and Technology (KAUST), 2024.
 * AInet Fellowship (on Safety and Security in AI), Deutscher Akademischer Austauschdienst (DAAD), 2024. 
 * Outstanding Junior Faculty Award (Qizhen Outstanding Young Scholar), Zhejiang University, 2024.
