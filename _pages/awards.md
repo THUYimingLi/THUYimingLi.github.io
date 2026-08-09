@@ -6,6 +6,7 @@ redirect_from:
   - /awards
 ---
 * Forbes 30 Under 30 Asia, 2026.
+* Champion (with the Team 'KVeil'), [ECCV Competition for Unlearnable Videos against Diffusion-based Customization](https://www.codabench.org/competitions/16817/#/results-tab), 2026.
 * Outstanding Area Chairs, CVPR, 2026.
 * Elsevier-Stanford World's Top 2% Scientists, 2025.
 * Notable Reviewer, International Conference on Learning Representations (ICLR), 2025.
