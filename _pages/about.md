@@ -39,6 +39,7 @@ I am currently a Research Fellow at Nanyang Technological University, working wi
 ## News
 <div style="max-height: 250px; overflow-y: auto;">
 <ul>
+  <li>08/2026: Our team KVeil won the Champion in both the preliminary and final phases of the LifeGenIP Challenge: Unlearnable Videos against Diffusion-based Customization @ ECCV 2026! Our technical report will be available soon. </li>
   <li>07/2026: One paper about Bit-flip Inference Cost Attack against LLMs is accepted by ICCAD 2026.</li>
   <li>06/2026: I am invited to serve as the Technical Program Committee for USENIX Security 2027.</li>
   <li>06/2026: One paper about LLM Privacy Extraction is accepted by IEEE TIFS.</li>
