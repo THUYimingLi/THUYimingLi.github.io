@@ -39,6 +39,7 @@ I am currently a Research Fellow at Nanyang Technological University, working wi
 ## News
 <div style="max-height: 250px; overflow-y: auto;">
 <ul>
+  <li>08/2026: Our <a href="https://leaderboard.far.ai/">AI Security Leaderboard</a> for frontier AI models' safeguards (with FAR.AI) is released, along with its <a href="https://arxiv.org/abs/2608.03070">Technical Report</a>. Media coverage: <a href="https://www.wired.com/story/jailbreaking-ai-models-google-anthropic-openai-spacexai/">WIRED</a>.</li>
   <li>08/2026: Our team KVeil won the Champion in both the preliminary and final phases of the LifeGenIP Challenge: Unlearnable Videos against Diffusion-based Customization @ ECCV 2026! Our technical report will be available soon. </li>
   <li>07/2026: One paper about Bit-flip Inference Cost Attack against LLMs is accepted by ICCAD 2026.</li>
   <li>06/2026: I am invited to serve as the Technical Program Committee for USENIX Security 2027.</li>
@@ -88,6 +89,9 @@ I am currently a Research Fellow at Nanyang Technological University, working wi
 
 
 ## Useful Resources
+
+[<font color='orange'>AI Security Leaderboard for Frontier Models' Safeguards</font>](https://leaderboard.far.ai/), as well as its [<font color='orange'>Technical Report</font>](https://arxiv.org/abs/2608.03070)
+
 [<font color='orange'>Stakeholder-Centric Prompt Injection Benchmark for Real-world Web Agents</font>](https://arxiv.org/pdf/2606.13385), as well as its [<font color='orange'>Toolbox</font>](https://github.com/StakeBench/SBC)
 
 [<font color='orange'>Perspective: Rethinking Data Protection in the (Generative) Artificial Intelligence Era</font>](http://arxiv.org/abs/2507.03034)
