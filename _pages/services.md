@@ -41,6 +41,7 @@ redirect_from:
   
 
 ## Editorial Board
+- **Guest Editor**, [IEEE Transactions on Pattern Analysis and Machine Intelligence](): Special Issue on "Trustworthy AI in Pattern Recognition and Computer Vision: Attacks, Robustness, Safety, and Beyond", 2026.
 - **Consulting Area Editor**, [IEEE Transactions on Information Forensics and Security](https://signalprocessingsociety.org/publications-resources/ieee-transactions-information-forensics-and-security/editorial-board): 2025-present.
 - **Associate Editor**, [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition/about/editorial-board): 2025-present.
 - **Action Editor**, [Transactions on Machine Learning Research](https://jmlr.org/tmlr/editorial-board.html): 2026-present.
