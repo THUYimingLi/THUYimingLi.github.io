@@ -18,6 +18,8 @@ redirect_from:
 
 
 ## Invited Talks
+* Auditing the Unseen: Dataset Ownership Verification from Principles to Visual Generative Models. ECCV Workshop on Life-Cycle Intellectual Property Governance of Visual Generative Models (LifeGenIP), Malmö, Sweden, 2026/09/08. [[Slides]](https://www.dropbox.com/scl/fi/irjiggkt5akyw20cgehy8/ECCV_LifeGenIP_Talk_final.pdf?rlkey=scib1i6ihubka9580jxfbx290&st=zxzdbhsp&dl=0)
+
 * From Devil to Angel: Backdoor Attacks for Data Copyright Protection. Zhejiang Gongshang University (online), 2025/09/05. [[Slides]](https://www.dropbox.com/scl/fi/6aaxvjvwbqgsdzfqth5wj/Talk_YimingLi_20250905.pdf?rlkey=8yx663m8gk6s61r0k8id4i25p&st=9j0c5z0f&dl=0)
 
 * Towards Dataset Copyright Auditing via Ownership Verification. Xi'an Jiaotong University (online), 2025/01/07. [[Slides]](https://www.dropbox.com/scl/fi/2iw4w5gn75lzzh6nt3l1y/Talk_YimingLi_20250107.pdf?rlkey=ipi7gpp5ob1cxcqg92h6gsw4x&st=2rnmawkm&dl=0)
