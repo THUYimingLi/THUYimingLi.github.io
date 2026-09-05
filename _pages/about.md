@@ -39,6 +39,7 @@ I am currently a Research Fellow at Nanyang Technological University, working wi
 ## News
 <div style="max-height: 250px; overflow-y: auto;">
 <ul>
+  <li>08/2026: One paper about Multi-Target Backdoor Attacks against VLMs received the Best Paper Nomination Award at the DDL 2.0 Workshop @ IJCAI 2026.</li>
   <li>08/2026: One paper about Copyright Auditing of Agent Skills is accepted by CCS 2026.</li>
   <li>08/2026: I will serve as a Guest Editor for the IEEE TPAMI Special Issue on "Trustworthy AI in Pattern Recognition and Computer Vision: Attacks, Robustness, Safety, and Beyond". The Call for Papers will be available soon.</li>
   <li>08/2026: Our <a href="https://leaderboard.far.ai/">AI Security Leaderboard</a> for frontier AI models' safeguards (with FAR.AI) is released, along with its <a href="https://arxiv.org/abs/2608.03070">Technical Report</a>. Media coverage: <a href="https://www.wired.com/story/jailbreaking-ai-models-google-anthropic-openai-spacexai/">WIRED</a>.</li>
