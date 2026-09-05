@@ -7,6 +7,7 @@ redirect_from:
 ---
 * Forbes 30 Under 30 Asia, 2026.
 * Champion (with the Team 'KVeil'), [ECCV Competition for Unlearnable Videos against Diffusion-based Customization](https://github.com/tmllab/ECCV26_LifeGenIP_starting_kit), 2026.
+* Best Paper Nomination Award, IJCAI DDL 2.0 Workshop, 2026.
 * Outstanding Area Chairs, CVPR, 2026.
 * Elsevier-Stanford World's Top 2% Scientists, 2025.
 * Notable Reviewer, International Conference on Learning Representations (ICLR), 2025.
