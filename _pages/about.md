@@ -43,6 +43,7 @@ I am currently a Research Fellow at Nanyang Technological University, working wi
   <li>08/2026: I will serve as a Guest Editor for the IEEE TPAMI Special Issue on "Trustworthy AI in Pattern Recognition and Computer Vision: Attacks, Robustness, Safety, and Beyond". The Call for Papers will be available soon.</li>
   <li>08/2026: Our <a href="https://leaderboard.far.ai/">AI Security Leaderboard</a> for frontier AI models' safeguards (with FAR.AI) is released, along with its <a href="https://arxiv.org/abs/2608.03070">Technical Report</a>. Media coverage: <a href="https://www.wired.com/story/jailbreaking-ai-models-google-anthropic-openai-spacexai/">WIRED</a>.</li>
   <li>08/2026: Our team KVeil won the Champion in both the preliminary and final phases of the LifeGenIP Challenge: Unlearnable Videos against Diffusion-based Customization @ ECCV 2026! Our technical report will be available soon. </li>
+  <li>08/2026: I am invited to serve as the Area Chair for ICLR 2027. </li>
   <li>08/2026: One paper about Multi-Target Backdoor Attacks against VLMs received the Best Paper Nomination Award at the DDL 2.0 Workshop @ IJCAI 2026.</li>
   <li>07/2026: One paper about Bit-flip Inference Cost Attack against LLMs is accepted by ICCAD 2026.</li>
   <li>06/2026: I am invited to serve as the Technical Program Committee for USENIX Security 2027.</li>
