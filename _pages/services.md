@@ -23,7 +23,7 @@ redirect_from:
 * European Symposium on Security and Privacy (**EuroS&P**): 2026.
 * IEEE Conference on Secure and Trustworthy Machine Learning (**SaTML**): 2026.
 
-* Conference on Computer Vision and Pattern Recognition (**CVPR**): 2022-2024, 2026 (Area Chair).
+* Conference on Computer Vision and Pattern Recognition (**CVPR**): 2022-2024, 2026-2027 (Area Chair).
 * International Conference on Computer Vision (**ICCV**): 2021.
 * European Conference on Computer Vision (**ECCV**): 2022, 2024.
 
