@@ -6,10 +6,10 @@ redirect_from:
   - /awards
 ---
 * Forbes 30 Under 30 Asia, 2026.
+* Elsevier-Stanford World's Top 2% Scientists, 2024/2025/2026.
 * Champion (with the Team 'KVeil'), [ECCV Competition for Unlearnable Videos against Diffusion-based Customization](https://github.com/tmllab/ECCV26_LifeGenIP_starting_kit), 2026.
 * Best Paper Nomination Award, IJCAI DDL 2.0 Workshop, 2026.
 * Outstanding Area Chairs, CVPR, 2026.
-* Elsevier-Stanford World's Top 2% Scientists, 2025.
 * Notable Reviewer, International Conference on Learning Representations (ICLR), 2025.
 * Excellent Science & Technology Papers (<font color='red'>3/100</font>), Shenzhen Association for Science and Technology, 2024. 
 * Champion (with the Team 'W0r1d 0ne'), Track III: Backdoor Trigger Recovery for Agents, [NeurIPS Competition for LLM and Agent Safety](https://openreview.net/forum?id=GIDw94AlZK), 2024.
