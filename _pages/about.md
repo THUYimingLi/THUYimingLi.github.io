@@ -39,6 +39,7 @@ I am currently a Research Fellow at Nanyang Technological University, working wi
 ## News
 <div style="max-height: 250px; overflow-y: auto;">
 <ul>
+  <li>10/2026: I am invited to serve as the Area Chair for ICML 2027. </li>
   <li>09/2026: One paper about Text/Document Watermarking is accepted by NeurIPS 2026.</li>
   <li>09/2026: I am invited to serve as the Area Chair for CVPR 2027. </li>
   <li>09/2026: One paper about Certified Dataset Copyright Auditing is accepted by IEEE TPAMI.</li>
