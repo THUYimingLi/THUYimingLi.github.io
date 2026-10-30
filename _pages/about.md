@@ -10,15 +10,6 @@ redirect_from:
 
 
 
-## Biography
-I am currently a Research Fellow at Nanyang Technological University, working with Prof. [Dacheng Tao](https://scholar.google.fr/citations?user=RwlJNLcAAAAJ&hl=en&oi=ao) and previously with Prof. [Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/). Prior to this, I was a tenure-track Research Professor at Zhejiang University, where I received the Outstanding Junior Faculty Award (Qizhen Outstanding Young Scholar). I received my Ph.D. degree with honors in Computer Science and Technology from Tsinghua University, advised by Prof. [Yong Jiang](https://www.sigs.tsinghua.edu.cn/jy/main.htm) and Prof. [Shu-Tao Xia](https://www.sigs.tsinghua.edu.cn/xst/main.htm), and my B.S. degree with honors in Applied Mathematics from Ningbo University (Yangming Innovation Class), where I was advised by Prof. [Lifeng Xi](http://math.nbu.edu.cn/info/1046/1098.htm). During my Ph.D., I also collaborated closely with Dr. [Zhifeng Li](https://scholar.google.fr/citations?user=VTrRNN4AAAAJ&hl=zh-CN) at Tencent and Prof. [Bo Li](https://scholar.google.com/citations?user=K8vJkTcAAAAJ&hl=en), then at UIUC.
-
-**My research centers on Responsible AI and Technical AI Governance**, especially **AI Risk Management and AI Copyright Protection**. My long-term goal is to **advance the responsible and sustainable development of AI models and systems, ultimately benefiting both society and humanity**. Building on my work on specialized models, my current research increasingly focuses on **Trustworthy Generative and Autonomous AI**, including LLMs, diffusion models and AI agents, with embodied AI as an emerging frontier. Alongside this work, I am exploring AI-driven social simulation and the sociotechnical dimensions of AI trustworthiness, including how users perceive, interpret and respond to the security and authenticity signals produced by technical systems.
-
-I seek **simple yet effective methods grounded in deep insights and theoretical support**, spanning proactive risk sensing, full-stack risk mitigation and verifiable ownership attribution. I also place strong emphasis on **translating research into real-world impact**, through the industrial deployment of auditing and defense tools, contributions to AI standards, and engagement with AI governance.
-
-
-
 <p>
   <strong style="color: #c62828;">Call for Papers:</strong>
   We welcome submissions to our IEEE TPAMI Special Issue on
@@ -28,6 +19,16 @@ I seek **simple yet effective methods grounded in deep insights and theoretical 
   <strong>The submission deadline is 1 March 2027.</strong>
   <a href="https://tpami-trustworthy-ai-si.github.io/"><strong>[View CFP]</strong></a>
 </p>
+
+
+
+## Biography
+I am currently a Research Fellow at Nanyang Technological University, working with Prof. [Dacheng Tao](https://scholar.google.fr/citations?user=RwlJNLcAAAAJ&hl=en&oi=ao) and previously with Prof. [Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/). Prior to this, I was a tenure-track Research Professor at Zhejiang University, where I received the Outstanding Junior Faculty Award (Qizhen Outstanding Young Scholar). I received my Ph.D. degree with honors in Computer Science and Technology from Tsinghua University, advised by Prof. [Yong Jiang](https://www.sigs.tsinghua.edu.cn/jy/main.htm) and Prof. [Shu-Tao Xia](https://www.sigs.tsinghua.edu.cn/xst/main.htm), and my B.S. degree with honors in Applied Mathematics from Ningbo University (Yangming Innovation Class), where I was advised by Prof. [Lifeng Xi](http://math.nbu.edu.cn/info/1046/1098.htm). During my Ph.D., I also collaborated closely with Dr. [Zhifeng Li](https://scholar.google.fr/citations?user=VTrRNN4AAAAJ&hl=zh-CN) at Tencent and Prof. [Bo Li](https://scholar.google.com/citations?user=K8vJkTcAAAAJ&hl=en), then at UIUC.
+
+**My research centers on Responsible AI and Technical AI Governance**, especially **AI Risk Management and AI Copyright Protection**. My long-term goal is to **advance the responsible and sustainable development of AI models and systems, ultimately benefiting both society and humanity**. Building on my work on specialized models, my current research increasingly focuses on **Trustworthy Generative and Autonomous AI**, including LLMs, diffusion models and AI agents, with embodied AI as an emerging frontier. Alongside this work, I am exploring AI-driven social simulation and the sociotechnical dimensions of AI trustworthiness, including how users perceive, interpret and respond to the security and authenticity signals produced by technical systems.
+
+I always seek **simple yet effective methods grounded in deep insights and theoretical support**, spanning proactive risk sensing, full-stack risk mitigation and verifiable ownership attribution. I also place strong emphasis on **translating research into real-world impact**, through the industrial deployment of auditing and defense tools, contributions to AI standards, and engagement with AI governance.
+
 
 
 ## Selected Research
