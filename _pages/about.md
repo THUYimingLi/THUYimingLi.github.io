@@ -12,7 +12,7 @@ redirect_from:
 
 <p>
   <strong style="color: #c62828;">Call for Papers:</strong>
-  We welcome submissions to our [<a href="https://tpami-trustworthy-ai-si.github.io/"><strong>IEEE TPAMI</strong></a> Special Issue on
+  We welcome submissions to our <a href="https://tpami-trustworthy-ai-si.github.io/"><strong>IEEE TPAMI</strong></a> Special Issue on
   <a href="https://tpami-trustworthy-ai-si.github.io/"><strong>Trustworthy AI in Pattern Recognition and Computer Vision: Attacks, Robustness, Safety, and Beyond</strong></a>.
   <strong>Submissions are now open</strong> and are handled on a rolling basis.
   Original research articles, extended conference papers, and survey articles within the scope of the special issue are welcome.
