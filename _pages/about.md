@@ -12,12 +12,12 @@ redirect_from:
 
 <p>
   <strong style="color: #c62828;">Call for Papers:</strong>
-  We welcome submissions to our <a href="https://tpami-trustworthy-ai-si.github.io/"><strong>IEEE TPAMI</strong></a> Special Issue on
-  <a href="https://tpami-trustworthy-ai-si.github.io/"><strong>Trustworthy AI in Pattern Recognition and Computer Vision: Attacks, Robustness, Safety, and Beyond</strong></a>.
+  We welcome submissions to our <a href="[https://tpami-trustworthy-ai-si.github.io/](https://www.computer.org/digital-library/journals/tp/cfp-ai-pattern-recognition-safety)"><strong>IEEE TPAMI</strong></a> Special Issue on
+  <a href="https://www.computer.org/digital-library/journals/tp/cfp-ai-pattern-recognition-safety"><strong>Trustworthy AI in Pattern Recognition and Computer Vision: Attacks, Robustness, Safety, and Beyond</strong></a>.
   <strong>Submissions are now open</strong> and are handled on a rolling basis.
   Original research articles, extended conference papers, and survey articles within the scope of the special issue are welcome.
   <strong>The submission deadline is 1 March 2027.</strong>
-  <a href="https://tpami-trustworthy-ai-si.github.io/"><strong>[View CFP]</strong></a>
+  <a href="https://www.computer.org/digital-library/journals/tp/cfp-ai-pattern-recognition-safety"><strong>[View CFP]</strong></a>
 </p>
 
 
@@ -58,7 +58,7 @@ My research advances **Responsible AI Development** through two interconnected p
 <div style="max-height: 250px; overflow-y: auto;">
 <ul>
   <li>11/2026: One paper about Benchmarking Prompt Injection against Web Agents is accepted by KDD 2027 (D&B Track).</li>
-  <li>10/2026: Submissions are now open for our IEEE TPAMI Special Issue on "<a href="https://tpami-trustworthy-ai-si.github.io/"><strong>Trustworthy AI in Pattern Recognition and Computer Vision: Attacks, Robustness, Safety, and Beyond</strong></a>". <strong>Submission deadline: 1 March 2027.</strong></li>
+  <li>10/2026: Submissions are now open for our IEEE TPAMI Special Issue on "<a href="https://www.computer.org/digital-library/journals/tp/cfp-ai-pattern-recognition-safety"><strong>Trustworthy AI in Pattern Recognition and Computer Vision: Attacks, Robustness, Safety, and Beyond</strong></a>". <strong>Submission deadline: 1 March 2027.</strong></li>
   <li>10/2026: I am invited to serve as the Area Chair for ICML 2027. </li>
   <li>09/2026: One paper about Text/Document Watermarking is accepted by NeurIPS 2026.</li>
   <li>09/2026: I am invited to serve as the Area Chair for CVPR 2027. </li>
