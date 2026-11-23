@@ -32,7 +32,7 @@ redirect_from:
 * ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**): 2026-2027 (Area Chair, Datasets and Benchmark Track).
 
 * Annual AAAI Conference on Artificial Intelligence (**AAAI**): 2019-2021, 2022 (Senior PC), 2026 (Senior PC).
-* International Joint Conferences on Artificial Intelligence (**IJCAI**): 2021-2023, 2025-2026 (Senior PC).
+* International Joint Conferences on Artificial Intelligence (**IJCAI**): 2021-2023, 2025-2026 (Senior PC), 2027 (Area Chair).
 
 * International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**): 2021-2022, 2024, 2026 (Area Chair).
 * International Conference on Artificial Intelligence and Statistics (**AISTATS**): 2021.
