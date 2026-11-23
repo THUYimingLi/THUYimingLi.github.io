@@ -57,6 +57,7 @@ My research advances **Responsible AI Development** through two interconnected p
 ## News
 <div style="max-height: 250px; overflow-y: auto;">
 <ul>
+  <li>11/2026: I am invited to serve as the Area Chair for IJCAI 2027. </li>
   <li>11/2026: One paper about Benchmarking Prompt Injection against Web Agents is accepted by KDD 2027 (D&B Track).</li>
   <li>10/2026: Submissions are now open for our IEEE TPAMI Special Issue on "<a href="https://www.computer.org/digital-library/journals/tp/cfp-ai-pattern-recognition-safety"><strong>Trustworthy AI in Pattern Recognition and Computer Vision: Attacks, Robustness, Safety, and Beyond</strong></a>". <strong>Submission deadline: 1 March 2027.</strong></li>
   <li>10/2026: I am invited to serve as the Area Chair for ICML 2027. </li>
