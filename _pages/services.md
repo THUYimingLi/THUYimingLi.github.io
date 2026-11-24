@@ -35,8 +35,6 @@ redirect_from:
 * International Joint Conferences on Artificial Intelligence (**IJCAI**): 2021-2023, 2025-2026 (Senior PC), 2027 (Area Chair).
 
 * International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**): 2021-2022, 2024, 2026-2027 (Area Chair).
-* International Conference on Artificial Intelligence and Statistics (**AISTATS**): 2021.
-* International Conference on Neural Information Processing (**ICONIP**): 2020-2022.
 * NeurIPS Workshop on Robustness of Few-shot and Zero-shot Learning in Foundation Models: 2023 (Area Chair).
   
 
