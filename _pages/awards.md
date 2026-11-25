@@ -5,6 +5,7 @@ permalink: /awards/
 redirect_from:
   - /awards
 ---
+* Young Author Best Paper Award, IEEE Signal Processing Society, 2026.
 * Forbes 30 Under 30 Asia, 2026.
 * Elsevier-Stanford World's Top 2% Scientists, 2024/2025/2026.
 * Champion (with the Team 'KVeil'), [ECCV Competition for Unlearnable Videos against Diffusion-based Customization](https://github.com/tmllab/ECCV26_LifeGenIP_starting_kit), 2026.
