@@ -57,7 +57,7 @@ My research advances **Responsible AI Development** through two interconnected p
 ## News
 <div style="max-height: 250px; overflow-y: auto;">
 <ul>
-  <li>11/2026: Mingyan Zhu and I were selected for the 2026 IEEE SPS Young Author Best Paper Award for our TIFS paper [Black-box Dataset Ownership Verification via Backdoor Watermarking](https://www.researchgate.net/publication/369559541_Black-box_Dataset_Ownership_Verification_via_Backdoor_Watermarking). </li>
+<li>11/2026: Mingyan Zhu and I were selected for the <strong>2026 IEEE SPS Young Author Best Paper Award</strong> for our IEEE TIFS paper "<a href="https://www.researchgate.net/publication/369559541_Black-box_Dataset_Ownership_Verification_via_Backdoor_Watermarking">Black-box Dataset Ownership Verification via Backdoor Watermarking</a>".</li>
   <li>11/2026: I am invited to serve as the Area Chair for IJCAI 2027. </li>
   <li>11/2026: One paper about Benchmarking Prompt Injection against Web Agents is accepted by KDD 2027 (D&B Track).</li>
   <li>10/2026: Submissions are now open for our IEEE TPAMI Special Issue on "<a href="https://www.computer.org/digital-library/journals/tp/cfp-ai-pattern-recognition-safety"><strong>Trustworthy AI in Pattern Recognition and Computer Vision: Attacks, Robustness, Safety, and Beyond</strong></a>". <strong>Submission deadline: 1 March 2027.</strong></li>
